@@ -1,0 +1,11 @@
+---
+layout: project
+title: Outerworld Image
+type: game
+category: project
+tags: [Unity, C#]
+roles: [Programming, Art]
+image: outerworld-image-sm.jpg
+exturl: https://wickedly.itch.io/outerworld-image
+---
+An exploration and photography game made with a small group of friends in our free time. Featured in [Rock, Paper, Shotgun](https://www.rockpapershotgun.com/2016/08/13/best-free-games-of-the-week-28/).
