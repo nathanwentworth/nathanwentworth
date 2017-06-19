@@ -1,30 +1,13 @@
 ---
 layout: default
 ---
-<div id='desc' class="bio">
-  <!-- <img src="/assets/img/logo-final.svg"> -->
-
-  <!-- {{ content }} -->
-
-  <h1 class="center title">nathan wentworth</h1>
-
-  {% if page.links %}
-  <ul style="text-align: center;">
-    {% for link in page.links %}
-      <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-  <div id="hr"></div>
-</div>
-
 <div class="right-col">
   <div class="projects">
     {% for post in site.posts %}
       <div class="project-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}" data-roles="{{ post.roles | join:' ' }}">
-        <a href="{{ post.exturl }}" target="_blank">
+        <a href="{{ post.exturl }}" rel="noopener" target="_blank">
           {% if post.image contains '.jpg' or post.image contains '.png' or post.image contains '.gif' %}
-            <img src="/assets/img/{{ post.image }}">
+            <img src="/assets/img/{{ post.image }}" alt="{{ post.title }}">
           {% elsif post.image contains '.mp4' %}
             <video autoplay playsinline loop>
               <source src="/assets/img/{{ post.image }}" type="video/mp4">

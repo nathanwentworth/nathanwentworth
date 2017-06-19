@@ -1,0 +1,16 @@
+<div id='desc' class="bio">
+  <!-- <img src="/assets/img/logo-final.svg"> -->
+
+  <!-- {{ content }} -->
+
+  <a href="/"><h1 class="center title">nathan wentworth</h1></a>
+
+  {% if site.links %}
+  <ul style="text-align: center;">
+    {% for link in site.links %}
+      <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  <div id="hr"></div>
+</div>

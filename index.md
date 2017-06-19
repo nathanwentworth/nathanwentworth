@@ -1,11 +1,5 @@
 ---
 layout: gallery
-links:
-  'about': '/about/'
-  'twitter': 'https://twitter.com/nathanwentworth'
-  'github': 'https://github.com/nathanwentworth'
-  'itch.io': 'https://nathanwentworth.itch.io'
-  'ヾ(＠⌒ー⌒＠)ノ': '/'
 ---
 
 I'm Nathan Wentworth! I make video games and websites. I know: C#, HTML, CSS/SCSS, JavaScript/JQuery, Jekyll/Liquid. [More about me](/about/).

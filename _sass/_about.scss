@@ -2,14 +2,12 @@ body.about {
   // background-image: url('/assets/patterns/pattern-02.png');
 }
 
-.about {
+.main-container.about {
 
-  .main-container {
-    display: flex;
-    flex-direction: column;
-    margin: auto;
-    min-height: 100vh;
-  }
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  min-height: 100vh;
 
   .main-container div {
     width: 100%;
@@ -24,49 +22,55 @@ body.about {
     max-width: 400px;
     margin: auto;
   }
-  .main-container div p:nth-child(2) {
-    margin-top: -3rem;
-  }
   .main-container div img {
     width: 90%;
     max-width: 400px;
     display: block;
     margin: auto;
+    border-radius: 3px;
   }
   h1.name {
-    position: relative;
+    // position: absolute;
     line-height: 100%;
     bottom: 3em;
-    font-size: 3em;
+    font-size: 2.5em;
+    background: #fff;
+    padding: 16px;
+    box-sizing: border-box;
+    border-radius: 3px;
+    margin: 0;
   }
   .center {
     text-align: center;
   }
 
-  @media only screen and (min-width: 900px) {
-    .main-container div p:nth-child(2) {
-      margin-top: 0;
-    }
-    .main-container {
-      flex-direction: row;
-    }
-    .main-container div {
+  }
+
+@media only screen and (min-width: 900px) {
+  .main-container.about {
+    flex-direction: row;
+
+    div {
       width: 50%;
     }
-    .main-container div img {
+    div p:nth-child(2) {
+      margin-top: 0;
+    }
+    div img {
       max-width: 90%;
       display: block;
       margin-left: auto;
       margin-right: 32px;
     }
-    h1.name {
-      position: relative;
-      top: 0;
-      left: -6em;
-      font-size: 3em;
-      width: 100%;
-    }
   }
 
+  h1.name {
+    text-align: center;
+    position: relative;
+    top: 0;
+    // right: -6em;
+    font-size: 3em;
+    width: 100%;
+  }
 
 }
