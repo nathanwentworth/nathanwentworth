@@ -1,6 +1,7 @@
 
 * {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 ::-moz-selection { background:#7085ff; color: $bg-color; text-shadow: none;}
@@ -9,7 +10,7 @@
 body {
   width: 100%;
   background: $bg-color;
-  // background-image: url('/assets/patterns/pattern-02.png');
+  /* background-image: url('/assets/patterns/pattern-02.png');*/
   background-attachment: fixed;
   color: $txt-color;
   font-family: 'Work Sans', sans-serif;
@@ -40,7 +41,7 @@ p { width: 100%; }
   margin-bottom: 16px;
   width: 90%;
   height: 2px;
-  background: -webkit-linear-gradient(left, $blue, $pink);
+  background: -webkit-gradient(linear, left top, right top, from($blue), to($pink));
   background: linear-gradient(to right, $blue, $pink);
 }
 
@@ -49,7 +50,7 @@ p { width: 100%; }
   height: auto;
   max-height: 100%;
   max-width: 100%;
-  // margin: auto;
+  /* margin: auto;*/
   float: right;
   display: block;
   opacity: 0;
@@ -109,7 +110,9 @@ a:hover, a:active {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-flow: row wrap;
-      flex-flow: row wrap;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+          flex-flow: row wrap;
 }
 
 .projects a p:nth-child(2) {
@@ -141,7 +144,7 @@ a:hover, a:active {
 }
 
 .project-item .tag span {
-  // padding: 4px;
+  /* padding: 4px;*/
   border-bottom: 1px solid $blue;
   cursor: default;
   line-height: 2;
@@ -206,22 +209,23 @@ a:hover, a:active {
 
 
 @media only screen and (min-width: 440px) {
-  // .bio {
-  //   position: fixed;
-  //   margin-left: 16px;
-  //   max-width: 400px;
-  // }
+  /* .bio {*/
+  /*   position: fixed;*/
+  /*   margin-left: 16px;*/
+  /*   max-width: 400px;*/
+  /* }*/
 
-  // .right-col {
-  //   margin-right: 16px;
-  //   max-width: calc(100% - 440px);
-  //   float:right;
-  // }
+  /* .right-col {*/
+  /*   margin-right: 16px;*/
+  /*   max-width: calc(100% - 440px);*/
+  /*   float:right;*/
+  /* }*/
 
   .project-item {
     width: calc(50% - 16px);
     margin: 8px;
     -ms-flex-basis: calc(50% - 16px);
+        -ms-flex-preferred-size: calc(50% - 16px);
         flex-basis: calc(50% - 16px);
     -ms-flex-negative: 0;
         flex-shrink: 0;
@@ -233,22 +237,23 @@ a:hover, a:active {
 }
 
 @media only screen and (min-width: 880px) {
-  // .bio {
-  //   position: fixed;
-  //   margin-left: 16px;
-  //   max-width: 400px;
-  // }
+  /* .bio {*/
+  /*   position: fixed;*/
+  /*   margin-left: 16px;*/
+  /*   max-width: 400px;*/
+  /* }*/
 
-  // .right-col {
-  //   margin-right: 16px;
-  //   max-width: calc(100% - 440px);
-  //   float:right;
-  // }
+  /* .right-col {*/
+  /*   margin-right: 16px;*/
+  /*   max-width: calc(100% - 440px);*/
+  /*   float:right;*/
+  /* }*/
 
   .project-item {
     width: calc((100% / 3) - 16px);
     margin: 8px;
     -ms-flex-basis: calc((100% / 3) - 16px);
+        -ms-flex-preferred-size: calc((100% / 3) - 16px);
         flex-basis: calc((100% / 3) - 16px);
     -ms-flex-negative: 0;
         flex-shrink: 0;
@@ -365,12 +370,34 @@ a:hover, a:active {
   }
 }
 
-@keyframes slide-up-project {
+@-webkit-keyframes slide-up-project {
   0% {
-    transform: translateY(16px);
+    -webkit-transform: translateY(16px);
+            transform: translateY(16px);
   }
   100% {
-    transform: translateY(0);
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+
+@keyframes slide-up-project {
+  0% {
+    -webkit-transform: translateY(16px);
+            transform: translateY(16px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+
+@-webkit-keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
   }
 }
 

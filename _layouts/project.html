@@ -2,4 +2,12 @@
 layout: default
 ---
 
+<div class="main-container project">
+
+<h1>{{ page.title }}</h1>
+<div><b>Made with:</b> {{ page.tags | join:', ' }}</div>
+<div><b>Role:</b> {{ page.roles | join:', ' }}</div>
+
 {{ content }}
+
+</div>

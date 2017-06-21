@@ -7,7 +7,7 @@ layout: default
       <div class="project-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}" data-roles="{{ post.roles | join:' ' }}">
         <a href="{{ post.exturl }}" rel="noopener" target="_blank">
           {% if post.image contains '.jpg' or post.image contains '.png' or post.image contains '.gif' %}
-            <img src="/assets/img/{{ post.image }}" alt="{{ post.title }}">
+            <img src="/assets/img/home/{{ post.image }}" alt="{{ post.title }}">
           {% elsif post.image contains '.mp4' %}
             <video autoplay playsinline loop>
               <source src="/assets/img/{{ post.image }}" type="video/mp4">

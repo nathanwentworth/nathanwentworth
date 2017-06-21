@@ -1,28 +1,35 @@
 body.about {
-  // background-image: url('/assets/patterns/pattern-02.png');
+  /* background-image: url('/assets/patterns/pattern-02.png');*/
 }
 
 .main-container.about {
 
+  display: -webkit-box;
+
+  display: -ms-flexbox;
+
   display: flex;
-  flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
   margin: auto;
   min-height: 100vh;
 
-  .main-container div {
+  div {
     width: 100%;
   }
-  .main-container div p {
+  div p {
     width: 90%;
     margin: 16px auto;
   }
 
-  .main-container .right ul, .main-container .right h3 {
+  .right ul, .right h3 {
     width: 90%;
     max-width: 400px;
     margin: auto;
   }
-  .main-container div img {
+  div img {
     width: 90%;
     max-width: 400px;
     display: block;
@@ -30,13 +37,14 @@ body.about {
     border-radius: 3px;
   }
   h1.name {
-    // position: absolute;
+    /* position: absolute;*/
     line-height: 100%;
     bottom: 3em;
     font-size: 2.5em;
     background: #fff;
     padding: 16px;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
     border-radius: 3px;
     margin: 0;
   }
@@ -48,7 +56,10 @@ body.about {
 
 @media only screen and (min-width: 900px) {
   .main-container.about {
-    flex-direction: row;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
 
     div {
       width: 50%;
@@ -68,7 +79,7 @@ body.about {
     text-align: center;
     position: relative;
     top: 0;
-    // right: -6em;
+    /* right: -6em;*/
     font-size: 3em;
     width: 100%;
   }
