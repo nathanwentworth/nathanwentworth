@@ -7,3 +7,8 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+
+animations/
+cameraroll/
+deck-dungeon/
+draw/

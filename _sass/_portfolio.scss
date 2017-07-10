@@ -105,6 +105,10 @@ a:hover, a:active {
   display: inline;
 }
 
+#kaomoji {
+  cursor: default;
+}
+
 .projects {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -140,7 +144,7 @@ a:hover, a:active {
 .project-item img, .project-item video {
   width: 100%;
   height: auto;
-  border-radius: 3px;
+  border-radius: 4px;
 }
 
 .project-item .tag span {

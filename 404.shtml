@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<style type="text/css">
+  .err * {
+    text-align: center !important;
+    margin: auto;
+  }
+</style>
+
+<div class="err">
+  <h1>404</h1>
+  <h2>sorry! looks like this page doesn't exist</h2>
+  <h2><a href="/">go home</a></h2>
+</div>

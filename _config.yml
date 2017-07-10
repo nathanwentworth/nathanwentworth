@@ -1,7 +1,6 @@
 title: nathan wentworth
 email: me@nathanwentworth.co
-description: > # this means to ignore newlines until "baseurl:"
-  nathan wentworth - web + game dev
+description: "nathan wentworth - web + game dev"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nathanwentworth.co" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nathanwentworth
@@ -14,7 +13,6 @@ links:
   'twitter': 'https://twitter.com/nathanwentworth'
   'github': 'https://github.com/nathanwentworth'
   'itch.io': 'https://nathanwentworth.itch.io'
-  'ヾ(＠⌒ー⌒＠)ノ': '/'
 
 # Build settings
 markdown: kramdown
