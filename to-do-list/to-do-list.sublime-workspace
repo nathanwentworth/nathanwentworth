@@ -1,0 +1,1371 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"child",
+				"children	.children()"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"slide",
+				"slideUp	.slideUp()"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"fadeOut",
+				"fadeOut"
+			],
+			[
+				"fadeIn",
+				"fadeIn"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"new",
+				"newRotation"
+			],
+			[
+				"mouse",
+				"mousePosition"
+			],
+			[
+				"Wa",
+				"Wait"
+			],
+			[
+				"Star",
+				"StartCoroutine"
+			],
+			[
+				"Wai",
+				"WaitForSeconds"
+			],
+			[
+				"timer",
+				"timerScript"
+			],
+			[
+				"get",
+				"getScore2"
+			],
+			[
+				"q",
+				"qPress"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"w",
+				"worldofthanks"
+			],
+			[
+				"winter",
+				"winterwonderland"
+			],
+			[
+				"berar",
+				"bearyhappybirthday"
+			],
+			[
+				"harb",
+				"harborsidetreasure600s"
+			],
+			[
+				"coff",
+				"coffeebreak"
+			],
+			[
+				"all",
+				"allaboutautumn"
+			],
+			[
+				"lavn",
+				"lavenderspa"
+			],
+			[
+				"holidays",
+				"holidaysweetstower600s"
+			],
+			[
+				"gourm",
+				"gourmetdeskcaddy"
+			],
+			[
+				"gourmetc",
+				"gourmetconnoisseur"
+			],
+			[
+				"geng",
+				"gentlemanscigarchest"
+			],
+			[
+				"corpo",
+				"corporatefare"
+			],
+			[
+				"heart",
+				"hearttoheart"
+			],
+			[
+				"gourmet",
+				"gourmetencore"
+			],
+			[
+				"sugar",
+				"sugarfree"
+			],
+			[
+				"wellness",
+				"wellnesswishes"
+			],
+			[
+				"grand",
+				"granditalian"
+			],
+			[
+				"bona",
+				"bonappetit"
+			],
+			[
+				"kosherg",
+				"koshergourmet"
+			],
+			[
+				"holiday",
+				"holidayhamper"
+			],
+			[
+				"golden",
+				"goldengatherings"
+			],
+			[
+				"bounti",
+				"bountifulfavorites"
+			],
+			[
+				"laven",
+				"lavenderspa"
+			],
+			[
+				"spada",
+				"spaday"
+			],
+			[
+				"gourmetdesk",
+				"gourmetdeskcaddy"
+			],
+			[
+				"caram",
+				"carmelspatreasureschest600s"
+			],
+			[
+				"gourme",
+				"gourmetdeskcaddy600s"
+			],
+			[
+				"wellne",
+				"wellnesswishes"
+			],
+			[
+				"travel",
+				"travelinggourmet"
+			],
+			[
+				"teaem",
+				"teaenlightenment"
+			],
+			[
+				"choco",
+				"chocolatedelights"
+			],
+			[
+				"teaen",
+				"teaenlightenment"
+			],
+			[
+				"cho",
+				"chocolatedelights"
+			],
+			[
+				"fab",
+				"fabulousfall"
+			],
+			[
+				"small",
+				"smallsleigh600s"
+			],
+			[
+				"seas",
+				"seasonssleigh600s"
+			],
+			[
+				"boun",
+				"bountifulblessings600s"
+			],
+			[
+				"sug",
+				"sugarfreetreats600s"
+			],
+			[
+				"gift",
+				"giftboxhappybirthday600s"
+			],
+			[
+				"baby",
+				"babywelcomebassinet600s"
+			],
+			[
+				"bath",
+				"bathtime600s"
+			],
+			[
+				"gou",
+				"gourmetconnoisseur600s"
+			],
+			[
+				"gour",
+				"gourmetencore600s"
+			],
+			[
+				"trave",
+				"travelinggourmet600s"
+			],
+			[
+				"gorme",
+				"gourmetencore600s"
+			],
+			[
+				"fabu",
+				"fabulousfall600s"
+			],
+			[
+				"cup",
+				"cupofjoe"
+			],
+			[
+				"gorume",
+				"gourmetencore"
+			],
+			[
+				"bount",
+				"bountifulfavorites"
+			],
+			[
+				"heat",
+				"hearthhamper"
+			],
+			[
+				"tea",
+				"teaenlightenments"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"scr",
+				"src	Attr"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"onkey",
+				"onkeypress	Attr"
+			],
+			[
+				"colo",
+				"colorarray"
+			],
+			[
+				"c",
+				"colorcyclerand"
+			],
+			[
+				"color",
+				"colorarrayfull"
+			],
+			[
+				"onm",
+				"onmouseout	Attr"
+			],
+			[
+				"butt",
+				"buttoncolor"
+			],
+			[
+				"circle",
+				"circlearray"
+			],
+			[
+				"g",
+				"getElementsByTagName"
+			],
+			[
+				"col",
+				"colorarray"
+			],
+			[
+				"trasn",
+				"translateY"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"top",
+				"toppoint"
+			],
+			[
+				"eye",
+				"eyeLeft"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sp",
+				"spawnMax"
+			],
+			[
+				"span",
+				"spawnMin"
+			],
+			[
+				"win",
+				"win"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1017,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 1669,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts.js",
+			"settings":
+			{
+				"buffer_size": 2490,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"txt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markd",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdo",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"markdown user",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"markdown set",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"markdown sett",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"markdown se",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"ssmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pc",
+				"Package Control: Enable Package"
+			],
+			[
+				"markdowned",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"ssjq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"liverel",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Enable Package"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 527.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nathan/Dropbox/web-files/personal/to-do-list"
+	],
+	"file_history":
+	[
+		"/Users/nathan/Dropbox/Web Files/old-projects/Interactive2/Week4/Week4_CSS.css",
+		"/Users/nathan/Dropbox/Web Files/personal/anime-list/style.css",
+		"/Users/nathan/Dropbox/Web Files/old-projects/Interactive2/Week4/Week4_JS.js",
+		"/Users/nathan/Dropbox/Web Files/personal/twitter/style.css",
+		"/Users/nathan/Dropbox/Web Files/personal/twitter/index.html",
+		"/Users/nathan/Dropbox/Web Files/personal/nathanwentworth/robot.txt",
+		"/Users/nathan/Dropbox/Web Files/personal/nathanwentworth/portfolio.html",
+		"/Users/nathan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nathan/Dropbox/Unity/Games/shenanigans/Assets/Scripts/attackp1.cs",
+		"/Users/nathan/Dropbox/Unity/extra_assets/sampletext.cs",
+		"/Users/nathan/Dropbox/Unity/Games/shenanigans/Assets/Scripts/advworkshop.sublime-project",
+		"/Users/nathan/Dropbox/Unity/Games/shenanigans/Assets/Scripts/collectionP1.cs",
+		"/Users/nathan/Dropbox/Unity/Games/shenanigans/Assets/Scripts/score2.cs",
+		"/Users/nathan/Dropbox/Unity/Games/shenanigans/Assets/Scripts/score.cs",
+		"/Users/nathan/Dropbox/Unity/Games/shenanigans/Assets/Scripts/collectionP2.cs",
+		"/Users/nathan/Dropbox/Unity/Games/shenanigans/Assets/Scripts/advworkshop.sublime-workspace",
+		"/Users/nathan/Dropbox/school/World-Civ/notes-2015-02-03",
+		"/Users/nathan/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/nathan/Dropbox/school/Lit/notes-2015-02-04",
+		"/Users/nathan/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/nathan/Dropbox/school/Adv-Game/gdd",
+		"/Users/nathan/Dropbox/school/World-Civ/notes-2015-01-29",
+		"/Users/nathan/Dropbox/Web Files/nathanwentworth/default.html",
+		"/Users/nathan/Dropbox/Unity/Games/2015_01_17-racing-game/Assets/Scripts/p2health.cs",
+		"/Users/nathan/Dropbox/Unity/Games/2015_01_17-racing-game/Assets/Scripts/p1health.cs",
+		"/Users/nathan/Dropbox/Unity/Games/2015_01_17-racing-game/Assets/Scripts/shooting.cs",
+		"/Users/nathan/Dropbox/Unity/Games/2015_01_17-racing-game/Assets/Scripts/movement.cs",
+		"/Users/nathan/Dropbox/school/Lit/notes-2015-01-26.txt",
+		"/Users/nathan/Dropbox/Web Files/nathanwentworth/svgtest.html",
+		"/Users/nathan/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/nathan/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/nathan/Dropbox/Web Files/blank_ntp/NTP_HTML_v2.html",
+		"/Users/nathan/Dropbox/Web Files/blank_ntp/NTP_CSSv1.css",
+		"/Users/nathan/Dropbox/Web Files/nathanwentworth/home.html",
+		"/Users/nathan/Dropbox/Web Files/TumblrCode/TumblrThemePages/tumblraboutmev4.html",
+		"/Users/nathan/Dropbox/Web Files/TumblrCode/TumblrThemePages/tumblraboutmeV5.html",
+		"/Users/nathan/Dropbox/Web Files/TumblrCode/sidebar-theme/sidebartheme.html",
+		"/Users/nathan/Dropbox/Unity/Games/RacingGame/Assets/Scripts/movement.cs",
+		"/Users/nathan/Dropbox/Web Files/berrylane/item/sophisticated-gourmet.html",
+		"/Users/nathan/Dropbox/Web Files/berrylane/item/little-cupids-valentine.html",
+		"/Users/nathan/Dropbox/Web Files/berrylane/item/californiafruitcheese.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/everyday.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/little-cupids-valentine.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/valentines-trio.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/sophisticated-gourmet.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/sweet-pea-spa.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/youre-a-star.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/seaside-spa.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/dear-valentine.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/bear-hugs-chocolate-valentines.html",
+		"/Users/nathan/Desktop/scoreScript.js",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/comfort-and-joy.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/holiday-farm-stand.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/grand-gatherings-gourmet.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/holiday-greetings.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/template.html",
+		"/Users/nathan/Dropbox/School/CSII/Chapter 11 Source Code/ExceptionExample1.java",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/bathdelights.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/style/itempage.css",
+		"/Users/nathan/Dropbox/Web Files/Snyder/scripts.js",
+		"/Users/nathan/Dropbox/Web Files/Snyder/style/shop.css",
+		"/Users/nathan/Dropbox/Web Files/Snyder/style/style.css",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/teatime.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/teaenlightenment.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/sweetsparkling.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/sugarfree.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/spaday.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/rxcarepackage.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/napavalley.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/merrychristmas.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/magnificentgourmet.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/lavenderspa.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/kosherwine.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/koshergourmet.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/kosherdelights.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/justdesserts.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/holidaysweets.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/holidaysleighs.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/holidaysleighl.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/holidayhamper.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/hearttoheart.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/heartfeltthankyou.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/healthandhappiness.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/harborside.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/happyholidayswine.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/happybirthday.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/happilyeverafter.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/granditalian.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/gourmetencore.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/gourmetdeskcaddy.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/gourmetconnoisseur.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/gonuts.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/goldengatherings.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/godivatreats.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/giftofgrace.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/ghirardelliredwood.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/ghirardellichocolate.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/gentlemanscigarchest.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/fruitfulhealth.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/fruitfulgreetings.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/fruitfulblessings.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/frostys.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/fallharvest.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/fabulousfall.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/elegantgourmetholiday.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/cupofjoe.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/corporatefare.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/coffeebreak.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/classicgourmet.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/chocolatedelights.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/cheeseboard.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/caramelspa.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/californiawine.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/californiafruitcheese.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/bountifulfavorites.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/bountifulblessings.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/bonappetit.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/bearyhappybirthday.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/bathtime.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/babycarriage.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/americanhero.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/allaboutautumn.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/corporate.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/weddingwishes.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/home.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/itempage.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/winecountry.html",
+		"/Users/nathan/Dropbox/Web Files/Snyder/item/wineslatecheeseboard.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/Users/nathan/Dropbox/Web Files/Snyder/item",
+			"/Users/nathan/Dropbox/Web Files/Snyder/item,<open files>,<open folders>",
+			"/Users/nathan/Dropbox/Web Files/Snyder/item",
+			"<open folders>,<open files>",
+			"/Users/nathan/Dropbox/Web Files/Snyder/item,<open folders>,<open files>",
+			"/Users/nathan/Dropbox/Web Files/Snyder/item",
+			"<open folders>,<open files>",
+			"<open folders>",
+			"/Users/nathan/Dropbox/Web Files/Snyder/item",
+			"<open files>,<open folders>",
+			"<open files>",
+			"~/Dropbox/Web\\ Files/Snyder/item/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"45deg",
+			"span",
+			"mouseenter",
+			"'span'",
+			"ol",
+			"<button>",
+			"></",
+			"<ol>\n        <li></li>\n      </ol>",
+			"<a>",
+			"div",
+			"h1",
+			"h3",
+			"h2",
+			"h1",
+			"	",
+			"span",
+			"scrollTop",
+			"\"\"",
+			"portfolio/",
+			"time",
+			"Time",
+			"time",
+			"diaglogueAudioLength",
+			"Lorem3",
+			"true",
+			"SetActive",
+			"GameObject",
+			"active",
+			"shoot",
+			"sounds",
+			"About",
+			"Fire2",
+			"attackCyl",
+			"p2rigid",
+			"player2",
+			"Camera",
+			"Text",
+			"1",
+			"2000",
+			"eee",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+			"#A8CCD4",
+			"#FCCE31",
+			"#FF2468",
+			"#333333",
+			"ray",
+			"ePress",
+			"e",
+			"q",
+			"x",
+			"up",
+			"			mainShip.AddRelativeForce(Vector3.left * 25);",
+			"50",
+			"else",
+			"10",
+			"Down",
+			"carRigidbody",
+			"200",
+			"img",
+			"54.99",
+			"Bear Hugs Chocolate Valentines Gift Set",
+			"thank you",
+			"sweet-pea-spa",
+			"youre-a-star",
+			"godiv",
+			"delight",
+			"godiva-greetings",
+			"winterwonderland",
+			"frostys",
+			"span_1_of_3",
+			"gourmetconnoisseur",
+			"bonappetit",
+			"ghirardelliredwood",
+			"californiawine",
+			"Happy Holidays from Wine Country",
+			"49.99",
+			"Godiva Greetings",
+			"54.99",
+			"You’re a Star!",
+			"54.99",
+			"You’re a Star!",
+			"44.99",
+			"“Dear Valentine” Care Package",
+			"44.99",
+			"“Dear Valentine” Care Package",
+			"44.99",
+			"“Dear Valentine” Care Package",
+			"44.99",
+			"“Dear Valentine” Care Package",
+			"44.99",
+			"“Dear Valentine” Care Package",
+			"Bear Hugs Chocolate Valentines Gift Set",
+			"ear Hugs Chocolate Valentines Gift Set",
+			"38.99",
+			"Bath Delights Tote",
+			"carousel",
+			"holida",
+			"fruitfulblessings",
+			"Fruitful Blessings Cornucopia",
+			"grand gathering",
+			"gourmet600s",
+			"bountifulfavorites",
+			"Bountiful Favorites",
+			"bountifulfavorites",
+			"Bountiful Favorites",
+			"fallharvest",
+			"Fall Harvest",
+			"allaboutautumn",
+			"All About Autumn",
+			"fabulousfall",
+			"Fabulous Fall Gourmet",
+			"fabulousfall",
+			"fabulousfall600s",
+			"Fabulous Fall Gourmet",
+			"Fabulous Fall",
+			"  ",
+			"Winter Blues",
+			"Bath Delights Tote",
+			"65.99",
+			"  ",
+			"    ",
+			"   ",
+			"  ",
+			"Baby Carriage Basket",
+			"Bath Delights Tote",
+			";",
+			"38.99",
+			"Bath Delights Tote"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"asod;ifhasdfhasd;",
+			"../BerryLaneLogo_fav.png",
+			"	<link rel=\"icon\" type=\"image/png\" href=\"BerryLaneLogo_fav.png\">\n",
+			"<!-- logo -->",
+			"../BerryLaneLogo_fav.png",
+			"</title>\n	<link rel=\"icon\" type=\"image/png\" href=\"BerryLaneLogo_fav.png\">\n../BerryLaneLogo_fav.png",
+			"</title>\n	<link rel=\"icon\" type=\"image/png\" href=\"BerryLaneLogo_fav.png\">\n",
+			"<script>\n    //paypal.minicart.render();\n</script>",
+			"//paypal.minicart.render();",
+			"			<form target=\"paypal\" action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">\n				<input type=\"hidden\" name=\"cmd\" value=\"_cart\">\n				<input type=\"hidden\" name=\"business\" value=\"2JNW5LJQ8S94E\">\n				<input type=\"hidden\" name=\"display\" value=\"1\">\n				<input class=\"trans\" type=\"submit\" name=\"submit\" value=\"View Cart\" >\n			</form>\n",
+			"// paypal.minicart.render();",
+			" 	<script src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js\"></script>\n	<script type=\"text/javascript\" src=\"../scripts.js\"></script>\n",
+			"<p>Hours: M-F 8am - 5pm, EST</p>",
+			"Hours: M-F 8am - 5pm, EST",
+			"../scripts.js",
+			"itempage.css\">\n	<script type=\"text/javascript\" src=\"scripts.js\"></script>",
+			"<a href=\"#\" id=\"viewcart\">View Cart</a>",
+			"			</form>\n			<div class=\"subprice\">\n				*tax included in price\n			</div>\n",
+			"			<form target=\"paypal\" action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">\n				<input type=\"hidden\" name=\"cmd\" value=\"_cart\">\n				<input type=\"hidden\" name=\"business\" value=\"2JNW5LJQ8S94E\">\n				<input type=\"hidden\" name=\"lc\" value=\"US\">\n				<input type=\"hidden\" name=\"item_name\" value=\"Harbor Side Treasures\">\n				<input type=\"hidden\" name=\"amount\" value=\"49.99\">\n				<input type=\"hidden\" name=\"currency_code\" value=\"USD\">\n				<input type=\"hidden\" name=\"button_subtype\" value=\"products\">\n				<input type=\"hidden\" name=\"no_note\" value=\"0\">\n				<input type=\"hidden\" name=\"cn\" value=\"Add special instructions to the seller:\">\n				<input type=\"hidden\" name=\"no_shipping\" value=\"2\">\n				<input type=\"hidden\" name=\"rm\" value=\"1\">\n				<input type=\"hidden\" name=\"return\" value=\"http://berrylanebaskets.com/orderconfirm\">\n				<input type=\"hidden\" name=\"add\" value=\"1\">\n				<input type=\"hidden\" name=\"bn\" value=\"PP-ShopCartBF:btn_cart_LG.gif:NonHosted\">\n				<input class=\"buynowbutton trans\" type=\"submit\" name=\"submit\" value=\"Add to Cart \" >\n			</form>",
+			"<script src=\"http://cdnjs.cloudflare.com/ajax/libs/minicart/3.0.5/minicart.min.js\"></script>",
+			" 	<script src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js\"></script>",
+			" ",
+			"	<link rel=\"stylesheet\" type=\"text/css\" href=\"../style/itempage.css\">\n",
+			"<img id=\"logo\" src=\"../BerryLaneLogoInverted.png\" alt=\"Berry Lane Baskets Logo\">",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"../style/style.css\">",
+			" 	<footer>\n		<div>\n			<div class=\"footerdivs\">\n				<ul>\n					<li><a href=\"../home.html\">Main Page</a></li>\n					<li><a href=\"../about.html\">About</a></li>\n					<li><a href=\"../about.html#contact\">Contact</a></li>\n				</ul>\n			</div>\n			<div class=\"footerdivs\">\n				<ul>\n					<li><a href=\"../everyday.html\">Everyday Occasions</a></li>\n					<li><a href=\"../special.html\">Special Occasions</a></li>\n					<li><a href=\"../corporate.html\">Corporate Gifts</a></li>\n				</ul>\n			</div>\n			<div class=\"footerdivs\">\n				<p>Phone: <a href=\"tel:+14013965652\">401-396-5652</a> or <a href=\"tel:+18003469196\">1-800-346-9196</a></p>\n				<p>Fax: 401-253-1390</p>\n				<p>Hours: M-F 8am - 5pm</p>\n			</div>\n		</div>\n	</footer>\n	\n<script src=\"//cdnjs.cloudflare.com/ajax/libs/minicart/3.0.5/minicart.min.js\"></script>\n<script>\n    paypal.minicart.render();\n</script>\n\n</body>\n	<link rel=\"stylesheet\" type=\"text/css\" href=\"../style/itempage.css\">",
+			" 	<footer>\n		<div>\n			<div class=\"footerdivs\">\n				<ul>\n					<li><a href=\"../home.html\">Main Page</a></li>\n					<li><a href=\"../about.html\">About</a></li>\n					<li><a href=\"../about.html#contact\">Contact</a></li>\n				</ul>\n			</div>\n			<div class=\"footerdivs\">\n				<ul>\n					<li><a href=\"../everyday.html\">Everyday Occasions</a></li>\n					<li><a href=\"../special.html\">Special Occasions</a></li>\n					<li><a href=\"../corporate.html\">Corporate Gifts</a></li>\n				</ul>\n			</div>\n			<div class=\"footerdivs\">\n				<p>Phone: <a href=\"tel:+14013965652\">401-396-5652</a> or <a href=\"tel:+18003469196\">1-800-346-9196</a></p>\n				<p>Fax: 401-253-1390</p>\n				<p>Hours: M-F 8am - 5pm</p>\n			</div>\n		</div>\n	</footer>\n	\n<script src=\"//cdnjs.cloudflare.com/ajax/libs/minicart/3.0.5/minicart.min.js\"></script>\n<script>\n    paypal.minicart.render();\n</script>\n\n</body>\n",
+			" 	<footer>\n		<div>\n			<div class=\"footerdivs\">\n				<ul>\n					<li><a href=\"../home.html\">Main Page</a></li>\n					<li><a href=\"../about.html\">About</a></li>\n					<li><a href=\"../about.html#contact\">Contact</a></li>\n				</ul>\n			</div>\n			<div class=\"footerdivs\">\n				<ul>\n					<li><a href=\"../everyday.html\">Everyday Occasions</a></li>\n					<li><a href=\"../special.html\">Special Occasions</a></li>\n					<li><a href=\"../corporate.html\">Corporate Gifts</a></li>\n				</ul>\n			</div>\n			<div class=\"footerdivs\">\n				<p>Phone: <a href=\"tel:+14013965652\">401-396-5652</a> or <a href=\"tel:+18003469196\">1-800-346-9196</a></p>\n				<p>Fax: 401-253-1390</p>\n				<p>Hours: M-F 8am - 5pm</p>\n			</div>\n		</div>\n	</footer>\n",
+			"			<div class=\"footerdivs\">\n				<p>Phone: <a href=\"tel:+14013965652\">401-396-5652</a> or <a href=\"tel:+18003469196\">1-800-346-9196</a></p>\n				<p>Fax: 401-253-1390</p>\n				<p>Hours: M-F 8am - 5pm</p>\n			</div>\n		</div>\n	</footer>\n			<div class=\"footerdivs\">\n				<p>Phone: <a href=\"tel:+14013965652\">401-396-5652</a> or <a href=\"tel:+18003469196\">1-800-346-9196</a></p>\n				<p>Fax: 401-253-1390</p>\n				<p>Hours: M-F 8am - 5pm</p>\n			</div>\n		</div>\n	</footer>\n",
+			"			<div class=\"footerdivs\">\n				<p>Phone: <a href=\"tel:+14013965652\">401-396-5652</a> or <a href=\"tel:+18003469196\">1-800-346-9196</a></p>\n				<p>Fax: 401-253-1390</p>\n				<p>Hours: M-F 8am - 5pm</p>\n			</div>\n		</div>\n	</footer>\n",
+			"<!-- asdfasdf -->",
+			" 	<footer>\n		<div>\n			<div class=\"footerdivs\">\n				<ul>\n					<li><a href=\"home.html\">Main Page</a></li>\n					<li><a href=\"about.html\">About</a></li>\n					<li><a href=\"about.html#contact\">Contact</a></li>\n				</ul>\n			</div>\n			<div class=\"footerdivs\">\n				<ul>\n					<li><a href=\"everyday.html\">Everyday Occasions</a></li>\n					<li><a href=\"special.html\">Special Occasions</a></li>\n					<li><a href=\"corporate.html\">Corporate Gifts</a></li>\n				</ul>\n			</div>\n			<div class=\"footerdivs\">\n				<p>Phone: <a href=\"tel:+14013965652\">401-396-5652</a> or <a href=\"tel:+18003469196\">1-800-346-9196</a></p>\n				<p>Fax: 401-253-1390</p>\n				<p>Hours: M-F 8am - 5pm</p>\n			</div>\n		</div>\n	</footer>\n			<div class=\"footerdivs\">\n				<p>Phone: <a href=\"tel:+14013965652\">401-396-5652</a> or <a href=\"tel:+18003469196\">1-800-346-9196</a></p>\n				<p>Fax: 401-253-1390</p>\n				<p>Hours: M-F 8am - 5pm</p>\n			</div>\n",
+			" 	<footer>\n		<div>\n			<div class=\"footerdivs\">\n				<ul>\n					<li><a href=\"home.html\">Main Page</a></li>\n					<li><a href=\"about.html\">About</a></li>\n					<li><a href=\"about.html#contact\">Contact</a></li>\n				</ul>\n			</div>\n			<div class=\"footerdivs\">\n				<ul>\n					<li><a href=\"everyday.html\">Everyday Occasions</a></li>\n					<li><a href=\"special.html\">Special Occasions</a></li>\n					<li><a href=\"corporate.html\">Corporate Gifts</a></li>\n				</ul>\n			</div>\n			<div class=\"footerdivs\">\n				<p>Phone: <a href=\"tel:+14013965652\">401-396-5652</a> or <a href=\"tel:+18003469196\">1-800-346-9196</a></p>\n				<p>Fax: 401-253-1390</p>\n				<p>Hours: M-F 8am - 5pm</p>\n			</div>\n		</div>\n	</footer>\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								404,
+								404
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "to-do-list.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "portfolop",
+		"selected_items":
+		[
+			[
+				"portfolop",
+				"~/Dropbox/Web Files/personal/nathanwentworth/portfolio/portfolio.sublime-workspace"
+			],
+			[
+				"port",
+				"~/Dropbox/Web Files/personal/nathanwentworth/portfolio/portfolio.sublime-workspace"
+			],
+			[
+				"libra",
+				"~/Dropbox/Web Files/personal/library/library.sublime-project"
+			],
+			[
+				"fli",
+				"~/Dropbox/Unity/Games/FLIPFLIP/FLIPFLIP.sublime-project"
+			],
+			[
+				"fl",
+				"~/Dropbox/Unity/Games/FLIPFLIP/FLIPFLIP.sublime-project"
+			],
+			[
+				"bd",
+				"~/Dropbox/School/Interactive2/DieRoll/DieRoll.sublime-project"
+			],
+			[
+				"lab",
+				"~/Documents/Eclipse/Lab3/src/lab3/lab3.sublime-project"
+			],
+			[
+				"lab3",
+				"~/Documents/Eclipse/Lab3/src/lab3/lab3.sublime-project"
+			],
+			[
+				"we2",
+				"~/Dropbox/School/Interactive2/Week2/week2proj.sublime-project"
+			],
+			[
+				"week4",
+				"~/Dropbox/School/Interactive2/Week4/Week4.sublime-project"
+			],
+			[
+				"week5",
+				"~/Dropbox/School/Interactive2/Week5/week5.sublime-project"
+			],
+			[
+				"wek2",
+				"~/Dropbox/School/Interactive2/Week2/week2proj.sublime-project"
+			],
+			[
+				"week",
+				"~/Dropbox/School/Interactive2/Week4/Week4.sublime-project"
+			],
+			[
+				"",
+				"~/Dropbox/School/Interactive2/Week3/Week3.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
