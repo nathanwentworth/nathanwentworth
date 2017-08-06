@@ -1,9 +1,7 @@
 ---
 title: Commissioned Portfolio Sites
 type: web
-category: project
 tags: [HTML, CSS, JavaScript]
-roles: [Programming, Design]
 image: portfolios.gif
 ---
 Various portfolio sites made for friends

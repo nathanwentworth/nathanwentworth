@@ -1,9 +1,7 @@
 ---
 title: DECK DUNGEON
 type: [game, web]
-category: project
-tags: [HTML, CSS, JavaScript, Adobe Illustrator]
-roles: [Programming, UI Design, Art]
+tags: [HTML, CSS, JavaScript, Adobe Illustrator, Electron]
 image: deck-dungeon-sm.png
 exturl: https://nathanwentworth.co/deck-dungeon
 ---

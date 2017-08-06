@@ -17,8 +17,7 @@ layout: default
           <p><b>{{ post.title }}</b>, <i>{{ post.date | date:"%Y"}}</i></p>
         </a>
         <p class="excerpt">{{ post.excerpt }}</p>
-        <p class="tag role"><b>Role:</b> {% for role in post.roles %} <span>{{ role }}</span> {% endfor %}</p>
-        <p class="tag made"><b>Made Using:</b> {% for tag in post.tags %} <span>{{ tag }}</span> {% endfor %}</p>
+        <p class="tag made">{% for tag in post.tags %}<span>{{ tag }}</span> {% endfor %}</p>
       </div>
     {% endfor %}
   </div>

@@ -1,9 +1,7 @@
 ---
 title: "moodbored"
 type: [web]
-category: project
 tags: [HTML, CSS, JavaScript, Node.js, Electron]
-roles: [Programming]
 image: moodbored-sm.png
 exturl: https://github.com/nathanwentworth/moodbored
 ---

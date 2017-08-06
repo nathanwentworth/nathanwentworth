@@ -159,30 +159,29 @@ header li {
   transition: transform 0.2s, -webkit-transform 0.2s;
 }
 
+.project-item .tag {
+  color: lighten($txt-color, 40%);
+  font-size: 0.9rem;
+}
+
 .project-item .tag span {
-  /* padding: 4px;*/
-  border-bottom: 1px solid $blue;
   cursor: default;
   line-height: 2;
+
+  &::after {
+    content: ',';
+  }
+  &:last-of-type::after {
+    content: '';
+  }
 }
 
 .project-item .tag span:hover {
-  /*background: #7085ff;*/
-  -webkit-animation-duration: 2s;
-          animation-duration: 2s;
-  -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
-  -webkit-animation-iteration-count: infinite;
-          animation-iteration-count: infinite;
-  -webkit-animation-timing-function: ease-in-out;
-          animation-timing-function: ease-in-out;
-  -webkit-animation-name: colorcyclebackground;
-          animation-name: colorcyclebackground;
-
+  border-bottom: 1px solid $blue;
 }
 
 .selected {
-  background-color: #ccc !important;
+  background-color: darken($bg-color, 5%) !important;
 }
 
 #filter {
