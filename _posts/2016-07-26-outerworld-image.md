@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Outerworld Image
 type: game
 category: project

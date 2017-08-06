@@ -1,5 +1,4 @@
 ---
-layout: project
 title: LASERFACE
 type: game
 category: project

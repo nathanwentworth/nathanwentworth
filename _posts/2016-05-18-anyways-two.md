@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Anyways Magazine
 type: web
 category: project

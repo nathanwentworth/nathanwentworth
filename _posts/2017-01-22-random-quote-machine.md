@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Random Quote Machine
 type: [web]
 category: project

@@ -13,7 +13,8 @@ body {
   /* background-image: url('/assets/patterns/pattern-02.png');*/
   background-attachment: fixed;
   color: $txt-color;
-  font-family: 'Work Sans', sans-serif;
+  /* font-family: 'Work Sans', sans-serif;*/
+  font-family: 'Nunito', sans-serif;
   font-size: 16px;
   line-height: 1.4;
   margin: 32px 0;
@@ -23,52 +24,14 @@ body {
   text-align: center;
 }
 
-.main-container {
+main {
   max-width: 1280px;
-  width: 100%;
-  margin: auto;
-}
-
-h1 { font-size: 1.9rem; }
-h2 { font-size: 1.4rem; }
-ul { list-style: none; padding-left: 16px; }
-li { margin: 8px 0; }
-a { text-decoration: none; }
-p { width: 100%; }
-
-#hr {
-  margin: auto;
-  margin-bottom: 16px;
   width: 90%;
-  height: 2px;
-  background: -webkit-gradient(linear, left top, right top, from($blue), to($pink));
-  background: linear-gradient(to right, $blue, $pink);
+  margin: auto;
 }
 
-.bio img {
-  width: 80px;
-  height: auto;
-  max-height: 100%;
-  max-width: 100%;
-  /* margin: auto;*/
-  float: right;
-  display: block;
-  opacity: 0;
-  -webkit-animation-duration: .5s;
-          animation-duration: .5s;
-  -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
-  -webkit-animation-iteration-count: 1;
-          animation-iteration-count: 1;
-  -webkit-animation-timing-function: linear;
-          animation-timing-function: linear;
-  -webkit-animation-name: fade;
-          animation-name: fade;
-  -webkit-animation-delay: .2s;
-          animation-delay: .2s;
-}
-a { border-bottom: 1px solid $blue; }
-a:link, a:visited {color: $txt-color;}
+a { border-bottom: 1px solid $blue; text-decoration: none; }
+a:link, a:visited { color: $txt-color; }
 a:hover, a:active {
   -webkit-animation-duration: 2s;
           animation-duration: 2s;
@@ -82,27 +45,66 @@ a:hover, a:active {
           animation-name: colorcycle;
 }
 
-.bio, .right-col {
-  width: 90%;
+
+h1 { font-size: 1.9rem; }
+h2 { font-size: 1.4rem; }
+ul { list-style: none; padding-left: 16px; }
+li { margin: 8px 0; }
+p { width: 100%; }
+
+#hr {
   margin: auto;
-}
-.title {
-  -webkit-animation-duration: 20s;
-          animation-duration: 20s;
-  -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
-  -webkit-animation-iteration-count: infinite;
-          animation-iteration-count: infinite;
-  -webkit-animation-timing-function: ease-in-out;
-          animation-timing-function: ease-in-out;
-  -webkit-animation-name: colorcycle;
-          animation-name: colorcycle;
-
+  margin-bottom: 16px;
+  width: 90%;
+  height: 2px;
+  background: -webkit-gradient(linear, left top, right top, from($blue), to($pink));
+  background: linear-gradient(to right, $blue, $pink);
 }
 
-.bio li {
+header {
+  margin: 8px;
+  vertical-align: bottom;
+}
+
+header, header a {
+  color: #fff;
+}
+
+header a:link, header a:visited {
+  color: #fff;
+}
+header a:hover, header a:active {
+  border-bottom-color: #fff;
+  -webkit-animation: none;
+          animation: none;
+}
+
+
+header .title, header ul {
+  display: inline-block;
+  margin: 0.5rem 0;
+}
+
+.header-bg {
+  background: -webkit-gradient(linear, left top, right top, from($blue), to($pink));
+  background: linear-gradient(to right, $blue, $pink);
+  width: calc(100% + 128px);
+  height: 300px;
+  position: absolute;
+  top: -100px;
+  left: -64px;
+  -webkit-transform: rotate(-6deg);
+          transform: rotate(-6deg);
+  z-index: -100;
+}
+
+header li {
   margin: 0 4px;
   display: inline;
+
+  &:first-of-type {
+    margin-left: 0;
+  }
 }
 
 #kaomoji {
@@ -110,6 +112,7 @@ a:hover, a:active {
 }
 
 .projects {
+  margin: auto;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -133,6 +136,11 @@ a:hover, a:active {
       flex-shrink: 0;
 }
 
+.project-item:hover img {
+  -webkit-transform: translateY(-0.25rem);
+          transform: translateY(-0.25rem);
+}
+
 .project-item a {
   border-bottom: none;
 }
@@ -145,6 +153,10 @@ a:hover, a:active {
   width: 100%;
   height: auto;
   border-radius: 4px;
+  -webkit-transition: -webkit-transform 0.2s;
+  transition: -webkit-transform 0.2s;
+  transition: transform 0.2s;
+  transition: transform 0.2s, -webkit-transform 0.2s;
 }
 
 .project-item .tag span {
@@ -172,9 +184,6 @@ a:hover, a:active {
 .selected {
   background-color: #ccc !important;
 }
-
-.project-item a:link, .project-item a:visited {color: $txt-color;}
-.project-item a:hover, .project-item a:active {color: #7085ff;}
 
 #filter {
   position: fixed;
@@ -213,21 +222,8 @@ a:hover, a:active {
 
 
 @media only screen and (min-width: 440px) {
-  /* .bio {*/
-  /*   position: fixed;*/
-  /*   margin-left: 16px;*/
-  /*   max-width: 400px;*/
-  /* }*/
-
-  /* .right-col {*/
-  /*   margin-right: 16px;*/
-  /*   max-width: calc(100% - 440px);*/
-  /*   float:right;*/
-  /* }*/
-
   .project-item {
     width: calc(50% - 16px);
-    margin: 8px;
     -ms-flex-basis: calc(50% - 16px);
         -ms-flex-preferred-size: calc(50% - 16px);
         flex-basis: calc(50% - 16px);
@@ -241,26 +237,19 @@ a:hover, a:active {
 }
 
 @media only screen and (min-width: 880px) {
-  /* .bio {*/
-  /*   position: fixed;*/
-  /*   margin-left: 16px;*/
-  /*   max-width: 400px;*/
-  /* }*/
-
-  /* .right-col {*/
-  /*   margin-right: 16px;*/
-  /*   max-width: calc(100% - 440px);*/
-  /*   float:right;*/
-  /* }*/
-
   .project-item {
     width: calc((100% / 3) - 16px);
-    margin: 8px;
     -ms-flex-basis: calc((100% / 3) - 16px);
         -ms-flex-preferred-size: calc((100% / 3) - 16px);
         flex-basis: calc((100% / 3) - 16px);
     -ms-flex-negative: 0;
         flex-shrink: 0;
+  }
+}
+
+@media only screen and (max-width: 880px) {
+  header ul {
+    padding-left: 0;
   }
 }
 

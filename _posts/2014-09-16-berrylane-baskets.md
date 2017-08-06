@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Berry Lane Baskets
 type: web
 category: project

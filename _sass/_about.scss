@@ -1,8 +1,5 @@
-body.about {
-  /* background-image: url('/assets/patterns/pattern-02.png');*/
-}
 
-.main-container.about {
+.about {
 
   display: -webkit-box;
 
@@ -55,7 +52,7 @@ body.about {
   }
 
 @media only screen and (min-width: 900px) {
-  .main-container.about {
+  .about {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
         -ms-flex-direction: row;

@@ -1,19 +1,21 @@
-<div id='desc' class="bio">
+<header id='desc'>
   <!-- <img src="/assets/img/logo-final.svg"> -->
 
   <!-- {{ content }} -->
 
-  <a href="/"><h1 class="center title">nathan wentworth</h1></a>
+  <h1 class="center title"><a href="/">nathan wentworth</a></h1>
 
   {% if site.links %}
   <ul style="text-align: center;">
     {% for link in site.links %}
-      <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+    <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
     {% endfor %}
-      <li id="kaomoji"><noscript>ヾ(＠⌒ー⌒＠)ノ</noscript></li>
+    <li id="kaomoji"><noscript>ヾ(＠⌒ー⌒＠)ノ</noscript></li>
   </ul>
   {% endif %}
-  <div id="hr"></div>
-</div>
+</header>
+
+<div class="header-bg"></div>
+
 
 <script type="text/javascript" src='{{ site.github.url }}/assets/kaomoji.js'></script>

@@ -1,5 +1,6 @@
 ---
 layout: about
+variiable: cool
 ---
 Hello~! I make video games and websites, focusing on code and UI/visual design. I like minimalism, graphic design, anime and animation, photography, electronic music, social media, tech, and digital art.
 

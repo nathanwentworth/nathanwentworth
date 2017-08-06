@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Friender Bender
 type: game
 category: project

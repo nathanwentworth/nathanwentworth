@@ -1,5 +1,4 @@
 ---
-layout: project
 title: cameraroll
 type: web
 category: project

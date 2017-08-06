@@ -1,5 +1,4 @@
 ---
-layout: project
 title: new tab links
 type: web
 category: project

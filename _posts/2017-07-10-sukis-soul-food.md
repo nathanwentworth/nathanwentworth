@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Suki's Soul Food"
 type: [game]
 category: project

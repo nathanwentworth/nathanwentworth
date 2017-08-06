@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<div class="right-col">
   <div class="projects">
     {% for post in site.posts %}
       <div class="project-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}" data-roles="{{ post.roles | join:' ' }}">
@@ -27,5 +26,4 @@ layout: default
   <div class="" id="filter">
   filtering for:
   </div>
-</div>
 

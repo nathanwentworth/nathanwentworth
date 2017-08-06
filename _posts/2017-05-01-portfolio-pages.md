@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Commissioned Portfolio Sites
 type: web
 category: project
