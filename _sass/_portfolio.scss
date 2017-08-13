@@ -20,6 +20,10 @@ body {
   margin: 32px 0;
 }
 
+img {
+  max-width: 100%;
+}
+
 .center {
   text-align: center;
 }
@@ -28,6 +32,10 @@ main {
   max-width: 1280px;
   width: 90%;
   margin: auto;
+}
+
+.main-container {
+  margin: 8px;
 }
 
 a { border-bottom: 1px solid $blue; text-decoration: none; }
@@ -52,13 +60,17 @@ ul { list-style: none; padding-left: 16px; }
 li { margin: 8px 0; }
 p { width: 100%; }
 
-#hr {
-  margin: auto;
-  margin-bottom: 16px;
+hr {
+  margin: 2rem auto;
   width: 90%;
-  height: 2px;
-  background: -webkit-gradient(linear, left top, right top, from($blue), to($pink));
-  background: linear-gradient(to right, $blue, $pink);
+  height: 16px;
+  border-radius: 2px;
+  border: none;
+  // background: -webkit-gradient(linear, left top, right top, from($blue), to($pink));
+  // background: linear-gradient(to right, $blue, $pink);
+  background-image: url('/assets/img/other/zigzag.png');
+  background-size: 100% auto;
+  background-position: center center;
 }
 
 header {
@@ -178,6 +190,11 @@ header li {
 
 .project-item .tag span:hover {
   border-bottom: 1px solid $blue;
+}
+
+.page-title {
+  color: #fff;
+  border-bottom: 1px dotted #fff;
 }
 
 .selected {

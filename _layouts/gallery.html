@@ -4,7 +4,7 @@ layout: default
   <div class="projects">
     {% for post in site.posts %}
       <div class="project-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}" data-roles="{{ post.roles | join:' ' }}">
-        <a href="{% if post.exturl %}{{ post.exturl }}{% else %}{{ post.url }}{% endif %}" rel="noopener" target="_blank">
+        <a href="{% if post.exturl %}{{ post.exturl }}{% else %}{{ post.url }}{% endif %}">
           {% if post.image contains '.jpg' or post.image contains '.png' or post.image contains '.gif' %}
             <img src="/assets/img/home/{{ post.image }}" alt="{{ post.title }}">
           {% elsif post.image contains '.mp4' %}
@@ -25,4 +25,6 @@ layout: default
   <div class="" id="filter">
   filtering for:
   </div>
+
+  <script type="text/javascript" src="/assets/scripts.js"></script>
 

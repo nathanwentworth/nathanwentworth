@@ -1,10 +1,11 @@
 ---
 layout: about
-variiable: cool
 ---
 Hello~! I make video games and websites, focusing on code and UI/visual design. I like minimalism, graphic design, anime and animation, photography, electronic music, social media, tech, and digital art.
 
 Feel free to contact me via [twitter](https://twitter.com/nathanwentworth) or [email](ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;)! ヾ(＠⌒ー⌒＠)ノ
+
+![zigzag](/assets/img/other/zigzag.png)
 
 ### Skills include:
 
@@ -42,3 +43,8 @@ Feel free to contact me via [twitter](https://twitter.com/nathanwentworth) or [e
 * xbox - xdigitaltaco
 * [steam](http://steamcommunity.com/id/nathanwentworth/)
 * [itch.io](https://nathanwentworth.itch.io/)
+* [square cash](https://cash.me/$nathanwentworth)
+
+![zigzag](/assets/img/other/zigzag.png)
+
+[Stuff I use](/setup/)
