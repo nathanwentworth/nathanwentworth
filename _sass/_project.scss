@@ -1,7 +1,25 @@
 .project {
   max-width: 720px;
 
+  .page-title {
+    margin-top: 0;
+    border-bottom: 1px dotted $blue;
+  }
+
+  background-color: $bg-color;
+  padding: 1rem;
+  border-radius: $border-radius;
+
+  .content {
+    margin-top: 1rem;
+  }
+
+  .content > *:first-child {
+    margin-top: 0;
+  }
+
   img {
     max-width: 100%;
+    border-radius: $border-radius;
   }
 }

@@ -6,7 +6,15 @@ image: portfolios.gif
 ---
 Various portfolio sites made for friends
 
-# [Connor Botts](https://connor.games)
+# [Ethan Thibault](http://ethanthibault.xyz)
+
+![Ethan Thibault 1](/assets/img/projects/portfolios/ethan-01.png)
+
+![Ethan Thibault 2](/assets/img/projects/portfolios/ethan-02.png)
+
+![Ethan Thibault 3](/assets/img/projects/portfolios/ethan-03.png)
+
+# [Connor Botts](http://connor.games)
 
 ![Connor Botts 1](/assets/img/projects/portfolios/connor-01.png)
 
