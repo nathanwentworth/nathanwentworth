@@ -1,10 +1,7 @@
 ---
-layout: project
 title: Outerworld Image
 type: game
-category: project
 tags: [Unity, C#]
-roles: [Programming, Art]
 image: outerworld-image-sm.jpg
 exturl: https://wickedly.itch.io/outerworld-image
 ---

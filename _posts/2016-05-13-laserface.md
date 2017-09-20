@@ -1,10 +1,7 @@
 ---
-layout: project
 title: LASERFACE
 type: game
-category: project
 tags: [Unity, C#]
-roles: [Programming, UI Design]
 image: laserface-title-sm.jpg
 exturl: https://nathanwentworth.itch.io/laserface
 ---

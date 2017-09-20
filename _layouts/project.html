@@ -3,11 +3,15 @@ layout: default
 ---
 
 <div class="main-container project">
+{% if page.title %}
+<h1 class="page-title">{{ page.title }}{% if page.date %} – {{ page.date | date:"%Y"}}{% endif %}</h1>
+{% endif %}
+{% if page.tags %}
+<div><b>tags:</b> {{ page.tags | join:', ' }}</div>
+{% endif %}
 
-<h1>{{ page.title }}</h1>
-<div><b>Made with:</b> {{ page.tags | join:', ' }}</div>
-<div><b>Role:</b> {{ page.roles | join:', ' }}</div>
-
-{{ content }}
+<div class="content">
+  {{ content }}
+</div>
 
 </div>

@@ -1,87 +1,64 @@
-body.about {
-  /* background-image: url('/assets/patterns/pattern-02.png');*/
-}
 
-.main-container.about {
-
+.about {
   display: -webkit-box;
-
   display: -ms-flexbox;
-
   display: flex;
+  align-content: left;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  margin: auto;
   min-height: 100vh;
 
-  div {
+  .image img {
     width: 100%;
-  }
-  div p {
-    width: 90%;
-    margin: 16px auto;
-  }
-
-  .right ul, .right h3 {
-    width: 90%;
-    max-width: 400px;
-    margin: auto;
-  }
-  div img {
-    width: 90%;
     max-width: 400px;
     display: block;
     margin: auto;
-    border-radius: 3px;
+    border-radius: $border-radius;
   }
-  h1.name {
-    /* position: absolute;*/
-    line-height: 100%;
-    bottom: 3em;
-    font-size: 2.5em;
-    background: #fff;
-    padding: 16px;
-    -webkit-box-sizing: border-box;
-            box-sizing: border-box;
-    border-radius: 3px;
-    margin: 0;
-  }
+
   .center {
     text-align: center;
   }
 
+}
+
+@media only screen and (max-width: 899px) {
+  .about {
+    .image {
+      width: 100%;
+    }
   }
+}
 
 @media only screen and (min-width: 900px) {
-  .main-container.about {
+  .about {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
 
     div {
-      width: 50%;
+      max-width: 50%;
     }
+
     div p:nth-child(2) {
       margin-top: 0;
     }
-    div img {
-      max-width: 90%;
-      display: block;
-      margin-left: auto;
-      margin-right: 32px;
+
+    .bio {
+      background-color: $bg-color;
+      padding: 1rem;
+      border-radius: $border-radius;
+    }
+
+    .bio *:first-child {
+      margin-top: 0;
+    }
+
+    .image img {
+      margin-right: 1rem;
     }
   }
-
-  h1.name {
-    text-align: center;
-    position: relative;
-    top: 0;
-    /* right: -6em;*/
-    font-size: 3em;
-    width: 100%;
-  }
-
 }

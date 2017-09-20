@@ -1,10 +1,7 @@
 ---
-layout: project
 title: cameraroll
 type: web
-category: project
 tags: [HTML, CSS, PHP]
-roles: [Programming, Design]
 image: cameraroll-sm.jpg
 exturl: https://obscure-stream-48507.herokuapp.com/
 ---

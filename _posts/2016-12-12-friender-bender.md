@@ -1,10 +1,7 @@
 ---
-layout: project
 title: Friender Bender
 type: game
-category: project
 tags: [Unity, C#]
-roles: [Programming, UI Design]
 image: friender-bender-sm.jpg
 exturl: https://wickedly.itch.io/friender-bender
 ---

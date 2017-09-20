@@ -14,9 +14,16 @@ links:
   'github': 'https://github.com/nathanwentworth'
   'itch.io': 'https://nathanwentworth.itch.io'
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: project
+
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile

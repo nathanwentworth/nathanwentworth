@@ -1,10 +1,7 @@
 ---
-layout: project
 title: Random Quote Machine
 type: [web]
-category: project
 tags: [HTML, CSS, JavaScript, APIs]
-roles: [Programming]
 image: random-quote-sm.png
 exturl: https://codepen.io/nathanwentworth/full/mRmXWN/
 ---
