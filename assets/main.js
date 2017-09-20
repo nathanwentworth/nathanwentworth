@@ -12,7 +12,7 @@ window.addEventListener('load', function () {
   var tagElements = document.getElementsByClassName('tag');
   for (var i = 0; i < tagElements.length; i++) {
     tagElements[i].addEventListener("click", function() {
-      redisplayProjects(this.textContent.toLowerCase());
+      redisplayProjects(this.dataset.tag);
     });
   }
 }, false);
@@ -27,7 +27,7 @@ function redisplayProjects(tag) {
 
       var projectChildren = projectItems[i].getElementsByTagName('span');
       for (var j = 0; j < projectChildren.length; j++) {
-        var isTag = (projectChildren[j].textContent.toLowerCase().includes(tag));
+        var isTag = (projectChildren[j].dataset.tag === tag);
         projectChildren[j].classList.toggle('selected', isTag);
       }
     }

@@ -42,7 +42,7 @@ a:link, a:visited {
   color: $text-color;
 }
 
-a:hover, a:active {
+a:hover, a:active, a:focus {
   -webkit-animation-duration: 2s;
           animation-duration: 2s;
   -webkit-animation-fill-mode: forwards;
@@ -80,7 +80,7 @@ header, header a:link, header a:visited {
   color: #fff;
 }
 
-header a:hover, header a:active {
+header a:hover, header a:active, header a:focus {
   border-bottom-color: #fff;
   -webkit-animation: none;
           animation: none;
@@ -138,16 +138,12 @@ header li {
       flex-shrink: 0;
 }
 
-.project-item:hover img {
-  -webkit-transform: translateY(-0.25rem);
-          transform: translateY(-0.25rem);
-}
-
 .project-item .main-links {
   border-bottom: none;
 }
 
-.project-item img, .project-item video {
+.project-item .project-image,
+.project-item video {
   width: 100%;
   height: auto;
   border-radius: $border-radius;
@@ -157,14 +153,24 @@ header li {
   transition: transform 0.2s, -webkit-transform 0.2s;
 }
 
+.project-item:hover .project-image,
+.main-links:focus .project-image {
+  -webkit-transform: translateY(-0.25rem);
+          transform: translateY(-0.25rem);
+}
+
 .project-item .tags {
   color: darken($bg-color, 40%);
   font-size: 0.9rem;
 }
 
-.project-item .tags span {
-  cursor: default;
+.tag {
   line-height: 2;
+  border: none;
+  background: transparent;
+  border-radius: 0;
+  font-size: inherit;
+  padding: 0;
 
   &::after {
     content: ',';
@@ -174,7 +180,7 @@ header li {
   }
 }
 
-.project-item .tags span:hover {
+.tag:hover, .tag:focus {
   border-bottom: 1px solid $blue;
 }
 
@@ -216,7 +222,7 @@ header li {
         flex-shrink: 0;
   }
 
-  .project-item .tags span {
+  .tag {
     line-height: 1;
   }
 }

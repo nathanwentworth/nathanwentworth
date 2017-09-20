@@ -12,12 +12,13 @@ Feel free to contact me via [twitter](https://twitter.com/nathanwentworth) or [e
 * HTML
 * CSS/SCSS
 * JavaScript/JQuery
+* Angular 2 + TypeScript
 * Jekyll
 * C#
 * Unity
 * Photoshop
 * Illustrator
-* Git
+* Git/SVN
 
 ### Featured in:
 
@@ -45,6 +46,9 @@ Feel free to contact me via [twitter](https://twitter.com/nathanwentworth) or [e
 * [itch.io](https://nathanwentworth.itch.io/)
 * [square cash](https://cash.me/$nathanwentworth)
 
-![zigzag](/assets/img/other/zigzag.png)
+![zigzag](/assets/img/other/zigzag.png) 
+
+This website is hosted on a [Digital Ocean](https://m.do.co/c/24af6a0d4c4a) droplet running Ubuntu 16 and nginx. [Let's Encrypt](https://letsencrypt.org/) is providing the SSL Cert, and my CMS/site generator is [Jekyll](http://jekyllrb.com/).
 
 [Stuff I use](/setup/)
+ 
