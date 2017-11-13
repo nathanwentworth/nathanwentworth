@@ -2,7 +2,7 @@
 title: "Suki's Soul Food"
 type: [game]
 tags: [Unity, C#]
-image: sukis-soul-food-sm.jpg
+image: sukis-soul-food-sm.png
 ---
 First-person cooking game, where you make cat food for cats. Made in a week for the [Games Made Quick 1½](https://itch.io/jam/games-made-quick-one-and-a-half) jam. [Download](https://wickedly.itch.io/sukis-soul-food) [Source](https://github.com/theconbot/Cat-In-a-Truck)
 

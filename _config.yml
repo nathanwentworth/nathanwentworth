@@ -1,6 +1,6 @@
 title: nathan wentworth
 email: me@nathanwentworth.co
-description: "nathan wentworth - web + game dev"
+description: "Unity C# game programmer, Javascript web developer"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nathanwentworth.co" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nathanwentworth
@@ -20,6 +20,10 @@ defaults:
       type: posts
     values:
       layout: project
+  - scope:
+      path: "assets/img/photos"
+    values:
+      photo: true
 
 # Build settings
 markdown: kramdown
