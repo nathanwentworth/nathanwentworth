@@ -19,7 +19,7 @@ layout: default
         <div class="title">{% if post.title %}<span class="bold">{{ post.title }}</span>, {% endif %}<span class="italic">{{ post.date | date:"%Y"}}</span></div>
       </a>
       <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-      <p class="tags">{% for tag in post.tags %}<button data-tag="{{ tag | downcase }}" class="tag">{{ tag }}</button> {% endfor %}</p>
+      <p class="tags">{% for tag in post.tags %}<button type="button" data-tag="{{ tag | downcase }}" class="tag">{{ tag }}</button> {% endfor %}</p>
     </div>
   {% endfor %}
 </div>

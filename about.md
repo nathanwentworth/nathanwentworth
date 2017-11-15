@@ -28,6 +28,7 @@ Feel free to contact me via [twitter](https://twitter.com/nathanwentworth) or [e
 * [moshboy's 1000 gamemakers](https://twitter.com/moshboy/status/792500324724461569)
 * [Rock Paper Shotgun](https://www.rockpapershotgun.com/2016/08/13/best-free-games-of-the-week-28/)
 * [itch.io Twitter](https://twitter.com/itchio/status/584928245214089217)
+* [itch.io CSS Showcase](https://itch.io/c/241703/css-showcase)
 * [PewDiePie Animated](https://www.youtube.com/watch?v=-RCeZi0rxTs)
 * [PewDiePie](https://www.youtube.com/watch?v=n5nPR4rmBu0)
 
