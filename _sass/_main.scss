@@ -1,0 +1,132 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+::-moz-selection { background:#7085ff; color: $bg-color; text-shadow: none;}
+::selection { background:#7085ff; color: $bg-color; text-shadow: none;}
+
+body {
+  width: 100vw;
+  background-color: $bg-color;
+  color: $text-color;
+  font-family: 'Nunito', sans-serif;
+  line-height: 1.4;
+  margin: 32px 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+.center {
+  text-align: center;
+}
+
+main {
+  max-width: 1280px;
+  width: 90%;
+  margin: auto;
+}
+
+.main-container {
+  margin: 8px;
+}
+
+a {
+  border-bottom: 1px solid $blue;
+  text-decoration: none;
+}
+
+a:link, a:visited {
+  color: $text-color;
+}
+
+a:hover, a:active, a:focus {
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-timing-function: ease-in-out;
+          animation-timing-function: ease-in-out;
+  -webkit-animation-name: colorcycle;
+          animation-name: colorcycle;
+}
+
+h1 { font-size: 1.9rem; }
+h2 { font-size: 1.4rem; }
+h1, h3 { letter-spacing: 0.02em; word-spacing: 0.01em; }
+ul { list-style: none; padding-left: 16px; }
+li { margin: 8px 0; }
+p { width: 100%; letter-spacing: 0.015em; word-spacing: 0.001em; }
+
+hr {
+  margin: 2rem auto;
+  width: 90%;
+  height: 16px;
+  border: none;
+  background-image: url('/assets/img/other/zigzag.png');
+  background-size: 100% auto;
+  background-position: center center;
+}
+
+header {
+  margin: 8px;
+  vertical-align: bottom;
+}
+
+header, header a:link, header a:visited {
+  color: #fff;
+}
+
+header a:hover, header a:active, header a:focus {
+  border-bottom-color: #fff;
+  -webkit-animation: none;
+          animation: none;
+}
+
+header .title, header ul {
+  display: inline-block;
+  margin: 0.5rem 0;
+}
+
+.header-bg-container {
+  width: 100%;
+  overflow: hidden;
+  height: 300px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1000;
+}
+
+.header-bg {
+  background: -webkit-gradient(linear, left top, right top, from($blue), to($pink));
+  background: linear-gradient(to right, $blue, $pink);
+  width: calc(100% + 128px);
+  height: 300px;
+  position: absolute;
+  top: -100px;
+  left: -64px;
+  -webkit-transform: rotate(-6deg);
+          transform: rotate(-6deg);
+  z-index: -100;
+}
+
+header li {
+  margin: 0 4px;
+  display: inline;
+
+  &:first-of-type {
+    margin-left: 0;
+  }
+}
+
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
+
+#kaomoji {
+  cursor: default;
+}

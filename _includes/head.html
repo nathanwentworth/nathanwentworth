@@ -1,7 +1,11 @@
 <head>
-  <title>nathan wentworth</title>
-  <meta name="description" content="{{ site.description }}">
-  <meta charset="utf-8">
+  <title>nathan wentworth{% if page.title %} — {{ page.title }}{% endif %}</title>
+  <meta charset="UTF-8">
   <meta name="viewport" content="initial-scale=1">
+  <meta name="author" content="Nathan Wentworth">
+  <meta name="keywords" content="{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}Unity, C#, javascript, html, css, web design, web development{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="theme-color" content="#FF8D73">
+  <link rel="alternate" type="application/rss+xml" title="nathan wentworth RSS" href="/feed.xml">
   <link rel="stylesheet" type="text/css" href="/assets/style.css">
 </head>

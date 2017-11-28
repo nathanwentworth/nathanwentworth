@@ -1,0 +1,10 @@
+---
+layout: clean
+---
+
+<section class="photos">
+  {% assign photo_files = site.static_files | where: "photo", true %}
+  {% for photo in photo_files %}
+  <div class="photo-container"><img src="{{ photo.path }}"></div>
+  {% endfor %}
+</section>
