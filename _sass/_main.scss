@@ -124,6 +124,11 @@ header li {
   }
 }
 
+footer {
+  border-top: 1px dotted $blue;
+  padding-top: 1rem;
+}
+
 .bold { font-weight: bold; }
 .italic { font-style: italic; }
 

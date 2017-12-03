@@ -6,7 +6,7 @@ url: "https://nathanwentworth.co"
 twitter_username: nathanwentworth
 github_username: nathanwentworth
 facebook_username: nthnww
-permalink: /project/:title/
+permalink: /:collection/:title/
 author: "Nathan Wentworth"
 
 links:
@@ -15,12 +15,24 @@ links:
   'github': 'https://github.com/nathanwentworth'
   'itch.io': 'https://nathanwentworth.itch.io'
 
+collections:
+  projects:
+    output: true
+
 defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+      author: "Nathan Wentworth"
   - scope:
       path: ""
       type: posts
     values:
       layout: project
+      hide_date: true
+      hide_tags: true
       author: "Nathan Wentworth"
   - scope:
       path: "assets/img/photos"

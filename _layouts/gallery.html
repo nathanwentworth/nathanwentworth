@@ -2,10 +2,13 @@
 layout: default
 ---
 <div class="projects">
-  {% for post in site.posts %}
+  {% for post in site.projects reversed %}
     <div class="project-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}">
       <a class="main-links" href="{% if post.exturl %}{{ post.exturl }}{% else %}{{ post.url }}{% endif %}">
         <div class="image {% unless post.image %}placeholder{% endunless %}" {% if post.image %} style="background-image: url('/assets/img/home/{{ post.image }}')" {% endif %}>
+          {% if post.image %}
+          <img class="hidden" src="/assets/img/home/{{ post.image }}">
+          {% endif %}
         </div>
         <div class="title">{% if post.title %}<span class="bold">{{ post.title }}</span>, {% endif %}<span class="italic">{{ post.date | date:"%Y"}}</span></div>
       </a>
