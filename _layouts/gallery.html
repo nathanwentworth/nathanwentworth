@@ -2,20 +2,14 @@
 layout: default
 ---
 <div class="projects">
-  {% for post in site.posts %}
+  {% for post in site.projects reversed %}
     <div class="project-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}">
       <a class="main-links" href="{% if post.exturl %}{{ post.exturl }}{% else %}{{ post.url }}{% endif %}">
-        {% if post.image %}
-          {% if post.image contains '.jpg' or post.image contains '.png' or post.image contains '.gif' %}
-            <img src="/assets/img/home/{{ post.image }}" alt="{{ post.title }}" class="project-image">
-          {% elsif post.image contains '.mp4' %}
-            <video autoplay playsinline loop>
-              <source src="/assets/img/{{ post.image }}" type="video/mp4">
-            </video>
-          {% else %}
-            <p>error loading image</p>
+        <div class="image {% unless post.image %}placeholder{% endunless %}" {% if post.image %} style="background-image: url('/assets/img/home/{{ post.image }}')" {% endif %}>
+          {% if post.image %}
+          <img class="hidden" src="/assets/img/home/{{ post.image }}">
           {% endif %}
-        {% endif %}
+        </div>
         <div class="title">{% if post.title %}<span class="bold">{{ post.title }}</span>, {% endif %}<span class="italic">{{ post.date | date:"%Y"}}</span></div>
       </a>
       <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>

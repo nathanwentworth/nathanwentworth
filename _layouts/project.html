@@ -4,14 +4,16 @@ layout: default
 
 <div class="main-container project">
 {% if page.title %}
-<h1 class="page-title">{{ page.title }}{% if page.date %} – {{ page.date | date:"%Y"}}{% endif %}</h1>
+  <h1 class="page-title">{{ page.title }}{% unless page.hide_date %}{% if page.date %} – {{ page.date | date:"%Y"}}{% endif %}{% endunless %}</h1>
 {% endif %}
+{% unless page.hide_tags %}
 {% if page.tags %}
-<div><b>tags:</b> {{ page.tags | join:', ' }}</div>
+  <div><b>tags:</b> {{ page.tags | join:', ' }}</div>
 {% endif %}
+{% endunless %}
 
-<div class="content">
-  {{ content }}
-</div>
+  <div class="content">
+    {{ content }}
+  </div>
 
 </div>

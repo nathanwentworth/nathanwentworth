@@ -24,19 +24,28 @@
   border-bottom: none;
 }
 
-.project-item .project-image,
-.project-item video {
+.project-item .image {
+  border-radius: 3px;
+  background-color: $bg-color;
+  background-image: url('/assets/img/other/cross-pattern.png');
+  background-size: cover;
+  background-position: center center;
   width: 100%;
-  height: auto;
-  border-radius: $border-radius;
+  padding-bottom: 75%;
   -webkit-transition: -webkit-transform 0.2s;
   transition: -webkit-transform 0.2s;
   transition: transform 0.2s;
   transition: transform 0.2s, -webkit-transform 0.2s;
+
+  &.placeholder {
+    background-repeat: repeat;
+    background-size: 80px;
+    background-position: left top;
+  }
 }
 
-.project-item:hover .project-image,
-.main-links:focus .project-image {
+.project-item:hover .image,
+.main-links:focus .image {
   -webkit-transform: translateY(-0.25rem);
           transform: translateY(-0.25rem);
 }

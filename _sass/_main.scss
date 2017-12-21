@@ -29,6 +29,13 @@ main {
   margin: auto;
 }
 
+code {
+  color: #E43134;
+  background: #EFEEF7;
+  padding: 0.1em;
+  border-radius: 0.25em;
+}
+
 .main-container {
   margin: 8px;
 }
@@ -75,6 +82,7 @@ hr {
 header {
   margin: 8px;
   vertical-align: bottom;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.2);
 }
 
 header, header a:link, header a:visited {
@@ -122,6 +130,11 @@ header li {
   &:first-of-type {
     margin-left: 0;
   }
+}
+
+footer {
+  border-top: 1px dotted $blue;
+  padding-top: 1rem;
 }
 
 .bold { font-weight: bold; }
