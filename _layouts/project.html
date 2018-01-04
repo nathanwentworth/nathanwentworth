@@ -6,6 +6,9 @@ layout: default
 {% if page.title %}
   <h1 class="page-title">{{ page.title }}{% unless page.hide_date %}{% if page.date %} – {{ page.date | date:"%Y"}}{% endif %}{% endunless %}</h1>
 {% endif %}
+{% if page.image %}
+  <img class="main-image" src="/assets/img/home/{{ page.image }}">
+{% endif %}
 {% unless page.hide_tags %}
 {% if page.tags %}
   <div><b>tags:</b> {{ page.tags | join:', ' }}</div>

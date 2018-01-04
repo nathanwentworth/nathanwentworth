@@ -1,6 +1,10 @@
 .project {
   max-width: 720px;
 
+  .main-image {
+    margin-bottom: 1rem;
+  }
+
   .page-title {
     margin-top: 0;
     border-bottom: 1px dotted $blue;
