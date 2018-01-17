@@ -36,6 +36,12 @@ code {
   border-radius: 0.25em;
 }
 
+blockquote {
+  border-left: 2px solid $light-text;
+  margin-left: 0;
+  padding-left: 1rem;
+}
+
 .main-container {
   margin: 8px;
 }

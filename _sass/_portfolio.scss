@@ -86,6 +86,19 @@
   margin: 0.6em 0;
 }
 
+.title {
+  font-weight: bold;
+  color: $text-color;
+}
+
+.archive ul {
+  max-width: 100%;
+  color: $light-text;
+}
+
+.archive li {
+}
+
 .selected {
   background-color: darken($bg-color, 5%) !important;
 }
