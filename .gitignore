@@ -9,7 +9,6 @@ node_modules
 package.json
 sftp-config.json
 
-animations/
 cameraroll/
 deck-dungeon/
 draw/
