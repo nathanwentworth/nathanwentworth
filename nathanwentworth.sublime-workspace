@@ -191,18 +191,10 @@
 			}
 		},
 		{
-			"file": "_projects/2017-01-29-deck-dungeon.md",
-			"settings":
-			{
-				"buffer_size": 508,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "_sass/_main.scss",
 			"settings":
 			{
-				"buffer_size": 2743,
+				"buffer_size": 2837,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -211,7 +203,16 @@
 			"file": "_projects/2018-01-16-anilist-to-mal.md",
 			"settings":
 			{
-				"buffer_size": 182,
+				"buffer_size": 240,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_portfolio.scss",
+			"settings":
+			{
+				"buffer_size": 3136,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -350,11 +351,11 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/nathan/www/nathanwentworth",
-		"/Users/nathan/www/nathanwentworth/_projects"
+		"/Users/nathan/www/nathanwentworth"
 	],
 	"file_history":
 	[
+		"/Users/nathan/www/nathanwentworth/test.html",
 		"/Users/nathan/www/nathanwentworth/project.html",
 		"/Users/nathan/www/nathanwentworth/_posts/2017-05-01-portfolio-pages.md",
 		"/Users/nathan/www/nathanwentworth/_posts/2017-01-22-random-quote-machine.md",
@@ -370,7 +371,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 48.0
 	},
 	"find_in_files":
 	{
@@ -386,6 +387,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"50",
+			"30",
+			"409edb",
+			"f7ca00",
 			"ffffff",
 			"href",
 			"img",
@@ -509,11 +514,7 @@
 			"mp4",
 			"circle-animation-svg-clip-480.mp4",
 			"autoplay",
-			"startco",
-			"55",
-			"relPos",
-			"rotation",
-			"-55"
+			"startco"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -630,11 +631,11 @@
 				},
 				{
 					"buffer": 3,
-					"file": "_projects/2017-01-29-deck-dungeon.md",
-					"semi_transient": true,
+					"file": "_sass/_main.scss",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 508,
+						"buffer_size": 2837,
 						"regions":
 						{
 						},
@@ -643,34 +644,6 @@
 							[
 								0,
 								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_sass/_main.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2743,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								568,
-								568
 							]
 						],
 						"settings":
@@ -687,26 +660,56 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "_projects/2018-01-16-anilist-to-mal.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 182,
+						"buffer_size": 240,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								182,
-								182
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"open_with_edit": true,
 							"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_sass/_portfolio.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								425,
+								425
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
