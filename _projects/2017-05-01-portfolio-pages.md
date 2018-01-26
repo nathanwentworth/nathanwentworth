@@ -3,6 +3,7 @@ title: Commissioned Portfolio Sites
 type: web
 tags: [HTML, CSS, JavaScript]
 image: portfolios.gif
+archive: true
 ---
 Various portfolio sites made for friends
 
