@@ -11,8 +11,11 @@ body {
   background-color: $bg-color;
   color: $text-color;
   font-family: 'Nunito', sans-serif;
+  margin: 1.5rem 0;
+}
+
+p {
   line-height: 1.4;
-  margin: 32px 0;
 }
 
 img {
@@ -76,13 +79,11 @@ li { margin: 8px 0; }
 p { width: 100%; letter-spacing: 0.015em; word-spacing: 0.001em; }
 
 hr {
-  margin: 2rem auto;
-  width: 90%;
-  height: 16px;
+  margin: 2rem 0.5rem;
+  height: 3px;
+  border-radius: 1.5px;
   border: none;
-  background-image: url('/assets/img/other/zigzag.png');
-  background-size: 100% auto;
-  background-position: center center;
+  background-image: linear-gradient(to right, $blue, $pink);
 }
 
 header {
@@ -104,6 +105,7 @@ header a:hover, header a:active, header a:focus {
 header .title, header ul {
   display: inline-block;
   margin: 0.5rem 0;
+  vertical-align: bottom;
 }
 
 .header-bg-container {
@@ -143,9 +145,37 @@ footer {
   padding-top: 1rem;
 }
 
+footer div {
+  display: inline-block;
+  vertical-align: top;
+}
+
+footer div:first-child {
+  margin-right: 2rem;
+}
+
+@media only screen and (max-width: 549px) {
+  footer div {
+    margin-bottom: 1rem;
+  }
+}
+
+@media only screen and (min-width: 550px) {
+  footer div:last-child {
+    float: right;
+  }
+}
+
+
 .bold { font-weight: bold; }
 .italic { font-style: italic; }
 
 #kaomoji {
   cursor: default;
+}
+
+.category-title {
+  color: #fff;
+  text-shadow: 0 0.0625rem 0.125rem rgba(0,0,0,0.2);
+  margin-left: 0.5rem;
 }
