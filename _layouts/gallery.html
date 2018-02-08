@@ -1,26 +1,54 @@
 ---
 layout: default
 ---
-<div class="projects">
-  {% for post in site.projects reversed %}
-  {% unless post.archive %}
-    <div class="project-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}">
-      <a class="main-links" href="{% if post.exturl %}{{ post.exturl }}{% else %}{{ post.url }}{% endif %}">
-        <div class="image {% unless post.image %}placeholder{% endunless %}" {% if post.image %} style="background-image: url('/assets/img/home/{{ post.image }}')" {% endif %}>
-          {% if post.image %}
-          <img class="hidden" src="/assets/img/home/{{ post.image }}">
-          {% endif %}
-        </div>
-        <div class="title">{% if post.title %}<span class="bold">{{ post.title }}</span>, {% endif %}<span class="italic">{{ post.date | date:"%Y"}}</span></div>
-      </a>
-      <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-      <div class="tags">{% for tag in post.tags %}<button type="button" data-tag="{{ tag | downcase }}" class="tag">{{ tag }}</button> {% endfor %}</div>
+<div class="home">
+  <div class="projects columns">
+    {% for post in site.projects reversed %}
+    {% unless post.archive %}
+      <div class="project-item column-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}">
+        <a class="main-links" href="{% if post.exturl %}{{ post.exturl }}{% else %}{{ post.url }}{% endif %}">
+          <div class="image {% unless post.image %}placeholder{% endunless %}" {% if post.image %} style="background-image: url('/assets/img/home/{{ post.image }}')" {% endif %}>
+            {% if post.image %}
+            <img class="hidden" src="/assets/img/home/{{ post.image }}">
+            {% endif %}
+          </div>
+          <div class="title">{% if post.title %}<span class="bold">{{ post.title }}</span>, {% endif %}<span class="italic">{{ post.date | date:"%Y"}}</span></div>
+        </a>
+        <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+        <div class="tags">{% for tag in post.tags %}<button type="button" data-tag="{{ tag | downcase }}" class="tag">{{ tag }}</button> {% endfor %}</div>
+      </div>
+    {% endunless %}
+    {% endfor %}
+  </div>
+
+  <hr class="small">
+
+  <div class="columns">
+    <div class="archive column-item">
+      <h1 class="page-title red">Other Projects</h1>
+      <ul>
+      {% for entry in site.projects reversed %}
+      {% if entry.archive %}
+        <li class="archive-entry">
+          <a class="title" href="{% if entry.exturl %}{{ entry.exturl }}{% else %}{{ site.github.url }}{{ entry.url }}{% endif %}">{{ entry.title }}</a> <span class="date">{{ entry.date | date:"%Y" }}</span>
+        </li>
+      {% endif %}
+      {% endfor %}
+      </ul>
     </div>
-  {% endunless %}
-  {% endfor %}
+    <div class="column-item">
+      <h1 class="blue">About Me</h1>
+      <div>{{ content }}</div>
+    </div>
+    <div class="column-item">
+      <h1 class="purple">Elsewhere</h1>
+      <ul>
+      {% for link in site.elsewhere %}
+        <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+
 </div>
-
-<div class="filter" id="filter"></div>
-
-<script type="text/javascript" src="/assets/main.js"></script>
 

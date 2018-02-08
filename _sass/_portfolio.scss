@@ -1,24 +1,4 @@
 
-.projects {
-  margin: auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-flow: row wrap;
-      flex-flow: row wrap;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-}
-
-.project-item {
-  vertical-align: top;
-  width: calc(100% - 8px);
-  -ms-flex-preferred-size: calc(100% - 8px);
-      flex-basis: calc(100% - 8px);
-  margin: 8px;
-  -ms-flex-negative: 0;
-      flex-shrink: 0;
-}
 
 .project-item .main-links {
   border-bottom: none;
@@ -96,12 +76,44 @@
   color: $text-color;
 }
 
+.columns {
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: row wrap;
+      flex-flow: row wrap;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+}
+
+.columns .column-item {
+  vertical-align: top;
+  width: calc(100% - 8px);
+  -ms-flex-preferred-size: calc(100% - 8px);
+      flex-basis: calc(100% - 8px);
+  margin: 8px;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
 .archive ul {
   max-width: 100%;
   color: $light-text;
+  list-style: none;
 }
 
 .archive li {
+  // margin-bottom: 1rem;
+}
+
+.archive .archive-entry::before {
+  content: '→';
+  margin-right: 1rem;
+}
+
+.archive-entry .date {
+  margin-left: 1rem;
 }
 
 .selected {
@@ -129,7 +141,11 @@
 }
 
 @media only screen and (min-width: 440px) {
-  .project-item {
+  .columns {
+    flex-direction: row;
+  }
+
+  .columns .column-item {
     width: calc(50% - 16px);
     -ms-flex-basis: calc(50% - 16px);
         -ms-flex-preferred-size: calc(50% - 16px);
@@ -144,7 +160,7 @@
 }
 
 @media only screen and (min-width: 880px) {
-  .project-item {
+  .columns .column-item {
     width: calc((100% / 3) - 16px);
     -ms-flex-basis: calc((100% / 3) - 16px);
         -ms-flex-preferred-size: calc((100% / 3) - 16px);
@@ -152,6 +168,7 @@
     -ms-flex-negative: 0;
         flex-shrink: 0;
   }
+
 }
 
 @media only screen and (max-width: 880px) {
