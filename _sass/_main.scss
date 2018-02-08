@@ -16,6 +16,7 @@ body {
 
 p {
   line-height: 1.4;
+  margin-top: 0.75rem;
 }
 
 img {
@@ -77,6 +78,10 @@ h1, h3 { letter-spacing: 0.02em; word-spacing: 0.01em; }
 ul { list-style: none; padding-left: 16px; }
 li { margin: 8px 0; }
 p { width: 100%; letter-spacing: 0.015em; word-spacing: 0.001em; }
+h1 { margin-bottom: 0.75em; }
+h2 { margin-bottom: 0.6em; }
+h3 { margin-bottom: 0.5em; }
+
 
 hr {
   margin: 2rem 0.5rem;
@@ -84,6 +89,16 @@ hr {
   border-radius: 1.5px;
   border: none;
   background-image: linear-gradient(to right, $blue, $pink);
+}
+
+hr.small {
+  margin: 2rem auto;
+  height: 1px;
+  border-radius: 1.5px;
+  max-width: 420px;
+  border: none;
+  background-image: none;
+  background-color: $blue;
 }
 
 header {
@@ -179,3 +194,7 @@ footer div:first-child {
   text-shadow: 0 0.0625rem 0.125rem rgba(0,0,0,0.2);
   margin-left: 0.5rem;
 }
+
+.red { color: #f55; }
+.blue { color: #55f; }
+.purple { color: #6528DD; }
