@@ -164,28 +164,28 @@
 	"buffers":
 	[
 		{
-			"file": "animations/index.html",
+			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 6604,
+				"buffer_size": 1357,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "animations/style.css",
+			"file": "_sass/_main.scss",
 			"settings":
 			{
-				"buffer_size": 8660,
+				"buffer_size": 3530,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_projects/2017-05-01-portfolio-pages.md",
+			"file": "index.md",
 			"settings":
 			{
-				"buffer_size": 991,
+				"buffer_size": 631,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -337,13 +337,14 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/nathan/www/nathanwentworth",
-		"/Users/nathan/www/nathanwentworth/_includes",
-		"/Users/nathan/www/nathanwentworth/_projects",
-		"/Users/nathan/www/nathanwentworth/animations"
+		"/Users/nathan/projects/_current/nathanwentworth"
 	],
 	"file_history":
 	[
+		"/Users/nathan/projects/_current/nathanwentworth/animations/style.css",
+		"/Users/nathan/projects/_current/nathanwentworth/index.md",
+		"/Users/nathan/projects/_current/nathanwentworth/animations/index.html",
+		"/Users/nathan/projects/_current/nathanwentworth/_projects/2017-05-01-portfolio-pages.md",
 		"/Users/nathan/www/nathanwentworth/_sass/_portfolio.scss",
 		"/Users/nathan/www/nathanwentworth/_projects/2018-01-16-anilist-to-mal.md",
 		"/Users/nathan/www/nathanwentworth/_sass/_main.scss",
@@ -534,29 +535,29 @@
 			[
 				{
 					"buffer": 0,
-					"file": "animations/index.html",
+					"file": "_config.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6604,
+						"buffer_size": 1357,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2846,
-								2846
+								884,
+								884
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 926.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -564,29 +565,29 @@
 				},
 				{
 					"buffer": 1,
-					"file": "animations/style.css",
+					"file": "_sass/_main.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8660,
+						"buffer_size": 3530,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2607,
-								2607
+								1783,
+								1783
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2841.0,
+						"translation.y": 1988.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -594,19 +595,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "_projects/2017-05-01-portfolio-pages.md",
+					"file": "index.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 991,
+						"buffer_size": 631,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								115,
-								115
+								277,
+								277
 							]
 						],
 						"settings":

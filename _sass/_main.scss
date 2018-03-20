@@ -19,13 +19,9 @@ p {
   margin-top: 0.75rem;
 }
 
-img {
-  max-width: 100%;
-}
+img { max-width: 100%; }
 
-.center {
-  text-align: center;
-}
+.center { text-align: center; }
 
 main {
   max-width: 1280px;
@@ -34,7 +30,7 @@ main {
 }
 
 code {
-  color: #E43134;
+  color: #2A3937;
   background: #EFEEF7;
   padding: 0.1em;
   border-radius: 0.25em;
@@ -46,13 +42,12 @@ blockquote {
   padding-left: 1rem;
 }
 
-.main-container {
-  margin: 8px;
-}
+.main-container { margin: 8px; }
 
 a {
-  border-bottom: 1px solid $blue;
+  // border-bottom: 1px solid $blue;
   text-decoration: none;
+  font-weight: bold;
 }
 
 a:link, a:visited {
@@ -70,18 +65,26 @@ a:hover, a:active, a:focus {
           animation-timing-function: ease-in-out;
   -webkit-animation-name: colorcycle;
           animation-name: colorcycle;
+  text-decoration: underline;
 }
 
-h1 { font-size: 1.9rem; }
-h2 { font-size: 1.4rem; }
-h1, h3 { letter-spacing: 0.02em; word-spacing: 0.01em; }
-ul { list-style: none; padding-left: 16px; }
-li { margin: 8px 0; }
-p { width: 100%; letter-spacing: 0.015em; word-spacing: 0.001em; }
-h1 { margin-bottom: 0.75em; }
-h2 { margin-bottom: 0.6em; }
+h1, h2, h3 { letter-spacing: 0.02em; word-spacing: 0.01em; }
+h1 { font-size: 1.9rem; margin-bottom: 0.75em; }
+h2 { font-size: 1.4rem; margin-bottom: 0.6em; }
 h3 { margin-bottom: 0.5em; }
+ul { list-style: none; padding-left: 0; }
+li { margin: 6px 0; }
+p { width: 100%; letter-spacing: 0.015em; word-spacing: 0.001em; }
 
+li::before {
+  content: '→';
+  font-size: 0.8em;
+  margin-right: 0.75em;
+}
+
+li a {
+  border-bottom: none;
+}
 
 hr {
   margin: 2rem 0.5rem;
@@ -117,7 +120,7 @@ header a:hover, header a:active, header a:focus {
           animation: none;
 }
 
-header .title, header ul {
+header .title, header nav {
   display: inline-block;
   margin: 0.5rem 0;
   vertical-align: bottom;
@@ -146,12 +149,16 @@ header .title, header ul {
   z-index: -100;
 }
 
-header li {
+header nav {
+  padding-left: 16px;
+}
+
+header nav a {
   margin: 0 4px;
   display: inline;
 
   &:first-of-type {
-    margin-left: 0;
+    // margin-left: 0;
   }
 }
 
@@ -181,13 +188,15 @@ footer div:first-child {
   }
 }
 
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
 
 .bold { font-weight: bold; }
 .italic { font-style: italic; }
-
-#kaomoji {
-  cursor: default;
-}
 
 .category-title {
   color: #fff;

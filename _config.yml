@@ -10,7 +10,6 @@ permalink: /:collection/:title/
 author: "Nathan Wentworth"
 
 links:
-  'about': '/about/'
   'twitter': 'https://twitter.com/nathanwentworth'
   'github': 'https://github.com/nathanwentworth'
   'itch.io': 'https://nathanwentworth.itch.io'
@@ -18,6 +17,7 @@ links:
 elsewhere:
   'email': 'ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;'
   'twitter': 'https://twitter.com/nathanwentworth'
+  'tumblr': 'https://nathanwentworth.tumblr.com/'
   'github': 'https://github.com/nathanwentworth'
   'instagram': 'https://www.instagram.com/nathanwentworth/'
   'itch.io': 'https://nathanwentworth.itch.io/'
