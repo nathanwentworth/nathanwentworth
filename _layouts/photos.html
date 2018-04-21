@@ -5,6 +5,6 @@ layout: clean
 <section class="photos">
   {% assign photo_files = site.static_files | where: "photo", true | sort: 'modified_time' %}
   {% for photo in photo_files %}
-  <img class="photo" src="{{ photo.path }}" alt="">
+  <img class="photo" src="{{ photo.path }}" alt="{{ file.basename }}" data-id="{{ file.basename }}">
   {% endfor %}
 </section>
