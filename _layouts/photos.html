@@ -3,8 +3,8 @@ layout: clean
 ---
 
 <section class="photos">
-  {% assign photo_files = site.static_files | where: "photo", true %}
+  {% assign photo_files = site.static_files | where: "photo", true | sort: 'modified_time' %}
   {% for photo in photo_files %}
-  <div class="photo-container"><img src="{{ photo.path }}"></div>
+  <img class="photo" src="{{ photo.path }}" alt="">
   {% endfor %}
 </section>

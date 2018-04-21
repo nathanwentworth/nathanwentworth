@@ -1,0 +1,32 @@
+.archive {
+  ul {
+    max-width: 100%;
+    color: $light-text;
+    list-style: none;
+  }
+
+  .title {
+    font-weight: bold;
+    font-size: 2rem;
+    text-decoration: none;
+  }
+
+  .section-title {
+    display: block;
+    text-align: center;
+    border-bottom: 1px dotted #ccc;
+    text-decoration: none;
+    margin-top: 3rem;
+    font-size: 2rem;
+  }
+
+  blockquote {
+    margin: 0;
+    padding: 1rem;
+    background: #ecedee;
+    border-radius: $border-radius;
+    margin-top: 1rem;
+    border: 0;
+  }
+}
+

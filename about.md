@@ -2,11 +2,13 @@
 layout: about
 image: "nathan-wentworth-2017-06-19-11.21.03.jpg"
 ---
-Hello~! I make [video games](/games) and [websites](/web), focusing on code and UI/visual design. I like using Unity for games and vanilla JavaScript for web projects. I think websites should be quick to load and light on bloat.
+Hi! I'm nathan wentworth, I make [video games](/games) and [websites](/web). I used to [take](https://www.flickr.com/photos/nathanwentworth) [photos](https://www.instagram.com/nathanwentworth/). I like using vanilla/ES6 JavaScript, Unity C#, and Python. Recently I've been into making CLI tools and server-side web apps.
 
-I like minimalism, graphic design, anime and animation, photography, electronic music, social media, tech, and digital art.
+I'm interested in design, open source software, minimalism, fashion, and the intersection of technology and humanity.
 
-Feel free to contact me via [twitter](https://twitter.com/nathanwentworth) or [email](ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;)! ヾ(＠⌒ー⌒＠)ノ
+Currently working freelance for [FableVision Studios](http://www.fablevisionstudios.com/).
+
+Feel free to talk to me on [twitter](https://twitter.com/nathanwentworth)!
 
 ---
 
@@ -34,7 +36,7 @@ HTML, CSS/SCSS, JavaScript, Python, Jekyll, C#, Unity, Angular 2 + TypeScript, P
 * [square cash](https://cash.me/$nathanwentworth)
 
 ## Site info
-This website is hosted on a [Digital Ocean](https://m.do.co/c/24af6a0d4c4a) droplet running Ubuntu 16 and nginx. [Let's Encrypt](https://letsencrypt.org/) is providing the SSL Cert, and my CMS/site generator is [Jekyll](http://jekyllrb.com/).
+This website is hosted on a [Digital Ocean](https://m.do.co/c/24af6a0d4c4a) droplet running Ubuntu 16 and nginx. [Let's Encrypt](https://letsencrypt.org/) is providing the SSL Cert, and my CMS/site generator is [Jekyll](http://jekyllrb.com/). Feel free to check out this site's source code on [Github](https://github.com/nathanwentworth/nathanwentworth).
 
 [Stuff I use](/posts/setup/)
  

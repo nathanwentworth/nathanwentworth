@@ -3,16 +3,17 @@
 
 $bg-color: #f4f5f6;
 $text-color: #17272F;
-$light-text: #717274;
+$light-text: #3B3C3E;
 
 $blue: #B5C0FF;
 $dark-blue: #4460FF;
 $pink: #FF83C5;
 
-$border-radius: 4px;
+$border-radius: 8px;
 
 @import "main";
-@import "portfolio";
+@import "home";
 @import "project";
+@import "archive";
 @import "photos";
 @import "about";

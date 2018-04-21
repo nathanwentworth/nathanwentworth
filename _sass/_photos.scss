@@ -1,20 +1,12 @@
 section.photos {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-}
+  text-align: center;
 
-.photo-container {
-
-  width: calc(50% - 2rem);
-  margin-bottom: 2rem;
-
-  &:nth-of-type(2n) {
-    margin-left: auto;
+  .photo {
+    display: inline-block;
+    max-height: 500px;
+    max-width: calc(50% - 1.2rem);
     margin-right: 1rem;
-  }
-  &:nth-of-type(2n - 1) {
-    margin-right: auto;
-    margin-left: 1rem;
+    margin-bottom: 1rem;
   }
 }
+

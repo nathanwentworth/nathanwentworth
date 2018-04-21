@@ -4,11 +4,12 @@ layout: default
 
 <div class="main-container project archive">
   <h1 class="page-title">{{ page.title }}</h1>
-  {% for entry in site[page.collection] reversed %}
+  {% assign posts = site[page.collection] | sort: 'date' %}
+  {% for entry in posts reversed %}
     {% assign currentdate = entry.date | date: "%Y" %}
     {% if currentdate != date %}
       {% unless forloop.first %}</ul>{% endunless %}
-      <h3 id="{{entry.date | date: "%Y"}}" class="section-title"><a href="#{{entry.date | date: "%Y"}}">{{ currentdate }}</a></h3>
+      <a class="section-title" href="#{{entry.date | date: "%Y"}}" id="{{entry.date | date: "%Y"}}">{{ currentdate }}</a>
       <ul>
       {% assign date = currentdate %}
     {% endif %}
