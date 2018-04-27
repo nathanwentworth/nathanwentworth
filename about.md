@@ -21,13 +21,10 @@ HTML, CSS/SCSS, JavaScript, Python, Jekyll, C#, Unity, Angular 2 + TypeScript, P
 ## Elsewhere
 * [email](ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;)
 * [twitter](https://twitter.com/nathanwentworth)
-* [instagram](https://www.instagram.com/nathanwentworth/)
-* [facebook](https://www.facebook.com/nthnww)
 * discord - nathanwentworth#6799
 * [last.fm](http://www.last.fm/user/nwentworth)
 * [bandcamp](https://bandcamp.com/nathanwentworth)
 * [soundcloud](https://soundcloud.com/nathanwentworth)
-* [anilist](https://anilist.co/user/nathan/animelist)
 * [letterboxd](https://letterboxd.com/nathanwentworth/)
 * playstation - xdigitaltaco
 * xbox - xdigitaltaco
