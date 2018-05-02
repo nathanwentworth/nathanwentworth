@@ -1,22 +1,30 @@
 ---
 layout: default
 ---
+{% assign bgcolors = "bg-yellow bg-peach bg-green bg-purple" | split: ' ' %}
+{% if page.cat %}
+  {% assign posts = site.projects | where_exp: "item", "item.type contains page.cat" | reverse %}
+{% else %}
+  {% assign posts = site.projects | where_exp: "item", "item.archive == nil" | reverse %}
+{% endif %}
+
 <div class="home">
+  {% if page.cat %}
+  <h1 class="category-title">{{ page.title }}</h1>
+  {% endif %}
   <div class="projects columns">
-    {% for post in site.projects reversed %}
-    {% unless post.archive %}
-      <div class="project-item column-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}">
-        <a class="main-links" href="{% if post.exturl %}{{ post.exturl }}{% else %}{{ post.url }}{% endif %}">
-          <div class="image {% unless post.image %}placeholder{% endunless %}" {% if post.image %} style="background-image: url('/assets/img/home/{{ post.image }}')" {% endif %}>
-            {% if post.image %}
-            <img class="hidden" src="/assets/img/home/{{ post.image }}">
-            {% endif %}
-          </div>
-          <div class="title">{% if post.title %}<span class="bold">{{ post.title }}</span>, {% endif %}<span class="italic">{{ post.date | date:"%Y"}}</span></div>
-        </a>
-        <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-      </div>
-    {% endunless %}
+    {% for post in posts %}
+    <div class="project-item column-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}">
+      <a class="main-links" href="{% if post.exturl %}{{ post.exturl }}{% else %}{{ post.url }}{% endif %}">
+        <div class="image {{ bgcolors | sample }}" {% if post.image %} style="background-image: url('/assets/img/home/{{ post.image }}')" {% endif %}>
+          {% if post.image %}
+          <img class="hidden" src="/assets/img/home/{{ post.image }}">
+          {% endif %}
+        </div>
+        <div class="title">{% if post.title %}<span class="bold">{{ post.title }}</span>, {% endif %}<span class="italic">{{ post.date | date:"%Y"}}</span></div>
+      </a>
+      <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+    </div>
     {% endfor %}
   </div>
 
@@ -37,7 +45,7 @@ layout: default
     </div>
     <div class="column-item">
       <h1 class="blue">About Me</h1>
-      <div>{{ content }}</div>
+      <div>{{ site.full_description | markdownify }}</div>
     </div>
     <div class="column-item">
       <h1 class="purple">Elsewhere</h1>

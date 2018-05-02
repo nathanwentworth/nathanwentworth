@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: gallery
 title: web
 cat: "web"
 ---
