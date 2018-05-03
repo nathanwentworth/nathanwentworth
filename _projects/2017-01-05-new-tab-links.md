@@ -3,6 +3,7 @@ title: new tab links
 type: web
 tags: [HTML, CSS, JavaScript]
 image: new-tab-links.gif
+archive: true
 ---
 New tab page that displays a selection of editable links. [Chrome](https://chrome.google.com/webstore/detail/new-tab-links/dhilgiccnfcdipikddkegbpphmnobpnn) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/new-tab-links/) [Source](https://github.com/nathanwentworth/new-tab-links)
 
