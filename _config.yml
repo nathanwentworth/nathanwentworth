@@ -4,7 +4,7 @@ description: "Unity C# game programmer, Javascript web developer"
 full_description: |
   Hi! I'm nathan wentworth, I make [video games](/games) and [websites](/web). I like using vanilla/ES6 JavaScript, Unity C#, and Python. Recently I've been into making CLI tools and server-side web apps.
 
-  I'm interested in design, open source software, minimalism, fashion, and the intersection of technology and humanity. I like [fun music](https://soundcloud.com/nathanwentworth/sets/fav), video games, and [taking photos](https://www.flickr.com/photos/nathanwentworth).
+  I'm interested in design, open source software, minimalism, fashion, and the intersection of technology and humanity. I like [fun music](https://soundcloud.com/nathanwentworth/sets/fav), video games, and [taking photos](/photos).
 
   Currently working freelance for [FableVision Studios](http://www.fablevisionstudios.com/).
 
@@ -51,6 +51,10 @@ defaults:
       author: "Nathan Wentworth"
   - scope:
       path: "assets/img/photos"
+    values:
+      photo: true
+  - scope:
+      path: "assets/img/photos-sm"
     values:
       photo: true
 

@@ -1,13 +1,39 @@
 section.photos {
-  text-align: center;
 
-  .photo {
-    display: inline-block;
-    max-height: 500px;
-    max-width: calc(50% - 1.2rem);
-    margin-right: 1rem;
-    margin-bottom: 1rem;
+  .section-container {
+    display: flex;
+    align-items: flex-start;
+
+    &:hover {
+      .section-title {
+        color: #888;
+      }
+    }
   }
 
+  @media only screen and (max-width: 549px) {
+    .section-container {
+      flex-direction: column;
+    }
+  }
+
+
+  .section-title {
+    margin: 0;
+    margin-right: 6rem;
+    color: #666;
+    width: 200px;
+    flex: 0;
+    font-size: 1rem;
+    transition: color 0.2s;
+  }
+  .photo {
+    display: inline-block;
+    max-height: 80px;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    cursor: zoom-in;
+  }
 }
+
 

@@ -192,6 +192,11 @@ footer div:first-child {
   }
 }
 
+.hidden {
+  display: none !important;
+  visibility: hidden !important;
+}
+
 .bold { font-weight: bold; }
 .italic { font-style: italic; }
 

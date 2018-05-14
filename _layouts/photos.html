@@ -3,10 +3,59 @@ layout: clean
 ---
 
 <section class="photos">
-  {% assign photo_files = site.static_files | where: "photo", true | sort: 'modified_time' %}
+  {% assign photo_files = site.static_files | where: "photo", true | sort: 'basename' | reverse %}
   {% for photo in photo_files %}
-  <img class="photo lazyload" data-src="{{ photo.path }}" alt="{{ file.basename }}" data-id="{{ file.basename }}">
+    {% assign currentdate = photo.basename | split: '-' | first %}
+    {% if currentdate != date %}
+      {% unless forloop.first %}</div></div>{% endunless %}
+      <div class="section-container">
+      <h1 class="section-title" id="{{ currentdate }}">{{ currentdate }}</h1>
+      {% assign date = currentdate %}
+      <div class="photo-inner">
+    {% endif %}
+    {% unless photo.basename contains "-sm" %}
+      <img class="photo lazyload" src="{{ photo.path | replace: '.jpg', '-sm.jpg' }}" alt="{{ photo.basename }}" data-id="{{ photo.basename }}" data-src="{{ photo.path }}" onclick="lightbox.setImg('{{ photo.path }}')">
+    {% endunless %}
+  {% if forloop.last %}</div></div>{% endif %}
   {% endfor %}
 </section>
-<script type="text/javascript" src="/assets/lazyload.js"></script>
-<script type="text/javascript">lazyload();</script>
+
+
+<div class="lightbox hidden" id="lightbox">
+  <img id="lightboxImg" src="#!">
+</div>
+
+<style type="text/css">
+
+.lightbox {
+  z-index: 1000;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #191A1B;
+  display: block;
+  visibility: visible;
+}
+
+.lightbox img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  max-width: 98vw;
+  max-height: 98vh;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  z-index: -1;
+}
+
+.lightbox-hidden {
+  display: none;
+  visibility: hidden;
+}
+
+</style>
+
+
+<script type="text/javascript" src="/assets/js/lightbox.js"></script>
