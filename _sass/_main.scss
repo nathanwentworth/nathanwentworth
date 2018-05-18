@@ -30,6 +30,12 @@ main {
 main.w-slim {
   max-width: $w-slim;
 }
+main.w-mid {
+  max-width: $w-mid;
+}
+main.w-wide {
+  max-width: $w-wide;
+}
 
 code {
   color: #2A3937;
@@ -82,8 +88,9 @@ h1, h2, h3 { letter-spacing: 0.02em; word-spacing: 0.01em; }
 h1 { font-size: 1.9rem; margin-bottom: 0.75em; }
 h2 { font-size: 1.4rem; margin-bottom: 0.6em; }
 h3 { margin-bottom: 0.5em; }
-ul, ol { padding-left: 0; }
-ul ul, ol ol, .project ul, .project ol { padding-left: 1.5rem; }
+ul, ol { padding-left: 1.5rem; }
+ul.no-indent, ol.no-indent { padding-left: 0; }
+/*ul ul, ol ol, .project ul, .project ol {  }*/
 li { margin: 6px 0; }
 p { width: 100%; letter-spacing: 0.015em; word-spacing: 0.001em; }
 

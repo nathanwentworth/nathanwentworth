@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<main class="w-slim">
+<main {% if page.width %} class="w-{{ page.width }}"{% else %} class="w-slim" {% endif %}>
 {% include header.html %}
 
 <div class="project outer-container">

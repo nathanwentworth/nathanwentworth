@@ -13,7 +13,7 @@ layout: default
         {% if currentdate != date %}
           {% unless forloop.first %}</ul>{% endunless %}
           <h2 class="section-title"><a href="#{{entry.date | date: "%Y"}}" id="{{entry.date | date: "%Y"}}">{{ currentdate }}</a></h2>
-          <ul>
+          <ul class="no-indent">
           {% assign date = currentdate %}
         {% endif %}
           <li>

@@ -39,7 +39,7 @@ layout: default
   <div class="columns lower">
     <div class="column-item">
       <h1 class="page-title red"><a href="/all/" class="red">Other Projects</a></h1>
-      <ul>
+      <ul class="no-indent">
       {% for entry in site.projects reversed %}
       {% if entry.archive %}
         <li class="archive-entry">
@@ -55,7 +55,7 @@ layout: default
     </div>
     <div class="column-item">
       <h1 class="purple page-title">Elsewhere</h1>
-      <ul>
+      <ul class="no-indent">
       {% for link in site.elsewhere %}
         <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
       {% endfor %}
