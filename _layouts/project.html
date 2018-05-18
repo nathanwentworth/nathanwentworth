@@ -1,22 +1,47 @@
 ---
 layout: default
 ---
+<main class="w-slim">
+{% include header.html %}
 
-<div class="main-container project">
-{% if page.title %}
-  <h1 class="page-title">{{ page.title }}{% unless page.hide_date %}{% if page.date %} – {{ page.date | date:"%Y"}}{% endif %}{% endunless %}</h1>
-{% endif %}
-{% if page.image %}
-  <img class="main-image" src="/assets/img/home/{{ page.image }}">
-{% endif %}
-{% unless page.hide_tags %}
-{% if page.tags %}
-  <div><b>tags:</b> {{ page.tags | join:', ' }}</div>
-{% endif %}
-{% endunless %}
+<div class="project outer-container">
+  <div class="content-container">
+    {% if page.image %}
+    {% unless page.hide_image %}
+      <img class="main-image" src="/assets/img/home/{{ page.image }}">
+    {% endunless %}
+    {% endif %}
 
-  <div class="content">
-    {{ content }}
+    <div class="info">
+      <h1 class="info-section bold page-title">{{ page.title }}</h1>
+
+      {% unless page.hide_date %}
+      <div class="info-section">{{ page.date | date:"%Y-%m-%d" }}</div>
+      {% endunless %}
+
+      {% unless page.hide_aside %}
+      {% unless page.hide_tags %}
+      {% if page.tags %}
+        <div class="info-section"><span class="bold">tags:</span> {{ page.tags | join:', ' }}</div>
+      {% endif %}
+      {% endunless %}
+
+      <div class="info-section"><span class="bold">type:</span> <a href="/{{ page.type }}" title="{{ page.type }}">{{ page.type }}</a></div>
+
+      {% if page.repo %}
+      <div class="info-section"><a href="{{ page.repo }}" title="Source repository for {{ page.title }}">source code</a></div>
+      {% endif %}
+
+      {% endunless %}
+
+    </div class="info">
+
+
+    <div class="content">
+      {{ content }}
+    </div>
   </div>
-
 </div>
+
+{% include footer.html %}
+</main>

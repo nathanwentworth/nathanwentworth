@@ -1,3 +1,6 @@
+# Notes!
+# Images on home page should be 420x315
+
 title: "nathan wentworth ✨"
 email: me@nathanwentworth.co
 description: "Unity C# game programmer, Javascript web developer"
@@ -46,8 +49,8 @@ defaults:
       type: posts
     values:
       layout: project
-      hide_date: true
       hide_tags: true
+      hide_aside: true
       author: "Nathan Wentworth"
   - scope:
       path: "assets/img/photos"

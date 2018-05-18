@@ -29,7 +29,7 @@ Various portfolio sites made for friends
 
 ![Delton Hulbert 3](/assets/img/projects/portfolios/delton-03.png)
 
-# [Luis Valle](http://luisvalle.net/)
+# Luis Valle
 
 ![Luis Valle 1](/assets/img/projects/portfolios/luis-01.png)
 

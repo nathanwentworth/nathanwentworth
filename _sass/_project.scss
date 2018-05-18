@@ -1,35 +1,85 @@
 .project {
-  max-width: 720px;
+
+  display: flex;
+  align-items: flex-start;
+
 
   .main-image {
-    margin-bottom: 1rem;
+    border-radius: $border-radius;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    display: block;
+    width: 100%;
   }
 
   .page-title {
     margin-top: 0;
     border-bottom: 1px dotted $blue;
   }
-
-  background-color: $bg-color;
-  padding: 1rem;
-  border-radius: $border-radius;
+  .content-container {
+    margin: auto;
+    border-radius: $border-radius;
+    padding: 0;
+    background-color: $bg-dark;
+    max-width: 36rem;
+    width: 100%;
+  }
 
   .content {
-    margin-top: 1rem;
+    padding: 1rem;
+
+    img {
+      max-width: calc(100% + 4rem);
+      margin-left: -2rem;
+      border-radius: #{$border-radius / 2};
+      display: block;
+    }
+    img + img {
+      margin-top: 1.35rem;
+    }
+    p {
+      margin-bottom: 1.35rem;
+    }
   }
 
   .content > *:first-child {
     margin-top: 0;
   }
+  .content > p:last-child {
+    margin-bottom: 0;
+  }
 
-  img {
-    max-width: 100%;
-    border-radius: $border-radius;
+  .info {
+    border-top-left-radius: $border-radius;
+    border-top-right-radius: $border-radius;
+    background-color: #e6e6e6;
+    padding: 1rem;
+  }
+  .main-image + .info {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+  .info-section {
+    margin-bottom: 0.5rem;
+    border: none;
+  }
+  .info-section:last-of-type {
+    margin-bottom: 0;
   }
 
   code {
     background-color: #eee;
     padding: 0.2em;
     border-radius: 6px;
+  }
+
+  @media only screen and (max-width: 549px) {
+    .content img {
+      max-width: calc(100% + 3rem);
+      margin-left: -1.5rem;
+      border-radius: #{$border-radius / 2};
+      display: block;
+    }
   }
 }

@@ -10,6 +10,10 @@ layout: default
   {% assign posts = site.projects | where_exp: "item", "item.archive == nil" | reverse %}
 {% endif %}
 
+<main>
+
+{% include header.html %}
+
 <div class="home">
   {% if page.cat %}
   <h1 class="category-title">{{ page.title }}</h1>
@@ -30,9 +34,9 @@ layout: default
     {% endfor %}
   </div>
 
-  <hr class="small">
+  <!-- <hr class="small"> -->
 
-  <div class="columns">
+  <div class="columns lower">
     <div class="column-item">
       <h1 class="page-title red"><a href="/all/" class="red">Other Projects</a></h1>
       <ul>
@@ -46,11 +50,11 @@ layout: default
       </ul>
     </div>
     <div class="column-item">
-      <h1 class="blue">About Me</h1>
+      <h1 class="blue page-title">About Me</h1>
       <div>{{ site.full_description | markdownify }}</div>
     </div>
     <div class="column-item">
-      <h1 class="purple">Elsewhere</h1>
+      <h1 class="purple page-title">Elsewhere</h1>
       <ul>
       {% for link in site.elsewhere %}
         <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
@@ -61,3 +65,5 @@ layout: default
 
 </div>
 
+{% include footer.html %}
+</main>

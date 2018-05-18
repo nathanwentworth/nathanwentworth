@@ -1,32 +1,70 @@
 .archive {
-  ul {
+  background: $bg-dark;
+  border-radius: $border-radius;
+
+  .page-title {
+    margin-top: 0;
+  }
+
+  .list {
+    padding: 1rem;
+  }
+
+  a.exturl::after {
+    content: '↗';
+    font-size: 0.65em;
+    vertical-align: top;
+    margin-left: 0.5em;
+  }
+
+
+  .list > ul {
     max-width: 100%;
     color: $light-text;
     list-style: none;
   }
 
+  .section-title {
+    font-size: 2rem;
+    border-bottom: 2px solid #e6e6e6;
+    margin-top: 4rem;
+
+    &:first-child {
+      margin-top: 0;
+    }
+    &::before {
+      content:'# ';
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
+
   .title {
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-decoration: none;
   }
 
-  .section-title {
-    display: block;
-    text-align: center;
-    border-bottom: 1px dotted #ccc;
-    text-decoration: none;
-    margin-top: 3rem;
-    font-size: 2rem;
+  .page-title {
+    margin-top: 0;
+    padding: 1rem;
+    background-color: #e6e6e6;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    margin: 0;
   }
 
   blockquote {
     margin: 0;
     padding: 1rem;
-    background: #ecedee;
+    background: #e6e6e6;
     border-radius: $border-radius;
     margin-top: 1rem;
+    margin-bottom: 0.75rem;
     border: 0;
+    border-left: $border-radius solid #dbdbdb;
   }
 }
 

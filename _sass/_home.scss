@@ -49,6 +49,21 @@
   -webkit-box-direction: normal;
 }
 
+.lower {
+  background: #eee;
+  border-radius: $border-radius;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  padding: 1rem;
+}
+.lower .page-title {
+  margin-top: 0;
+}
+.lower ul {
+  margin-bottom: 0;
+  list-style: none;
+}
+
 .columns .column-item {
   vertical-align: top;
   width: calc(100% - 8px);
@@ -59,6 +74,9 @@
       flex-shrink: 0;
 }
 
+.home li {
+  list-style: none;
+}
 .home li::before {
   content: '→';
   font-size: 0.8em;
