@@ -3,11 +3,7 @@
 
   {% include head.html %}
 
-  <style type="text/css">
-    body { background-color: #3d3e3f; }
-  </style>
-
-  <body id="body">
+  <body class="no-js" id="body">
     <main>
 
       {% include clean-header.html %}
@@ -15,6 +11,12 @@
       {{ content }}
     </main>
 
+    <div class="lightbox hidden" id="lightbox">
+      <img id="lightboxImg" src="#!">
+    </div>
     <link href="https://fonts.googleapis.com/css?family=Nunito:400,800" rel="stylesheet">
   </body>
+
+
+  <script type="text/javascript" src="/assets/js/lightbox.js"></script>
 </html>

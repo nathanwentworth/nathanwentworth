@@ -3,9 +3,15 @@
 
   {% include head.html %}
 
-  <body id="body">
+  <body class="no-js" id="body">
     {{ content }}
   </body>
 
+  <div class="lightbox hidden" id="lightbox">
+    <img id="lightboxImg" src="#!">
+  </div>
+
   <link href="https://fonts.googleapis.com/css?family=Nunito:400,800" rel="stylesheet">
+
+  <script type="text/javascript" src="/assets/js/lightbox.js"></script>
 </html>
