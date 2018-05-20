@@ -65,6 +65,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    max-width: 100%;
+    overflow: hidden;
 
     h3 {
       margin: 0;
@@ -73,6 +75,7 @@
 
   form {
     .filter-input {
+      max-width: 80%;
       margin: 0;
       border-top-right-radius: 0;
       border-bottom-right-radius: 0;
@@ -83,6 +86,13 @@
       border-bottom-left-radius: 0;
     }
   }
+
+  @media only screen and (max-width: 549px) {
+    .page-title {
+      flex-direction: column;
+    }
+  }
+
 
   .nothing-found {
     padding-bottom: 3rem;
