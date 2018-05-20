@@ -287,6 +287,12 @@ footer div:first-child {
   margin-right: 2rem;
 }
 
+.webring {
+  max-height: 1.1rem;
+  display: inline-block;
+  vertical-align: middle;
+}
+
 @media only screen and (max-width: 549px) {
   footer div {
     margin-bottom: 1rem;
