@@ -1,0 +1,10 @@
+<div class="color-container">
+  {% assign colors = include.color | split: ', ' %}
+  {% for color in colors %}
+  <div class="include-color" style="background-color: {{ color }}">
+    <div class="color-info">
+      <div>{{ color }}</div>
+    </div>
+  </div>
+  {% endfor %}
+</div>

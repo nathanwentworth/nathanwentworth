@@ -5,24 +5,31 @@ layout: default
 {% include header.html %}
 
   <div class="archive outer-container">
-    <h1 class="page-title">{{ page.title }}</h1>
+    <div class="page-title">
+      <h1>{{ page.title }}</h1>
+      <form class="filter-form" onsubmit="return false">
+        <input id="filter-input" type="text" class="filter-input" name="filter-input" placeholder="tag, year, or title"><input id="submit" type="submit" class="filter-submit" name="filter-submit" value="filter">
+      </form>
+    </div>
     <div class="list">
       {% assign posts = site[page.collection] | sort: 'date' %}
+        <ul class="no-indent">
       {% for entry in posts reversed %}
-        {% assign currentdate = entry.date | date: "%Y" %}
-        {% if currentdate != date %}
-          {% unless forloop.first %}</ul>{% endunless %}
-          <h2 class="section-title"><a href="#{{entry.date | date: "%Y"}}" id="{{entry.date | date: "%Y"}}">{{ currentdate }}</a></h2>
-          <ul class="no-indent">
-          {% assign date = currentdate %}
-        {% endif %}
-          <li>
-            <h3><a class="title{% if entry.exturl %} exturl{% endif %}" href="{% if entry.exturl %}{{ entry.exturl }}{% else %}{{ site.github.url }}{{ entry.url }}{% endif %}">{{ entry.title }}</a></h3>
+
+          <li class="entry" data-t="{{ entry.tags | join: '|' }}{% if entry.tags.size > 0 %}|{% endif %}{{ entry.title | downcase }}" data-y="{{ entry.date | date: '%Y' }}" data-c="{{ entry.type }}">
+            <div class="title-container">
+              <h3><a class="title{% if entry.exturl %} exturl{% endif %}" href="{% if entry.exturl %}{{ entry.exturl }}{% else %}{{ site.github.url }}{{ entry.url }}{% endif %}">{{ entry.title }}</a></h3>
+              <a href="#y:{{entry.date | date: '%Y'}}" class="tag">{{entry.date | date: '%Y'}}</a>
+            </div>
+            {% if entry.excerpt %}
             <blockquote>{{ entry.excerpt | remove: '<p>' | remove: '</p>'  }}</blockquote>
+            {% endif %}
           </li>
-        {% if forloop.last %}</ul>{% endif %}
       {% endfor %}
+      </ul>
     </div>
+    <div id="nothing-found" class="nothing-found hidden"></div>
+    <button id="clear-filter" class="clear-filter">Clear filter</button>
   </div>
 
 

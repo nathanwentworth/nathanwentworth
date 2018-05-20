@@ -3,13 +3,18 @@
           box-sizing: border-box;
 }
 
-::-moz-selection { background:#f1f211; text-shadow: none;}
-::selection { background:#f1f211; text-shadow: none;}
+::-moz-selection { background-color: #f1f211; text-shadow: none;}
+::selection { background-color: #f1f211; text-shadow: none;}
+
+pre ::-moz-selection { background-color: #4E5A65; }
+pre ::selection { background-color: #4E5A65; }
 
 body {
   background-color: $bg-color;
   color: $text-color;
-  font-family: 'Nunito', sans-serif;
+  /*font-family: 'Nunito', sans-serif;*/
+  font-family: 'Rubik', sans-serif;
+  /*font-family: 'Work Sans', sans-serif;*/
   margin: 0;
 }
 
@@ -37,12 +42,87 @@ main.w-wide {
   max-width: $w-wide;
 }
 
+.color-container {
+  display: flex;
+  width: 100%;
+  align-items: flex-start;
+  border-radius: $border-radius;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+.include-color {
+  height: 100%;
+  width: 100%;
+  flex: 1;
+  padding-bottom: 20%;
+  position: relative;
+
+  .color-info {
+    text-transform: uppercase;
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+    background-color: #f1f2f3;
+    padding: 0.5rem;
+    border-radius: #{$border-radius / 2};
+  }
+}
+
 code {
-  color: #2A3937;
-  background: #EFEEF7;
+  font-family: monaco, menlo, 'Consolas', monospace;
+  font-size: 0.85rem;
+  background-color: #343D46;
+  color: #D8DEE9;
   padding: 0.1em;
   border-radius: 0.25em;
 }
+
+button {
+  background: #d4d4d4;
+  border: none;
+  padding: 0.5em;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+input[type="text"] {
+  background: #d6d6d6;
+  border: none;
+  border-radius: 4px;
+  padding: 0.4rem;
+  font-size: 1rem;
+  transition: background 0.2s;
+}
+
+input[type="text"]:focus {
+  background: #DDDDDD;
+}
+
+input[type="submit"],
+button {
+  background: #CCCCCC;
+  border: none;
+  border-radius: 4px;
+  padding: 0.4rem;
+  font-size: 1rem;
+  transition: background 0.2s;
+}
+
+input[type="submit"]:focus,
+button {
+  background: #DDDDDD;
+}
+
+.tag {
+  display: inline-block;
+  padding: 0.25em 0.4em;
+  margin-right: 0.1rem;
+  background-color: #ccc;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+
 
 blockquote {
   border-left: 2px solid $light-text;
@@ -256,7 +336,7 @@ footer div:first-child {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-color: #191A1B;
+  background-color: #222324;
   display: block;
   visibility: visible;
   cursor: zoom-out;

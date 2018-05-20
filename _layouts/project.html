@@ -1,32 +1,40 @@
 ---
 layout: default
 ---
+<base href="/assets/img{{ page.url }}">
 <main {% if page.width %} class="w-{{ page.width }}"{% else %} class="w-slim" {% endif %}>
 {% include header.html %}
 
 <div class="project outer-container">
   <div class="content-container">
-    {% if page.image %}
     {% unless page.hide_image %}
+    {% if page.lg_image %}
+      <img class="main-image" src="{{ page.lg_image }}">
+    {% elsif page.image %}
       <img class="main-image" src="/assets/img/home/{{ page.image }}">
-    {% endunless %}
     {% endif %}
+    {% endunless %}
 
     <div class="info">
-      <h1 class="info-section bold page-title">{{ page.title }}</h1>
+      <div class="info-section info-upper">
+        <h1 class="bold page-title">{{ page.title }}</h1>
+        <a class="tag" href="/{{ page.collection }}/#y:{{ page.date | date:"%Y" }}" title="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date:"%Y" }}</a>
+      </div>
 
-      {% unless page.hide_date %}
-      <div class="info-section">{{ page.date | date:"%Y-%m-%d" }}</div>
-      {% endunless %}
-
-      {% unless page.hide_aside %}
       {% unless page.hide_tags %}
-      {% if page.tags %}
-        <div class="info-section"><span class="bold">tags:</span> {{ page.tags | join:', ' }}</div>
+      {% if page.tags and page.tags.size > 0 %}
+      <div class="info-section">
+        {% for tag in page.tags %}
+          <a href="/{{ page.collection }}/#t:{{ tag | downcase }}" class="tag"># {{ tag }}</a>
+        {% endfor %}
+      </div>
       {% endif %}
       {% endunless %}
 
-      <div class="info-section"><span class="bold">type:</span> <a href="/{{ page.type }}" title="{{ page.type }}">{{ page.type }}</a></div>
+      {% unless page.hide_aside %}
+      {% if page.type %}
+      <div class="info-section"><a href="/{{ page.type }}" title="{{ page.type }}" class="tag">/ {{ page.type }}</a></div>
+      {% endif %}
 
       {% if page.repo %}
       <div class="info-section"><a href="{{ page.repo }}" title="Source repository for {{ page.title }}">source code</a></div>

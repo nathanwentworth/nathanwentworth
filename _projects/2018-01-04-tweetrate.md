@@ -1,7 +1,7 @@
 ---
 title: "tweetrate"
 type: [web]
-tags: [Node, Express, JavaScript, HTML, APIs]
+tags: [node, express, javascript, html, apis]
 exturl: https://tweetrate.herokuapp.com/
 archive: true
 ---

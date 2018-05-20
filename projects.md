@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: "Project Archive"
+title: "Projects"
 collection: projects
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Writer's Flock"
 type: [game]
-tags: [Unity, C#]
+tags: [code, javascript, html, css]
 archive: true
 ---
 A local-multiplayer party/cooperative writing game in which all players try to write the best story, all based on other players' sentences. Made in two days for Global Game Jam 2018.

@@ -34,16 +34,14 @@ layout: default
     {% endfor %}
   </div>
 
-  <!-- <hr class="small"> -->
-
   <div class="columns lower">
     <div class="column-item">
-      <h1 class="page-title red"><a href="/all/" class="red">Other Projects</a></h1>
+      <h1 class="page-title red"><a href="/projects/" class="red">Other Projects</a></h1>
       <ul class="no-indent">
       {% for entry in site.projects reversed %}
       {% if entry.archive %}
         <li class="archive-entry">
-          <a class="title" href="{% if entry.exturl %}{{ entry.exturl }}{% else %}{{ site.github.url }}{{ entry.url }}{% endif %}">{{ entry.title }}</a> <span class="date">{{ entry.date | date:"%Y" }}</span>
+          <a class="title" href="{% if entry.exturl %}{{ entry.exturl }}{% else %}{{ site.github.url }}{{ entry.url }}{% endif %}">{{ entry.title }}</a> <a class="date" href="/projects/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>
         </li>
       {% endif %}
       {% endfor %}
