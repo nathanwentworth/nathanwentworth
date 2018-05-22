@@ -1,7 +1,6 @@
 ---
 title: Anyways Magazine
-type: web
-tags: [JavaScript, jQuery]
+tags: [JavaScript, jQuery, web]
 image: anyways-sm.png
 exturl: http://anywaysmagazine.com/issue/two/
 ---

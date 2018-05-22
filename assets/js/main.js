@@ -3,7 +3,6 @@
 let entries = null;
 let pageTitle = null;
 let nothingFound = null;
-let sectionTitles = null;
 let filterInput = null;
 let btnSubmit = null;
 let btnClear = null;
@@ -22,8 +21,7 @@ window.addEventListener('load', function () {
   }, false);
 
   entries = document.querySelectorAll('.entry');
-  sectionTitles = document.querySelectorAll('.section-title');
-  pageTitle = document.querySelector('.page-title');
+  pageTitle = document.querySelector('.archive-title');
   nothingFound = document.querySelector('#nothing-found');
   filterInput = document.querySelector('#filter-input');
   btnSubmit = document.querySelector('#submit');
@@ -43,7 +41,6 @@ window.addEventListener('load', function () {
 });
 
 function filter(match) {
-  console.log('match ' + match)
   if (match.length < 1 || match === '#') {
     location.hash = '';
     clearFilter();
@@ -66,6 +63,7 @@ function filter(match) {
 
   currentTag = currentTag.toLowerCase();
   filterInput.value = currentTag;
+  pageTitle.className = 'archive-title' + ' tag--' + currentTag.replace(' ', '-');
 
   let amountShown = 0;
 
@@ -110,6 +108,8 @@ function clearFilter() {
   if (!filterInput) {
     return;
   }
+
+  pageTitle.className = 'archive-title'
   toggleNothingFound(true);
   if (btnClear) {
     btnClear.classList.add('hidden');

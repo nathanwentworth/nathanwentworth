@@ -1,9 +1,9 @@
 ---
 title: "Suki's Soul Food"
-type: [game]
-tags: [Unity, C Sharp, game jam]
+tags: [Unity, C Sharp, game jam, game]
 image: sukis-soul-food-sm.png
 repo: https://github.com/TheConBot/Cat-In-a-Truck
+download: https://wickedly.itch.io/sukis-soul-food
 ---
 First-person cooking game, where you make cat food for cats. Made in a week for the [Games Made Quick 1½](https://itch.io/jam/games-made-quick-one-and-a-half) jam. [Download](https://wickedly.itch.io/sukis-soul-food) [Source](https://github.com/theconbot/Cat-In-a-Truck)
 

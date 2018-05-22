@@ -1,7 +1,6 @@
 ---
 title: DECK DUNGEON
-type: [game]
-tags: [HTML, CSS, JavaScript, Electron, illustration, game jam]
+tags: [HTML, CSS, JavaScript, Electron, illustration, game jam, game]
 image: deck-dungeon-sm.png
 lg_image: deck-dungeon-s-01.png
 download: https://nathanwentworth.itch.io/deck-dungeon

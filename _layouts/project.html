@@ -32,10 +32,6 @@ layout: default
       {% endunless %}
 
       {% unless page.hide_aside %}
-      {% if page.type %}
-      <div class="info-section"><a href="/{{ page.type }}" title="{{ page.type }}" class="tag">/ {{ page.type }}</a></div>
-      {% endif %}
-
       {% if page.repo or page.download %}
       <div class="info-section">
         {% if page.repo %}
@@ -46,7 +42,6 @@ layout: default
         {% endif %}
       </div>
       {% endif %}
-
       {% endunless %}
 
     </div class="info">

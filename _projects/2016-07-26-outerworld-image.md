@@ -1,7 +1,7 @@
 ---
 title: Outerworld Image
-type: game
-tags: [Unity, C#]
+type: 
+tags: [Unity, C Sharp, game]
 image: outerworld-image-sm.jpg
 exturl: https://wickedly.itch.io/outerworld-image
 archive: true

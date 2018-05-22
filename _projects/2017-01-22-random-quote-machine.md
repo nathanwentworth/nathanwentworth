@@ -1,7 +1,6 @@
 ---
 title: Random Quote Machine
-type: [web]
-tags: [HTML, CSS, JavaScript, APIs]
+tags: [HTML, CSS, JavaScript, APIs, web]
 image: random-quote-sm.png
 exturl: https://codepen.io/nathanwentworth/full/mRmXWN/
 archive: true

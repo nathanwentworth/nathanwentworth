@@ -1,7 +1,6 @@
 ---
 title: "The Good Project"
-type: [web]
-tags: [HTML, CSS, JavaScript, Angular]
+tags: [HTML, CSS, JavaScript, Angular, web]
 image: the-good-project-sm.jpg
 exturl: http://thegoodproject.org/modules/dilemmasdecisions/
 ---

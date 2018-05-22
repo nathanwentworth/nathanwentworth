@@ -1,10 +1,8 @@
 ---
 title: Browser Extensions
-type: web
-tags: [html, css, javascript, browser extensions]
+tags: [html, css, javascript, browser extensions, web]
 image: extensions-sm.png
 hide_image: true
-hide_date: true
 ---
 Various browser extensions for Chrome and Firefox, mainly new tab pages and utilities, including [new tab links](/projects/new-tab-links/), [time tab](/projects/time-tab/), and [twitter origifier](/projects/twitter-origifier/).
 

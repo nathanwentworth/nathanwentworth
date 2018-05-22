@@ -1,9 +1,4 @@
-.archive {
-  background: $bg-dark;
-  border-radius: $border-radius;
-  padding-bottom: 2rem;
-
-  .page-title {
+.archive-title {
     padding: 1rem;
     background-color: #e6e6e6;
     border-top-left-radius: 8px;
@@ -16,7 +11,12 @@
     h1 {
       margin: 0;
     }
-  }
+}
+
+.archive {
+  background: $bg-dark;
+  border-radius: $border-radius;
+  padding-bottom: 2rem;
 
   .list {
     padding: 1rem;

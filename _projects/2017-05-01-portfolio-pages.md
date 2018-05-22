@@ -1,7 +1,6 @@
 ---
 title: Commissioned Portfolio Sites
-type: web
-tags: [HTML, CSS, JavaScript]
+tags: [HTML, CSS, JavaScript, web]
 image: portfolios.gif
 archive: true
 ---

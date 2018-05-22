@@ -1,7 +1,6 @@
 ---
 title: new tab links
-type: web
-tags: [html, css, javascript, browser extension]
+tags: [HTML, CSS, JavaScript, browser extension, web]
 image: new-tab-links.gif
 archive: true
 ---

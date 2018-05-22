@@ -5,7 +5,7 @@ title: "nathan wentworth ✨"
 email: me@nathanwentworth.co
 description: "Unity C# game programmer, Javascript web developer"
 full_description: |
-  Hi! I'm nathan wentworth, I make [video games](/game) and [websites](/web). I like using vanilla/ES6 [JavaScript](/projects/#t:javascript), [Unity C#](/projects/#t:unity), and Python. Recently I've been into making CLI tools and server-side web apps.
+  Hi! I'm nathan wentworth, I make [video games](/projects/#t:game) and [websites](/projects/#t:web). I like using vanilla/ES6 [JavaScript](/projects/#t:javascript), [Unity C#](/projects/#t:unity), and [Python](/projects/#t:python). Recently I've been into making CLI tools and server-side web apps.
 
   I'm interested in design, open source software, minimalism, fashion, and the intersection of technology and humanity. I like [fun music](https://soundcloud.com/nathanwentworth/sets/fav), video games, and [taking photos](/photos).
 
@@ -16,7 +16,6 @@ baseurl: ""
 url: "https://nathanwentworth.co"
 twitter_username: nathanwentworth
 github_username: nathanwentworth
-facebook_username: nthnww
 permalink: /:collection/:title/
 author: "Nathan Wentworth"
 

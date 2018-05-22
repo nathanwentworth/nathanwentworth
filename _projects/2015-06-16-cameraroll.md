@@ -1,7 +1,6 @@
 ---
 title: cameraroll
-type: web
-tags: [HTML, CSS, PHP]
+tags: [HTML, CSS, PHP, web]
 image: cameraroll-sm.jpg
 exturl: https://obscure-stream-48507.herokuapp.com/
 archive: true
