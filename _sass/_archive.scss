@@ -44,23 +44,6 @@
     margin-bottom: 0;
   }
 
-  .section-title {
-    font-size: 2rem;
-    border-bottom: 2px solid #e6e6e6;
-    margin-top: 4rem;
-
-    &:first-child {
-      margin-top: 0;
-    }
-    &::before {
-      content:'# ';
-    }
-
-    a {
-      text-decoration: none;
-    }
-  }
-
   .title-container {
     display: flex;
     align-items: center;
@@ -88,7 +71,7 @@
   }
 
   @media only screen and (max-width: 549px) {
-    .page-title {
+    .archive-title {
       flex-direction: column;
     }
   }
