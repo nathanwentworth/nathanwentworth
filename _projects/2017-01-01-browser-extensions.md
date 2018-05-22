@@ -1,6 +1,6 @@
 ---
 title: Browser Extensions
-tags: [html, css, javascript, browser extensions, web]
+tags: [HTML, CSS, JavaScript, browser extension, web]
 image: extensions-sm.png
 hide_image: true
 ---

@@ -1,53 +1,82 @@
-.tag-yellow { background-color: #ff5; }
+/* Tag colors */
+
+.tag-yellow,
+.tag-yellow:visited,
+.tag-yellow:link { background-color: #ff5; }
 a.tag-yellow:hover { color: #555; }
+
+
 .tag-purple,
 .tag-purple:visited,
 .tag-purple:link { background-color: #6528DD; color: #fff; }
 a.tag-purple:hover { color: #ccc; }
+
 .tag--javascript,
 .tag--javascript:visited,
 .tag--javascript:link { background-color: #f1e05a; }
 a.tag--javascript:hover { color: #555; }
+
 .tag--cli,
 .tag--cli:visited,
 .tag--cli:link { background-color: #222; color: #5f5; }
 a.tag--cli:hover { color: #ccc; }
+
 .tag--css,
 .tag--css:visited,
 .tag--css:link { background-color: #563d7c; color: #fff; }
 a.tag--css:hover { color: #ccc; }
+
 .tag--html,
 .tag--html:visited,
 .tag--html:link { background-color: #e44b23; color: #fff; }
 a.tag--html:hover { color: #ccc; }
+
+.tag--php,
+.tag--php:visited,
+.tag--php:link { background-color: #4F5D95; color: #fff; }
+a.tag--php:hover { color: #ccc; }
+
 .tag--electron,
 .tag--electron:visited,
 .tag--electron:link { background-color: #2F3241; color: #fff; }
 a.tag--electron:hover { color: #ccc; }
+
+.tag--angular,
+.tag--angular:visited,
+.tag--angular:link { background-color: #DD1B16; color: #fff; }
+a.tag--angular:hover { color: #ccc; }
+
 .tag--node,
 .tag--node:visited,
 .tag--node:link { background-color: #026E00; color: #fff; }
 a.tag--node:hover { color: #ccc; }
+
 .tag--express:visited,
 .tag--express:link { background-color: #EEEEEE; color: #222; }
 a.tag--express:hover { color: #555; }
+
 .tag--c-sharp,
 .tag--c-sharp:visited,
 .tag--c-sharp:link { background-color: #178600; color: #fff; }
 a.tag--c-sharp:hover { color: #ccc; }
+
 .tag--unity,
 .tag--unity:visited,
 .tag--unity:link { background-color: #00BCD4; color: #fff; }
 a.tag--unity:hover { color: #ccc; }
+
 .tag--maya,
 .tag--maya:visited,
 .tag--maya:link { background-color: #00AAAA; color: #fff; }
 a.tag--maya:hover { color: #ccc; }
+
 .tag--python,
 .tag--python:visited,
 .tag--python:link { background-color: #3572A5; color: #fff; }
 a.tag--python:hover { color: #ccc; }
+
 .tag--tumblr,
 .tag--tumblr:visited,
 .tag--tumblr:link { background-color: #36465D; color: #fff; }
 a.tag--tumblr:hover { color: #ccc; }
+

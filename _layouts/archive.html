@@ -32,6 +32,13 @@ layout: default
     <button id="clear-filter" class="clear-filter">Clear filter</button>
   </div>
 
+<!--   <div class="archive outer-container">
+    {% assign col_tags =  site[page.collection] | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
+    {% for tag in col_tags %}
+    <a href="/{{ page.collection }}/#t:{{ tag | downcase }}" class="tag tag--{{ tag | downcase | replace: ' ', '-' }}"># {{ tag }}</a>
+    {% endfor %}
+  </div>
+ -->
 
 {% include footer.html %}
 </main>
