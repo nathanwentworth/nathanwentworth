@@ -23,9 +23,9 @@ layout: default
 
       {% unless page.hide_tags %}
       {% if page.tags and page.tags.size > 0 %}
-      <div class="info-section">
+      <div class="info-section tags">
         {% for tag in page.tags %}
-          <a href="/{{ page.collection }}/#t:{{ tag | downcase }}" class="tag"># {{ tag }}</a>
+          <a href="/{{ page.collection }}/#t:{{ tag | downcase }}" class="tag tag--{{ tag | downcase | replace: ' ', '-' }}"># {{ tag }}</a>
         {% endfor %}
       </div>
       {% endif %}
@@ -36,8 +36,15 @@ layout: default
       <div class="info-section"><a href="/{{ page.type }}" title="{{ page.type }}" class="tag">/ {{ page.type }}</a></div>
       {% endif %}
 
-      {% if page.repo %}
-      <div class="info-section"><a href="{{ page.repo }}" title="Source repository for {{ page.title }}">source code</a></div>
+      {% if page.repo or page.download %}
+      <div class="info-section">
+        {% if page.repo %}
+        <a class="tag tag-yellow" href="{{ page.repo }}" title="Source repository for {{ page.title }}">source code</a>
+        {% endif %}
+        {% if page.download %}
+        <a class="tag tag-purple" href="{{ page.download }}" title="Download link for {{ page.title }}">download</a>
+        {% endif %}
+      </div>
       {% endif %}
 
       {% endunless %}

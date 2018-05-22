@@ -1,9 +1,10 @@
 ---
 title: nathanwentworth.co
 type: web
-tags: [html, css, javascript]
+tags: [HTML, CSS, JavaScript]
 archive: true
 excerpt: "This website."
+repo: https://github.com/nathanwentworth/nathanwentworth
 ---
 
 ![Screenshot from 2018](Screen-Shot-2018-05-17-at-15.53.25-fullpage.jpg)

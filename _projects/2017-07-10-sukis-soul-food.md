@@ -1,7 +1,7 @@
 ---
 title: "Suki's Soul Food"
 type: [game]
-tags: [unity, c#, game jam]
+tags: [Unity, C Sharp, game jam]
 image: sukis-soul-food-sm.png
 repo: https://github.com/TheConBot/Cat-In-a-Truck
 ---

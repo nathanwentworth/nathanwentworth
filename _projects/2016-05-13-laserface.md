@@ -1,7 +1,7 @@
 ---
 title: LASERFACE
 type: game
-tags: [unity, c#, vr]
+tags: [Unity, C Sharp, VR]
 image: laserface-title-sm.jpg
 archive: true
 ---

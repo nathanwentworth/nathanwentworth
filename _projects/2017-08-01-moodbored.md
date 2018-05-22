@@ -1,8 +1,37 @@
 ---
 title: "moodbored"
 type: [web]
-tags: [HTML, CSS, JavaScript, Node.js, Electron]
+tags: [HTML, CSS, JavaScript, Node, Electron]
 image: moodbored-sm.jpg
-exturl: https://github.com/nathanwentworth/moodbored
+lg_image: Screen Shot 2018-05-21 at 8.02.41 pm.jpg
+_exturl: https://github.com/nathanwentworth/moodbored
+repo: https://github.com/nathanwentworth/moodbored
 ---
 Moodboard/inspiration collection app made in electron, pulls from a local folder and shows you a grid of images with subdirectory navigator. Tons of customizable options. [Download](https://github.com/nathanwentworth/moodbored/releases/latest) [Source](https://github.com/nathanwentworth/moodbored)
+
+# Features
+
+- View folders of images on your computer
+- Change css to suit your style (dark background? rounded corners? etc)
+- Drag images from your computer or web browser directly into the gallery to add to the current folder, or onto a folder name to add to that folder instead
+- Drag a folder into the view to open a new directory
+- Protip: have the directory be a cloud-synced folder (Dropbox, Google Drive, etc) and have it update across computers
+  - OR, have it be a shared cloud-synced folder to have a collaborative moodbored/inspiration folder
+
+# Screenshots
+
+![moodbored screenshot](Screen Shot 2018-05-21 at 8.03.03 pm.jpg)
+
+![moodbored screenshot](Screen Shot 2018-05-21 at 8.03.41 pm.jpg)
+Left sidebar, lots of columns
+
+![moodbored screenshot](Screen Shot 2018-05-21 at 8.04.09 pm.jpg)
+Right sidebar
+
+![moodbored screenshot](Screen Shot 2018-05-21 at 8.04.22 pm.jpg)
+Four columns, no sidebar
+
+![moodbored screenshot](Screen Shot 2018-05-21 at 8.05.18 pm.jpg)
+
+![moodbored screenshot](Screen Shot 2018-05-21 at 8.19.46 pm.jpg)
+Dark background

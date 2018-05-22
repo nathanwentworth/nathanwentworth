@@ -1,9 +1,10 @@
 ---
 title: DECK DUNGEON
 type: [game]
-tags: [html, css, javascript, electron, illustration, game jam]
+tags: [HTML, CSS, JavaScript, Electron, illustration, game jam]
 image: deck-dungeon-sm.png
 lg_image: deck-dungeon-s-01.png
+download: https://nathanwentworth.itch.io/deck-dungeon
 ---
 Card-based dungeon-crawling game made for the Games Made Quick jam. Featured on [Warp Door](http://warpdoor.com/2017/01/23/deck-dungeon-nathan-wentworth/), [Jupiter Hadley](https://www.youtube.com/watch?v=11tkXjJGpCQ), [Team Know How](https://www.teamknowhow.com/discover/discover/top-free-mac-games#Deck%20Dungeon), and others.
 
@@ -11,7 +12,7 @@ One of the suggestions of the game jam was to use something you haven't used bef
 
 Heavily inspired by [Donsol](https://hundredrabbits.itch.io/donsol) by [Hundred Rabbits](http://100r.co/)
 
-[Play online](https://nathanwentworth.co/deck-dungeon), [download on itch.io](https://nathanwentworth.itch.io/deck-dungeon)
+[Play online](https://nathanwentworth.co/deck-dungeon)
 
 ## Screenshots
 

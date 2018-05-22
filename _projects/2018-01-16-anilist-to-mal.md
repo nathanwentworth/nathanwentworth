@@ -1,7 +1,7 @@
 ---
 title: "AniList to MAL"
 type: [command line]
-tags: [python, cli, utility, code, apis]
+tags: [Python, cli, utility, code, APIs]
 archive: true
 repo: https://github.com/nathanwentworth/anilist-to-mal
 ---
