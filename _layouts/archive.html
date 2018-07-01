@@ -22,7 +22,7 @@ layout: default
               <a href="#y:{{entry.date | date: '%Y'}}" class="tag">{{entry.date | date: '%Y'}}</a>
             </div>
             {% if entry.excerpt %}
-            <blockquote>{{ entry.excerpt | remove: '<p>' | remove: '</p>'  }}</blockquote>
+            <blockquote class="project-description">{{ entry.excerpt | remove: '<p>' | remove: '</p>'  }}</blockquote>
             {% endif %}
           </li>
       {% endfor %}
@@ -42,3 +42,4 @@ layout: default
 
 {% include footer.html %}
 </main>
+<script type="text/javascript" src="/assets/js/main.js"></script>

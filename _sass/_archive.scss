@@ -13,6 +13,18 @@
     }
 }
 
+.project-description {
+  margin: 0;
+  padding: 1rem;
+  background: #e6e6e6;
+  border-radius: $border-radius;
+  margin-top: 1rem;
+  border: 0;
+  border-left: $border-radius solid #dbdbdb;
+  line-height: 1.4;
+}
+
+
 .archive {
   background: $bg-dark;
   border-radius: $border-radius;
@@ -93,16 +105,6 @@
     font-weight: bold;
     font-size: 1.5rem;
     text-decoration: none;
-  }
-
-  blockquote {
-    margin: 0;
-    padding: 1rem;
-    background: #e6e6e6;
-    border-radius: $border-radius;
-    margin-top: 1rem;
-    border: 0;
-    border-left: $border-radius solid #dbdbdb;
   }
 }
 

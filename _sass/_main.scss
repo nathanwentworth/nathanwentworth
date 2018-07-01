@@ -37,7 +37,7 @@ img { max-width: 100%; }
 
 main {
   max-width: $w-wide;
-  width: 90%;
+  width: calc(100% - 3.5rem);
   margin: auto;
 }
 main.w-slim {
