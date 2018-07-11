@@ -18,7 +18,7 @@ layout: default
 
           <li class="entry" data-t="{{ entry.tags | join: '|' }}{% if entry.tags.size > 0 %}|{% endif %}{{ entry.title | downcase }}" data-y="{{ entry.date | date: '%Y' }}" data-c="{{ entry.type }}">
             <div class="title-container">
-              <h3><a class="title{% if entry.exturl %} exturl{% endif %}" href="{% if entry.exturl %}{{ entry.exturl }}{% else %}{{ site.github.url }}{{ entry.url }}{% endif %}">{{ entry.title }}</a></h3>
+              <h3><a class="title" href="{{ site.github.url }}{{ entry.url }}">{{ entry.title }}</a></h3>
               <a href="#y:{{entry.date | date: '%Y'}}" class="tag">{{entry.date | date: '%Y'}}</a>
             </div>
             {% if entry.excerpt %}

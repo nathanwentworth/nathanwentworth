@@ -32,13 +32,16 @@ layout: default
       {% endunless %}
 
       {% unless page.hide_aside %}
-      {% if page.repo or page.download %}
+      {% if page.repo or page.download or page.exturl %}
       <div class="info-section">
         {% if page.repo %}
         <a class="tag tag-yellow" href="{{ page.repo }}" title="Source repository for {{ page.title }}">source code</a>
         {% endif %}
         {% if page.download %}
         <a class="tag tag-purple" href="{{ page.download }}" title="Download link for {{ page.title }}">download</a>
+        {% endif %}
+        {% if page.exturl %}
+        <a class="tag tag-purple" href="{{ page.exturl }}" title="External link for {{ page.title }}">visit page</a>
         {% endif %}
       </div>
       {% endif %}

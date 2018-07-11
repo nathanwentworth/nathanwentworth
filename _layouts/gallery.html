@@ -21,7 +21,7 @@ layout: default
   <div class="projects columns">
     {% for post in posts %}
     <div class="project-item column-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}">
-      <a class="main-links" href="{% if post.exturl %}{{ post.exturl }}{% else %}{{ post.url }}{% endif %}">
+      <a class="main-links" href="{{ post.url }}">
         <div class="image {{ bgcolors | sample }}" {% if post.image %} style="background-image: url('/assets/img/home/{{ post.image }}')" {% endif %}>
           {% if post.image %}
           <img class="hidden" src="/assets/img/home/{{ post.image }}">
