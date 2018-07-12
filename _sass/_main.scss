@@ -14,7 +14,7 @@ body {
   color: $text-color;
   /*font-family: 'Nunito', sans-serif;*/
   /*font-family: 'Rubik', sans-serif;*/
-  font-family: sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   /*font-family: 'Work Sans', sans-serif;*/
   margin: 0;
 }
@@ -78,7 +78,7 @@ main.w-wide {
 }
 
 code {
-  font-family: monaco, menlo, 'Consolas', monospace;
+  font-family: 'monaco', 'menlo', 'Consolas', monospace;
   font-size: 0.85rem;
   background-color: #ccc;
   color: #000;
