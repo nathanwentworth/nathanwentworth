@@ -27,6 +27,8 @@
 
   .content {
     padding: 1rem;
+    font-size: 1.1rem;
+    text-rendering: optimizeLegibility;
 
     img,
     div.highlighter-rouge,
@@ -106,11 +108,14 @@
   }
 
   @media only screen and (max-width: 549px) {
+    .project .content {
+      padding: 0.8rem;
+    }
     .content img,
     .content div.highlighter-rouge,
     .color-container {
-      max-width: calc(100% + 3rem);
-      margin-left: -1.5rem;
+      max-width: calc(100% + 2rem);
+      margin-left: -1rem;
       border-radius: #{$border-radius / 2};
     }
     .content div.highlighter-rouge,
