@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
+{% if page.collection == 'ppages' %}
+<base href="/assets/img/ppages{{ page.url }}">
+{% else %}
 <base href="/assets/img{{ page.url }}">
+{% endif %}
 <main {% if page.width %} class="w-{{ page.width }}"{% else %} class="w-slim" {% endif %}>
 {% include header.html %}
 
@@ -18,7 +22,9 @@ layout: default
     <div class="info">
       <div class="info-section info-upper">
         <h1 class="bold page-title">{{ page.title }}</h1>
+        {% if page.date %}
         <a class="tag" href="/{{ page.collection }}/#y:{{ page.date | date:"%Y" }}" title="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date:"%Y" }}</a>
+        {% endif %}
       </div>
 
       {% unless page.hide_tags %}

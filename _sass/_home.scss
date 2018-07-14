@@ -3,6 +3,7 @@
 .project-item .main-links {
   border-bottom: none;
   text-decoration: none;
+  display: block;
 }
 
 .project-item .image {
@@ -34,10 +35,6 @@
   margin: 0.6em 0;
 }
 
-.title {
-  color: $text-color;
-}
-
 .columns {
   margin: auto;
   display: -webkit-box;
@@ -57,6 +54,9 @@
   padding: 1rem;
 }
 .lower .page-title {
+  margin-top: 2rem;
+}
+.lower .page-title:first-of-type {
   margin-top: 0;
 }
 .lower ul {
@@ -74,6 +74,11 @@
       flex-shrink: 0;
 }
 
+.home-portrait {
+  border-radius: $border-radius;
+  width: 50%;
+}
+
 .home li {
   list-style: none;
 }
@@ -87,24 +92,11 @@
   margin-left: 0.75em;
   font-size: 0.85em;
   text-decoration: none;
+  border-bottom: none;
 }
 
 .selected {
   background-color: darken($bg-color, 5%) !important;
-}
-
-.filter {
-  position: fixed;
-  background: #e3e3e3;
-  padding: 6px;
-  border-radius: 6px;
-  cursor: default;
-  top: -2.5rem;
-  transition: top .5s;
-}
-
-.filter-on {
-  top: 1rem;
 }
 
 .hidden {
