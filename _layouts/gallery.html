@@ -42,7 +42,7 @@ layout: default
       {% for entry in projects limit: 20 %}
       {% if entry.archive %}
         <li class="archive-entry">
-          <a class="title" href="{% if entry.exturl %}{{ entry.exturl }}{% else %}{{ site.github.url }}{{ entry.url }}{% endif %}">{{ entry.title }}</a> <a class="date" href="/projects/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>
+          <a href="{{ site.github.url }}{{ entry.url }}">{{ entry.title }}</a> <a class="date" href="/projects/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>
         </li>
       {% endif %}
       {% endfor %}

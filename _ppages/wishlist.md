@@ -21,8 +21,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ## Things / Tech
 - [Muji Aroma Diffuser](http://www.muji.us/store/ultrasonic-aroma-diffuser.html)
-- [Ugmonk Leather Mousepad](https://shop.ugmonk.com/products/premium-leather-mousepad-natural)
-- [Muji Aluminum Ruler: 15cm](http://www.muji.us/store/aluminum-ruler-15cm.html)
 - Fujifilm X100F
 - **[Raspberry Pi 3 B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)**
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)

@@ -1,47 +1,12 @@
 .project {
 
-  display: flex;
-  align-items: flex-start;
-
-
-  .main-image {
-    border-radius: $border-radius;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-    display: block;
-    width: 100%;
-  }
-
-  .page-title {
-    display: inline-block;
-    margin-top: 0;
-    border-bottom: 1px dotted $blue;
-  }
-  .content-container {
-    margin: auto;
-    border-radius: $border-radius;
-    padding: 0;
-    background-color: $bg-dark;
-    width: 100%;
-  }
-
   .content {
-    padding: 1rem;
-    font-size: 1.1rem;
-    text-rendering: optimizeLegibility;
-
     img,
     div.highlighter-rouge,
     .color-container {
       max-width: calc(100% + 4rem);
       margin-left: -2rem;
       border-radius: #{$border-radius / 2};
-    }
-    img + img {
-      margin-top: 1.35rem;
-    }
-    p {
-      margin-bottom: 1.35rem;
     }
     div.highlighter-rouge,
     .color-container,
@@ -50,12 +15,13 @@
     }
   }
 
-  .content > *:first-child {
-    margin-top: 0;
-  }
-  .content > p:last-child {
-    margin-bottom: 0;
-  }
+  img { display: block; }
+
+  .content { padding: 1rem; }
+  .content p { margin-bottom: 1.35rem; }
+  .content img + img { margin-top: 1.35rem; }
+  .content > *:first-child { margin-top: 0; }
+  .content > *:last-child { margin-bottom: 0; }
 
   .info {
     border-top-left-radius: $border-radius;
@@ -63,27 +29,16 @@
     background-color: #e6e6e6;
     padding: 1rem;
   }
+  .main-image {
+    border-radius: $border-radius;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    width: 100%;
+  }
+
   .main-image + .info {
     border-top-left-radius: 0;
     border-top-right-radius: 0;
-  }
-  .info-section {
-    margin-bottom: 0.5rem;
-    border: none;
-  }
-  .info-section:last-child {
-    margin-bottom: 0;
-  }
-  .info-upper {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 1rem;
-
-    h1 {
-      margin: 0;
-      border-bottom: 0;
-    }
   }
 
 
@@ -124,8 +79,6 @@
     }
   }
 }
-
-
 
 .js .content img {
   cursor: zoom-in;

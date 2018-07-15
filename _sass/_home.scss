@@ -79,9 +79,6 @@
   width: 50%;
 }
 
-.home li {
-  list-style: none;
-}
 .home li::before {
   content: '→';
   font-size: 0.8em;

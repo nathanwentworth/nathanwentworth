@@ -3,9 +3,9 @@ title: Setup
 excerpt: Things I use on a daily basis to code/test/work/etc
 ---
 
-# Hardware
+## Hardware
 
-## Desktop
+### Desktop
 
 ![desktop stats print](Screenshot from 2018-07-11 13-16-26.png)
 
@@ -27,7 +27,7 @@ I initially built this desktop as a replacement for my laptop, but I quickly rea
 
 [PC Part Picker page](https://pcpartpicker.com/user/nathanwentworth/saved/gzfXLk)
 
-## Laptop
+### Laptop
 
 ![laptop stats print](Screen Shot 2018-05-18 at 12.57.00 pm.png)
 
@@ -39,20 +39,20 @@ I use this laptop much less than I used to, mostly due to performance and batter
 - 250Gb SSD
 - NVidia 650M
 
-## Phone
+### Phone
 
 ![phone screenshot as of july 2018](2018-07-14 11.08.48.png)
 
 - iPhone 6S, 128Gb (White)
 
-## Peripherals
+### Peripherals
 
 - Dell U2415h (24", 1920x1200)
 - Apple Magic Keyboard
 - Logitech MX Master 2S
 - Sennheiser HD595
 
-# Software
+## Software
 
 ![sublime text setup](Screen Shot 2018-05-18 at 1.06.23 pm.png)
 
