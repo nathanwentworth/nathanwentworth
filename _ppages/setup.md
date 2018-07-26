@@ -3,15 +3,15 @@ title: Setup
 excerpt: Things I use on a daily basis to code/test/work/etc
 ---
 
-## Hardware
+## Desktop
 
-### Desktop
-
-![desktop stats print](Screenshot from 2018-07-11 13-16-26.png)
+### Hardware
 
 I initially built this desktop as a replacement for my laptop, but I quickly realized that macOS is pretty essential for many of my workflows (WSL is nice, but I prefer a deeper integration with the OS). After a few months as a hackintosh, [I installed Ubuntu, which now acts as its primary OS](/posts/from-mac-to-linux). This computer has become my daily driver for development work and playing games.
 
-- OS: Windows 10, Ubuntu 18.04 LTS
+![desktop stats print](Screenshot from 2018-07-11 13-16-26.png)
+
+- OS: Ubuntu 18.04 LTS, Windows 10
 - CPU: Intel i5-7500 3.4Ghz Quad-Core
 - Motherboard: MSI Z270 SLI PLUS LGA1151
 - RAM: Team Dark 16GB DDR4-2400
@@ -24,14 +24,44 @@ I initially built this desktop as a replacement for my laptop, but I quickly rea
 - GPU: EVGA GTX 770 2Gb
 - Power Supply: EVGA NEX 650W
 - Case: Fractal Design Define R5 (White)
+- Monitor: Dell U2415h (24", 1920x1200)
+- Keyboard: Apple Magic Keyboard
+- Mouse: Logitech MX Master 2S
+- Headphones: Sennheiser HD595
+
 
 [PC Part Picker page](https://pcpartpicker.com/user/nathanwentworth/saved/gzfXLk)
 
-### Laptop
+### Software
 
-![laptop stats print](Screen Shot 2018-05-18 at 12.57.00 pm.png)
+#### Code/Work
+
+![sublime text setup on ubuntu](Screenshot from 2018-07-25 21-32-34.png)
+
+I use [Sublime Text](https://www.sublimetext.com/3) for pretty much everything writing related. I occasionally use vim when sshing into a server, but I still prefer a GUI-based text editor for daily usage. I use the following extensions with it: 
+
+- Theme: Spacegray
+- Color Scheme: Mariana
+- Extensions:
+  - MarkdownEditing
+  - JavaScript Completions
+  - SideBarEnhancements
+  - ColorPicker
+  - Autoprefixer
+
+I use Firefox as my primary browser, with Chromium as my secondary/work browser. I like keeping my personal life on one with work on the other, since that allows me to mentally switch modes easier than if everything was in one profile.
+
+#### Media
+
+- mpv
+- Spotify (reluctantly)
+- RhythmBox
+
+## Laptop
 
 I use this laptop much less than I used to, mostly due to performance and battery life issues. While I love macOS, this computer is definitely near the end of its life.
+
+![laptop stats print](Screen Shot 2018-05-18 at 12.57.00 pm.png)
 
 - 15" Macbook Pro with Retina Display (Late 2013)
 - Intel i7 2.7Ghz Quad-Core
@@ -39,32 +69,44 @@ I use this laptop much less than I used to, mostly due to performance and batter
 - 250Gb SSD
 - NVidia 650M
 
-### Phone
+## Phone
 
 ![phone screenshot as of july 2018](2018-07-14 11.08.48.png)
 
-- iPhone 6S, 128Gb (White)
+I have an iPhone 6S (white, 128gb) that I bought at launch and don't see myself getting rid of any time soon. The battery life isn't amazing, but it gets the job done (and still has a headphone jack!).
 
-### Peripherals
 
-- Dell U2415h (24", 1920x1200)
-- Apple Magic Keyboard
-- Logitech MX Master 2S
-- Sennheiser HD595
+### Software
 
-## Software
+#### Utility
 
-![sublime text setup](Screen Shot 2018-05-18 at 1.06.23 pm.png)
+- Things
+  - Perfect to-do app
+- 1Password
+- OTP Auth
+  - 2FA client
+- 1Writer
+- Halide
+  - camera app with manual controls and RAW support
+- Hello Weather
+- Pinner
+  - pinboard client
 
-- Sublime Text 3
-  - Theme: Spacegray
-  - Color Scheme: Mariana
-  - Extensions:
-    - MarkdownEditing
-    - JavaScript Completions
-    - SideBarEnhancements
-    - ColorPicker
-    - Autoprefixer
-- Firefox
-- Chromium
-- Terminal
+#### Social
+
+- Tweetbot
+- Discord
+
+#### Media
+
+- Doppler
+  - fantastic music player app
+  - allows you to just drag files in from a browser, or import directly from safari
+- Overcast
+  - saved over 24 hours with smart speed
+- Reeder
+- Apple Books
+- nPlayer
+  - all-purpose video player with network support
+- ComicGlass
+  - extremely utilitarian function-over-form manga/comic reader

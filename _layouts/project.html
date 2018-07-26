@@ -12,8 +12,8 @@ layout: default
 <div class="project outer-container">
   <div class="content-container">
     {% unless page.hide_image %}
-    {% if page.lg_image %}
-      <img class="main-image" src="{{ page.lg_image }}">
+    {% if page.image_lg %}
+      <img class="main-image" src="{{ page.image_lg }}">
     {% elsif page.image %}
       <img class="main-image" src="/assets/img/home/{{ page.image }}">
     {% endif %}
@@ -38,17 +38,11 @@ layout: default
       {% endunless %}
 
       {% unless page.hide_aside %}
-      {% if page.repo or page.download or page.exturl %}
+      {% if page.links %}
       <div class="info-section">
-        {% if page.repo %}
-        <a class="tag tag-yellow" href="{{ page.repo }}" title="Source repository for {{ page.title }}">source code</a>
-        {% endif %}
-        {% if page.download %}
-        <a class="tag tag-purple" href="{{ page.download }}" title="Download link for {{ page.title }}">download</a>
-        {% endif %}
-        {% if page.exturl %}
-        <a class="tag tag-purple" href="{{ page.exturl }}" title="External link for {{ page.title }}">visit page</a>
-        {% endif %}
+        {% for link in page.links %}
+          <a class="tag tag-yellow" href="{{ link[1] }}">{{ link[0] }}</a>
+        {% endfor %}
       </div>
       {% endif %}
       {% endunless %}

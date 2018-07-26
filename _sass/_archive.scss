@@ -1,6 +1,6 @@
 .archive-title {
     padding: 1rem;
-    background-color: #e6e6e6;
+    background-color: $bg-dark;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
     margin: 0;
@@ -16,17 +16,18 @@
 .project-description {
   margin: 0;
   padding: 1rem;
-  background: #e6e6e6;
+  background: $bg-dark;
   border-radius: $border-radius;
   margin-top: 1rem;
   border: 0;
-  border-left: $border-radius solid #dbdbdb;
+  border-left: $border-radius solid #cde;
   line-height: 1.4;
 }
 
 
 .archive {
   padding-bottom: 2rem;
+  /*box-shadow: -10px 10px 0 0 #ffc;*/
 
   & > ul {
     padding: 1rem;
@@ -57,6 +58,7 @@
     margin: 0;
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
+    color: #000;
   }
   .filter-submit {
     margin: 0;

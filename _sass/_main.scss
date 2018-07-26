@@ -59,9 +59,13 @@ body {
   font-size: 110%;
 }
 
-a { text-decoration: none; border-bottom: 0.1em dotted; }
-a:link, a:visited {
+a {
   color: $text-color;
+  text-decoration: none;
+  border-bottom: 0.1em dotted;
+}
+a:link, a:visited {
+
 }
 a:hover, a:active, a:focus {
   color: #f55;
@@ -88,7 +92,7 @@ main.w-wide { max-width: $w-wide; }
 
 .content-container {
   border-radius: $border-radius;
-  background-color: $bg-dark;
+  background-color: $bg-mid;
 }
 
 
@@ -200,6 +204,7 @@ blockquote *:first-child {
 h1, h2, h3, h4, h5, .title {
   font-family: 'Rubik', sans-serif;
   letter-spacing: 0.02em; word-spacing: 0.01em;
+  color: #6528DD;
 }
 
 ul, ol { padding-left: 1.5rem; }
@@ -217,7 +222,7 @@ hr {
 
 header {
   margin: 1.5rem 0.5rem;
-  text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  text-shadow: 0 0.05em 0.15em rgba(0, 0, 0, 0.4);
 }
 .title {
   font-size: 1.5rem;
@@ -231,14 +236,24 @@ header .title {
 header a {
   text-decoration: none;
   margin: 0 4px;
+  border-bottom: none;
 }
 header, header a:link, header a:visited {
   color: #fff;
-  border-bottom: none;
+  /*color: #6528DD;*/
+  /*border-bottom: none;*/
 }
 
 header a:hover, header a:active, header a:focus {
-  border-bottom: 0.1em solid #f1f2f3;
+  /*border-bottom: 0.1em solid;*/
+}
+
+header.small {
+  background: $bg-header;
+  padding: 0.5rem;
+  border-radius: $border-radius;
+  overflow: hidden;
+  /*margin: 1.5rem 0;*/
 }
 
 .header-bg-container {
@@ -254,6 +269,7 @@ header a:hover, header a:active, header a:focus {
 .header-bg {
   background: -webkit-gradient(linear, left top, right top, from($blue), to($pink));
   background: linear-gradient(to right, $blue, $pink);
+  background: #f9a;
   width: calc(100% + 128px);
   height: 300px;
   position: absolute;
@@ -270,6 +286,7 @@ footer {
   margin-bottom: 1.75rem;
   border-radius: $border-radius;
   background-color: #B5C0FF;
+  box-shadow: -10px 10px 0 0 aliceblue;
 }
 
 footer div {
@@ -328,6 +345,7 @@ footer div:first-child {
 .blue { color: #55f !important; }
 .purple { color: #6528DD !important; }
 .green { color: #2BC93B !important; }
+
 
 
 /* ~~~~~~~~ Lightbox ~~~~~~~~~ */

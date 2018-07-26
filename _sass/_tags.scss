@@ -4,92 +4,14 @@
 
 $c: (javascript: #f1e05a, cli: #222, css: #563d7c, html: #e44b23, php: #4F5D95, electron: #2F3241, angular: #DD1B16, node: #026E00, express: #EEEEEE, c-sharp: #178600, unity: #00BCD4, maya: #00AAAA, python: #3572A5, tumblr: #36465D)
 
-@each $name, $hex in $c {
-  .tag--#{$name},
-  .tag--#{$name}:visited,
-  .tag--#{$name}:link {
-    background-color: $hex; border-left-color: $hex; color: invert($hex, 100%);
-  }
-  a.tag-yellow:hover { color: #555; }
-
-}
-
 */
 
-.tag-yellow,
-.tag-yellow:visited,
-.tag-yellow:link { background-color: #ff5; border-left-color: #ff5; }
+.tag-yellow:link { border-left-color: #ff5; }
+a.tag-yellow:link { background-color: #ff5; }
 a.tag-yellow:hover { color: #555; }
 
 
-.tag-purple,
-.tag-purple:visited,
-.tag-purple:link { background-color: #6528DD; border-left-color: #6528DD; color: #fff; }
+.tag-purple:link { border-left-color: #6528DD; }
+a.tag-purple:link { background-color: #6528DD; color: #fff; }
 a.tag-purple:hover { color: #ccc; }
-
-.tag--javascript,
-.tag--javascript:visited,
-.tag--javascript:link { background-color: #f1e05a; border-left-color: #f1e05a; }
-a.tag--javascript:hover { color: #555; }
-
-.tag--cli,
-.tag--cli:visited,
-.tag--cli:link { background-color: #222; border-left-color: #222; color: #5f5; }
-a.tag--cli:hover { color: #ccc; }
-
-.tag--css,
-.tag--css:visited,
-.tag--css:link { background-color: #563d7c; border-left-color: #563d7c; color: #fff; }
-a.tag--css:hover { color: #ccc; }
-
-.tag--html,
-.tag--html:visited,
-.tag--html:link { background-color: #e44b23; border-left-color: #e44b23; color: #fff; }
-a.tag--html:hover { color: #ccc; }
-
-.tag--php,
-.tag--php:visited,
-.tag--php:link { background-color: #4F5D95; border-left-color: #4F5D95; color: #fff; }
-a.tag--php:hover { color: #ccc; }
-
-.tag--electron,
-.tag--electron:visited,
-.tag--electron:link { background-color: #2F3241; border-left-color: #2F3241; color: #fff; }
-a.tag--electron:hover { color: #ccc; }
-
-
-
-.tag--angular,
-.tag--angular:visited,
-.tag--angular:link { background-color: #DD1B16; border-left-color: #DD1B16; color: #fff; }
-a.tag--angular:hover { color: #ccc; }
-
-.tag--node,
-.tag--node:visited,
-.tag--node:link { background-color: #026E00; border-left-color: #026E00; color: #fff; }
-a.tag--node:hover { color: #ccc; }
-
-.tag--express:visited,
-.tag--express:link { background-color: #EEEEEE; border-left-color: #EEEEEE; color: #222; }
-a.tag--express:hover { color: #555; }
-
-.tag--c-sharp,
-.tag--c-sharp:visited,
-.tag--c-sharp:link { background-color: #178600; border-left-color: #178600; color: #fff; }
-a.tag--c-sharp:hover { color: #ccc; }
-
-.tag--unity,
-.tag--unity:visited,
-.tag--unity:link { background-color: #00BCD4; border-left-color: #00BCD4; color: #fff; }
-a.tag--unity:hover { color: #ccc; }
-
-.tag--python,
-.tag--python:visited,
-.tag--python:link { background-color: #3572A5; border-left-color: #3572A5; color: #fff; }
-a.tag--python:hover { color: #ccc; }
-
-.tag--tumblr,
-.tag--tumblr:visited,
-.tag--tumblr:link { background-color: #36465D; border-left-color: #36465D; color: #fff; }
-a.tag--tumblr:hover { color: #ccc; }
 

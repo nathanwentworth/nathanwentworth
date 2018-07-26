@@ -15,24 +15,17 @@ layout: default
 {% include header.html %}
 
 <div class="home">
-  {% if page.cat %}
-  <h1 class="category-title">{{ page.title }}</h1>
-  {% endif %}
-  <div class="projects columns">
+  <ul class="projects columns">
     {% for post in posts %}
-    <div class="project-item column-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}">
+    <li class="project-item column-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}">
       <a class="main-links" href="{{ post.url }}">
-        <div class="image {{ bgcolors | sample }}" {% if post.image %} style="background-image: url('/assets/img/home/{{ post.image }}')" {% endif %}>
-          {% if post.image %}
-          <img class="hidden" src="/assets/img/home/{{ post.image }}">
-          {% endif %}
-        </div>
+        <img class="image" src="/assets/img{{ post.url }}{{ post.image }}">
       </a>
       <a class="title main-links" href="{{ post.url }}">{% if post.title %}<span class="bold">{{ post.title }}</span>{% endif %}</a>
       <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-    </div>
+    </li>
     {% endfor %}
-  </div>
+  </ul>
 
   <div class="columns lower">
     <div class="column-item">

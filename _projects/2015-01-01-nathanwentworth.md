@@ -3,8 +3,11 @@ title: nathanwentworth.co
 tags: [HTML, CSS, JavaScript, web]
 archive: true
 excerpt: "This website."
-repo: https://github.com/nathanwentworth/nathanwentworth
+links:
+  repo: https://github.com/nathanwentworth/nathanwentworth
 ---
+
+Built with Jekyll, Sass, and some very light javascript. I try to keep everything as light and accessible as possible (though I do know I need to work on the accessiblity side).
 
 ![Screenshot from 2018](Screen-Shot-2018-05-17-at-15.53.25-fullpage.jpg)
 

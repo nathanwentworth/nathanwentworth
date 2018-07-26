@@ -78,4 +78,5 @@ exclude:
   - Gemfile.lock
 
 sass:
-  style: compressed
+  # style: compressed
+  style: expanded

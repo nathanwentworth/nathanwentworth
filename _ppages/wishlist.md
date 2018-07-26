@@ -36,6 +36,9 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [A Profound Waste of Time](http://apwot.com/)
 - [Autonomous by Annalee Newitz](https://us.macmillan.com/books/9780765392077)
 
+### Prints
+- [Witches on Rocks by Woon Young](https://woonyoung.bigcartel.com/product/witches-on-the-mountain)
+
 ### Comics
 - **[Gundam the Origin](http://www.vertical-inc.com/books/gundam.html)**
 - [Jon](http://galesaur.tictail.com/product/jon) and [Jon 2](http://galesaur.tictail.com/product/jon-2)

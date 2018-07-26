@@ -21,7 +21,7 @@ window.addEventListener('load', function () {
   }, false);
 
   entries = document.querySelectorAll('.entry');
-  pageTitle = document.querySelector('.archive-title');
+  pageTitle = document.querySelector('.info h1');
   nothingFound = document.querySelector('#nothing-found');
   filterInput = document.querySelector('#filter-input');
   btnSubmit = document.querySelector('#submit');
@@ -63,7 +63,7 @@ function filter(match) {
 
   currentTag = currentTag.toLowerCase();
   filterInput.value = currentTag;
-  pageTitle.className = 'archive-title' + ' tag--' + currentTag.replace(' ', '-');
+  pageTitle.className = 'tag--' + currentTag.replace(' ', '-');
 
   let amountShown = 0;
 
@@ -109,7 +109,7 @@ function clearFilter() {
     return;
   }
 
-  pageTitle.className = 'archive-title'
+  pageTitle.className = ''
   toggleNothingFound(true);
   if (btnClear) {
     btnClear.classList.add('hidden');

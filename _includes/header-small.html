@@ -1,12 +1,9 @@
-<header class="small" id='desc'>
-  <h1 class="center title"><a href="/">{{ site.title }}</a></h1>
-
-  {% if site.links %}
+<header class="small">
   <nav>
+    <a href="/" class="title">{{ site.title }}</a>
     {% for link in site.links %}
     <a href="{{ link[1] }}">{{ link[0] }}</a>
     {% endfor %}
-    <span id="kaomoji">(〃￣ω￣〃) ゞ</span>
+    <span>(〃￣ω￣〃) ゞ</span>
   </nav>
-  {% endif %}
 </header>

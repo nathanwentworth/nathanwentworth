@@ -1,12 +1,18 @@
 .project {
 
+  .content-container {
+    box-shadow: -10px 10px 0 0 #ffc;
+  }
+
   .content {
     img,
     div.highlighter-rouge,
     .color-container {
       max-width: calc(100% + 4rem);
-      margin-left: -2rem;
+      margin-left: -1.5rem;
       border-radius: #{$border-radius / 2};
+      box-shadow: -10px 10px 0 0 #555;
+      margin-bottom: 1.5rem;
     }
     div.highlighter-rouge,
     .color-container,

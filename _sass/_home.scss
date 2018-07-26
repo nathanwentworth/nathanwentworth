@@ -1,5 +1,10 @@
 
 
+.project-item {
+  /*background: #fff;*/
+  /*border-radius: $border-radius;*/
+}
+
 .project-item .main-links {
   border-bottom: none;
   text-decoration: none;
@@ -8,15 +13,16 @@
 
 .project-item .image {
   border-radius: 6px;
-  background-size: cover;
-  background-position: center center;
+  /*background-size: cover;*/
+  /*background-position: center center;*/
   width: 100%;
-  padding-bottom: 75%;
+  /*padding-bottom: 75%;*/
   -webkit-transition: -webkit-transform 0.2s;
   transition: -webkit-transform 0.2s;
   transition: transform 0.2s;
   transition: transform 0.2s, -webkit-transform 0.2s;
   box-shadow: 0px 6px 12px -5px rgba(50, 50, 50, 0.5);
+  /*box-shadow: -6px 6px 0px -0px #ffc;*/
 }
 
 .bg-yellow { background-color: #ffc; }
@@ -35,6 +41,17 @@
   margin: 0.6em 0;
 }
 
+.projects {
+  list-style: none;
+  padding-left: 0;
+  /*background: #f1f2f3;*/
+  /*border-radius: $border-radius;*/
+}
+
+.projects .project-item::before {
+  display: none;
+}
+
 .columns {
   margin: auto;
   display: -webkit-box;
@@ -47,7 +64,7 @@
 }
 
 .lower {
-  background: #eee;
+  background: $bg-mid;
   border-radius: $border-radius;
   margin-bottom: 2rem;
   margin-top: 2rem;
