@@ -15,7 +15,7 @@ layout: default
     {% if page.image_lg %}
       <img class="main-image" src="{{ page.image_lg }}">
     {% elsif page.image %}
-      <img class="main-image" src="/assets/img/home/{{ page.image }}">
+      <img class="main-image" src="/assets/img{{ page.url }}{{ page.image }}">
     {% endif %}
     {% endunless %}
 
