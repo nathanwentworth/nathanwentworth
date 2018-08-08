@@ -1,13 +1,44 @@
 <head>
-  <title>{{ site.title }}{% if page.title %} — {{ page.title }}{% endif %}</title>
   <meta charset="UTF-8">
-  <meta name="viewport" content="initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>{{ site.title }}{% if page.title %} — {{ page.title }}{% endif %}</title>
   <meta name="author" content="Nathan Wentworth">
   <meta name="keywords" content="{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}Unity, C#, javascript, html, css, web design, web development{% endif %}">
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="generator" content="Jekyll">
+
+  <!-- facebook stuff -->
+  <meta property="og:url" content="https://nathanwentworth.co{{ page.url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ site.title }}{% if page.title %} — {{ page.title }}{% endif %}">
+  {% if page.image %}
+  <meta property="og:image" content="https://nathanwentworth.co/assets/img{% if page.collection == 'ppages' %}/ppages{% endif %}{{ page.url }}{{ page.image }}">
+  {% endif %}
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:locale" content="en_US">
+  <meta property="article:author" content="Nathan Wentworth">
+
+  <!-- twitter stuff -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@nathanwentworth">
+  <meta name="twitter:creator" content="@nathanwentworth">
+  <meta name="twitter:url" content="https://nathanwentworth.co{{ page.url }}">
+  <meta name="twitter:title" content="{{ site.title }}{% if page.title %} — {{ page.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.image %}
+  <meta name="twitter:image" content="https://nathanwentworth.co/assets/img{% if page.collection == 'ppages' %}/ppages{% endif %}{{ page.url }}{{ page.image }}">
+  {% endif %}
+  <meta name="twitter:dnt" content="on">
+
+  <meta name="pinterest" content="nopin" description="Use are.na">
+
   <link rel="alternate" type="application/rss+xml" title="nathan wentworth posts RSS" href="/posts-feed.xml">
   <link rel="alternate" type="application/rss+xml" title="nathan wentworth projects RSS" href="/projects-feed.xml">
+
   <link rel="stylesheet" type="text/css" href="/assets/style.css">
+
   <link rel="apple-touch-icon" sizes="57x57" href="/icons/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/icons/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="/icons/apple-icon-72x72.png">
