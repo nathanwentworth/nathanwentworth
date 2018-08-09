@@ -26,6 +26,11 @@ layout: default
         <a class="tag" href="/{{ page.collection }}/#y:{{ page.date | date:"%Y" }}" title="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date:"%Y" }}</a>
         {% endif %}
       </div>
+      {% if page.collection == 'posts' %}
+      <div class="info-section">
+        <p>{{ page.date | date:'%Y-%m-%d' }}</p>
+      </div>
+      {% endif %}
 
       {% unless page.hide_tags %}
       {% if page.tags and page.tags.size > 0 %}
@@ -52,6 +57,9 @@ layout: default
 
     <div class="content">
       {{ content }}
+
+      <hr>
+      <p></p>
     </div>
   </div>
 </div>
