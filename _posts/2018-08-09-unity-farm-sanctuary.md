@@ -1,5 +1,6 @@
 ---
 title: Photos from the Unity Farm Sanctuary
+tags: [life, photo]
 ---
 
 I went to the [Unity Farm Sanctuary](http://www.unityfarmsanctuary.org/index.html/) over the weekend with Sabrina! This place was great, and if anything is moving me closer to being a vegetarian it sure is this. I never realized just how soft (and loud) chickens are, and dang they're cute.

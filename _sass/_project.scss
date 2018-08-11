@@ -1,23 +1,21 @@
 .project {
 
   .content-container {
-    box-shadow: -10px 10px 0 0 #ffc;
+    /*box-shadow: -10px 10px 0 0 #ffc;*/
   }
 
   .content {
-    img,
+    p img,
     div.highlighter-rouge,
     .color-container {
-      max-width: calc(100% + 4rem);
-      margin-left: -1.5rem;
-      border-radius: #{$border-radius / 2};
-      box-shadow: -10px 10px 0 0 #555;
+      max-width: calc(100% + 2rem);
+      margin-left: -1rem;
       margin-bottom: 1.5rem;
     }
     div.highlighter-rouge,
     .color-container,
     .color-container {
-      width: calc(100% + 4rem);
+      width: calc(100% + 2rem);
     }
   }
 
@@ -27,7 +25,9 @@
   .content p { margin-bottom: 1.35rem; }
   .content img + img { margin-top: 1.35rem; }
   .content > *:first-child { margin-top: 0; }
-  .content > *:last-child { margin-bottom: 0; }
+  .content > *:last-child,
+  .content > div.highlighter-rouge:last-child,
+  .content > *:last-child * { margin-bottom: 0; }
 
   .info {
     border-top-left-radius: $border-radius;
@@ -52,7 +52,6 @@
     background-color: #343D46;
     color: #D8DEE9;
     padding: 1rem;
-    border-radius: #{$border-radius / 2};
     white-space: pre-wrap;
   }
 
@@ -71,17 +70,6 @@
   @media only screen and (max-width: 549px) {
     .project .content {
       padding: 0.8rem;
-    }
-    .content img,
-    .content div.highlighter-rouge,
-    .color-container {
-      max-width: calc(100% + 2rem);
-      margin-left: -1rem;
-      border-radius: #{$border-radius / 2};
-    }
-    .content div.highlighter-rouge,
-    .color-container {
-      width: calc(100% + 3rem);
     }
   }
 }

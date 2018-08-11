@@ -1,4 +1,6 @@
 ---
+title: Games Played In 2014
+excerpt: All games I played in 2014, including unfinished (but started)
 ---
 
 # January

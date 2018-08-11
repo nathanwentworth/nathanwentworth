@@ -1,3 +1,8 @@
+---
+title: Games Played In 2015
+excerpt: All games I played in 2015, including unfinished (but started)
+---
+
 # January
 - Ledoleil (e)
 - Lovely Planet

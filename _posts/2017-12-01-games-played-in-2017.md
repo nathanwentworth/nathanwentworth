@@ -1,5 +1,6 @@
 ---
-title: Games Played in 2017
+title: Games Played In 2017
+excerpt: All games I completed in 2017
 ---
 
 # January

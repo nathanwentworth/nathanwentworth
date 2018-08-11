@@ -1,4 +1,6 @@
 ---
+title: Games Played In 2016
+excerpt: All games I played in 2016, including unfinished (but started)
 ---
 
 # January

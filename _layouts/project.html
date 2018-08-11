@@ -22,7 +22,7 @@ layout: default
     <div class="info">
       <div class="info-section info-upper">
         <h1 class="bold page-title">{{ page.title }}</h1>
-        {% if page.date %}
+        {% if page.date and page.collection == 'projects' %}
         <a class="tag" href="/{{ page.collection }}/#y:{{ page.date | date:"%Y" }}" title="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date:"%Y" }}</a>
         {% endif %}
       </div>
@@ -55,39 +55,33 @@ layout: default
     </div class="info">
 
 
-    <div class="content">
+    <div id="content" class="content">
       {{ content }}
     </div>
   </div>
 </div>
 
 {% assign first_tag = page.tags | first %}
-{% assign posts = site[page.collection] | where_exp: 'item', 'item.tags contains first_tag' | sort: 'date' %}
-{% assign posts = null %}
 
-{% if posts.size > 0 %}
-<div class="archive outer-container">
-  <div class="archive-title">
-    <h1>Related</h1>
-  </div>
-  <div class="list">
-      <ul class="no-indent">
-    {% for entry in posts reversed %}
+<div id="related" class="outer-container">
+  <h1>Related</h1>
+  {% for tag in page.tags %}
+  {% assign posts = site[page.collection] | where_exp: 'item', 'item.tags contains tag' | where_exp: 'item', 'item.url != page.url' | sort: 'date' %}
 
+  {% if posts.size > 0 %}
+    <div class="list">
+      <h2>{{ tag }}</h2>
+      <ul>
+      {% for entry in posts reversed %}
         <li class="entry" data-t="{{ entry.tags | join: '|' }}{% if entry.tags.size > 0 %}|{% endif %}{{ entry.title | downcase }}" data-y="{{ entry.date | date: '%Y' }}" data-c="{{ entry.type }}">
-          <div class="title-container">
-            <h3><a class="title{% if entry.exturl %} exturl{% endif %}" href="{% if entry.exturl %}{{ entry.exturl }}{% else %}{{ site.github.url }}{{ entry.url }}{% endif %}">{{ entry.title }}</a></h3>
-            <a href="/{{ entry.collection }}#y:{{entry.date | date: '%Y'}}" class="tag">{{entry.date | date: '%Y'}}</a>
-          </div>
-          {% if entry.excerpt %}
-          <blockquote class="project-description">{{ entry.excerpt | remove: '<p>' | remove: '</p>'  }}</blockquote>
-          {% endif %}
+          <a href="{% if entry.exturl %}{{ entry.exturl }}{% else %}{{ site.github.url }}{{ entry.url }}{% endif %}">{{ entry.title }}</a>
         </li>
-    {% endfor %}
-    </ul>
-  </div>
+      {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+  {% endfor %}
 </div>
-{% endif %}
 
 {% include footer.html %}
 
