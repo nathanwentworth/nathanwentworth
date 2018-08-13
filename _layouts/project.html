@@ -61,26 +61,24 @@ layout: default
   </div>
 </div>
 
-{% assign first_tag = page.tags | first %}
 
-<div id="related" class="outer-container">
-  <h1>Related</h1>
-  {% for tag in page.tags %}
-  {% assign posts = site[page.collection] | where_exp: 'item', 'item.tags contains tag' | where_exp: 'item', 'item.url != page.url' | sort: 'date' %}
-
-  {% if posts.size > 0 %}
-    <div class="list">
-      <h2>{{ tag }}</h2>
-      <ul>
-      {% for entry in posts reversed %}
-        <li class="entry" data-t="{{ entry.tags | join: '|' }}{% if entry.tags.size > 0 %}|{% endif %}{{ entry.title | downcase }}" data-y="{{ entry.date | date: '%Y' }}" data-c="{{ entry.type }}">
-          <a href="{% if entry.exturl %}{{ entry.exturl }}{% else %}{{ site.github.url }}{{ entry.url }}{% endif %}">{{ entry.title }}</a>
-        </li>
-      {% endfor %}
-      </ul>
-    </div>
-  {% endif %}
-  {% endfor %}
+<div id="related" class="pagination-block outer-container">
+  <div class="pagination-container">
+    {% if page.next %}
+    <a class="pagination-link" href="{{ page.next.url }}">
+    ← Next<br>
+    {{ page.next.title }}
+    </a>
+    {% endif %}
+  </div>
+  <div class="pagination-container">
+    {% if page.previous %}
+    <a class="pagination-link" href="{{ page.previous.url }}">
+      Previous →<br>
+      {{ page.previous.title }}
+    </a>
+    {% endif %}
+  </div>
 </div>
 
 {% include footer.html %}
