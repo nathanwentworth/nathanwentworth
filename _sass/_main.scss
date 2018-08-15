@@ -109,11 +109,12 @@ main.w-wide { max-width: $w-wide; }
   width: 100%;
   padding: 2rem;
   background: #eee;
-  border: none;
+  border: 1px solid #eee;
   border-radius: $border-radius;
 }
-.pagination-link:hover {
-  border: none;
+.pagination-link:hover,
+.pagination-link:focus {
+  border: 1px solid;
   background: #f1f2f3;
 }
 
@@ -230,8 +231,10 @@ h1, h2, h3, h4, h5, .title {
 }
 
 ul, ol { padding-left: 1.5rem; }
-ul.no-indent, ol.no-indent { padding-left: 0; }
 li { margin: 6px 0; }
+ul.no-indent, ol.no-indent { padding-left: 0; }
+ul.inline, ol.inline { display: flex; }
+ul.inline li, ol.inline li { display: inline-block; margin: 0; margin-right: 6px; }
 
 hr {
   margin: 2rem 0.5rem;
@@ -307,17 +310,12 @@ footer {
   padding: 1rem;
   margin-bottom: 1.75rem;
   border-radius: $border-radius;
-  background-color: #B5C0FF;
-  box-shadow: -10px 10px 0 0 aliceblue;
+  background-color: #D5E0FF;
 }
 
-footer div {
-  display: inline-block;
-  vertical-align: top;
-}
-
-footer div:first-child {
-  margin-right: 2rem;
+footer ul {
+  margin: 0;
+  padding: 0;
 }
 
 .webring {
@@ -330,14 +328,19 @@ footer div:first-child {
   main {
     width: calc(100% - 1rem);
   }
-  footer div {
-    margin-bottom: 1rem;
+  ul.inline {
+    flex-direction: column;
+  }
+  ul.inline li {
+    margin: 4px;
+    margin-left: 0;
   }
 }
 
 @media only screen and (min-width: 550px) {
-  footer div:last-child {
-    float: right;
+  footer li:last-child {
+    margin-left: auto;
+    margin-right: 0;
   }
 }
 
