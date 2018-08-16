@@ -20,18 +20,14 @@ Moodboard/inspiration collection app made in electron, pulls from a local folder
 
 # Screenshots
 
-![moodbored screenshot](Screen Shot 2018-05-21 at 8.03.03 pm.jpg)
+{% include img.html url='Screen Shot 2018-05-21 at 8.03.03 pm.jpg' desc='no sidebar' %}
 
-![moodbored screenshot](Screen Shot 2018-05-21 at 8.03.41 pm.jpg)
-Left sidebar, lots of columns
+{% include img.html url='Screen Shot 2018-05-21 at 8.03.41 pm.jpg' desc='left sidebar and lots of columns' %}
 
-![moodbored screenshot](Screen Shot 2018-05-21 at 8.04.09 pm.jpg)
-Right sidebar
+{% include img.html url='Screen Shot 2018-05-21 at 8.04.09 pm.jpg' desc='right sidebar' %}
 
-![moodbored screenshot](Screen Shot 2018-05-21 at 8.04.22 pm.jpg)
-Four columns, no sidebar
+{% include img.html url='Screen Shot 2018-05-21 at 8.04.22 pm.jpg' desc='four columns, no sidebar' %}
 
-![moodbored screenshot](Screen Shot 2018-05-21 at 8.05.18 pm.jpg)
+{% include img.html url='Screen Shot 2018-05-21 at 8.05.18 pm.jpg' desc='narrow window' %}
 
-![moodbored screenshot](Screen Shot 2018-05-21 at 8.19.46 pm.jpg)
-Dark background
+{% include img.html url='Screen Shot 2018-05-21 at 8.19.46 pm.jpg' desc='dark background' %}

@@ -1,0 +1,5 @@
+<figure>
+  <img src="{{ include.url }}" alt="{% if include.alt %}{{ include.alt }}{% else %}{{ include.desc | strip_html }}{% endif %}">
+  {% if include.desc %}<figcaption>{{ include.desc | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>{% endif %}
+  <!-- <a class="figure-link" href="{{include.url}}">view original</a> -->
+</figure>
