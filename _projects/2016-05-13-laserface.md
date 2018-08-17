@@ -2,6 +2,8 @@
 title: LASERFACE
 tags: [Unity, C Sharp, VR, game]
 image: laserface-title-sm.jpg
+links:
+  download: https://nathanwentworth.itch.io/laserface
 archive: true
 ---
 Blow up a city with your face laser! VR game made for class, Oculus DK2 required. [download](https://nathanwentworth.itch.io/laserface)

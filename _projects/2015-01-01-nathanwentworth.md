@@ -4,7 +4,7 @@ tags: [HTML, CSS, JavaScript, web]
 archive: true
 excerpt: "This website."
 links:
-  repo: https://github.com/nathanwentworth/nathanwentworth
+  source: https://github.com/nathanwentworth/nathanwentworth
 ---
 
 Built with Jekyll, Sass, and some very light javascript. I try to keep everything as light and accessible as possible (though I do know I need to work on the accessiblity side).

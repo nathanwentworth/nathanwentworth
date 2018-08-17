@@ -4,8 +4,8 @@ tags: [HTML, CSS, JavaScript, Node, Electron, web]
 image: moodbored-sm.jpg
 image_lg: Screen Shot 2018-05-21 at 8.02.41 pm.jpg
 links:
-  repo: https://github.com/nathanwentworth/moodbored
   download: https://github.com/nathanwentworth/moodbored/releases/latest
+  source: https://github.com/nathanwentworth/moodbored
 ---
 Moodboard/inspiration collection app made in electron, pulls from a local folder and shows you a grid of images with subdirectory navigator. Tons of customizable options. [Download](https://github.com/nathanwentworth/moodbored/releases/latest) [Source](https://github.com/nathanwentworth/moodbored)
 

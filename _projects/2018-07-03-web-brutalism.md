@@ -3,8 +3,8 @@ title: Brutalist Websites "Light"
 tags: [Python, code, web]
 archive: true
 links:
-  repo: https://github.com/nathanwentworth/brutal
-  exturl: http://brutal.nathanwentworth.co
+  source: https://github.com/nathanwentworth/brutal
+  open: http://brutal.nathanwentworth.co
 ---
 
 A web scraper set up to pull posts from [brutalist websites](http://brutalistwebsites.com) and generate a paginated version of the site with ten posts per page.
