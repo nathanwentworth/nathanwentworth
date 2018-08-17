@@ -6,6 +6,7 @@ Check out these cool people and their cool sites! I try to focus on sites that a
 
 ## Developers
 - [Devine Lu Linvega](https://wiki.xxiivv.com/)
+- [Jon-Kyle](https://jon-kyle.com/)
 
 ## Designers
 - [Cory Schmitz](https://coryschmitz.com/)

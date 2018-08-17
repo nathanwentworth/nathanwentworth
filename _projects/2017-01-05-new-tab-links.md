@@ -12,5 +12,7 @@ New tab page that displays a selection of editable links. [Chrome](https://chrom
 
 "---" is turned into a new column, and a line without a url is turned into a header.
 
-![Screenshot with text options](/assets/img/projects/new-tab-links/new-tab-links-05.png)
-![Screenshot with text options](/assets/img/projects/new-tab-links/new-tab-links-06.png)
+<div class="img-block">
+  {% include img.html url='new-tab-links-05.png' desc='options' %}
+  {% include img.html url='new-tab-links-06.png' desc='result' %}
+</div>

@@ -6,23 +6,22 @@
 
   .content {
     p img,
-    div.highlighter-rouge,
     .color-container {
-      max-width: calc(100% + 2rem);
-      margin-left: -1rem;
+      max-width: 100%;
       margin-bottom: 1.5rem;
     }
     div.highlighter-rouge,
     .color-container,
-    .color-container {
-      width: calc(100% + 2rem);
+    .color-container,
+    .highlight {
+      width: 100%;
     }
   }
 
   img { display: block; }
 
   .content { padding: 1rem; }
-  .content p { margin-bottom: 1.35rem; }
+  .content p { margin: auto; margin-bottom: 1.35rem; max-width: 35em; }
   .content img + img { margin-top: 1.35rem; }
   .content > *:first-child { margin-top: 0; }
   .content > *:last-child,
