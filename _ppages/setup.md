@@ -71,7 +71,10 @@ I use this laptop much less than I used to, mostly due to performance and batter
 
 ## Phone
 
-![phone screenshot as of july 2018](2018-07-14 11.08.48.png)
+<div class="img-block">
+  {% include img.html url='2018-07-14 11.08.48.png' desc='phone screenshot as of july 2018' %}
+  {% include img.html url='IMG_4107.png' desc='phone screenshot as of august 2018' %}
+</div>
 
 I have an iPhone 6S (white, 128gb) that I bought at launch and don't see myself getting rid of any time soon. The battery life isn't amazing, but it gets the job done (and still has a headphone jack!).
 
