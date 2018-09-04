@@ -26,6 +26,9 @@ Favorite media, albums, comics, games, etc
 - [Fez](https://en.wikipedia.org/wiki/Fez_(video_game))
 - [Noby Noby Boy](https://en.wikipedia.org/wiki/Noby_Noby_Boy)
 - [Katamari Damacy](https://en.wikipedia.org/wiki/Katamari_Damacy)
+- [Metal Gear Solid 2](https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty)
+- [Kentucky Route Zero](http://kentuckyroutezero.com/)
+- [Inside](http://playdead.com/games/inside/)
 
 ## TV
 
