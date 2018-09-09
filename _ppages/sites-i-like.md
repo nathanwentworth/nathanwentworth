@@ -21,3 +21,4 @@ Check out these cool people and their cool sites! I try to focus on sites that a
 
 ## Other
 - [Emma Essex](http://heckscaper.com/main.html)
+- [Nikita Voloboev's Knowledge Wiki](https://wiki.nikitavoloboev.xyz/)
