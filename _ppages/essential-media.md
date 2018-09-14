@@ -29,6 +29,8 @@ Favorite media, albums, comics, games, etc
 - [Metal Gear Solid 2](https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty)
 - [Kentucky Route Zero](http://kentuckyroutezero.com/)
 - [Inside](http://playdead.com/games/inside/)
+- Bloodborne
+- Silent Hill 2
 
 ## TV
 

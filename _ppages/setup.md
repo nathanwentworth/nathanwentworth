@@ -9,7 +9,9 @@ excerpt: Things I use on a daily basis to code/test/work/etc
 
 I initially built this desktop as a replacement for my laptop, but I quickly realized that macOS is pretty essential for many of my workflows (WSL is nice, but I prefer a deeper integration with the OS). After a few months as a hackintosh, [I installed Ubuntu, which now acts as its primary OS](/posts/from-mac-to-linux). This computer has become my daily driver for development work and playing games.
 
-![desktop stats print](Screenshot from 2018-07-11 13-16-26.png)
+{% include img.html url='firefox-and-sublime-text.png' desc='desktop screenshot with firefox and sublime text' %}
+
+{% include img.html url='clean-desktop-with-neofetch.jpg' desc='desktop screenshot with wallpaper and terminal' %}
 
 - OS: Ubuntu 18.04 LTS, Windows 10
 - CPU: Intel i5-7500 3.4Ghz Quad-Core
@@ -36,7 +38,8 @@ I initially built this desktop as a replacement for my laptop, but I quickly rea
 
 #### Code/Work
 
-![sublime text setup on ubuntu](Screenshot from 2018-07-25 21-32-34.png)
+{% include img.html url='Screenshot from 2018-07-25 21-32-34.png' desc='Sublime Text 3 setup on Ubuntu' %}
+
 
 I use [Sublime Text](https://www.sublimetext.com/3) for pretty much everything writing related. I occasionally use vim when sshing into a server, but I still prefer a GUI-based text editor for daily usage. I use the following extensions with it: 
 
