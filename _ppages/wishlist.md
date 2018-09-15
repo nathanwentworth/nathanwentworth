@@ -15,7 +15,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - **[Nike Air Max 180 (White/Solar Red/Ultramarine)](https://www.nike.com/t/air-max-180-mens-shoe-qbBpJ0/615287-100)** Size 11
 - [Adidas I-5923 Pride](https://www.adidas.com/us/i-5923-pride-shoes/B41984.html) Size 11
 - **[Adidas POD-S3.1](https://www.adidas.com/us/pod-s3.1-shoes/AQ1059.html)** Size 11
-- [Everlane Black Slim Fit Jeans](https://www.everlane.com/products/mens-slim-black-denim-jeans) / [Everlane referral code](https://www.everlane.com/r/6odi8m)
+- [Everlane Black Skinny Fit Jeans](https://www.everlane.com/products/mens-skinny-fit-jean-black) / [Everlane referral code](https://www.everlane.com/r/6odi8m)
 - [Qwstion washed black backpack](https://www.qwstion.com/en/backpack-washed-black.html)
 
 
@@ -56,7 +56,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ### Video Games
 - **Uncharted: The Lost Legacy** (PS4)
-- Horizon: Zero Dawn (PS4)
+- **Yakuza Kiwami 2** (PS4)
 - Wolfenstein II: The New Colossus (PS4)
 - **Silent Hill 3** (PS2)
 - **Nintendo Joycons**
