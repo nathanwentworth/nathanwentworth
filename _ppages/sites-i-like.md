@@ -2,7 +2,7 @@
 title: "Websites I Like"
 ---
 
-Inspired by the [XXIIVV webring](https://webring.xxiivv.com/) (which I'm part of), I decided to compile a list of websites that I like, either people that I think are interesting, or services that have a philosophy that I enjoy.
+Inspired by the [XXIIVV webring](https://webring.xxiivv.com/) (which I'm part of), this is a list of websites that I like, either people that I think are interesting, or services that have a philosophy that I enjoy.
 
 > This webring is an attempt to inspire artists & developers to build their own website and share traffic among each other. The ring welcomes personalized websites such as diaries, wikis & portfolios.
 
@@ -31,3 +31,5 @@ Inspired by the [XXIIVV webring](https://webring.xxiivv.com/) (which I'm part of
   - made by [Maciej Cegłowski](http://idlewords.com/about.htm), whose talk [Haunted By Data](http://idlewords.com/talks/haunted_by_data.htm) I return to often
 - [Hardly Everything](https://hardlyeverything.com/)
   - made by Jon-Kyle (linked above). a feed with cadence
+- [tilde.town](http://tilde.town/)
+  - 'a computer meant for sharing'
