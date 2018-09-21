@@ -14,6 +14,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ## Clothes
 - **[Nike Air Max 180 (White/Solar Red/Ultramarine)](https://www.nike.com/t/air-max-180-mens-shoe-qbBpJ0/615287-100)** Size 11
 - [Adidas I-5923 Pride](https://www.adidas.com/us/i-5923-pride-shoes/B41984.html) Size 11
+{% include img.html url='POD-S3_1_Shoes_Black_AQ1059_01_standard.jpg' desc='[Adidas POD-S3.1](https://www.adidas.com/us/pod-s3.1-shoes/AQ1059.html): Core Black / Core Black / Grey (size 11)' %}
 - **[Adidas POD-S3.1](https://www.adidas.com/us/pod-s3.1-shoes/AQ1059.html)** Size 11
 - [Everlane Black Skinny Fit Jeans](https://www.everlane.com/products/mens-skinny-fit-jean-black) / [Everlane referral code](https://www.everlane.com/r/6odi8m)
 - [Qwstion washed black backpack](https://www.qwstion.com/en/backpack-washed-black.html)
@@ -29,9 +30,17 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ## Media
 
 ### Books
-- The Wind Up Bird Chronicle
-- Snow Crash
-- Neuromancer
+- The Wind Up Bird Chronicle by Haruki Murakami
+- Snow Crash by Neal Stephenson
+- Neuromancer by William Gibson
+- The Left Hand of Darkness by Ursula K. Le Guin
+
+<div class="img-block">
+{% include img.html url='dustydeck-2.jpg' desc='[Dangerdrop Artbooks](https://dangerdrop.booth.pm/)' %}
+{% include img.html url='three-body-problem.jpg' desc='[The Three-Body Problem](https://us.macmillan.com/books/9780765382030)' %}
+</div>
+
+- [The Three-Body Problem](https://us.macmillan.com/books/9780765382030) by Cixin Liu
 - [Dangerdrop Artbooks](https://dangerdrop.booth.pm/)
 - [A Profound Waste of Time](http://apwot.com/)
 - [Autonomous by Annalee Newitz](https://us.macmillan.com/books/9780765392077)
@@ -51,6 +60,14 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [A Girl on the Shore](http://vertical-comics.com/books/shore.php)
 - **[Goodnight Punpun Volume 2](https://www.viz.com/read/goodnight-punpun/section/28189/more/2)**
   - one of my favorite manga series ever! i own the entire thing in japanese, despite not being able to read it. i currently own volume 1 of this in english (7 volumes total)
+
+<div class="img-block">
+  {% include img.html url='punpun-2.jpg' desc="[Goodnight Punpun Volume 2](https://www.viz.com/read/goodnight-punpun/section/28189/more/2)" %}
+  {% include img.html url='dead-dead-demons-1.jpg' desc="[Dead Dead Demon’s Dededede Destruction](https://www.viz.com/dead-dead-demon-s-dededede-destruction)" %}
+</div>
+
+- **[Dead Dead Demon’s Dededede Destruction](https://www.viz.com/dead-dead-demon-s-dededede-destruction)**
+  - another series by Inio Asano (author of the above series), also super good. I don't own any volumes currently.
 - [The Girl From the Other Side: Siúil, A Rún Vol. 1](http://www.sevenseasentertainment.com/series/the-girl-from-the-other-side-siuil-a-run/)
 - [The Marquis: Inferno](https://www.darkhorse.com/Books/15-859/The-Marquis-Inferno-TPB)
 
@@ -68,5 +85,14 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
   - this should really only be bought on ebay, since i don't care about condition. i'd need a pad too, but that's a totally different thing
 
 ### Blu-rays/DVDs
+
+<div class="img-block">
+  {% include img.html url='ping-pong-poster.jpg' desc='[Ping Pong the Animation](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)' %}
+  {% include img.html url='nichijou.jpg' desc='[Nichijou](https://www.rightstufanime.com/Nichijou-Blu-ray-DVD)' %}
+</div>
+
+
+- **[Ping Pong the Animation](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)**
+  - quite easily one of the best anime shows ever made
 - [Nichijou BD/DVD](https://www.rightstufanime.com/Nichijou-Blu-ray-DVD)
 
