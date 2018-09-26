@@ -96,7 +96,7 @@
   width: 50%;
 }
 
-.home li::before {
+.home .columns li::before {
   content: '→';
   font-size: 0.8em;
   margin-right: 0.75em;
