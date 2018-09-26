@@ -28,11 +28,11 @@ layout: default
   </ul>
 
   <div class="columns lower">
-    <div class="column-item">
+    <div class="column-item column-item-50">
       <h1 class="page-title red"><a href="/projects/" class="red">Projects</a></h1>
       <ul class="no-indent">
       {% assign projects = site.projects | reverse %}
-      {% for entry in projects limit: 20 %}
+      {% for entry in projects limit: 18 %}
       {% if entry.archive %}
         <li class="archive-entry">
           <a href="{{ site.github.url }}{{ entry.url }}">{{ entry.title }}</a> <a class="date" href="/projects/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>
@@ -41,18 +41,44 @@ layout: default
       {% endfor %}
       </ul>
     </div>
-    <div class="column-item">
+    <div class="column-item column-item-50">
       <h1 class="blue page-title">About Me</h1>
       <div>{{ site.full_description | markdownify }}</div>
     </div>
-    <div class="column-item">
-      <h1 class="purple page-title">〜 More 〜</h1>
-      <ul class="no-indent">
-      {% for link in site.elsewhere %}
-        <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+  </div>
+  <div class="columns lower">
+    <div class="recommendations column-item column-item-66">
+      <h1 class="page-title blue"><a href="/recommendations/" class="blue">Recommendations</a></h1>
+      {% assign sorted = site.data.recommendations | sort: 'date' | reverse %}
+      {% assign first = sorted[0] %}
+      {% assign date = '' %}
+      {% for recommendation in sorted limit: 7 %}
+        {% assign currentdate = recommendation.date | date: '%Y-%m-%d' %}
+        {% if currentdate != date %}
+          {% if first != recommendation %}
+          </ul>
+          </div>
+          {% endif %}
+          <div class="recommendation-outer">
+          <h3 id="y{{currentdate}}" class="recommendation-date">{{ currentdate }}</h3>
+          {% assign date = currentdate %}
+          <ul class="recommendation-main">
+        {% endif %}
+        <li class="recommendation-body">
+          <div class="tag tag--{{ recommendation.type }}">{{ recommendation.type }}</div><div class="recommendation-text"><a href="{{ recommendation.link }}">{{ recommendation.name }}</a>{% if recommendation.desc %}<div>{{ recommendation.desc }}</div>{%endif%}</div>
+        </li>
       {% endfor %}
       </ul>
     </div>
+
+  </div>
+  <div class="column-item">
+    <h1 class="purple page-title">〜 More 〜</h1>
+    <ul class="no-indent">
+    {% for link in site.elsewhere %}
+      <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+    {% endfor %}
+    </ul>
   </div>
 
 </div>
