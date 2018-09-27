@@ -1,5 +1,9 @@
 # stolen from ethanthibault.com
 
+- name: "Grad Life by Graduating Life"
+  link: https://graduatinglife.bandcamp.com/album/grad-life
+  type: music
+  date: 2018-09-13
 - name: "Decentralized Web Summit 2018 by Jon-Kyle Mohr"
   link: https://www.are.na/blog/scene%20report/2018/08/13/decentralized-web-summit.html
   type: text
