@@ -2,6 +2,8 @@
 title: "Writer's Flock"
 tags: [HTML, CSS, JavaScript, code, game]
 archive: true
+links:
+  repo: https://github.com/TheConBot/Writers-Flock
 ---
 A local-multiplayer party/cooperative writing game in which all players try to write the best story, all based on other players' sentences. Made in two days for Global Game Jam 2018.
 

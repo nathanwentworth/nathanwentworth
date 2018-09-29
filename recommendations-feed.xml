@@ -10,7 +10,7 @@ layout: null
     {% for post in site.data.recommendations reversed %}
       <item>
         <title>{{ post.name | xml_escape }}</title>
-        <description>{{ post.desc | xml_escape }}</description>
+        <description>{% if post.best %}&#11088; {% endif %}{{ post.desc | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
         <link>{{ post.link }}</link>
         <guid isPermaLink="true">{{ post.link }}</guid>
