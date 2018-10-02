@@ -16,6 +16,10 @@ a.tag-purple:link { background-color: #6528DD; color: #fff; }
 a.tag-purple:hover { color: #ccc; }
 
 /* recommendations */
-.tag--music { background-color: #ff7; }
-.tag--music { background-color: #fbb; }
-.tag--video { background-color: #ccf; }
+.tag--music { background-color: #fbb; } /* reddish */
+.tag--video { background-color: #ccf; } /* blue/purple */
+.tag--movie { background-color: #cdf; } /* blue/purple */
+.tag--tv { background-color: #dcf; } /* light purple/violet */
+/*.tag--tv { background-color: #fd4; } /* orange */
+.tag--text { background-color: #ff7; } /* yellow */
+.tag--website { background-color: #cfc; } /* bright green */
