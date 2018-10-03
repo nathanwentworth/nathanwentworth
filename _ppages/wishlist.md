@@ -70,6 +70,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
   - another series by Inio Asano (author of the above series), also super good. I don't own any volumes currently.
 - [The Girl From the Other Side: Siúil, A Rún Vol. 1](http://www.sevenseasentertainment.com/series/the-girl-from-the-other-side-siuil-a-run/)
 - [The Marquis: Inferno](https://www.darkhorse.com/Books/15-859/The-Marquis-Inferno-TPB)
+- [On a Sunbeam by Tillie Walden](https://us.macmillan.com/books/9781250225986)
 
 ### Video Games
 - **Uncharted: The Lost Legacy** (PS4)
