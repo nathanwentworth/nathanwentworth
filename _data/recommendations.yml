@@ -34,3 +34,8 @@
   link: https://en.wikipedia.org/wiki/Revue_Starlight
   type: tv
   date: 2018-10-01
+- name: "My Hero Academia"
+  link: https://en.wikipedia.org/wiki/My_Hero_Academia
+  type: tv
+  desc: "I haven't been this into an action anime in a *long* time"
+  date: 2018-10-02
