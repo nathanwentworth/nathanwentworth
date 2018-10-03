@@ -21,7 +21,7 @@
       <ul class="recommendation-main">
     {% endif %}
     <li class="recommendation-body">
-      <div class="tag tag--{{ recommendation.type }}">{{ recommendation.type }}</div><div class="recommendation-text">{% if recommendation.best %}&#11088; {% endif %}<a href="{{ recommendation.link }}">{{ recommendation.name }}</a>{% if recommendation.desc %}<div>{{ recommendation.desc }}</div>{%endif%}</div>
+      <div class="tag tag--{{ recommendation.type }}">{{ recommendation.type }}</div><div class="recommendation-text">{% if recommendation.best %}&#11088; {% endif %}<a href="{{ recommendation.link }}">{{ recommendation.name }}</a>{% if recommendation.desc %}<div>{{ recommendation.desc | markdownify }}</div>{%endif%}</div>
     </li>
   {% endfor %}
   </ul>
