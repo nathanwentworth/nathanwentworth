@@ -18,8 +18,6 @@ Heavily inspired by [Donsol](https://hundredrabbits.itch.io/donsol) by [Hundred 
 
 ## Screenshots
 
-![deck dungeon screenshot](deck-dungeon-2018-05-18-at-09.50.07-fullpage.png)
-
-![deck dungeon screenshot](deck-dungeon-2018-05-18-at-09.50.39-fullpage.png)
-
-![deck dungeon screenshot](deck-dungeon-2018-05-18-at-09.51.09-fullpage.png)
+{% include img.html url='deck-dungeon-2018-05-18-at-09.50.07-fullpage.png' desc='level 2' %}
+{% include img.html url='deck-dungeon-2018-05-18-at-09.50.39-fullpage.png' desc='level 3' %}
+{% include img.html url='deck-dungeon-2018-05-18-at-09.51.09-fullpage.png' desc='level 4' %}

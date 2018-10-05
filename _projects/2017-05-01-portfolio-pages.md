@@ -9,28 +9,28 @@ Various portfolio sites made for friends
 
 # [Ethan Thibault](http://ethanthibault.xyz)
 
-![Ethan Thibault 1](ethan-01.png)
-
-![Ethan Thibault 2](ethan-02.png)
-
-![Ethan Thibault 3](ethan-03.png)
+<div class="img-block">
+  {% include img.html url='ethan-01.png' alt='Ethan Thibault 1' %}
+  {% include img.html url='ethan-02.png' alt='Ethan Thibault 2' %}
+  {% include img.html url='ethan-03.png' alt='Ethan Thibault 3' %}  
+</div>
 
 # [Connor Botts](http://connor.games)
 
-![Connor Botts 1](connor-01.png)
-
-![Connor Botts 2](connor-02.png)
+<div class="img-block">
+  {% include img.html url='connor-01.png' alt='Connor Botts 1' %}
+  {% include img.html url='connor-02.png' alt='Connor Botts 2' %}
+</div>
 
 # [Delton Hulbert](http://deltonhulbert.com)
-
-![Delton Hulbert 1](delton-01.png)
-
-![Delton Hulbert 2](delton-02.png)
-
-![Delton Hulbert 3](delton-03.png)
+<div class="img-block">
+  {% include img.html url='delton-01.png' alt='Delton Hulbert 1' %}
+  {% include img.html url='delton-02.png' alt='Delton Hulbert 2' %}
+  {% include img.html url='delton-03.png' alt='Delton Hulbert 3' %}  
+</div>
 
 # Luis Valle
-
-![Luis Valle 1](luis-01.png)
-
-![Luis Valle 2](luis-02.png)
+<div class="img-block">
+  {% include img.html url='luis-01.png' alt='Luis Valle 1' %}
+  {% include img.html url='luis-02.png' alt='Luis Valle 2' %}
+</div>

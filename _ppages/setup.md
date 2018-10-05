@@ -64,7 +64,7 @@ I use Firefox as my primary browser, with Chromium as my secondary/work browser.
 
 I use this laptop much less than I used to, mostly due to performance and battery life issues. While I love macOS, this computer is definitely near the end of its life.
 
-![laptop stats print](Screen Shot 2018-05-18 at 12.57.00 pm.png)
+{% include img.html url='Screen Shot 2018-05-18 at 12.57.00 pm.png' desc='laptop stats print' %}
 
 - 15" Macbook Pro with Retina Display (Late 2013)
 - Intel i7 2.7Ghz Quad-Core

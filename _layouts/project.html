@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-{% if page.collection == 'ppages' %}
-<base href="/assets/img/ppages{{ page.url }}">
-{% else %}
-<base href="/assets/img{{ page.url }}">
-{% endif %}
+
 <main {% if page.width %} class="w-{{ page.width }}"{% else %} class="w-slim" {% endif %}>
 {% include header.html %}
 
