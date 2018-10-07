@@ -2,6 +2,13 @@
 layout: default
 ---
 
+{% if page.collection == 'ppages' %}
+  {% assign base = "/assets/img/ppages" %}
+{% else %}
+  {% assign base = "/assets/img" %}
+{% endif %}
+
+
 <main {% if page.width %} class="w-{{ page.width }}"{% else %} class="w-slim" {% endif %}>
 {% include header.html %}
 
@@ -9,9 +16,9 @@ layout: default
   <div class="content-container">
     {% unless page.hide_image %}
     {% if page.image_lg %}
-      <img class="main-image" src="{{ page.image_lg }}">
+      <img class="main-image" src="{{ base }}{{ page.url }}{{ page.image_lg }}">
     {% elsif page.image %}
-      <img class="main-image" src="{{ page.image }}">
+      <img class="main-image" src="{{ base }}{{ page.url }}{{ page.image }}">
     {% endif %}
     {% endunless %}
 
