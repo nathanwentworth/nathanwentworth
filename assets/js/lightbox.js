@@ -28,7 +28,7 @@ var lightbox = function () {
 
   function setImg(_img) {
     if (_img.currentTarget) {
-      img.src = _img.currentTarget.src;
+      img.src = _img.currentTarget.dataset.lgSrc || _img.currentTarget.src;
     } else {
       img.src = _img;
     }

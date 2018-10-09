@@ -8,7 +8,13 @@
 {% assign first_char_url = split_url[0] %}
 
 <figure>
-  <img src="{% if first_char_url != '/' %}{{ base }}{{ page.url }}{% endif %}{{ include.url }}" alt="{% if include.alt %}{{ include.alt }}{% else %}{{ include.desc | strip_html }}{% endif %}">
+  <img
+    src="{% if first_char_url != '/' %}{{ base }}{{ page.url }}{% endif %}{{ include.url }}"
+    alt="{% if include.alt %}{{ include.alt }}{% else %}{{ include.desc | strip_html }}{% endif %}"
+    {% if include.lg %}
+    data-lg-src="{% if first_char_url != '/' %}{{ base }}{{ page.url }}{% endif %}{{ include.lg }}"
+    {% endif %}
+  />
   {% if include.desc %}<figcaption>{{ include.desc | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>{% endif %}
   <!-- <a class="figure-link" href="{{include.url}}">view original</a> -->
 </figure>
