@@ -35,10 +35,12 @@ elsewhere:
   'anime list': 'https://anilist.co/user/nathan/'
   'setup': '/setup'
   'bandcamp collection': 'https://bandcamp.com/nathanwentworth'
+  'last.fm': 'http://www.last.fm/user/nwentworth'
   'pinboard': 'https://pinboard.in/u:nathanwentworth'
   'tumblr': 'https://nathanwentworth.tumblr.com/'
   'github': 'https://github.com/nathanwentworth'
   'itch.io': 'https://nathanwentworth.itch.io/'
+  'discord: nathan#6799': false
 
 collections:
   projects:
