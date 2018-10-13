@@ -13,8 +13,8 @@ layout: clean
       {% assign date = currentdate %}
       <div class="photo-inner">
     {% endif %}
-    {% unless photo.basename contains "-sm" %}
-      <img class="photo lazyload" src="{{ photo.path | replace: '.jpg', '-sm.jpg' }}" alt="{{ photo.basename }}" data-id="{{ photo.basename }}" data-src="{{ photo.path }}" onclick="lightbox.setImg('{{ photo.path }}')">
+    {% unless photo.basename contains "-xs" %}
+      <img class="photo lazyload" src="{{ photo.path | replace: '.jpg', '-xs.jpg' }}" alt="{{ photo.basename }}" data-id="{{ photo.basename }}" data-lg-src="{{ photo.path }}" onclick="lightbox.setImg('{{ photo.path }}')">
     {% endunless %}
   {% if forloop.last %}</div></div>{% endif %}
   {% endfor %}
@@ -23,3 +23,5 @@ layout: clean
 <style type="text/css">
   body { background-color: #333; }
 </style>
+
+{% include lightbox.html %}

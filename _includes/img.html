@@ -16,5 +16,5 @@
     {% endif %}
   />
   {% if include.desc %}<figcaption>{{ include.desc | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>{% endif %}
-  <!-- <a class="figure-link" href="{{include.url}}">view original</a> -->
+  <noscript><a class="figure-link" href="{% if first_char_url != '/' %}{{ base }}{{ page.url }}{% endif %}{% if include.lg %}{{include.lg}}{% else %}{{include.url}}{% endif %}">view original</a></noscript>
 </figure>
