@@ -13,6 +13,8 @@ window.addEventListener('load', function () {
     images[i].addEventListener('click', lightbox.setImg, false);
     imageElements.push(images[i]);
   }
+
+  lightbox.init();
 });
 
 window.addEventListener('keydown', function (e) {
@@ -44,28 +46,34 @@ window.addEventListener('keydown', function (e) {
 var lightbox = function () {
   var elem = document.getElementById('lightbox');
   var img = document.getElementById('lightboxImg');
-  var arrowL = document.getElementById('arrow-left');
-  var arrowR = document.getElementById('arrow-right');
+  var arrow = {
+    l: document.getElementById('arrow-left'),
+    r: document.getElementById('arrow-right')
+  }
   let index = 0;
   var hidden = !elem.classList.contains('hidden');
 
   function init() {
-    arrowL.addEventListener('click', function (e) {
-      increment(-1);
-      e.stopPropagation();
-    })
+    if (imageElements.length > 1) {
+      arrow.l.addEventListener('click', function (e) {
+        increment(-1);
+        e.stopPropagation();
+      })
 
-    arrowR.addEventListener('click', function (e) {
-      increment(1);
-      e.stopPropagation();
-    })
+      arrow.r.addEventListener('click', function (e) {
+        increment(1);
+        e.stopPropagation();
+      })
+    } else {
+      arrow.l.classList.add('hidden');
+      arrow.r.classList.add('hidden');
+    }
 
     elem.addEventListener('click', function () {
       img.src = '';
       display(false);
     }, false)
   }
-  init();
 
   function setImg(_img) {
     if (_img.currentTarget) {
@@ -83,9 +91,7 @@ var lightbox = function () {
   }
 
   function increment(amount) {
-    console.log(imageElements.length)
     if (imageElements.length < 1) { return; }
-    console.log(index);
     index += amount;
     if (index < 0) {
       index = imageElements.length - 1;
@@ -107,6 +113,7 @@ var lightbox = function () {
     display: display,
     index: index,
     setIndex: setIndex,
-    hidden: hidden
+    hidden: hidden,
+    init: init
   }
 }();

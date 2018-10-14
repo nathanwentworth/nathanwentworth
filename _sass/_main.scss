@@ -478,7 +478,8 @@ footer ul {
   user-select: none;
 }
 
-.lightbox .arrow:hover {
+.lightbox .arrow:hover,
+.lightbox .arrow:focus {
   opacity: 1;
 }
 
