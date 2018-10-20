@@ -57,7 +57,11 @@ layout: default
     <h1 class="purple page-title">〜 More 〜</h1>
     <ul class="no-indent">
     {% for link in site.elsewhere %}
+    {% if link[1] %}
       <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+    {% else %}
+      <li>{{ link[0] }}</li>
+    {% endif %}
     {% endfor %}
     </ul>
   </div>
