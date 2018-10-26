@@ -51,12 +51,19 @@ pre ::selection { background-color: #4E5A65; }
 body {
   background-color: $bg-color;
   color: $text-color;
-  /*font-family: 'Nunito', sans-serif;*/
   font-family: 'Rubik', sans-serif;
   /*font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";*/
   /*font-family: 'Work Sans', sans-serif;*/
   margin: 0;
   font-size: 110%;
+}
+
+@media (prefers-color-scheme: dark) {
+  @import "dark";
+}
+
+.dark {
+  @import "dark";
 }
 
 a {
@@ -65,7 +72,7 @@ a {
   border-bottom: 0.1em dotted;
 }
 a:hover, a:active, a:focus {
-  color: #f55;
+  color: $red;
   border-bottom-style: solid;
 }
 
@@ -111,7 +118,7 @@ main.w-wide { max-width: $w-wide; }
 }
 .pagination-link:hover,
 .pagination-link:focus {
-  border: 1px solid;
+  border-color: $red;
   background: #f1f2f3;
 }
 
@@ -346,9 +353,7 @@ header.small {
 }
 
 .header-bg {
-  background: -webkit-gradient(linear, left top, right top, from($blue), to($pink));
-  background: linear-gradient(to right, $blue, $pink);
-  background: #f9a;
+  background: $bg-header;
   width: calc(100% + 128px);
   height: 300px;
   position: absolute;
@@ -420,7 +425,7 @@ footer ul {
   margin-left: 0.5rem;
 }
 
-.red { color: #f55 !important; }
+.red { color: $red !important; }
 .blue { color: #55f !important; }
 .purple { color: #6528DD !important; }
 .orange { color: #f60 !important; }

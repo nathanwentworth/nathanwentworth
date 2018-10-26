@@ -5,15 +5,25 @@ $w-wide: 1200px;
 $w-mid: 960px;
 $w-slim: 40rem;
 
-$bg-color: #f4f5f6;
-/*$bg-color: #fbb;*/
-/*$bg-color: #bbf;*/
-$bg-mid: #eeeeee;
-$bg-dark: #e6e6e6;
-$bg-header: #fbb;
-$text-color: #17272F;
+$link-hover: #f55;
 $light-text: #3B3C3E;
 
+/* # light/default colors */
+$bg-color: #f4f5f6;
+$bg-mid: #eeeeee;
+$bg-dark: #e6e6e6;
+$bg-header: #f9a;
+$text-color: #17272F;
+
+/* # dark colors */
+$bg-color-dark: #222;
+$bg-mid-dark: #333;
+$bg-dark-dark: #2D2D2D;
+$bg-header-dark: #010305;
+$text-color-dark: #ccc;
+
+
+$red: #f55;
 $blue: #B5C0FF;
 $dark-blue: #4460FF;
 $pink: #FF83C5;

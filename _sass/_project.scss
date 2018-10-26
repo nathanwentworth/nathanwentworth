@@ -28,12 +28,6 @@
   .content > div.highlighter-rouge:last-child,
   .content > *:last-child * { margin-bottom: 0; }
 
-  .info {
-    border-top-left-radius: $border-radius;
-    border-top-right-radius: $border-radius;
-    background-color: #e6e6e6;
-    padding: 1rem;
-  }
   .main-image {
     border-radius: $border-radius;
     border-bottom-left-radius: 0;

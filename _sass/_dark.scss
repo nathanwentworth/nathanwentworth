@@ -1,0 +1,32 @@
+body {
+  background-color: $bg-color-dark;
+}
+
+a,
+body,
+.recommendation-date,
+.project-description {
+  color: $text-color-dark;
+}
+
+.lower,
+footer,
+.content-container,
+.pagination-link {
+  background-color: $bg-mid-dark;
+  border-color: $bg-dark-dark;
+}
+
+.info,
+.pagination-link:hover,
+.project-description {
+  background-color: $bg-dark-dark;
+}
+
+.header-bg {
+  background-color: $bg-header-dark;
+}
+
+.tag {
+  color: $bg-color-dark;
+}
