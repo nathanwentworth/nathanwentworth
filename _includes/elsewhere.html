@@ -1,9 +1,11 @@
-<ul class="no-indent">
-{% for link in site.elsewhere %}
-  {% if link[1] %}
-  <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+<ul {% if include.page == 'home' %} class="no-indent"{% endif %}>
+{% for item in site.data.elsewhere %}
+{% if item[include.page] != false %}
+  {% if item.link %}
+  <li><a href="{{ item.link }}">{{ item.name }}</a></li>
   {% else %}
-  <li>{{ link[0] }}</li>
+  <li>{{ item.name }}</li>
   {% endif %}
+{% endif %}
 {% endfor %}
 </ul>

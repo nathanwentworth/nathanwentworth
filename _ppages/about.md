@@ -18,19 +18,7 @@ Feel free to [email me](ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&
 [moshboy's 1000 gamemakers](https://twitter.com/moshboy/status/792500324724461569) / [Rock Paper Shotgun](https://www.rockpapershotgun.com/2016/08/13/best-free-games-of-the-week-28/) / [itch.io Twitter](https://twitter.com/itchio/status/584928245214089217) / [itch.io CSS Showcase](https://itch.io/c/241703/css-showcase) / [PewDiePie](https://www.youtube.com/watch?v=n5nPR4rmBu0)
 
 ## Elsewhere
-- [email](ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;)
-- [twitter](https://twitter.com/nathanwentworth)
-- discord - nathan#6799
-- [anilist](https://anilist.co/user/nathan/)
-- [last.fm](http://www.last.fm/user/nwentworth)
-- [bandcamp](https://bandcamp.com/nathanwentworth)
-- [soundcloud](https://soundcloud.com/nathanwentworth)
-- [letterboxd](https://letterboxd.com/nathanwentworth/)
-- [playstation](https://my.playstation.com/profile/xDigitalTaco)
-- xbox - nathanwentworth
-- [steam](http://steamcommunity.com/id/nathanwentworth/)
-- [itch.io](https://nathanwentworth.itch.io/)
-- [square cash](https://cash.me/$nathanwentworth)
+{% include elsewhere.html page='about' %}
 
 ## Site info
 This website is hosted on a [Digital Ocean](https://m.do.co/c/24af6a0d4c4a) droplet running Ubuntu 16 and nginx. [Let's Encrypt](https://letsencrypt.org/) is providing the SSL Cert, and my CMS/site generator is [Jekyll](http://jekyllrb.com/). Feel free to check out this site's source code on [Github](https://github.com/nathanwentworth/nathanwentworth).

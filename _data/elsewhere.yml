@@ -1,0 +1,64 @@
+- name: 'twitter'
+  link: 'https://twitter.com/nathanwentworth'
+  home: true
+- name: 'mastodon'
+  link: 'https://mastodon.social/@nathanwentworth'
+  home: true
+- name: 'photos'
+  link: '/photos'
+  home: true
+  about: false
+- name: 'sites i like'
+  link: '/sites-i-like'
+  home: true
+  about: false
+- name: 'wishlist'
+  link: '/wishlist'
+  home: true
+  about: false
+- name: 'anime list'
+  link: 'https://anilist.co/user/nathan/'
+  home: true
+- name: 'setup'
+  link: '/setup'
+  home: true
+- name: 'bandcamp collection'
+  link: 'https://bandcamp.com/nathanwentworth'
+  home: true
+- name: 'last.fm'
+  link: 'http://www.last.fm/user/nwentworth'
+  home: true
+- name: 'pinboard'
+  link: 'https://pinboard.in/u:nathanwentworth'
+  home: true
+- name: 'tumblr'
+  link: 'https://nathanwentworth.tumblr.com/'
+  home: true
+- name: 'github'
+  link: 'https://github.com/nathanwentworth'
+  home: true
+- name: 'itch.io'
+  link: 'https://nathanwentworth.itch.io/'
+  home: true
+- name: 'discord: nathan#6799'
+  home: true
+- name: 'email'
+  link: 'ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;'
+  home: false
+- name: 'soundcloud'
+  link: 'https://soundcloud.com/nathanwentworth'
+  home: false
+- name: 'letterboxd'
+  link: 'https://letterboxd.com/nathanwentworth/'
+  home: false
+- name: 'playstation'
+  link: 'https://my.playstation.com/profile/xDigitalTaco'
+  home: false
+- name: 'xbox - nathanwentworth'
+  home: false
+- name: 'steam'
+  link: 'http://steamcommunity.com/id/nathanwentworth/'
+  home: false
+- name: 'square cash'
+  link: 'https://cash.me/$nathanwentworth'
+  home: false
