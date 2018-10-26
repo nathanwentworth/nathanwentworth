@@ -58,14 +58,6 @@ body {
   font-size: 110%;
 }
 
-@media (prefers-color-scheme: dark) {
-  @import "dark";
-}
-
-.dark {
-  @import "dark";
-}
-
 a {
   color: $text-color;
   text-decoration: none;
@@ -509,3 +501,10 @@ footer ul {
   }
 }
 
+@media (prefers-color-scheme: dark) {
+  @import "dark";
+}
+
+.dark {
+  @import "dark";
+}
