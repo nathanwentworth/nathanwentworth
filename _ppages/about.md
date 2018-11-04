@@ -8,7 +8,7 @@ Hi! I'm nathan wentworth, I make [video games](/projects/#t:game) and [websites]
 
 I'm interested in design, open source software, minimalism, fashion, and the intersection of technology and humanity. I like [fun music](https://soundcloud.com/nathanwentworth/sets/fav), video games, and [taking photos](/photos).
 
-Currently working freelance for [FableVision Studios](http://www.fablevisionstudios.com/).
+Currently working for [FableVision Studios](http://www.fablevisionstudios.com/).
 
 Feel free to [email me](ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;) or talk to me on [twitter](https://twitter.com/nathanwentworth)!
 
