@@ -64,3 +64,16 @@
   link: https://soundcloud.com/rlgrime/halloween-vii
   type: music
   date: 2018-10-26
+- name: "Best of Giant Bomb 156 - Mom’s Dead Parkour"
+  link: https://www.youtube.com/watch?v=jtgTeivD2Lc
+  type: video
+  date: 2018-11-09
+- name: "Rosalía - El Mal Querer"
+  link: https://pitchfork.com/reviews/albums/rosalia-el-mal-querer/
+  type: music
+  best: true
+  date: 2018-11-09
+- name: "Revolutionary Girl Utena"
+  link: https://en.wikipedia.org/wiki/Revolutionary_Girl_Utena
+  type: show
+  date: 2018-11-16
