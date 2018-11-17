@@ -19,7 +19,7 @@ layout: default
     {% for post in posts %}
     <li class="project-item column-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}">
       <a class="main-links" href="{{ post.url }}">
-        <img class="image" src="/assets/img{{ post.url }}{{ post.image }}">
+        <img class="image" alt="{{ post.title }}" src="/assets/img{{ post.url }}{{ post.image }}">
       </a>
       <a class="title main-links" href="{{ post.url }}">{% if post.title %}<span class="bold">{{ post.title }}</span>{% endif %}</a>
       <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>

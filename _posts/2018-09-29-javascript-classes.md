@@ -1,5 +1,5 @@
 ---
-title: Using "Classes" in JavaScript
+title: Using the Javascript Revealing Module Pattern
 tags: [tech, code]
 ---
 
