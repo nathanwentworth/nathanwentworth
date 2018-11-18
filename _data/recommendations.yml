@@ -59,6 +59,7 @@
 - name: "A Week In Tilde.town"
   link: http://tilde.town/~ags/updated.html
   type: web
+  desc: "tilde.town is one of the coolest places on the internet, and this is a great sample of people's pages (and how i keep up with what's happening on there)"
   date: 2018-10-20
 - name: "RL Grime Halloween VII"
   link: https://soundcloud.com/rlgrime/halloween-vii
@@ -75,5 +76,10 @@
   date: 2018-11-09
 - name: "Revolutionary Girl Utena"
   link: https://en.wikipedia.org/wiki/Revolutionary_Girl_Utena
-  type: show
+  type: tv
   date: 2018-11-16
+- name: "How to Build a Low-tech Website?"
+  link: https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/
+  type: text
+  desc: "an exploration and implementation on making an ultra-low-powered (solar) website and server"
+  date: 2018-11-17
