@@ -28,7 +28,7 @@ Inspired by the [XXIIVV webring](https://webring.xxiivv.com/) (which I'm part of
 ## Services/Apps/Utilities
 - [Pinboard](https://pinboard.in/)
   - anti-social bookmarking
-  - made by [Maciej Cegłowski](http://idlewords.com/about.htm), whose talk [Haunted By Data](http://idlewords.com/talks/haunted_by_data.htm) I return to often
+  - made by [Maciej Cegłowski](http://idlewords.com/about.htm), whose talk [Haunted By Data](http://idlewords.com/talks/haunted_by_data.htm) I think about all the time
 - [Hardly Everything](https://hardlyeverything.com/)
   - made by Jon-Kyle (linked above). a feed with cadence
 - [tilde.town](http://tilde.town/)

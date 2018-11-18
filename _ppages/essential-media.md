@@ -4,7 +4,7 @@ Title: Essential Media
 
 Favorite music, comics, games, etc.
 
-For more frequently updated things that I like (certainly not as much as the things here), check out my [recommendations page](/recommendations)!
+For more frequently updated things that I like (certainly not as much as the things here), check out my [recommendations page](/recommendations)! You might also be interested in [websites I like](/sites-i-like).
 
 ## Music
 
