@@ -5,6 +5,6 @@ Hi! I'm nathan wentworth, I make [video games](/game) and [websites](/web). I us
 
 I'm interested in design, open source software, minimalism, fashion, and the intersection of technology and humanity.
 
-Currently working freelance for [FableVision Studios](http://www.fablevisionstudios.com/).
+Currently working for [FableVision Studios](http://www.fablevisionstudios.com/).
 
 Feel free to talk to me on [twitter](https://twitter.com/nathanwentworth)!
