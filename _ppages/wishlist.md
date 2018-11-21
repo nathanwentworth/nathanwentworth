@@ -9,7 +9,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - **[Playstation](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/)**
   - I buy most of my games digitally (a lot of games I like are digital-only), and I play most of my games on my PS4
 - **[Nintendo eShop](https://www.nintendo.com/giftcards)**
-  - I bought a Switch a few months ago and don't have a lot of games for it, mainly because Nintendo games never go on sale and stay full-price forever
+  - I bought a Switch last year and don't have a lot of games for it, mainly because Nintendo games never go on sale and stay full-price forever
 
 ## Clothes
 - **[Nike Air Max 180 (White/Solar Red/Ultramarine)](https://www.nike.com/t/air-max-180-mens-shoe-qbBpJ0/615287-100)** Size 11
@@ -20,10 +20,13 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ## Things / Tech
 - [Muji Aroma Diffuser](http://www.muji.us/store/ultrasonic-aroma-diffuser.html)
-- Fujifilm X100F
-- **[Raspberry Pi 3 B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)**
+- [Fujifilm X100F](http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x100f/)
+  - S and T models are also good
+- [ROCKPro64](https://www.pine64.org/?page_id=61454)
+  - Single-board computer with all the functionality I'd ever need, similar to a [Raspberry Pi 3 B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) but more powerful
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
 - Audioengine A2+ (white)
+- [Dell UltraSharp 27" (U2719DC)](https://www.dell.com/en-us/work/shop/dell-ultrasharp-27-usb-c-monitor-u2719dc/apd/210-arcz/monitors-monitor-accessories)
 
 ## Media
 
@@ -71,15 +74,16 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [On a Sunbeam by Tillie Walden](https://us.macmillan.com/books/9781250225986)
 
 ### Video Games
-- **Uncharted: The Lost Legacy** (PS4)
+- **Spyro Reignited Trilogy** (PS4)
 - **Yakuza Kiwami 2** (PS4)
-- Wolfenstein II: The New Colossus (PS4)
 - **Silent Hill 3** (PS2)
+- Wolfenstein II: The New Colossus (PS4)
+- Uncharted: The Lost Legacy (PS4)
+- **Mario Kart 8 Deluxe** (Switch)
+- **Captain Toad Treasure Tracker** (Switch)
 - **Nintendo Joycons**
   - Neon Yellow
   - Neon Green/Neon Pink
-- **Mario Kart 8 Deluxe** (Switch)
-- **Captain Toad Treasure Tracker** (Switch)
 - Dance Dance Revolution Max 2 (PS2)
   - this should really only be bought on ebay, since i don't care about condition. i'd need a pad too, but that's a totally different thing
 

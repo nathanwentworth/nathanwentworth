@@ -6,9 +6,9 @@ excerpt: Hi! I'm Nathan Wentworth!
 
 Hi! I'm nathan wentworth, I make [video games](/projects/#t:game) and [websites](/projects/#t:web). I like using vanilla/ES6 [JavaScript](/projects/#t:javascript), [Unity C#](/projects/#t:unity), and [Python](/projects/#t:python). Recently I've been into making CLI tools and server-side web apps.
 
-I'm interested in design, open source software, minimalism, fashion, and the intersection of technology and humanity. I like [fun music](https://soundcloud.com/nathanwentworth/sets/fav), video games, and [taking photos](/photos).
+I'm interested in design, open source software, minimalism, fashion, and the intersection of technology and humanity. I like [fun music](https://soundcloud.com/nathanwentworth/sets/fav), video games, and [taking photos](/photos). Check out some [media](/essential-media), [websites](/sites-i-like), and [other things](/recommendations) that I like!
 
-Currently working for [FableVision Studios](http://www.fablevisionstudios.com/).
+Went to Fitchburg State University to study Game Design and graduated in 2017. Worked freelance for [FableVision Studios](http://www.fablevisionstudios.com/) before being hired full-time in November 2018.
 
 Feel free to [email me](ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;) or talk to me on [twitter](https://twitter.com/nathanwentworth)!
 

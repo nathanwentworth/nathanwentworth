@@ -6,6 +6,6 @@ function darkModeCheck() {
   } else {
     document.querySelector('html').classList.remove('dark');
   }
-};
-darkModeCheck()
+}
+darkModeCheck();
 // window.addEventListener('load', darkModeCheck, false);
