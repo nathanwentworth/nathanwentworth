@@ -14,9 +14,14 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ## Clothes
 - **[Nike Air Max 180 (White/Solar Red/Ultramarine)](https://www.nike.com/t/air-max-180-mens-shoe-qbBpJ0/615287-100)** Size 11
 - [Adidas I-5923 Pride](https://www.adidas.com/us/i-5923-pride-shoes/B41984.html) Size 11
-- [Everlane Black Skinny Fit Jeans](https://www.everlane.com/products/mens-skinny-fit-jean-black) / [Everlane referral code](https://www.everlane.com/r/6odi8m)
+  - OR, [adidas I-5923 Shoes - Black](https://www.adidas.com/us/i-5923-shoes/D97213.html)
+- [Everlane Black Skinny Fit Jeans](https://www.everlane.com/products/mens-skinny-fit-jean-black) / [Everlane referral code](https://www.everlane.com/r/6odi8m) 29x32/30x32
 - [Qwstion washed black backpack](https://www.qwstion.com/en/backpack-washed-black.html)
-
+- [Bonobos Gift Card](https://bonobos.com/gift-cards)
+  - [Dress Shirt | Navy Roses | Bonobos](https://bonobos.com/products/unbutton-down-shirt?color=navy%20roses&shirt-fit=tailored&shirt-length=reg) Medium, tailored fit, regular length
+  - [Washed Button Down Shirt | Burgundy Floral Stamp | Bonobos](https://bonobos.com/products/washed-button-down-shirt-cshrt00501?color=burgundy%20floral%20stamp&shirt-fit=slim&shirt-length=reg) Medium, tailored fit, regular length
+- [Mokuyobi Gift Card](https://mokuyobi.com/products/gift-card)
+  - [Noodle Doodle Button Up Shirt – Mokuyobi](https://mokuyobi.com/collections/shirts/products/noodle-doodle-button-up-shirt) Medium
 
 ## Things / Tech
 - [Muji Aroma Diffuser](http://www.muji.us/store/ultrasonic-aroma-diffuser.html)
@@ -48,6 +53,8 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ### Prints
 - [Witches on Rocks by Woon Young](https://woonyoung.bigcartel.com/product/witches-on-the-mountain)
+- [Sylvain Tegroeg - Factory — VGA Gallery](https://www.videogameartgallery.com/exhibition/a6uq6xsy1pab9gjfcygcxofe63cyc4)
+- [Cardboard Computer - Kentucky Route Zero Act II — VGA Gallery](https://www.videogameartgallery.com/exhibition/cardboard-computer-kentucky-route-zero-act-ii)
 
 ### Comics
 - **[Gundam the Origin](http://www.vertical-inc.com/books/gundam.html)**
@@ -76,6 +83,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ### Video Games
 - **Spyro Reignited Trilogy** (PS4)
 - **Yakuza Kiwami 2** (PS4)
+- [Dark Souls Trilogy (PS4)](https://www.bestbuy.com/site/dark-souls-trilogy-playstation-4/6293770.p?skuId=6293770)
 - **Silent Hill 3** (PS2)
 - Wolfenstein II: The New Colossus (PS4)
 - Uncharted: The Lost Legacy (PS4)
