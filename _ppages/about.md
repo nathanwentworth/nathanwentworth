@@ -11,6 +11,7 @@ I'm interested in design, open source software, minimalism, fashion, and the int
 Went to Fitchburg State University to study Game Design and graduated in 2017. Worked freelance for [FableVision Studios](http://www.fablevisionstudios.com/) before being hired full-time in November 2018.
 
 Feel free to [email me](ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;) or talk to me on [twitter](https://twitter.com/nathanwentworth)! All categories posts/categories on this site are setup with RSS: [posts](/posts-feed.xml), [projects](/projects-feed.xml), and [recommendations](/recommendations-feed.xml).
+
 ---
 
 ## Featured in
