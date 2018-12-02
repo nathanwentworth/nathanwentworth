@@ -88,3 +88,12 @@
   type: music
   desc: "produced by Danny L Harle, absolutely huge"
   date: 2018-11-25
+- name: "The Haunted Island, a Frog Detective Game by Grace Bruxner"
+  link: https://fisho.itch.io/haunted-island
+  type: game
+  date: 2018-11-26
+- name: "Spider-Man: Into the Spider-Verse"
+  link: https://letterboxd.com/nathanwentworth/film/spider-man-into-the-spider-verse/
+  type: movie
+  best: true
+  date: 2018-12-01
