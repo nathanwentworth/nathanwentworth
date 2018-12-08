@@ -23,6 +23,7 @@ For more frequently updated things that I like (certainly not as much as the thi
 - [The Wonderful Star's Walk is Wonderful - Yuri Misumi](https://www.youtube.com/watch?v=5w9fOAG5Xz8)
 - [I Left The Party - Rival Consoles](https://soundcloud.com/erasedtapes/rival-consoles-i-left-the)
 - [January 10th, 2014 - The World Is a Beautiful Place & I Am No Longer Afraid to Die](https://www.youtube.com/watch?v=pAh2FeE92jo)
+- [Everyone's a V.I.P. To Someone - The Go! Team](https://thegoteam.bandcamp.com/track/everyones-a-v-i-p-to-someone)
 
 ### Mixes
 

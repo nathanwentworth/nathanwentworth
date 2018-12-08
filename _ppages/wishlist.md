@@ -57,6 +57,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Cardboard Computer - Kentucky Route Zero Act II — VGA Gallery](https://www.videogameartgallery.com/exhibition/cardboard-computer-kentucky-route-zero-act-ii)
 
 ### Comics
+- Anything from [Peow](http://peowstudio.com/), everything they publish is gorgeous
 - **[Gundam the Origin](http://www.vertical-inc.com/books/gundam.html)**
 - [Jon](http://galesaur.tictail.com/product/jon) and [Jon 2](http://galesaur.tictail.com/product/jon-2)
 - [Tekkon Kinkreet](https://www.viz.com/read/manga/product/tekkonkinkreet-black-white/7203)
