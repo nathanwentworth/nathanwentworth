@@ -223,6 +223,15 @@ button {
   background: #DDDDDD;
 }
 
+table { border-collapse: collapse; }
+table td {
+  height: 1rem;
+  padding: 0.2rem;
+}
+table tr:nth-of-type(2n) {
+  background-color: #e8e8e8;
+}
+
 .tag {
   display: inline-block;
   padding: 0.25em 0.4em;
