@@ -2,7 +2,7 @@
 {% for item in site.data.elsewhere %}
 {% if item[include.page] != false %}
   {% if item.link %}
-  <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+  <li><a {% if item.name == 'mastodon' %}rel="me"{% endif %} href="{{ item.link }}">{{ item.name }}</a></li>
   {% else %}
   <li>{{ item.name }}</li>
   {% endif %}

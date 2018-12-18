@@ -21,6 +21,8 @@ github_username: nathanwentworth
 permalink: /:collection/:title/
 author: "Nathan Wentworth"
 
+data_dir: data
+
 links:
   'projects': '/projects'
   'posts': '/posts'
