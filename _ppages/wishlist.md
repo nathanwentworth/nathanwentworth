@@ -27,6 +27,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Muji Aroma Diffuser](http://www.muji.us/store/ultrasonic-aroma-diffuser.html)
 - [Fujifilm X100F](http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x100f/)
   - S and T models are also good
+- **[Raspberry Pi 3 B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)**
 - [ROCKPro64](https://www.pine64.org/?page_id=61454)
   - Single-board computer with all the functionality I'd ever need, similar to a [Raspberry Pi 3 B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) but more powerful
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
@@ -38,15 +39,15 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ### Books
 - The Wind Up Bird Chronicle by Haruki Murakami
 - Snow Crash by Neal Stephenson
-- Neuromancer by William Gibson
-- The Left Hand of Darkness by Ursula K. Le Guin
+- **Neuromancer** by William Gibson
+- **The Left Hand of Darkness** by Ursula K. Le Guin
 
 <div class="img-block">
 {% include img.html url='dustydeck-2.jpg' desc='[Dangerdrop Artbooks](https://dangerdrop.booth.pm/)' %}
 {% include img.html url='three-body-problem.jpg' desc='[The Three-Body Problem](https://us.macmillan.com/books/9780765382030)' %}
 </div>
 
-- [The Three-Body Problem](https://us.macmillan.com/books/9780765382030) by Cixin Liu
+- **[The Three-Body Problem](https://us.macmillan.com/books/9780765382030)** by Cixin Liu
 - [Dangerdrop Artbooks](https://dangerdrop.booth.pm/)
 - [A Profound Waste of Time](http://apwot.com/)
 - [Autonomous by Annalee Newitz](https://us.macmillan.com/books/9780765392077)
@@ -57,7 +58,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Cardboard Computer - Kentucky Route Zero Act II — VGA Gallery](https://www.videogameartgallery.com/exhibition/cardboard-computer-kentucky-route-zero-act-ii)
 
 ### Comics
-- Anything from [Peow](http://peowstudio.com/), everything they publish is gorgeous
+- **Anything from [Peow](http://peowstudio.com/)**, everything they publish is gorgeous
 - **[Gundam the Origin](http://www.vertical-inc.com/books/gundam.html)**
 - [Jon](http://galesaur.tictail.com/product/jon) and [Jon 2](http://galesaur.tictail.com/product/jon-2)
 - [Tekkon Kinkreet](https://www.viz.com/read/manga/product/tekkonkinkreet-black-white/7203)
@@ -86,6 +87,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - **Yakuza Kiwami 2** (PS4)
 - [Dark Souls Trilogy (PS4)](https://www.bestbuy.com/site/dark-souls-trilogy-playstation-4/6293770.p?skuId=6293770)
 - **Silent Hill 3** (PS2)
+  - get used on ebay
 - Wolfenstein II: The New Colossus (PS4)
 - Uncharted: The Lost Legacy (PS4)
 - **Mario Kart 8 Deluxe** (Switch)
