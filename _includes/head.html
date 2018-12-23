@@ -14,6 +14,8 @@
   <meta property="og:title" content="{{ site.title }}{% if page.title %} — {{ page.title }}{% endif %}">
   {% if page.image %}
   <meta property="og:image" content="https://nathanwentworth.co/assets/img{% if page.collection == 'ppages' %}/ppages{% endif %}{{ page.url }}{{ page.image }}">
+  {% else %}
+  <meta property="og:image" content="https://nathanwentworth.co/assets/img/me/nathan-wentworth-august-2018-film-sm.jpg">
   {% endif %}
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
@@ -29,6 +31,8 @@
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
   {% if page.image %}
   <meta name="twitter:image" content="https://nathanwentworth.co/assets/img{% if page.collection == 'ppages' %}/ppages{% endif %}{{ page.url }}{{ page.image }}">
+  {% else %}
+  <meta name="twitter:image" content="https://nathanwentworth.co/assets/img/me/nathan-wentworth-august-2018-film-sm.jpg">
   {% endif %}
   <meta name="twitter:dnt" content="on">
 
