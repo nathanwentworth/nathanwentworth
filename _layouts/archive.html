@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<a class="screen-reader-shortcut" href="#main-content">
+  Skip to main content
+</a>
+
+
 <main class="w-slim">
 {% include header.html %}
 
@@ -18,7 +23,7 @@ layout: default
     {% else %}
       {% assign posts = site[page.collection] | sort: 'title' | reverse %}
     {% endunless %}
-    <ul class="no-indent">
+    <ul id="main-content" class="no-indent">
 
       {% for entry in posts reversed %}
       <li class="entry" data-t="{{ entry.tags | join: '|' }}{% if entry.tags.size > 0 %}|{% endif %}{{ entry.title | downcase }}" data-y="{{ entry.date | date: '%Y' }}" data-c="{{ entry.type }}">

@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<a class="screen-reader-shortcut" href="#main-content">
+  Skip to main content
+</a>
+
 {% if page.collection == 'ppages' %}
   {% assign base = "/assets/img/ppages" %}
 {% else %}
@@ -12,7 +16,7 @@ layout: default
 <main {% if page.width %} class="w-{{ page.width }}"{% else %} class="w-slim" {% endif %}>
 {% include header.html %}
 
-<div class="project outer-container">
+<div id="main-content" class="project outer-container">
   <div class="content-container">
     {% unless page.hide_image %}
     {% if page.image_lg %}

@@ -426,6 +426,23 @@ footer ul {
   margin-left: 0.5rem;
 }
 
+.screen-reader-shortcut {
+  position: absolute;
+  top: -1000em;
+}
+
+.screen-reader-shortcut:focus {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  /* ...and now any nice styling you want to apply... */
+  padding: 1em;
+  background-color: rgb(114, 105, 105);
+  color: white;
+  text-decoration: none;
+}
+
 .red { color: $red !important; }
 .blue { color: #55f !important; }
 .purple { color: #6528DD !important; }
