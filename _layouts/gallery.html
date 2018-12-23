@@ -28,7 +28,7 @@ layout: default
   </ul>
 
   <div class="columns lower">
-    <div class="column-item column-item-50">
+    <div class="column-item">
       <h1 class="page-title red"><a href="/projects/" class="red">Projects</a></h1>
       <ul class="no-indent">
       {% assign projects = site.projects | reverse %}
@@ -41,21 +41,38 @@ layout: default
       {% endfor %}
       </ul>
     </div>
-    <div class="column-item column-item-50">
-      <h1 class="orange page-title"><a class="orange" href="/about">About Me</a></h1>
+    <div class="column-item">
+      <h1 class="blue page-title"><a class="blue" href="/about">About Me</a></h1>
       <div>{{ site.full_description | markdownify }}</div>
     </div>
-  </div>
-  <div class="columns lower">
-    <div class="recommendations column-item column-item-66">
-      <h1 class="page-title blue"><a href="/recommendations/" class="blue">Recommendations</a></h1>
-      {% include recommendations.html limit=8 %}
+    <div class="column-item">
+      <h1 class="orange page-title">〜 More 〜</h1>
+      {% include elsewhere.html page='home' %}
     </div>
 
   </div>
-  <div class="column-item">
-    <h1 class="purple page-title">〜 More 〜</h1>
-    {% include elsewhere.html page='home' %}
+
+  <div class="columns lower">
+    <div class="recommendations column-item column-item-66">
+      <h1 class="page-title purple"><a href="/recommendations/" class="purple">Things I Like</a></h1>
+      {% include recommendations.html limit=8 %}
+    </div>
+    <div class="column-item">
+      <h1 class="red page-title"><a class="red" href="https://last.fm/user/nwentworth">Top Music</a></h1>
+      <p>My most played artists in the last seven days</p>
+      {% include lastfm.html %}
+    </div>
+  </div>
+
+  <div class="columns lower">
+    <div class="column-item">
+      <h1 class="blue page-title"><a class="blue" href="http://mastodon.social/@nathanwentworth">Recent toots</a></h1>
+      {% include mastodon.html %}
+    </div>
+    <div class="column-item column-item-66">
+      <h1 class="purple page-title">Recent Bookmarks</h1>
+      {% include pinboard.html %}
+    </div>
   </div>
 
 </div>

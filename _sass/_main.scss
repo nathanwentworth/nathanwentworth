@@ -365,6 +365,27 @@ header.small {
   z-index: -100;
 }
 
+.mastodon li {
+  background: $bg-color;
+  padding: 0.5em;
+  border-radius: 0.5em;
+}
+.mastodon p {
+  margin-top: 0;
+}
+.mastodon .images {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mastodon img {
+  max-height: 100px;
+  border-radius: 0.2em;
+}
+.mastodon img + img {
+  margin-left: 0.25em;
+}
+
 
 footer {
   padding: 1rem;
@@ -419,12 +440,18 @@ footer ul {
 .bold { font-weight: bold; }
 .italic { font-style: italic; }
 .bigger { font-size: 1.25em; }
+.smaller { font-size: 0.75em; }
 
 .category-title {
   color: #fff;
   text-shadow: 0 0.0625rem 0.125rem rgba(0,0,0,0.2);
   margin-left: 0.5rem;
 }
+
+ul.no-arrow li::before {
+  display: none;
+}
+
 
 .screen-reader-shortcut {
   position: absolute;

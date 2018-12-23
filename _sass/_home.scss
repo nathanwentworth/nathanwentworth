@@ -102,6 +102,11 @@
   margin-right: 0.75em;
 }
 
+ul.noarrow li::before {
+  display: none;
+}
+
+
 .archive-entry .date {
   margin-left: 0.75em;
   font-size: 0.85em;

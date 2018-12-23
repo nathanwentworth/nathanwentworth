@@ -1,0 +1,8 @@
+<div class="pinboard">
+  <ul class="no-indent">
+    {% for bookmark in site.data.pinboard | limit: 5 %}
+    <li><a href="{{ bookmark.u }}">{{ bookmark.d }}</a>{% if bookmark.n %}<p>{{ bookmark.n }}</p>{% endif %}</li>
+    {% endfor %}
+    <li><a href="https://pinboard.in/u:nathanwentworth">view more on pinboard</a></li>
+  </ul>
+</div>

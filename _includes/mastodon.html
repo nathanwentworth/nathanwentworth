@@ -1,0 +1,22 @@
+<div class="mastodon">
+  <ul class="no-indent no-arrow">
+    {% for toot in site.data.mastodon.orderedItems | limit: 5 %}
+    <li>{{ toot.object.content }}
+      {% if toot.object.attachment %}
+      <div class="images">
+        {% for image in toot.object.attachment %}
+        {% if image.mediaType contains "image" %}
+        <img src="{{ image.url }}">
+        {% elsif image.mediaType contains "video" %}
+        <video>
+          <source src="{{ image.url }}" type="{{ image.mediaType }}">
+        </video>
+        {% endif %}
+        {% endfor %}
+      </div>
+      {% endif %}
+      <a class="smaller" href="{{ toot.object.id }}">(view)</a></li>
+    {% endfor %}
+    <li><a href="https://mastodon.social/@nathanwentworth">view more on mastodon</a></li>
+  </ul>
+</div>
