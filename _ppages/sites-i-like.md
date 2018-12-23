@@ -9,6 +9,7 @@ Inspired by the [XXIIVV webring](https://webring.xxiivv.com/) (which I'm part of
 ## Developers
 - [Devine Lu Linvega](https://wiki.xxiivv.com/)
 - [Jon-Kyle](https://jon-kyle.com/)
+- [Sheamus Crowley](https://yourfriend.sheam.us/)
 
 ## Designers
 - [Cory Schmitz](https://coryschmitz.com/)
