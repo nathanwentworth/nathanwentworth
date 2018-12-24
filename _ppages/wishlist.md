@@ -83,6 +83,10 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [The Marquis: Inferno](https://www.darkhorse.com/Books/15-859/The-Marquis-Inferno-TPB)
 - [On a Sunbeam by Tillie Walden](https://us.macmillan.com/books/9781250225986)
 
+### Board/Physical Games
+- [Burgle Bros.](https://fowers-games.myshopify.com/collections/frontpage/products/burgle-bros)
+- [Betrayal at House on the Hill](https://avalonhill.wizards.com/avalon-hill-betrayal-house-hill)
+
 ### Video Games
 - **Spyro Reignited Trilogy** (PS4)
 - **Yakuza Kiwami 2** (PS4)

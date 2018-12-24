@@ -16,7 +16,7 @@ layout: default
 <main {% if page.width %} class="w-{{ page.width }}"{% else %} class="w-slim" {% endif %}>
 {% include header.html %}
 
-<div id="main-content" class="project outer-container">
+<article id="main-content" class="project outer-container">
   <div class="content-container">
     {% unless page.hide_image %}
     {% if page.image_lg %}
@@ -28,7 +28,7 @@ layout: default
 
     <div class="info">
       <div class="info-section info-upper">
-        <h1 class="bold page-title">{{ page.title }}</h1>
+        <h1 itemprop="title" class="bold page-title">{{ page.title }}</h1>
         {% if page.date and page.collection == 'projects' %}
         <a class="tag" href="/{{ page.collection }}/#y:{{ page.date | date:"%Y" }}" title="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date:"%Y" }}</a>
         {% endif %}
@@ -66,7 +66,7 @@ layout: default
       {{ content }}
     </div>
   </div>
-</div>
+</article>
 
 
 <div id="related" class="pagination-block outer-container">
