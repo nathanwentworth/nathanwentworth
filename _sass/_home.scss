@@ -84,11 +84,7 @@
 .columns .column-item {
   vertical-align: top;
   width: calc(100% - 8px);
-  -ms-flex-preferred-size: calc(100% - 8px);
-      flex-basis: calc(100% - 8px);
   margin: 8px;
-  -ms-flex-negative: 0;
-      flex-shrink: 0;
 }
 
 .home-portrait {
@@ -131,38 +127,18 @@ ul.noarrow li::before {
 
   .columns .column-item {
     width: calc(50% - 16px);
-    -ms-flex-basis: calc(50% - 16px);
-        -ms-flex-preferred-size: calc(50% - 16px);
-        flex-basis: calc(50% - 16px);
-    -ms-flex-negative: 0;
-        flex-shrink: 0;
   }
 }
 
 @media only screen and (min-width: 880px) {
   .columns .column-item {
     width: calc((100% / 3) - 16px);
-    -ms-flex-basis: calc((100% / 3) - 16px);
-        -ms-flex-preferred-size: calc((100% / 3) - 16px);
-        flex-basis: calc((100% / 3) - 16px);
-    -ms-flex-negative: 0;
-        flex-shrink: 0;
   }
   .columns .column-item-50 {
     width: calc(50% - 16px);
-    -ms-flex-basis: calc(50% - 16px);
-        -ms-flex-preferred-size: calc(50% - 16px);
-        flex-basis: calc(50% - 16px);
-    -ms-flex-negative: 0;
-        flex-shrink: 0;
   }
   .columns .column-item-66 {
     width: calc((100% * (2 / 3)) - 16px);
-    -ms-flex-basis: calc((100% * (2 / 3)) - 16px);
-        -ms-flex-preferred-size: calc((100% * (2 / 3)) - 16px);
-        flex-basis: calc((100% * (2 / 3)) - 16px);
-    -ms-flex-negative: 0;
-        flex-shrink: 0;
   }
 
 

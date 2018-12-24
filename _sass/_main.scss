@@ -38,8 +38,7 @@
 
 
 * {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 ::-moz-selection { background-color: #f1f211; text-shadow: none;}
@@ -360,8 +359,7 @@ header.small {
   position: absolute;
   top: -100px;
   left: -64px;
-  -webkit-transform: rotate(-6deg);
-          transform: rotate(-6deg);
+  transform: rotate(-6deg);
   z-index: -100;
 }
 
@@ -370,8 +368,12 @@ header.small {
   padding: 0.5em;
   border-radius: 0.5em;
 }
+.mastodon .invisible {
+  display: none;
+}
 .mastodon p {
   margin-top: 0;
+  overflow: hidden;
 }
 .mastodon .images {
   display: flex;
@@ -501,8 +503,7 @@ ul.no-arrow li::before {
   top: 50%;
   max-width: 98vw;
   max-height: 98vh;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   z-index: -1;
 }
 
