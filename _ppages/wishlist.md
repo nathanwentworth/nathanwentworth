@@ -28,9 +28,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Fujifilm X100F](http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x100f/)
   - S and T models are also good
 - [Pocket C.H.I.P.](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-i-p-new)
-- **[Raspberry Pi 3 B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)**
-- [ROCKPro64](https://www.pine64.org/?page_id=61454)
-  - Single-board computer with all the functionality I'd ever need, similar to a [Raspberry Pi 3 B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) but more powerful
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
 - Audioengine A2+ (white)
 - [Dell UltraSharp 27" (U2719DC)](https://www.dell.com/en-us/work/shop/dell-ultrasharp-27-usb-c-monitor-u2719dc/apd/210-arcz/monitors-monitor-accessories)
