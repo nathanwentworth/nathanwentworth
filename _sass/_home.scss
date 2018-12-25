@@ -128,6 +128,9 @@ ul.noarrow li::before {
   .columns .column-item {
     width: calc(50% - 16px);
   }
+  .columns .column-item-66 {
+    width: calc(100% - 16px);
+  }
 }
 
 @media only screen and (min-width: 880px) {
