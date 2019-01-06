@@ -31,6 +31,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
 - Audioengine A2+ (white)
 - [Dell UltraSharp 27" (U2719DC)](https://www.dell.com/en-us/work/shop/dell-ultrasharp-27-usb-c-monitor-u2719dc/apd/210-arcz/monitors-monitor-accessories)
+- [iFixit Pro Tech Toolkit](https://www.ifixit.com/Store/Tools/Pro-Tech-Toolkit/IF145-307)
 
 ## Media
 

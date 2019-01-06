@@ -274,7 +274,7 @@ a.tag { border-bottom: none; }
 
 
 blockquote {
-  border-left: 2px solid $light-text;
+  border-left: 4px solid #777;
   margin-left: 0;
   padding-left: 1rem;
 }
@@ -363,6 +363,8 @@ header.small {
   z-index: -100;
 }
 
+/* ## Mastodon */
+
 .mastodon li {
   background-color: $bg-color;
   padding: 0.5em;
@@ -386,6 +388,12 @@ header.small {
 }
 .mastodon img + img {
   margin-left: 0.25em;
+}
+
+/* ## Pinboard */
+
+.pinboard p {
+  white-space: pre-line;
 }
 
 

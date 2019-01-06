@@ -22,6 +22,7 @@ permalink: /:collection/:title/
 author: "Nathan Wentworth"
 
 data_dir: data
+auto_ids: true
 
 links:
   'projects': '/projects'
