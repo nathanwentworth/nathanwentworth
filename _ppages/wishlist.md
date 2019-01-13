@@ -18,7 +18,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Everlane Black Skinny Fit Jeans](https://www.everlane.com/products/mens-skinny-fit-jean-black) / [Everlane referral code](https://www.everlane.com/r/6odi8m) 29x32/30x32
 - [Qwstion washed black backpack](https://www.qwstion.com/en/backpack-washed-black.html)
 - [Bonobos Gift Card](https://bonobos.com/gift-cards)
-  - [Dress Shirt, Navy Roses](https://bonobos.com/products/unbutton-down-shirt?color=navy%20roses&shirt-fit=tailored&shirt-length=reg) Medium, tailored fit, regular length
   - [Washed Button Down Shirt, Burgundy Floral Stamp](https://bonobos.com/products/washed-button-down-shirt-cshrt00501?color=burgundy%20floral%20stamp&shirt-fit=slim&shirt-length=reg) Medium, tailored fit, regular length
 - [Mokuyobi Gift Card](https://mokuyobi.com/products/gift-card)
   - [Noodle Doodle Button Up Shirt – Mokuyobi](https://mokuyobi.com/collections/shirts/products/noodle-doodle-button-up-shirt) Medium
@@ -32,6 +31,8 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - Audioengine A2+ (white)
 - [Dell UltraSharp 27" (U2719DC)](https://www.dell.com/en-us/work/shop/dell-ultrasharp-27-usb-c-monitor-u2719dc/apd/210-arcz/monitors-monitor-accessories)
 - [iFixit Pro Tech Toolkit](https://www.ifixit.com/Store/Tools/Pro-Tech-Toolkit/IF145-307)
+- [TWEMCO AL-30-Alarm Clock](https://flipclockstore.com/Table_Clock/Twemco%20AL-30) - Orange
+- [TWEMCO QT-30 Flip Clock](https://flipclockstore.com/Table_Clock/TWEMCO%20QT-30) - Orange
 
 ## Media
 
