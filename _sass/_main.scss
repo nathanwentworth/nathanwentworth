@@ -390,6 +390,25 @@ header.small {
   margin-left: 0.25em;
 }
 
+/* ## Anilist */
+.anilist {
+  font-size: 0.85rem;
+}
+.anilist ul {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.anilist img {
+  width: auto;
+  border-radius: 0.2em;
+}
+.anilist .anime {
+  width: 92px;
+  margin-right: 1em;
+}
+
 /* ## Pinboard */
 
 .pinboard p {

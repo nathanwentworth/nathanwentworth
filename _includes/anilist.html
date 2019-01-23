@@ -1,0 +1,11 @@
+<div class="anilist">
+  <ul class="no-indent no-arrow">
+    {% for anime in site.data.anilist.data.MediaListCollection.statusLists.current %}
+    <li class="anime">
+      <img alt="{{ anime.media.title.romaji }}" src="{{ anime.media.coverImage.medium }}" style="background-color: {{ anime.media.coverImage.color }};">
+      <p>{{ anime.media.title.romaji }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+  <a href="https://anilist.co/user/nathan">view more on anilist</a>
+</div>

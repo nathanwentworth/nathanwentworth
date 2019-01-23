@@ -19,7 +19,7 @@ layout: default
     {% for post in posts %}
     <li class="project-item column-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}">
       <a class="main-links" href="{{ post.url }}">
-        <img class="image" alt="{{ post.title }}" src="/assets/img{{ post.url }}{{ post.image }}">
+        <img height="288" width="384" class="image" alt="{{ post.title }}" src="/assets/img{{ post.url }}{{ post.image }}">
       </a>
       <a class="title main-links" href="{{ post.url }}">{% if post.title %}<span class="bold">{{ post.title }}</span>{% endif %}</a>
       <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
@@ -72,6 +72,13 @@ layout: default
     <div class="column-item column-item-66">
       <h1 class="purple page-title">Recent Bookmarks</h1>
       {% include pinboard.html %}
+    </div>
+  </div>
+
+  <div class="columns lower">
+    <div class="column-item column-item-100">
+      <h1 class="blue page-title"><a class="blue" href="http://anilist.co/user/nathan">Current Anime</a></h1>
+      {% include anilist.html %}
     </div>
   </div>
 
