@@ -71,6 +71,9 @@ p {
   line-height: 1.4;
   margin-top: 0.75em;
 }
+p:empty {
+  display: none;
+}
 
 img { max-width: 100%; image-orientation: from-image; }
 
