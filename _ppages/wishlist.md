@@ -59,6 +59,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ### Comics
 - **Anything from [Peow](http://peowstudio.com/)**, everything they publish is gorgeous
+- [Bloom by Kevin Panetta](https://www.powells.com/book/bloom-9781626726413?partnerid=33241)
 - **[Gundam the Origin](http://www.vertical-inc.com/books/gundam.html)**
 - [Jon](http://galesaur.tictail.com/product/jon) and [Jon 2](http://galesaur.tictail.com/product/jon-2)
 - [Tekkon Kinkreet](https://www.viz.com/read/manga/product/tekkonkinkreet-black-white/7203)
