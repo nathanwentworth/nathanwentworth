@@ -30,7 +30,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
 - Audioengine A2+ (white)
 - [Dell UltraSharp 27" (U2719DC)](https://www.dell.com/en-us/work/shop/dell-ultrasharp-27-usb-c-monitor-u2719dc/apd/210-arcz/monitors-monitor-accessories)
-- [iFixit Pro Tech Toolkit](https://www.ifixit.com/Store/Tools/Pro-Tech-Toolkit/IF145-307)
 - [TWEMCO AL-30-Alarm Clock](https://flipclockstore.com/Table_Clock/Twemco%20AL-30) - Orange
 - [TWEMCO QT-30 Flip Clock](https://flipclockstore.com/Table_Clock/TWEMCO%20QT-30) - Orange
 
@@ -66,6 +65,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Sunny Vol. 2](https://www.viz.com/read/manga/product/sunny-vol-2/10622)
 - [Monogatari Shinobu Character Book](http://www.kinokuniya.com/us/index.php/fbs003?common_param=9784062187640)
 - [Ayako](http://www.vertical-inc.com/books/ayako.html)
+- [Ran and the Gray World, Vol. 1](https://www.viz.com/read/manga/ran-and-the-gray-world-volume-1/product/5731)
 - [Nichijou Manga volume 1](https://www.rightstufanime.com/Nichijou-Manga-01)
 - [City Vol. 1](http://www.vertical-comics.com/books/city_01.php) 
 - [A Girl on the Shore](http://vertical-comics.com/books/shore.php)
