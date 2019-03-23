@@ -14,7 +14,7 @@ layout: default
 
 {% include header.html %}
 
-<div class="home">
+<!-- <div class="home">
   <ul class="projects columns">
     {% for post in posts %}
     <li class="project-item column-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}">
@@ -26,20 +26,10 @@ layout: default
     </li>
     {% endfor %}
   </ul>
-
+ -->
   <div class="columns lower">
     <div class="column-item">
-      <h1 class="page-title red"><a href="/projects/" class="red">Projects</a></h1>
-      <ul class="no-indent">
-      {% assign projects = site.projects | reverse %}
-      {% for entry in projects limit: 18 %}
-      {% if entry.archive %}
-        <li class="archive-entry">
-          <a href="{{ site.github.url }}{{ entry.url }}">{{ entry.title }}</a> <a class="date" href="/projects/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>
-        </li>
-      {% endif %}
-      {% endfor %}
-      </ul>
+      <img src="/assets/img/me/nathan-wentworth-august-2018-film-sm.jpg">
     </div>
     <div class="column-item">
       <h1 class="blue page-title"><a class="blue" href="/about">About Me</a></h1>
@@ -50,6 +40,35 @@ layout: default
       {% include elsewhere.html page='home' %}
     </div>
 
+  </div>
+
+  <div class="columns lower">
+    <div class="column-item">
+      <h1 class="page-title red"><a href="/projects/" class="red">Projects</a></h1>
+      <ul class="no-indent">
+      {% assign projects = site.projects | reverse %}
+      {% for entry in projects limit: 18 %}
+        <li class="archive-entry">
+          <a href="{{ site.github.url }}{{ entry.url }}">{{ entry.title }}</a> <a class="date" href="/projects/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>
+        </li>
+      {% endfor %}
+        <li class="archive-entry">
+          <a href="/projects">view more →</a>
+        </li>
+
+      </ul>
+    </div>
+    <div class="column-item">
+      <h1 class="page-title red"><a href="/projects/" class="red">Posts</a></h1>
+      <ul class="no-indent">
+      {% assign post = site.posts %}
+      {% for entry in post limit: 18 %}
+        <li class="archive-entry">
+          <a href="{{ site.github.url }}{{ entry.url }}">{{ entry.title }}</a> <a class="date" href="/posts/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+    </div>
   </div>
 
   <div class="columns lower">
