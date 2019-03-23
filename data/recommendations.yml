@@ -187,3 +187,15 @@
   link: https://letterboxd.com/film/hereditary/
   type: movie
   date: 2019-03-10
+- name: "The End by Shlohmo"
+  link: https://shlohmo.bandcamp.com/album/the-end
+  type: music
+  date: 2019-03-22
+- name: "Panorama by La Dispute"
+  link: https://ladispute.bandcamp.com/album/panorama
+  type: music
+  date: 2019-03-22
+- name: "Hi This Is Flume by Flume"
+  link: https://www.youtube.com/watch?v=7TML_MTQdg4
+  type: music
+  date: 2019-03-23
