@@ -49,6 +49,8 @@ pre ::selection { background-color: #4E5A65; }
 
 body {
   background-color: $bg-color;
+  background-image: url('/assets/img/other/plus.png');
+  background-size: 16px;
   color: $text-color;
   font-family: 'Rubik', sans-serif;
   /*font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";*/
@@ -356,7 +358,7 @@ header.small {
 }
 
 .header-bg {
-  background: $bg-header;
+  background-color: $bg-header;
   width: calc(100% + 128px);
   height: 300px;
   position: absolute;
