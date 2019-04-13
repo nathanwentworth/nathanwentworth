@@ -114,4 +114,5 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - **[Ping Pong the Animation](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)**
   - quite easily one of the best anime shows ever made
 - [Nichijou BD/DVD](https://www.rightstufanime.com/Nichijou-Blu-ray-DVD)
+- [Mob Psycho 100](https://www.rightstufanime.com/Mob-Psycho-100-Blu-ray-DVD)
 
