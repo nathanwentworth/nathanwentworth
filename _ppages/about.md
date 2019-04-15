@@ -22,6 +22,6 @@ Feel free to [email me](ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&
 {% include elsewhere.html page='about' %}
 
 ## Site info
-This website is hosted on a [Digital Ocean](https://m.do.co/c/24af6a0d4c4a) (affiliate link) droplet running Ubuntu 16 and nginx. [Let's Encrypt](https://letsencrypt.org/) is providing the SSL Cert, and my CMS/site generator is [Jekyll](http://jekyllrb.com/). Feel free to check out this site's source code on [Github](https://github.com/nathanwentworth/nathanwentworth).
+This website is hosted on a [Digital Ocean](https://m.do.co/c/24af6a0d4c4a) (affiliate link) droplet running Ubuntu 16 and nginx. [Let's Encrypt](https://letsencrypt.org/) is providing the SSL Cert, and my CMS/site generator is [Jekyll](http://jekyllrb.com/). The last.fm/pinboard/etc sections on the front page auto-update once every hour. Feel free to check out this site's source code on [Github](https://github.com/nathanwentworth/nathanwentworth).
 
 - [Tech I use](/setup/)

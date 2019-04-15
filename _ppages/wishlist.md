@@ -21,6 +21,9 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
   - [Washed Button Down Shirt, Burgundy Floral Stamp](https://bonobos.com/products/washed-button-down-shirt-cshrt00501?color=burgundy%20floral%20stamp&shirt-fit=slim&shirt-length=reg) Medium, tailored fit, regular length
 - [Mokuyobi Gift Card](https://mokuyobi.com/products/gift-card)
   - [Noodle Doodle Button Up Shirt – Mokuyobi](https://mokuyobi.com/collections/shirts/products/noodle-doodle-button-up-shirt) Medium
+- [Quick Pack | Topo Designs](https://topodesigns.com/collections/crossbody-bags/products/hip-pack?variant=13942103212085)
+- [Bike Bag I Topo Designs I Made in USA](https://topodesigns.com/collections/new-arrivals-bags/products/bike-bag?variant=7152506634293)
+- [Topo Designs Accessory Shoulder Bag | made in the USA](https://topodesigns.com/collections/new-arrivals-bags/products/accessory-shoulder-bag?variant=15153289543)
 
 ## Things / Tech
 - [Muji Aroma Diffuser](http://www.muji.us/store/ultrasonic-aroma-diffuser.html)
@@ -36,6 +39,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ## Media
 
 ### Books
+
 - The Wind Up Bird Chronicle by Haruki Murakami
 - Snow Crash by Neal Stephenson
 - **Neuromancer** by William Gibson
@@ -50,6 +54,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Dangerdrop Artbooks](https://dangerdrop.booth.pm/)
 - [A Profound Waste of Time](http://apwot.com/)
 - [Autonomous by Annalee Newitz](https://us.macmillan.com/books/9780765392077)
+- [The Best Interface is No Interface](http://www.nointerface.com/book/)
 
 ### Prints
 - [Witches on Rocks by Woon Young](https://woonyoung.bigcartel.com/product/witches-on-the-mountain)
