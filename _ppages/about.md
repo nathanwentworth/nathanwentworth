@@ -7,7 +7,7 @@ excerpt: Hi! I'm Nathan Wentworth!
 
 Hi! I'm nathan wentworth, I make [video games](/projects/#t:game) and [websites](/projects/#t:web). I like using vanilla/ES6 [JavaScript](/projects/#t:javascript), [Unity C#](/projects/#t:unity), and [Python](/projects/#t:python). Recently I've been into making CLI tools and server-side web apps. I think websites should be lightweight, tracking-free, and accessible. I'm a strong supporter of anything that encourages people to make their own websites, like [tilde.town](http://tilde.town/), [neocities](https://neocities.org/), and [github pages](https://pages.github.com/).
 
-I'm interested in design, open source software, minimalism, fashion, and the intersection of technology and humanity. I like [fun music](https://soundcloud.com/nathanwentworth/sets/fav), video games, and [taking photos](/photos). Check out some [media](/essential-media), [websites](/sites-i-like), and [other things](/recommendations) that I like!
+I'm interested in design, open source software, minimalism, fashion, and human-focused technology. I like [fun music](https://soundcloud.com/nathanwentworth/sets/fav), video games, and [taking photos](/photos). Check out some [media](/essential-media), [websites](/sites-i-like), and [other things](/recommendations) that I like!
 
 Went to Fitchburg State University to study Game Design and graduated in 2017. Worked freelance for [FableVision Studios](http://www.fablevisionstudios.com/) before being hired full-time in November 2018.
 
