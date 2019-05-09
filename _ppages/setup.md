@@ -9,9 +9,17 @@ excerpt: Things I use on a daily basis to code/test/work/etc
 
 I initially built this desktop as a replacement for my laptop, but I quickly realized that macOS is pretty essential for many of my workflows (WSL is nice, but I prefer a deeper integration with the OS). After a few months as a hackintosh, [I installed Ubuntu, which now acts as its primary OS](/posts/from-mac-to-linux). This computer has become my daily driver for development work and playing games.
 
+Screenshots running Ubuntu Budgie:
+
 {% include img.html url='firefox-and-sublime-text.png' desc='desktop screenshot with firefox and sublime text' %}
 
 {% include img.html url='clean-desktop-with-neofetch.jpg' desc='desktop screenshot with wallpaper and terminal' %}
+
+After having used Linux almost full-time for close to a year now, I recently switched from Budgie (a nice DE that replicates my most-missed mac feature, the global menu bar) to i3. At first i3 was incredibly intimidating, but I've quickly picked up on most of the basics, and done some light configuration to set colors and keyboard shortcuts how I want them. The keyboard-driven workflow is something I've wanted for a bit now as I frequently find myself drawn to using keyboard commands for everything if possible, both due to speed and ergonomics.
+
+{% include img.html url='i3-sublime-terminal.jpg' desc='screenshot of sublime text and a terminal' %}
+
+{% include img.html url='i3-desktop-floating.jpg' desc='i never use floating mode, but it sure looks nice' %}
 
 - OS: Ubuntu 18.04 LTS, Windows 10
 - CPU: Intel i5-7500 3.4Ghz Quad-Core
@@ -40,7 +48,6 @@ I initially built this desktop as a replacement for my laptop, but I quickly rea
 
 {% include img.html url='Screenshot from 2018-07-25 21-32-34.png' desc='Sublime Text 3 setup on Ubuntu' %}
 
-
 I use [Sublime Text](https://www.sublimetext.com/3) for pretty much everything writing related. I occasionally use vim when sshing into a server, but I still prefer a GUI-based text editor for daily usage. I use the following extensions with it: 
 
 - Theme: Spacegray
@@ -59,10 +66,11 @@ I use Firefox as my primary browser, with Chromium as my secondary/work browser.
 - mpv
 - Spotify (reluctantly)
 - RhythmBox
+- cmus
 
-## Laptop
+## Old Laptop
 
-I use this laptop much less than I used to, mostly due to performance and battery life issues. While I love macOS, this computer is definitely near the end of its life.
+This is my last laptop, which I traded to [Nick Splendorr](http://splendorr.com/) for his 13" MacBook Air.
 
 {% include img.html url='Screen Shot 2018-05-18 at 12.57.00 pm.png' desc='laptop stats print' %}
 
@@ -87,11 +95,10 @@ I have an iPhone 6S (white, 128gb) that I bought at launch and don't see myself 
 #### Utility
 
 - Things
-  - Perfect to-do app
 - 1Password
 - OTP Auth
   - 2FA client
-- 1Writer
+- iA Writer
 - Halide
   - camera app with manual controls and RAW support
 - Hello Weather
