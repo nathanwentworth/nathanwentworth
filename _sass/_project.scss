@@ -20,8 +20,6 @@
 
   img { display: block; }
 
-  .content { padding: 1rem; }
-  .content p { margin: auto; margin-bottom: 1.35rem; max-width: 35em; }
   .content img + img { margin-top: 1.35rem; }
   .content > *:first-child { margin-top: 0; }
   .content > *:last-child,
@@ -62,7 +60,7 @@
 
   @media only screen and (max-width: 549px) {
     .project .content {
-      padding: 0.8rem;
+      /*padding: 0.8rem;*/
     }
   }
 }

@@ -49,7 +49,8 @@ pre ::selection { background-color: #4E5A65; }
 
 body {
   background-color: $bg-color;
-  background-image: url('/assets/img/other/plus.png');
+  background-color: #f8f2e3;
+  /*background-image: url('/assets/img/other/plus.png');*/
   background-size: 16px;
   color: $text-color;
   font-family: 'Rubik', sans-serif;
@@ -71,7 +72,7 @@ a:hover, a:active, a:focus {
 
 p {
   line-height: 1.4;
-  margin-top: 0.75em;
+  margin: 1.35em auto;
 }
 p:empty {
   display: none;
@@ -91,8 +92,8 @@ main.w-mid { max-width: $w-mid; }
 main.w-wide { max-width: $w-wide; }
 
 .content-container {
-  border-radius: $border-radius;
-  background-color: $bg-mid;
+  /*border-radius: $border-radius;*/
+  /*background-color: $bg-mid;*/
 }
 
 .pagination-block {
@@ -146,10 +147,10 @@ main.w-wide { max-width: $w-wide; }
 }
 
 .info {
-  border-top-left-radius: $border-radius;
-  border-top-right-radius: $border-radius;
-  background-color: #e6e6e6;
-  padding: 1rem;
+  /*border-top-left-radius: $border-radius;*/
+  /*border-top-right-radius: $border-radius;*/
+  /*background-color: #e6e6e6;*/
+  /*padding: 1rem;*/
 }
 .info-section + .info-section { margin-top: 0.5rem; }
 .info-section * { margin: 0; }
@@ -291,10 +292,13 @@ blockquote *:first-child {
 .outer-container { margin-bottom: 2rem; }
 
 h1, h2, h3, h4, h5, .title {
-  font-family: 'Rubik', sans-serif;
+  /*font-family: 'Rubik', sans-serif;*/
   letter-spacing: 0.02em; word-spacing: 0.01em;
   color: #6528DD;
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
 }
+h1 { font-size: 2rem; }
 
 ul, ol { padding-left: 1.5rem; }
 li { margin: 6px 0; }
@@ -308,7 +312,8 @@ hr {
   border-radius: 1.5px;
   border: none;
   /*background-image: linear-gradient(to right, $blue, $pink);*/
-  background-color: $blue;
+  /*background-color: $blue;*/
+  background-color: #777;
 }
 
 header {
@@ -344,7 +349,7 @@ header.small {
   padding: 0.5rem;
   border-radius: $border-radius;
   overflow: hidden;
-  /*margin: 1.5rem 0;*/
+  margin: 1.5rem 0;
 }
 
 .header-bg-container {
