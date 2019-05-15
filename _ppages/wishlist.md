@@ -44,6 +44,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - Snow Crash by Neal Stephenson
 - **Neuromancer** by William Gibson
 - **The Left Hand of Darkness** by Ursula K. Le Guin
+- [The Vanished Birds by Simon Jimenez](https://www.penguinrandomhouse.com/books/609386/the-vanished-birds-by-simon-jimenez/9780593128985/)
 
 <div class="img-block">
 {% include img.html url='dustydeck-2.jpg' desc='[Dangerdrop Artbooks](https://dangerdrop.booth.pm/)' %}
