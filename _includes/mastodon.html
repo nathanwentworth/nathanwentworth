@@ -6,11 +6,9 @@
       <div class="images">
         {% for image in toot.object.attachment %}
         {% if image.mediaType contains "image" %}
-        <img src="{{ image.url }}">
+        <a href="{{ image.url }}" title="photo">📷</a>
         {% elsif image.mediaType contains "video" %}
-        <video>
-          <source src="{{ image.url }}" type="{{ image.mediaType }}">
-        </video>
+        <a href="{{ image.url }}" title="video">📹</a>
         {% endif %}
         {% endfor %}
       </div>
