@@ -428,8 +428,10 @@ header.small {
 
 footer {
   padding: 1rem;
-  margin-bottom: 1.75rem;
+  /*margin-bottom: 1.75rem;*/
   border-radius: $border-radius;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
   background-color: #D5E0FF;
 }
 
