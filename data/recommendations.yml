@@ -218,3 +218,9 @@
   type: video
   desc: the final episode of a very long youtube series by Tim Rogers analyzing the localization of Final Fantasy VII
   date: 2019-04-21
+- name: "1000 gecs by 100 gecs"
+  link: https://100gecs.bandcamp.com/album/1000-gecs
+  best: true
+  type: music
+  desc: truly bonkers
+  date: 2019-07-10
