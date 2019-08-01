@@ -224,3 +224,7 @@
   type: music
   desc: truly bonkers
   date: 2019-07-10
+- link: https://mastodon.social/web/statuses/102419077673467216
+  desc: "Good toot by JP Lebreton about FOSS"
+  type: web
+  date: 2019-07-31
