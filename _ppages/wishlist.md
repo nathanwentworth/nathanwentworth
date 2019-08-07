@@ -17,13 +17,9 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
   - OR, [adidas I-5923 Shoes - Black](https://www.adidas.com/us/i-5923-shoes/D97213.html)
 - [Everlane Black Skinny Fit Jeans](https://www.everlane.com/products/mens-skinny-fit-jean-black) / [Everlane referral code](https://www.everlane.com/r/6odi8m) 29x32/30x32
 - [Qwstion washed black backpack](https://www.qwstion.com/en/backpack-washed-black.html)
-- [Bonobos Gift Card](https://bonobos.com/gift-cards)
-  - [Washed Button Down Shirt, Burgundy Floral Stamp](https://bonobos.com/products/washed-button-down-shirt-cshrt00501?color=burgundy%20floral%20stamp&shirt-fit=slim&shirt-length=reg) Medium, tailored fit, regular length
 - [Mokuyobi Gift Card](https://mokuyobi.com/products/gift-card)
   - [Noodle Doodle Button Up Shirt – Mokuyobi](https://mokuyobi.com/collections/shirts/products/noodle-doodle-button-up-shirt) Medium
-- [Quick Pack | Topo Designs](https://topodesigns.com/collections/crossbody-bags/products/hip-pack?variant=13942103212085)
-- [Bike Bag I Topo Designs I Made in USA](https://topodesigns.com/collections/new-arrivals-bags/products/bike-bag?variant=7152506634293)
-- [Topo Designs Accessory Shoulder Bag | made in the USA](https://topodesigns.com/collections/new-arrivals-bags/products/accessory-shoulder-bag?variant=15153289543)
+- [SEGMENT ∙ Dealer Bag](https://segment.supply/dealer-bag)
 
 ## Things / Tech
 - [Muji Aroma Diffuser](http://www.muji.us/store/ultrasonic-aroma-diffuser.html)
@@ -44,6 +40,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - Snow Crash by Neal Stephenson
 - **Neuromancer** by William Gibson
 - **The Left Hand of Darkness** by Ursula K. Le Guin
+- [The Box Man by Kobo Abe](https://www.penguinrandomhouse.com/books/197/the-box-man-by-kobo-abe/9780375726514)
 - [The Vanished Birds by Simon Jimenez](https://www.penguinrandomhouse.com/books/609386/the-vanished-birds-by-simon-jimenez/9780593128985/)
 
 <div class="img-block">
@@ -53,6 +50,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 - **[The Three-Body Problem](https://us.macmillan.com/books/9780765382030)** by Cixin Liu
 - [Dangerdrop Artbooks](https://dangerdrop.booth.pm/)
+- [How to Do Nothing by Jenny Odell](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612197494/)
 - [A Profound Waste of Time](http://apwot.com/)
 - [Autonomous by Annalee Newitz](https://us.macmillan.com/books/9780765392077)
 - [The Best Interface is No Interface](http://www.nointerface.com/book/)
@@ -74,8 +72,9 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Ayako](http://www.vertical-inc.com/books/ayako.html)
 - [Ran and the Gray World, Vol. 1](https://www.viz.com/read/manga/ran-and-the-gray-world-volume-1/product/5731)
 - [Nichijou Manga volume 1](https://www.rightstufanime.com/Nichijou-Manga-01)
-- [City Vol. 1](http://www.vertical-comics.com/books/city_01.php) 
+- [City Vol. 1](http://www.vertical-comics.com/books/city_01.php)
 - [A Girl on the Shore](http://vertical-comics.com/books/shore.php)
+- [Trashed](https://www.indiebound.org/book/9781419714542)
 - **[Goodnight Punpun Volume 2](https://www.viz.com/read/goodnight-punpun/section/28189/more/2)**
   - one of my favorite manga series ever! i own the entire thing in japanese, despite not being able to read it. i currently own volume 1 of this in english (7 volumes total)
 
