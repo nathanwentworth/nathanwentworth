@@ -4,7 +4,7 @@
     {% for link in site.links %}
     <a href="{{ link[1] }}">{{ link[0] }}</a>
     {% endfor %}
-    <span>(〃￣ω￣〃) ゞ</span>
+    <span>{{ site.kaomoji | sample }}</span>
   </nav>
 </header>
 

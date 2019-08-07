@@ -58,11 +58,12 @@
 }
 
 .lower {
-  /* background: $bg-mid; */
-  border-radius: $border-radius;
   margin-bottom: 2rem;
   margin-top: 2rem;
-  padding: 1rem;
+}
+.lower .portrait {
+  width: 85%;
+  margin-top: 4.25rem;
 }
 .lower .page-title {
   margin-top: 2rem;

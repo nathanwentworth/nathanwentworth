@@ -302,8 +302,8 @@ blockquote *:first-child {
 .outer-container { margin-bottom: 2rem; }
 
 h1, h2, h3, h4, h5, .title {
-  // font-family: 'Rubik', sans-serif;
-  font-family: 'BluuNext', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  // font-family: 'BluuNext', sans-serif;
   // font-weight: 700;
   // letter-spacing: 0.02em; word-spacing: 0.01em;
   // color: #6528DD;
@@ -348,6 +348,9 @@ header a {
   margin: 0 4px;
   border-bottom: none;
 }
+header a:first-of-type {
+  margin: 0;
+}
 header, header a:link, header a:visited {
   // color: #fff;
   /*color: #6528DD;*/
@@ -359,10 +362,6 @@ header a:hover, header a:active, header a:focus {
 }
 
 header.small {
-  background: $bg-header;
-  padding: 0.5rem;
-  border-radius: $border-radius;
-  overflow: hidden;
   margin: 1.5rem 0;
 }
 
@@ -443,11 +442,16 @@ header.small {
   margin-left: 1.4em;
 }
 
+.pinboard .pinboard-title {
+  font-size: 1.125em;
+}
+
 .ellipsis::after {
   content: '…';
 }
 
 footer {
+  width: 100%;
   padding: 1rem;
   margin-bottom: 1.75rem;
   border-radius: $border-radius;
