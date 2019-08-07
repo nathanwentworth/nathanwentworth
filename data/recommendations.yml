@@ -225,6 +225,14 @@
   desc: truly bonkers
   date: 2019-07-10
 - link: https://mastodon.social/web/statuses/102419077673467216
-  desc: "Good toot by JP Lebreton about FOSS"
+  name: "Good toot by JP Lebreton about FOSS"
   type: web
   date: 2019-07-31
+- link: https://www.youtube.com/watch?v=2fSGCwPuTBI
+  name: "Rabbit At The Airport III by Martin Stig Andersen"
+  type: music
+  date: 2019-08-06
+- link: https://www.youtube.com/watch?v=Asi2bqPN1qg
+  name: "Temple Rat | Boiler Room Shanghai"
+  type: music
+  date: 2019-08-06
