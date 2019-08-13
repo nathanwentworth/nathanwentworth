@@ -187,3 +187,52 @@
   link: https://letterboxd.com/film/hereditary/
   type: movie
   date: 2019-03-10
+- name: "The End by Shlohmo"
+  link: https://shlohmo.bandcamp.com/album/the-end
+  type: music
+  date: 2019-03-22
+- name: "Panorama by La Dispute"
+  link: https://ladispute.bandcamp.com/album/panorama
+  type: music
+  date: 2019-03-22
+- name: "Hi This Is Flume by Flume"
+  link: https://www.youtube.com/watch?v=7TML_MTQdg4
+  type: music
+  date: 2019-03-23
+- name: "Dénouement by Respire"
+  link: https://respirefamily.bandcamp.com/album/d-nouement
+  type: music
+  date: 2019-04-04
+- name: "Go Mad and Mark by Respire"
+  link: https://respirefamily.bandcamp.com/album/go-mad-and-mark
+  type: music
+  desc: "beautiful cover of the Envy track by the same name"
+  date: 2019-04-04
+- name: "Sarazanmai Episode 1"
+  link: https://vrv.co/watch/G6EX4ZV0R/Sarazanmai:I-Want-to-be-Connected-but-I-Want-to-Lie
+  type: tv
+  date: 2019-04-12
+- name: "Let's Mosey: A Slow Translation Of Final Fantasy VII: Part Eleven-Two"
+  link: https://www.youtube.com/watch?v=oOiPU7cmLn0
+  best: true
+  type: video
+  desc: the final episode of a very long youtube series by Tim Rogers analyzing the localization of Final Fantasy VII
+  date: 2019-04-21
+- name: "1000 gecs by 100 gecs"
+  link: https://100gecs.bandcamp.com/album/1000-gecs
+  best: true
+  type: music
+  desc: truly bonkers
+  date: 2019-07-10
+- link: https://mastodon.social/web/statuses/102419077673467216
+  name: "Good toot by JP Lebreton about FOSS"
+  type: web
+  date: 2019-07-31
+- link: https://www.youtube.com/watch?v=2fSGCwPuTBI
+  name: "Rabbit At The Airport III by Martin Stig Andersen"
+  type: music
+  date: 2019-08-06
+- link: https://www.youtube.com/watch?v=Asi2bqPN1qg
+  name: "Temple Rat | Boiler Room Shanghai"
+  type: music
+  date: 2019-08-06

@@ -16,11 +16,10 @@
 .project-description {
   margin: 0;
   padding: 1rem;
-  background: $bg-dark;
+  background: var(--transparent-bg);
   border-radius: $border-radius;
   margin-top: 1rem;
   border: 0;
-  border-left: $border-radius solid #cde;
   line-height: 1.4;
 }
 
@@ -30,7 +29,7 @@
   /*box-shadow: -10px 10px 0 0 #ffc;*/
 
   & > ul {
-    padding: 1rem;
+    padding: 1rem 0;
     padding-bottom: 0;
     color: $light-text;
     list-style: none;

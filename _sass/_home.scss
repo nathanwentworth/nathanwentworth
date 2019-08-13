@@ -1,10 +1,5 @@
 
 
-.project-item {
-  /*background: #fff;*/
-  /*border-radius: $border-radius;*/
-}
-
 .project-item .main-links {
   border-bottom: none;
   text-decoration: none;
@@ -48,13 +43,15 @@
 
 .columns {
   margin: auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-flow: row wrap;
-      flex-flow: row wrap;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 16px;
+}
+.columns.left-big {
+  grid-template-columns: 2fr 1fr;
+}
+.columns.right-big {
+  grid-template-columns: 1fr 2fr;
 }
 
 .lower {
@@ -64,6 +61,7 @@
 .lower .portrait {
   width: 85%;
   margin-top: 4.25rem;
+  border-radius: 3px;
 }
 .lower .page-title {
   margin-top: 2rem;
@@ -78,13 +76,7 @@
 
 .columns .column-item {
   vertical-align: top;
-  width: calc(100% - 8px);
-  margin: 8px;
-}
-
-.home-portrait {
-  border-radius: $border-radius;
-  width: 50%;
+  width: 100%;
 }
 
 .home .columns ul li::before {
@@ -115,42 +107,9 @@ ul.noarrow li::before {
   opacity: 0;
 }
 
-@media only screen and (min-width: 440px) {
-  .columns {
-    flex-direction: row;
-  }
-
-  .columns .column-item {
-    width: calc(50% - 16px);
-  }
-  .columns .column-item-66,
-  .columns .column-item-100 {
-    width: calc(100% - 16px);
-  }
-
-}
 
 @media only screen and (min-width: 880px) {
-  .columns .column-item {
-    width: calc((100% / 3) - 16px);
-  }
-  .columns .column-item-50 {
-    width: calc(50% - 16px);
-  }
-  .columns .column-item-66 {
-    width: calc((100% * (2 / 3)) - 16px);
-  }
-  .columns .column-item-100 {
-    width: calc(100% - 16px);
-  }
 
-
-}
-
-@media only screen and (max-width: 880px) {
-  header ul {
-    padding-left: 0;
-  }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -158,30 +117,5 @@ ul.noarrow li::before {
   .main-links:focus .image {
     -webkit-transform: none;
             transform: none;
-  }
-}
-
-
-@-webkit-keyframes colorcycle {
-  0% {
-    color: $blue;
-  }
-  50% {
-    color: $pink;
-  }
-  100% {
-    color: $blue;
-  }
-}
-
-@keyframes colorcycle {
-  0% {
-    color: $blue;
-  }
-  50% {
-    color: $pink;
-  }
-  100% {
-    color: $blue;
   }
 }

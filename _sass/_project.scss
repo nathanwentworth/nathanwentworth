@@ -1,9 +1,5 @@
 .project {
 
-  .content-container {
-    /*box-shadow: -10px 10px 0 0 #ffc;*/
-  }
-
   .content {
     p img,
     .color-container {
@@ -18,7 +14,10 @@
     }
   }
 
-  img { display: block; }
+  img {
+    display: block;
+    border-radius: 3px;
+  }
 
   .content img + img { margin-top: 1.35rem; }
   .content > *:first-child { margin-top: 0; }
@@ -27,9 +26,6 @@
   .content > *:last-child * { margin-bottom: 0; }
 
   .main-image {
-    border-radius: $border-radius;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
     width: 100%;
   }
 
@@ -44,6 +40,7 @@
     color: #D8DEE9;
     padding: 1rem;
     white-space: pre-wrap;
+    border-radius: 3px;
   }
 
   pre.highlight code {
@@ -55,13 +52,7 @@
     background-color: #343D46;
     color: #D8DEE9;
     padding: 0.2em;
-    border-radius: 6px;
-  }
-
-  @media only screen and (max-width: 549px) {
-    .project .content {
-      /*padding: 0.8rem;*/
-    }
+    border-radius: 3px;
   }
 }
 
