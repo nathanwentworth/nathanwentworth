@@ -29,28 +29,23 @@
     width: 100%;
   }
 
-  .main-image + .info {
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-  }
-
-
   pre.highlight {
-    background-color: #343D46;
-    color: #D8DEE9;
+    background-color: var(--transparent-bg);
+    color: var(--light-text);
     padding: 1rem;
     white-space: pre-wrap;
     border-radius: 3px;
   }
 
   pre.highlight code {
+    background-color: transparent;
     padding: 0;
     border-radius: 0;
   }
 
   code {
-    background-color: #343D46;
-    color: #D8DEE9;
+    background-color: var(--transparent-bg);
+    color: var(--light-text);
     padding: 0.2em;
     border-radius: 3px;
   }

@@ -242,6 +242,9 @@ table tr:nth-of-type(2n) {
   border: none;
   font-size: 0.85em;
 }
+.tag:hover {
+  border-bottom-style: none;
+}
 
 
 .recommendations {
@@ -581,5 +584,32 @@ ul.no-arrow li::before {
   }
   100% {
     opacity: 0;
+  }
+}
+
+
+
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #222;
+    --text-color: #fff;
+    --light-text: #eee;
+    --transparent-bg: rgba(100, 100, 100, 0.2);
+  }
+
+  h1, h2, h3, h4, h5, .title {
+    color: #fcb;
+  }
+}
+
+.dark {
+  --background-color: #222;
+  --text-color: #fff;
+  --light-text: #eee;
+  --transparent-bg: rgba(100, 100, 100, 0.2);
+
+  h1, h2, h3, h4, h5, .title {
+    color: #fcb;
   }
 }

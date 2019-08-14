@@ -6,20 +6,18 @@ $c: (javascript: #f1e05a, cli: #222, css: #563d7c, html: #e44b23, php: #4F5D95, 
 
 */
 
-.tag-yellow:link { border-left-color: #ff5; }
-a.tag-yellow:link { background-color: #ff5; }
+a.tag-yellow { background-color: #ff5 !important; color: #222; }
 a.tag-yellow:hover { color: #555; }
 
 
-.tag-purple:link { border-left-color: #6528DD; }
-a.tag-purple:link { background-color: #6528DD; color: #fff; }
+a.tag-purple { background-color: #6528DD; color: #fff; }
 a.tag-purple:hover { color: #ccc; }
 
 /* recommendations */
-.tag--music { background-color: #fbb; } /* reddish */
-.tag--video { background-color: #ccf; } /* blue/purple */
-.tag--movie { background-color: #cdf; } /* blue/purple */
-.tag--tv { background-color: #dcf; } /* light purple/violet */
-/*.tag--tv { background-color: #fd4; } /* orange */
-.tag--text { background-color: #ff7; } /* yellow */
-.tag--web { background-color: #cfc; } /* bright green */
+.tag--music { background-color: #fbb; color: #222; } /* reddish */
+.tag--video { background-color: #ccf; color: #222; } /* blue/purple */
+.tag--movie { background-color: #cdf; color: #222; } /* blue/purple */
+.tag--tv { background-color: #dcf; color: #222; } /* light purple/violet */
+/*.tag--tv { background-color: #fd4; color: #222; } /* orange */
+.tag--text { background-color: #ff7; color: #222; } /* yellow */
+.tag--web { background-color: #cfc; color: #222; } /* bright green */
