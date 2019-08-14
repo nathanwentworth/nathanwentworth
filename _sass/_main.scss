@@ -1,22 +1,21 @@
-// /* latin-ext */
-// @font-face {
-//   font-family: 'Rubik';
-//   font-style: normal;
-//   font-weight: 400;
-//   font-display: swap;
-//   src: local('Rubik'), local('Rubik-Regular'), url(/assets/fonts/rubik-regular-ext.woff2) format('woff2');
-//   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-// }
-// /* latin */
-// @font-face {
-//   font-family: 'Rubik';
-//   font-style: normal;
-//   font-weight: 400;
-//   font-display: swap;
-//   src: local('Rubik'), local('Rubik-Regular'), url(/assets/fonts/rubik-regular.woff2) format('woff2');
-//   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-// }
-/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('IBM Plex Sans'), local('IBMPlexSans'), url(/assets/fonts/IBMPlexSans-Text.ttf) format('ttf');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('IBM Plex Sans Bold'), local('IBMPlexSans-Bold'), url(/assets/fonts/IBMPlexSans-Bold.ttf) format('ttf');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
 @font-face {
   font-family: 'Rubik';
   font-style: normal;
@@ -240,10 +239,9 @@ table tr:nth-of-type(2n) {
   background-color: var(--transparent-bg);
   border-radius: 4px;
   text-decoration: none;
-  border-bottom: none;
+  border: none;
   font-size: 0.85em;
 }
-a.tag { border-bottom: none; }
 
 
 .recommendations {
@@ -258,10 +256,11 @@ a.tag { border-bottom: none; }
 }
 .recommendation-date {
   margin-top: 0;
+  font-family: 'IBM Plex Sans';
   margin-right: 1.25rem;
   font-weight: normal;
   font-size: 1rem;
-  color: var(--text-color);
+  color: var(--light-text);
 }
 .recommendation-body {
   padding-bottom: 0.5em;
@@ -293,10 +292,6 @@ blockquote *:first-child {
 
 h1, h2, h3, h4, h5, .title {
   font-family: 'Rubik', sans-serif;
-  // font-family: 'BluuNext', sans-serif;
-  // font-weight: 700;
-  // letter-spacing: 0.02em; word-spacing: 0.01em;
-  // color: #6528DD;
   margin-top: 1.5em;
   margin-bottom: 0.75em;
 }
@@ -330,6 +325,7 @@ header {
 }
 header .title {
   display: inline;
+  color: var(--light-text);
 }
 header a {
   text-decoration: none;
@@ -339,39 +335,9 @@ header a {
 header a:first-of-type {
   margin: 0;
 }
-header, header a:link, header a:visited {
-  // color: #fff;
-  /*color: #6528DD;*/
-  /*border-bottom: none;*/
-}
-
-header a:hover, header a:active, header a:focus {
-  /*border-bottom: 0.1em solid;*/
-}
 
 header.small {
   margin: 1.5rem 0;
-}
-
-.header-bg-container {
-  width: 100%;
-  overflow: hidden;
-  height: 300px;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1000;
-}
-
-.header-bg {
-  background-color: $bg-header;
-  width: calc(100% + 128px);
-  height: 300px;
-  position: absolute;
-  top: -100px;
-  left: -64px;
-  transform: rotate(-6deg);
-  z-index: -100;
 }
 
 /* ## Mastodon */
@@ -461,6 +427,18 @@ footer ul {
   main .columns {
     grid-template-columns: 1fr !important;
   }
+
+  .recommendation-body {
+    // show recommendation body vertically, since it's too wide otherwise
+    flex-direction: column;
+    // increase padding to give more vertical spacing
+    padding-bottom: 0.75em;
+  }
+
+  .column-item + .column-item {
+    margin-top: 2rem;
+  }
+
 
   ul.inline {
     flex-direction: column;

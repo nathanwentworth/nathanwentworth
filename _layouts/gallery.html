@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% assign bgcolors = "bg-yellow bg-peach bg-green bg-purple" | split: ' ' %}
 {% if page.cat %}
   {% assign posts = site.projects | where_exp: "item", "item.type contains page.cat" | reverse %}
 {% elsif page.all %}
@@ -14,24 +13,19 @@ layout: default
 
 {% include header.html %}
 
-  <div class="columns lower">
+  <section class="columns right-big">
     <div class="column-item">
       <img class="portrait" src="/assets/img/me/nathan-wentworth-2019-07-21-11.52.03-md.jpg">
     </div>
     <div class="column-item">
-      <h1 class="blue page-title"><a class="blue" href="/about">About Me</a></h1>
+      <h1 class="blue page-title"><a class="blue" href="/about">About Me</a> ✌️</h1>
       <div>{{ site.full_description | markdownify }}</div>
     </div>
-    <div class="column-item">
-      <h1 class="orange page-title">〜 More 〜</h1>
-      {% include elsewhere.html page='home' %}
-    </div>
+  </section>
 
-  </div>
-
-  <div class="columns lower">
+  <section class="columns">
     <div class="column-item">
-      <h1 class="page-title red"><a href="/projects/" class="red">Projects</a></h1>
+      <h1 class="page-title red"><a href="/projects/" class="red">Projects</a> 📂</h1>
       <ul class="no-indent">
       {% assign projects = site.projects | reverse %}
       {% for entry in projects limit: 18 %}
@@ -46,7 +40,7 @@ layout: default
       </ul>
     </div>
     <div class="column-item">
-      <h1 class="page-title red"><a href="/projects/" class="red">Posts</a></h1>
+      <h1 class="page-title red"><a href="/projects/" class="red">Posts</a> 📔</h1>
       <ul class="no-indent">
       {% assign post = site.posts %}
       {% for entry in post limit: 18 %}
@@ -56,31 +50,35 @@ layout: default
       {% endfor %}
       </ul>
     </div>
-  </div>
+    <div class="column-item">
+      <h1 class="orange page-title">More 🌿</h1>
+      {% include elsewhere.html page='home' %}
+    </div>
 
-  <div class="columns lower left-big">
-    <div class="recommendations column-item">
-      <h1 class="page-title purple"><a href="/recommendations/" class="purple">Things I Like</a></h1>
+  </section>
+
+  <section class="columns left-big">
+    <div class="column-item">
+      <h1 class="page-title purple"><a href="/recommendations/" class="purple">Things I Like</a> 💖</h1>
       {% include recommendations.html limit=8 %}
     </div>
     <div class="column-item">
-      <h1 class="red page-title"><a class="red" href="https://last.fm/user/nwentworth">Top Music</a></h1>
+      <h1 class="red page-title"><a class="red" href="https://last.fm/user/nwentworth">Top Music</a> 🎵</h1>
       <p>My most played artists in the last seven days</p>
       {% include lastfm.html %}
     </div>
-  </div>
+  </section>
 
-  <div class="columns lower right-big">
+  <section class="columns right-big">
     <div class="column-item">
-      <h1 class="orange page-title"><a class="orange" href="http://mastodon.social/@nathanwentworth">Recent toots</a></h1>
+      <h1 class="orange page-title"><a class="orange" href="http://mastodon.social/@nathanwentworth">Recent toots</a> 📣</h1>
       {% include mastodon.html %}
     </div>
     <div class="column-item">
-      <h1 class="purple page-title">Recent Bookmarks</h1>
+      <h1 class="purple page-title">Recent Bookmarks 🔖</h1>
       {% include pinboard.html %}
     </div>
-  </div>
-</div>
+  </section>
 
 {% include footer.html %}
 </main>

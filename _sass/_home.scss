@@ -1,46 +1,4 @@
 
-
-.project-item .main-links {
-  border-bottom: none;
-  text-decoration: none;
-  display: block;
-}
-
-.project-item .image {
-  border-radius: 6px;
-  width: 100%;
-  height: auto;
-  transition: transform 0.2s;
-  box-shadow: 0px 6px 12px -5px rgba(50, 50, 50, 0.5);
-}
-
-.bg-yellow { background-color: #ffc; }
-.bg-peach { background-color: #fcc; }
-.bg-green { background-color: #cfc; }
-.bg-purple { background-color: #ccf; }
-
-.project-item:hover .image,
-.main-links:focus .image {
-  -webkit-transform: translateY(-0.25rem);
-          transform: translateY(-0.25rem);
-}
-
-.project-item .title {
-  font-size: 1.25rem;
-  margin: 0.6em 0;
-}
-
-.projects {
-  list-style: none;
-  padding-left: 0;
-  /*background: #f1f2f3;*/
-  /*border-radius: $border-radius;*/
-}
-
-.projects .project-item::before {
-  display: none;
-}
-
 .columns {
   margin: auto;
   display: grid;
@@ -54,29 +12,24 @@
   grid-template-columns: 1fr 2fr;
 }
 
-.lower {
+.columns {
   margin-bottom: 2rem;
   margin-top: 2rem;
 }
-.lower .portrait {
+.columns .portrait {
   width: 85%;
   margin-top: 4.25rem;
   border-radius: 3px;
 }
-.lower .page-title {
+.columns .page-title {
   margin-top: 2rem;
 }
-.lower .page-title:first-of-type {
+.columns .page-title:first-of-type {
   margin-top: 0;
 }
-.lower ul {
+.columns ul {
   margin-bottom: 0;
   list-style: none;
-}
-
-.columns .column-item {
-  vertical-align: top;
-  width: 100%;
 }
 
 .home .columns ul li::before {
