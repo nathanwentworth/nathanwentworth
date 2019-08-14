@@ -407,15 +407,9 @@ header.small {
 footer {
   width: 100%;
   padding: 1rem;
-  /*margin-bottom: 1.75rem;*/
-  border-radius: $border-radius;
-<<<<<<< HEAD
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-  background-color: #D5E0FF;
-=======
+  margin-bottom: 1.75rem;
+  border-radius: 3px;
   background-color: var(--transparent-bg);
->>>>>>> no-projects
 }
 
 footer ul {
