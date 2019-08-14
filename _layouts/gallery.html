@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% assign bgcolors = "bg-yellow bg-peach bg-green bg-purple" | split: ' ' %}
 {% if page.cat %}
   {% assign posts = site.projects | where_exp: "item", "item.type contains page.cat" | reverse %}
 {% elsif page.all %}
@@ -14,68 +13,78 @@ layout: default
 
 {% include header.html %}
 
-<div class="home">
-  <ul class="projects columns">
-    {% for post in posts %}
-    <li class="project-item column-item" data-type="{{ post.type | join:' ' }}" data-tags="{{ post.tags | join:' ' }}">
-      <a class="main-links" href="{{ post.url }}">
-        <img height="288" width="384" class="image" alt="{{ post.title }}" src="/assets/img{{ post.url }}{{ post.image }}">
-      </a>
-      <a class="title main-links" href="{{ post.url }}">{% if post.title %}<span class="bold">{{ post.title }}</span>{% endif %}</a>
-      <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-    </li>
-    {% endfor %}
-  </ul>
-
-  <div class="columns lower">
+  <section class="columns right-big">
     <div class="column-item">
-      <h1 class="page-title red"><a href="/projects/" class="red">Projects</a></h1>
+      <img class="portrait" src="/assets/img/me/nathan-wentworth-2019-07-21-11.52.03-md.jpg">
+    </div>
+    <div class="column-item">
+      <h1 class="blue page-title"><a class="blue" href="/about">About Me</a> ✌️</h1>
+      <div>{{ site.full_description | markdownify }}</div>
+    </div>
+  </section>
+
+  <section class="columns">
+    <div class="column-item">
+      <h1 class="page-title red"><a href="/projects/" class="red">Projects</a> 📂</h1>
       <ul class="no-indent">
       {% assign projects = site.projects | reverse %}
       {% for entry in projects limit: 18 %}
-      {% if entry.archive %}
         <li class="archive-entry">
           <a href="{{ site.github.url }}{{ entry.url }}">{{ entry.title }}</a> <a class="date" href="/projects/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>
         </li>
-      {% endif %}
+      {% endfor %}
+        <li class="archive-entry">
+          <a href="/projects">view more →</a>
+        </li>
+
+      </ul>
+    </div>
+    <div class="column-item">
+      <h1 class="page-title red"><a href="/projects/" class="red">Posts</a> 📔</h1>
+      <ul class="no-indent">
+      {% assign post = site.posts %}
+      {% for entry in post limit: 18 %}
+        <li class="archive-entry">
+          <a href="{{ site.github.url }}{{ entry.url }}">{{ entry.title }}</a> <a class="date" href="/posts/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>
+        </li>
       {% endfor %}
       </ul>
     </div>
     <div class="column-item">
-      <h1 class="blue page-title"><a class="blue" href="/about">About Me</a></h1>
-      <div>{{ site.full_description | markdownify }}</div>
-    </div>
-    <div class="column-item">
-      <h1 class="orange page-title">〜 More 〜</h1>
+      <h1 class="orange page-title">More 🌿</h1>
       {% include elsewhere.html page='home' %}
     </div>
 
-  </div>
+  </section>
 
-  <div class="columns lower">
-    <div class="recommendations column-item column-item-66">
-      <h1 class="page-title purple"><a href="/recommendations/" class="purple">Things I Like</a></h1>
+  <section class="columns left-big">
+    <div class="column-item">
+      <h1 class="page-title purple"><a href="/recommendations/" class="purple">Things I Like</a> 💖</h1>
       {% include recommendations.html limit=8 %}
     </div>
     <div class="column-item">
-      <h1 class="red page-title"><a class="red" href="https://last.fm/user/nwentworth">Top Music</a></h1>
+      <h1 class="red page-title"><a class="red" href="https://last.fm/user/nwentworth">Top Music</a> 🎵</h1>
       <p>My most played artists in the last seven days</p>
       {% include lastfm.html %}
     </div>
-  </div>
+  </section>
 
-  <div class="columns lower">
+  <section class="columns right-big">
     <div class="column-item">
-      <h1 class="orange page-title"><a class="orange" href="http://mastodon.social/@nathanwentworth">Recent toots</a></h1>
+      <h1 class="orange page-title"><a class="orange" href="http://mastodon.social/@nathanwentworth">Recent toots</a> 📣</h1>
       {% include mastodon.html %}
     </div>
-    <div class="column-item column-item-66">
-      <h1 class="purple page-title">Recent Bookmarks</h1>
+    <div class="column-item">
+      <h1 class="purple page-title">Recent Bookmarks 🔖</h1>
       {% include pinboard.html %}
     </div>
+<<<<<<< HEAD
   </div>
 
 </div>
+=======
+  </section>
+>>>>>>> no-projects
 
 {% include footer.html %}
 </main>

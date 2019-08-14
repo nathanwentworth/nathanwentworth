@@ -24,6 +24,15 @@ author: "Nathan Wentworth"
 data_dir: data
 auto_ids: true
 
+kaomoji: [
+  '(〃￣ω￣〃) ゞ',
+  '♪（ｖ＾＿＾）ｖ',
+  '( ・ω・)',
+  '(´；ω；｀)',
+  '\（￣へ￣）/',
+  '(◕‿◕✿)'
+]
+
 links:
   'projects': '/projects'
   'blog': '/posts'

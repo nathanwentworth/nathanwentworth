@@ -14,58 +14,41 @@ layout: default
 
 
 <main {% if page.width %} class="w-{{ page.width }}"{% else %} class="w-slim" {% endif %}>
-{% include header.html %}
+{% include header-small.html %}
 
 <article id="main-content" class="project outer-container">
-  <div class="content-container">
-    {% unless page.hide_image %}
-    {% if page.image_lg %}
-      <img class="main-image" src="{{ base }}{{ page.url }}{{ page.image_lg }}">
-    {% elsif page.image %}
-      <img class="main-image" src="{{ base }}{{ page.url }}{{ page.image }}">
-    {% endif %}
-    {% endunless %}
+  {% unless page.hide_image %}
+  {% if page.image_lg %}
+    <img class="main-image" src="{{ base }}{{ page.url }}{{ page.image_lg }}">
+  {% elsif page.image %}
+    <img class="main-image" src="{{ base }}{{ page.url }}{{ page.image }}">
+  {% endif %}
+  {% endunless %}
 
-    <div class="info">
-      <div class="info-section info-upper">
-        <h1 itemprop="title" class="bold page-title">{{ page.title }}</h1>
-        {% if page.date and page.collection == 'projects' %}
-        <a class="tag" href="/{{ page.collection }}/#y:{{ page.date | date:"%Y" }}" title="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date:"%Y" }}</a>
-        {% endif %}
-      </div>
-      {% if page.collection == 'posts' %}
-      <div class="info-section">
-        <p>{{ page.date | date:'%Y-%m-%d' }}</p>
-      </div>
-      {% endif %}
+  <h1 itemprop="title" class="bold page-title">{{ page.title }}</h1>
+  <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date:'%Y-%m-%d' }}</time>
 
-      {% unless page.hide_tags %}
-      {% if page.tags and page.tags.size > 0 %}
-      <div class="info-section tags">
-        {% for tag in page.tags %}
-          <a href="/{{ page.collection }}/#t:{{ tag | downcase }}" class="tag tag--{{ tag | downcase | replace: ' ', '-' }}"># {{ tag }}</a>
-        {% endfor %}
-      </div>
-      {% endif %}
-      {% endunless %}
-
-      {% unless page.hide_aside %}
-      {% if page.links %}
-      <div class="info-section">
-        {% for link in page.links %}
-          <a class="tag tag-yellow" href="{{ link[1] }}">{{ link[0] }}</a>
-        {% endfor %}
-      </div>
-      {% endif %}
-      {% endunless %}
-
-    </div class="info">
-
-
-    <div id="content" class="content">
-      {{ content }}
-    </div>
+  {% unless page.hide_tags %}
+  {% if page.tags and page.tags.size > 0 %}
+  <div class="info-section tags">
+    {% for tag in page.tags %}
+      <a href="/{{ page.collection }}/#t:{{ tag | downcase }}" class="tag tag--{{ tag | downcase | replace: ' ', '-' }}"># {{ tag }}</a>
+    {% endfor %}
   </div>
+  {% endif %}
+  {% endunless %}
+
+  {% unless page.hide_aside %}
+  {% if page.links %}
+  <div class="info-section">
+    {% for link in page.links %}
+      <a class="tag tag-yellow" href="{{ link[1] }}">{{ link[0] }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endunless %}
+
+  {{ content }}
 </article>
 
 
