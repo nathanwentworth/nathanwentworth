@@ -5,6 +5,11 @@ excerpt: Hi! I'm Nathan Wentworth!
 
 {% include img.html url='/assets/img/me/nathan-wentworth-august-2018-film-sm.jpg' alt='photo of nathan wentworth (me!)' lg='/assets/img/me/nathan-wentworth-august-2018-film-md.jpg' %}
 
+<div class="img-block">
+  {% include img.html url='nathan_b707ec.png' desc='[via @ttto_ok](http://ttto.cafe/shindan)' %}
+  {% include img.html url='download20190800215930.png' desc='[via Sangled\'s image maker](https://picrew.me/image_maker/94097)' %}
+</div>
+
 Hi! I'm nathan wentworth, I make [video games](/projects/#t:game) and [websites](/projects/#t:web). I like using vanilla/ES6 [JavaScript](/projects/#t:javascript), [Unity C#](/projects/#t:unity), and [Python](/projects/#t:python). Recently I've been into making CLI tools and server-side web apps. I think websites should be lightweight, tracking-free, and accessible. I'm a strong supporter of anything that encourages people to make their own websites, like [tilde.town](http://tilde.town/), [neocities](https://neocities.org/), and [github pages](https://pages.github.com/).
 
 I'm interested in design, open source software, minimalism, fashion, and human-focused technology. I like [fun music](https://soundcloud.com/nathanwentworth/sets/fav), video games, and [taking photos](/photos). Check out some [media](/essential-media), [websites](/sites-i-like), and [other things](/recommendations) that I like!
