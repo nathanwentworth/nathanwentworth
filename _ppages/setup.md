@@ -3,6 +3,8 @@ title: Setup
 excerpt: Things I use on a daily basis to code/test/work/etc
 ---
 
+Things I use on a daily basis to code/test/work/etc
+
 ## Desktop
 
 ### Hardware
@@ -20,6 +22,12 @@ After having used Linux almost full-time for close to a year now, I recently swi
 {% include img.html url='i3-sublime-terminal.jpg' desc='screenshot of sublime text and a terminal' %}
 
 {% include img.html url='i3-desktop-floating.jpg' desc='i never use floating mode, but it sure looks nice' %}
+
+{% include img.html url='rofi.png' desc='empty desktop with rofi (application launcher)' %}
+
+{% include img.html url='firefox-and-cmus.png' desc='firefox and cmus (music player)' %}
+
+{% include img.html url='two-terminals.png' desc='output of trimage and vim' %}
 
 - OS: Ubuntu 18.04 LTS, Windows 10
 - CPU: Intel i5-7500 3.4Ghz Quad-Core
@@ -48,7 +56,7 @@ After having used Linux almost full-time for close to a year now, I recently swi
 
 {% include img.html url='Screenshot from 2018-07-25 21-32-34.png' desc='Sublime Text 3 setup on Ubuntu' %}
 
-I use [Sublime Text](https://www.sublimetext.com/3) for pretty much everything writing related. I occasionally use vim when sshing into a server, but I still prefer a GUI-based text editor for daily usage. I use the following extensions with it: 
+I use [Sublime Text](https://www.sublimetext.com/3) for pretty much everything writing related. I occasionally use vim when sshing into a server, but I still prefer a GUI-based text editor for daily usage. I use the following extensions with it:
 
 - Theme: Spacegray
 - Color Scheme: Mariana

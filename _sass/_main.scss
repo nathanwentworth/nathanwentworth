@@ -78,7 +78,7 @@ p {
   line-height: 1.4;
   margin: 1.35em auto;
 }
-p:empty {
+p:empty, time:empty {
   display: none;
 }
 
@@ -293,7 +293,7 @@ h1, h2, h3, h4, h5, .title {
   margin-top: 1.5em;
   margin-bottom: 0.75em;
 }
-h1 { font-size: 2rem; }
+h1 { font-size: 2.25rem; }
 time { color: var(--light-text); margin-top: 0.5em; }
 .page-title { margin-top: 1em; margin-bottom: 0.25em; }
 
