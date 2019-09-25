@@ -22,9 +22,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [SEGMENT ∙ Dealer Bag](https://segment.supply/dealer-bag)
 
 ## Things / Tech
-- [Muji Aroma Diffuser](http://www.muji.us/store/ultrasonic-aroma-diffuser.html)
-- [Fujifilm X100F](http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x100f/)
-  - S and T models are also good
 - [Pocket C.H.I.P.](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-i-p-new)
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
 - Audioengine A2+ (white)
@@ -88,6 +85,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [The Girl From the Other Side: Siúil, A Rún Vol. 1](http://www.sevenseasentertainment.com/series/the-girl-from-the-other-side-siuil-a-run/)
 - [The Marquis: Inferno](https://www.darkhorse.com/Books/15-859/The-Marquis-Inferno-TPB)
 - [On a Sunbeam by Tillie Walden](https://us.macmillan.com/books/9781250225986)
+- [Biomega, Vol. 1](https://www.viz.com/read/manga/biomega-volume-1/product/2255)
 
 ### Board/Physical Games
 - [Burgle Bros.](https://fowers-games.myshopify.com/collections/frontpage/products/burgle-bros)
@@ -95,7 +93,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ### Video Games
 - **Spyro Reignited Trilogy** (PS4)
-- **Yakuza Kiwami 2** (PS4)
 - [Dark Souls Trilogy (PS4)](https://www.bestbuy.com/site/dark-souls-trilogy-playstation-4/6293770.p?skuId=6293770)
 - **Silent Hill 3** (PS2)
   - get used on ebay
@@ -106,8 +103,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - **Nintendo Joycons**
   - Neon Yellow
   - Neon Green/Neon Pink
-- Dance Dance Revolution Max 2 (PS2)
-  - this should really only be bought on ebay, since i don't care about condition. i'd need a pad too, but that's a totally different thing
 
 ### Blu-rays/DVDs
 
