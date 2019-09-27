@@ -28,6 +28,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Dell UltraSharp 27" (U2719DC)](https://www.dell.com/en-us/work/shop/dell-ultrasharp-27-usb-c-monitor-u2719dc/apd/210-arcz/monitors-monitor-accessories)
 - [TWEMCO AL-30-Alarm Clock](https://flipclockstore.com/Table_Clock/Twemco%20AL-30) - Orange
 - [TWEMCO QT-30 Flip Clock](https://flipclockstore.com/Table_Clock/TWEMCO%20QT-30) - Orange
+- [Mirror Mask by Chen Chen &amp; Kai Williams](https://www.areaware.com/products/mirror-mask?variant=15114418290723)
 
 ## Media
 
@@ -46,11 +47,14 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 </div>
 
 - **[The Three-Body Problem](https://us.macmillan.com/books/9780765382030)** by Cixin Liu
-- [Dangerdrop Artbooks](https://dangerdrop.booth.pm/)
 - [How to Do Nothing by Jenny Odell](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612197494/)
 - [A Profound Waste of Time](http://apwot.com/)
 - [Autonomous by Annalee Newitz](https://us.macmillan.com/books/9780765392077)
 - [The Best Interface is No Interface](http://www.nointerface.com/book/)
+
+
+- [Dangerdrop Artbooks](https://dangerdrop.booth.pm/)
+- [KEMONO KINETIC SKETCH（MOGMOGNET）の通販・購入はメロンブックス | メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=548231)
 
 ### Prints
 - [Witches on Rocks by Woon Young](https://woonyoung.bigcartel.com/product/witches-on-the-mountain)
