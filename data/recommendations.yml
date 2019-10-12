@@ -249,8 +249,17 @@
   name: "the first glass beach album - glass beach"
   type: music
   date: 2019-09-20
-- link: hhttps://minisupersticker.club/
+- link: https://minisupersticker.club/
   name: "miniSUPER sticker club"
   desc: "new project from milkbbi, super good stickers!"
   type: thing
   date: 2019-09-23
+- link: https://anilist.co/anime/104052/Stars-Align/
+  name: "Stars Align"
+  desc: "only the first episode is out so far, but i'm instantly hooked and the soundtrack is by jizue"
+  type: show
+  date: 2019-10-11
+- link: https://julienbaker.bandcamp.com/album/tokyo
+  name: "Tokyo - Julien Baker"
+  type: music
+  date: 2019-10-11
