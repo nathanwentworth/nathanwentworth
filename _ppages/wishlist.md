@@ -42,8 +42,8 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [The Vanished Birds by Simon Jimenez](https://www.penguinrandomhouse.com/books/609386/the-vanished-birds-by-simon-jimenez/9780593128985/)
 
 <div class="img-block">
-{% include img.html url='dustydeck-2.jpg' desc='[Dangerdrop Artbooks](https://dangerdrop.booth.pm/)' %}
-{% include img.html url='three-body-problem.jpg' desc='[The Three-Body Problem](https://us.macmillan.com/books/9780765382030)' %}
+{% include img.html url='dustydeck-2.jpg' alt='dusty deck' desc='[Dangerdrop Artbooks](https://dangerdrop.booth.pm/)' %}
+{% include img.html url='three-body-problem.jpg' alt='three body problem' desc='[The Three-Body Problem](https://us.macmillan.com/books/9780765382030)' %}
 </div>
 
 - **[The Three-Body Problem](https://us.macmillan.com/books/9780765382030)** by Cixin Liu
@@ -80,8 +80,8 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
   - one of my favorite manga series ever! i own the entire thing in japanese, despite not being able to read it. i currently own volume 1 of this in english (7 volumes total)
 
 <div class="img-block">
-  {% include img.html url='punpun-2.jpg' desc="[Goodnight Punpun Volume 2](https://www.viz.com/read/goodnight-punpun/section/28189/more/2)" %}
-  {% include img.html url='dead-dead-demons-1.jpg' desc="[Dead Dead Demon’s Dededede Destruction](https://www.viz.com/dead-dead-demon-s-dededede-destruction)" %}
+  {% include img.html url='punpun-2.jpg' alt='punpun' desc="[Goodnight Punpun Volume 2](https://www.viz.com/read/goodnight-punpun/section/28189/more/2)" %}
+  {% include img.html url='dead-dead-demons-1.jpg' alt='dead dead demons' desc="[Dead Dead Demon’s Dededede Destruction](https://www.viz.com/dead-dead-demon-s-dededede-destruction)" %}
 </div>
 
 - **[Dead Dead Demon’s Dededede Destruction](https://www.viz.com/dead-dead-demon-s-dededede-destruction)**
@@ -111,8 +111,8 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ### Blu-rays/DVDs
 
 <div class="img-block">
-  {% include img.html url='ping-pong-poster.jpg' desc='[Ping Pong the Animation](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)' %}
-  {% include img.html url='nichijou.jpg' desc='[Nichijou](https://www.rightstufanime.com/Nichijou-Blu-ray-DVD)' %}
+  {% include img.html url='ping-pong-poster.jpg' alt='ping pong' desc='[Ping Pong the Animation](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)' %}
+  {% include img.html url='nichijou.jpg' alt='nichijou' desc='[Nichijou](https://www.rightstufanime.com/Nichijou-Blu-ray-DVD)' %}
 </div>
 
 
