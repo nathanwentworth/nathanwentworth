@@ -1,6 +1,6 @@
 ---
 title: About
-excerpt: Hi! I'm Nathan Wentworth!
+excerpt: "(〃￣ω￣〃) ゞ"
 ---
 
 {% include img.html url='/assets/img/me/nathan-wentworth-august-2018-film-sm.jpg' alt='photo of nathan wentworth (me!)' lg='/assets/img/me/nathan-wentworth-august-2018-film-md.jpg' %}

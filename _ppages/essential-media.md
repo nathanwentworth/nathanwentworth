@@ -2,9 +2,9 @@
 Title: Essential Media
 ---
 
-<!-- convert x.jpg -resize 256x256\> x.jpg -->
-
 Favorite music, comics, games, etc.
+
+<!-- convert x.jpg -resize 256x\> x.jpg -->
 
 For more frequently updated things that I like (maybe not as much as the things here), check out my [recommendations page](/recommendations)! You might also be interested in [websites I like](/sites-i-like).
 
@@ -70,10 +70,13 @@ For more frequently updated things that I like (maybe not as much as the things 
 
 ## TV
 
-- Ping Pong: The Animation
-- Mob Psycho 100 II
+<div class="img-block">
+  {% include img.html url='ping-pong.jpg' alt='ping pong the animation' desc='Ping Pong: The Animation' %}
+  {% include img.html url='mob-psycho.jpg' alt='Mob Psycho 100 2' desc='Mob Psycho 100 II' %}
+  {% include img.html url='nichijou.jpg' desc='Nichijou' %}
+</div>
+
 - The Tatami Galaxy
-- Nichijou
 - Mawaru Penguindrum
 - Kaiba
 - Neon Genesis Evangelion
