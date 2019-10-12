@@ -254,6 +254,10 @@
   desc: "new project from milkbbi, super good stickers!"
   type: thing
   date: 2019-09-23
+- link: https://en.wikipedia.org/wiki/Euphoria_(American_TV_series)
+  name: "Euphoria"
+  type: tv
+  date: 2019-10-06
 - link: https://crackmagazine.net/article/mixprofile/pop-zone-2-umru/
   name: "Pop Zone #2: Umru"
   desc: "super super good mix"
