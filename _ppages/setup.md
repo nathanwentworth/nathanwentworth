@@ -39,7 +39,7 @@ After having used Linux almost full-time for close to a year now, I recently swi
   - Seagate 2TB HDD
   - Seagate 2TB FireCuda SHDD
   - Leftover 500GB HDD from my PS4
-- GPU: EVGA GTX 770 2Gb
+- GPU: Zotac GTX 970 4Gb
 - Power Supply: EVGA NEX 650W
 - Case: Fractal Design Define R5 (White)
 - Monitor: Dell U2415h (24", 1920x1200)
