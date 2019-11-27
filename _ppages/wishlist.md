@@ -23,9 +23,9 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 {% include img.html url='fp7.jpg' alt='fp7' desc="[FP7 EMP Beatmania IIDX Controller](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=327)" %}
 
 - [FP7 EMP Beatmania IIDX Controller](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=327)
-- [Dance mat DDR USB EX PRO – Dance mats L-TEK](https://maty-taneczne.pl/shop/dance-mat-ddr-usb-ex-pro/)
+- **[Dance mat DDR USB EX PRO – Dance mats L-TEK](https://maty-taneczne.pl/shop/dance-mat-ddr-usb-ex-pro/)**
   - expensive but super nice DDR pad that emulates the arcade experience
-- [Hori Fighting Stick Mini for PS4](https://stores.horiusa.com/fighting-stick-mini-4-for-playstation-4)
+- **[Hori Fighting Stick Mini for PS4](https://stores.horiusa.com/fighting-stick-mini-4-for-playstation-4)**
 - [Pocket C.H.I.P.](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-i-p-new)
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
 - [Audioengine A2+ (white)](https://audioengineusa.com/shop/poweredspeakers/a2-plus-desktop-speakers/)
