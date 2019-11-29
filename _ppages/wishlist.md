@@ -20,7 +20,10 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ## Things / Tech
 
+<div class="img-block">
 {% include img.html url='fp7.jpg' alt='fp7' desc="[FP7 EMP Beatmania IIDX Controller](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=327)" %}
+{% include img.html url='fight-stick.png' alt='fight stick' desc="[Hori Fighting Stick Mini for PS4](https://stores.horiusa.com/fighting-stick-mini-4-for-playstation-4)" %}
+</div>
 
 - [FP7 EMP Beatmania IIDX Controller](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=327)
 - [Dance mat DDR USB EX PRO – Dance mats L-TEK](https://maty-taneczne.pl/shop/dance-mat-ddr-usb-ex-pro/)
