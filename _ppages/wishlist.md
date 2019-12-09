@@ -17,6 +17,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Mokuyobi Gift Card](https://mokuyobi.com/products/gift-card)
   - [Noodle Doodle Button Up Shirt – Mokuyobi](https://mokuyobi.com/collections/shirts/products/noodle-doodle-button-up-shirt) Medium
 - [SEGMENT ∙ Dealer Bag](https://segment.supply/dealer-bag)
+- [Le Laboureur Moleskin French Work Jacket in Black – Tourneur](https://www.tourneurgoods.com/products/le-laboureur-work-jacket-black)
 
 ## Things / Tech
 
@@ -85,6 +86,9 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [On a Sunbeam by Tillie Walden](https://us.macmillan.com/books/9781250225986)
 - [Biomega, Vol. 1](https://www.viz.com/read/manga/biomega-volume-1/product/2255)
 
+#### Japanese
+- [Nichijou 4](http://www.cdjapan.co.jp/product/NEOBK-533106)
+
 ### Board/Physical Games
 - [Burgle Bros.](https://fowers-games.myshopify.com/collections/frontpage/products/burgle-bros)
 - [Betrayal at House on the Hill](https://avalonhill.wizards.com/avalon-hill-betrayal-house-hill)
@@ -123,6 +127,8 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [The Best Interface is No Interface](http://www.nointerface.com/book/)
 - [Dangerdrop Artbooks](https://dangerdrop.booth.pm/)
 - [KEMONO KINETIC SKETCH（MOGMOGNET)](https://www.melonbooks.co.jp/detail/detail.php?product_id=548231)
+- [Sushio the Idol](https://www.indiebound.org/book/9784756250612)
+- [Parks – Standards Manual](https://standardsmanual.com/products/parks)
 
 ### Prints
 - [Witches on Rocks by Woon Young](https://woonyoung.bigcartel.com/product/witches-on-the-mountain)
