@@ -296,3 +296,14 @@
   desc: "can't stop thinking about how much i adore this style of ui design, my next game project needs to look like this"
   type: video
   date: 2019-11-25
+- link: https://system-erasure.itch.io/zeroranger
+  name: "ZeroRanger"
+  desc: "super cool stg with great art. accessible for someone like me who isn't great at stgs but appreciates and genre and wants to get into them more"
+  type: game
+  date: 2019-12-22
+- link: https://adamgryu.itch.io/a-short-hike
+  name: "A Short Hike"
+  desc: "super cute, short game centered around exploration and pleasant interactions with nice writing"
+  type: game
+  best: true
+  date: 2019-12-23
