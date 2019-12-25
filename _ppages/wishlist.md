@@ -17,7 +17,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Mokuyobi Gift Card](https://mokuyobi.com/products/gift-card)
   - [Noodle Doodle Button Up Shirt – Mokuyobi](https://mokuyobi.com/collections/shirts/products/noodle-doodle-button-up-shirt) Medium
 - [SEGMENT ∙ Dealer Bag](https://segment.supply/dealer-bag)
-- [Le Laboureur Moleskin French Work Jacket in Black – Tourneur](https://www.tourneurgoods.com/products/le-laboureur-work-jacket-black)
 
 ## Things / Tech
 
@@ -133,5 +132,4 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ### Prints
 - [Witches on Rocks by Woon Young](https://woonyoung.bigcartel.com/product/witches-on-the-mountain)
 - [Sylvain Tegroeg - Factory — VGA Gallery](https://www.videogameartgallery.com/exhibition/a6uq6xsy1pab9gjfcygcxofe63cyc4)
-- [Cardboard Computer - Kentucky Route Zero Act II — VGA Gallery](https://www.videogameartgallery.com/exhibition/cardboard-computer-kentucky-route-zero-act-ii)
 
