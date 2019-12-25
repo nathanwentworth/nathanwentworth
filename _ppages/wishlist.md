@@ -75,11 +75,9 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 <div class="img-block">
   {% include img.html url='punpun-2.jpg' alt='punpun' desc="[Goodnight Punpun Volume 2](https://www.viz.com/read/goodnight-punpun/section/28189/more/2)" %}
-  {% include img.html url='dead-dead-demons-1.jpg' alt='dead dead demons' desc="[Dead Dead Demon’s Dededede Destruction](https://www.viz.com/dead-dead-demon-s-dededede-destruction)" %}
 </div>
 
-- **[Dead Dead Demon’s Dededede Destruction](https://www.viz.com/dead-dead-demon-s-dededede-destruction)**
-  - another series by Inio Asano (author of the above series), also super good. I don't own any volumes currently.
+
 - [The Girl From the Other Side: Siúil, A Rún Vol. 1](http://www.sevenseasentertainment.com/series/the-girl-from-the-other-side-siuil-a-run/)
 - [The Marquis: Inferno](https://www.darkhorse.com/Books/15-859/The-Marquis-Inferno-TPB)
 - [On a Sunbeam by Tillie Walden](https://us.macmillan.com/books/9781250225986)
