@@ -320,3 +320,8 @@
   type: music
   best: true
   date: 2020-01-07
+- link: https://www.youtube.com/watch?v=PZPGW4A5CQE
+  name: "2.0 Moments Reel"
+  desc: "a 20 minute sort-of best-of for one of my favorite podcasts right now"
+  type: podcast
+  date: 2020-01-07
