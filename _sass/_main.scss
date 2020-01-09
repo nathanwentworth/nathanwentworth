@@ -433,6 +433,14 @@ footer ul {
     // increase padding to give more vertical spacing
     padding-bottom: 0.75em;
   }
+  .recommendation-date {
+    // min-width: 1rem;
+    writing-mode: vertical-lr;
+    margin-left: 0;
+  }
+  .recommendation-date .year {
+    display: none;
+  }
 
   .column-item + .column-item {
     margin-top: 2rem;

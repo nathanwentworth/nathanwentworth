@@ -10,13 +10,15 @@
   {% assign date = '' %}
   {% for recommendation in sorted limit: {{limit_of_recs}} %}
     {% assign currentdate = recommendation.date | date: '%Y-%m-%d' %}
+    {% assign currentyear = recommendation.date | date: '%Y-' %}
+    {% assign currentmd = recommendation.date | date: '%m-%d' %}
     {% if currentdate != date %}
       {% if first != recommendation %}
       </ul>
       </div>
       {% endif %}
       <div class="recommendation-outer">
-      <h3 id="y{{currentdate}}" class="recommendation-date">{{ currentdate }}</h3>
+      <h3 id="y{{currentdate}}" class="recommendation-date"><span class="year">{{ currentyear }}</span><span class="month-day">{{ currentmd }}</span></h3>
       {% assign date = currentdate %}
       <ul class="recommendation-main">
     {% endif %}
