@@ -36,6 +36,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [TWEMCO AL-30-Alarm Clock](https://flipclockstore.com/Table_Clock/Twemco%20AL-30) - Orange
 - [TWEMCO QT-30 Flip Clock](https://flipclockstore.com/Table_Clock/TWEMCO%20QT-30) - Orange
 - [Mirror Mask by Chen Chen &amp; Kai Williams](https://www.areaware.com/products/mirror-mask?variant=15114418290723)
+- [Makoto Kikuchi 1/8th scale figure (Phat!)](https://www.goodsmile.info/en/product/4964/Makoto+Kikuchi.html)
 
 ## Media
 
@@ -101,6 +102,8 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - **[Ping Pong the Animation](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)**
   - quite easily one of the best anime shows ever made
 - [Nichijou BD/DVD](https://www.rightstufanime.com/Nichijou-Blu-ray-DVD)
+- [Mobile Suit Gundam 08th MS Team BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-08th-MS-Team-Blu-ray)
+- [Mobile Suit Gundam 0080 War In the Pocket BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-0080-War-In-the-Pocket-Blu-ray)
 - [Mob Psycho 100](https://www.rightstufanime.com/Mob-Psycho-100-Blu-ray-DVD)
 
 ### Books

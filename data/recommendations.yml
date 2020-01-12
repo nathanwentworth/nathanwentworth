@@ -325,3 +325,8 @@
   desc: "a 20 minute sort-of best-of for one of my favorite podcasts right now"
   type: podcast
   date: 2020-01-07
+- link: https://tanoc.bandcamp.com/album/hyper-duo
+  name: "Hyper Duo from Hardcore Tano*c"
+  desc: "great compilation of hardcore/gabber/hardstyle from a great japanese label"
+  type: music
+  date: 2020-01-12
