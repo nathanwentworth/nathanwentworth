@@ -21,11 +21,9 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ## Things / Tech
 
 <div class="img-block">
-{% include img.html url='fp7.jpg' alt='fp7' desc="[FP7 EMP Beatmania IIDX Controller](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=327)" %}
 {% include img.html url='fight-stick.png' alt='fight stick' desc="[Hori Fighting Stick Mini for PS4](https://stores.horiusa.com/fighting-stick-mini-4-for-playstation-4)" %}
 </div>
 
-- [FP7 EMP Beatmania IIDX Controller](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=327)
 - **[Dance mat DDR USB EX PRO – Dance mats L-TEK](https://maty-taneczne.pl/shop/dance-mat-ddr-usb-ex-pro/)**
   - expensive but super nice DDR pad that emulates the arcade experience
 - **[Hori Fighting Stick Mini for PS4](https://stores.horiusa.com/fighting-stick-mini-4-for-playstation-4)**
@@ -41,12 +39,10 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ## Media
 
 ### Video Games
-- **Death Stranding** (PS4)
 - Spyro Reignited Trilogy (PS4)
 - **Silent Hill 3** (PS2)
   - get used on ebay
 - Wolfenstein II: The New Colossus (PS4)
-- Uncharted: The Lost Legacy (PS4)
 - **Mario Kart 8 Deluxe** (Switch)
 - **Captain Toad Treasure Tracker** (Switch)
 - Nintendo Joycons
@@ -56,9 +52,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ### Comics
 - [This Was Our Pact by Ryan Andrews](https://us.macmillan.com/books/9781626720534?utm_source=socialmedia&utm_medium=socialpost&utm_term=na-thiswasourpactsocial&utm_content=na-buy-buynow&utm_campaign=9781626720534)
 - **Anything from [Peow](http://peowstudio.com/)**, everything they publish is gorgeous
-  - **gleem**
-  - stages of rot
-  - **junky**
+  - **stages of rot**
   - sim sim magica
 - [Bloom by Kevin Panetta](https://www.powells.com/book/bloom-9781626726413?partnerid=33241)
 - **[Gundam the Origin](http://www.vertical-inc.com/books/gundam.html)**
@@ -100,11 +94,12 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 
 - **[Ping Pong the Animation](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)**
-  - quite easily one of the best anime shows ever made
+  - easily one of the best anime shows ever made
 - [Nichijou BD/DVD](https://www.rightstufanime.com/Nichijou-Blu-ray-DVD)
 - [Mobile Suit Gundam 08th MS Team BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-08th-MS-Team-Blu-ray)
 - [Mobile Suit Gundam 0080 War In the Pocket BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-0080-War-In-the-Pocket-Blu-ray)
 - [Mob Psycho 100](https://www.rightstufanime.com/Mob-Psycho-100-Blu-ray-DVD)
+- [Promare Blu-ray/DVD](https://www.rightstufanime.com/Promare-Blu-ray-DVD)
 
 ### Books
 
@@ -124,6 +119,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [How to Do Nothing by Jenny Odell](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612197494/)
 - [A Profound Waste of Time](http://apwot.com/)
 - [Autonomous by Annalee Newitz](https://us.macmillan.com/books/9780765392077)
+- [The Longing for Less: Living with Minimalism by Kyle Chayka](https://www.bloomsbury.com/us/the-longing-for-less-9781635572100/)
 - [The Best Interface is No Interface](http://www.nointerface.com/book/)
 - [Dangerdrop Artbooks](https://dangerdrop.booth.pm/)
 - [KEMONO KINETIC SKETCH（MOGMOGNET)](https://www.melonbooks.co.jp/detail/detail.php?product_id=548231)
