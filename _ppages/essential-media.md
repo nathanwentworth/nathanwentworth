@@ -38,7 +38,7 @@ For more frequently updated things that I like (maybe not as much as the things 
 
 ### Mixes
 
-- Ghost Protocol - Go-qualia
+- [Ghost Protocol - Go-qualia](/assets/other/GHOST%20PROTOCOL.mp3)
 - [Mix for Triple J Mixup Exclusives](https://soundcloud.com/nonstoppop/mix-for-triple-j) - JACK
 - [FADER Mix](https://soundcloud.com/fadermedia/fader-mix-danny-l-harle) - Danny L Harle
 - [Huewave](https://www.youtube.com/watch?v=xrMhzJqMd7U) - Tielsie
