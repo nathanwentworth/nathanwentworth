@@ -7,17 +7,17 @@ Things I use on a daily basis to code/test/work/etc
 
 ## Desktop
 
-### Hardware
+[Read about my switch from mac to linux here!](/posts/from-mac-to-linux)
 
-I initially built this desktop as a replacement for my laptop, but I quickly realized that macOS is pretty essential for many of my workflows (WSL is nice, but I prefer a deeper integration with the OS). After a few months as a hackintosh, [I installed Ubuntu, which now acts as its primary OS](/posts/from-mac-to-linux). This computer has become my daily driver for development work and playing games.
+Current setup is using XFCE4 with the a CDE theme:
 
-Screenshots running Ubuntu Budgie:
+{% include img.html url='xfce-2020-04-15_18-24-39.png' desc='xfce with a terminal, cmus, keyboard settings, thunar, and sublime text (shade closed)' %}
 
-{% include img.html url='firefox-and-sublime-text.png' desc='desktop screenshot with firefox and sublime text' %}
+{% include img.html url='xfce-2020-04-20_17-43-56.png' desc='desktop screenshot with neofetch' %}
 
-{% include img.html url='clean-desktop-with-neofetch.jpg' desc='desktop screenshot with wallpaper and terminal' %}
+### Old Setups
 
-After having used Linux almost full-time for close to a year now, I recently switched from Budgie (a nice DE that replicates my most-missed mac feature, the global menu bar) to i3. At first i3 was incredibly intimidating, but I've quickly picked up on most of the basics, and done some light configuration to set colors and keyboard shortcuts how I want them. The keyboard-driven workflow is something I've wanted for a bit now as I frequently find myself drawn to using keyboard commands for everything if possible, both due to speed and ergonomics.
+#### i3
 
 {% include img.html url='i3-sublime-terminal.jpg' desc='screenshot of sublime text and a terminal' %}
 
@@ -28,6 +28,12 @@ After having used Linux almost full-time for close to a year now, I recently swi
 {% include img.html url='firefox-and-cmus.png' desc='firefox and cmus (music player)' %}
 
 {% include img.html url='two-terminals.png' desc='output of trimage and vim' %}
+
+#### Budgie
+
+{% include img.html url='firefox-and-sublime-text.png' desc='desktop screenshot with firefox and sublime text' %}
+
+{% include img.html url='clean-desktop-with-neofetch.jpg' desc='desktop screenshot with wallpaper and terminal' %}
 
 - OS: Ubuntu 18.04 LTS, Windows 10
 - CPU: Intel i5-7500 3.4Ghz Quad-Core
@@ -49,32 +55,6 @@ After having used Linux almost full-time for close to a year now, I recently swi
 
 
 [PC Part Picker page](https://pcpartpicker.com/user/nathanwentworth/saved/gzfXLk)
-
-### Software
-
-#### Code/Work
-
-{% include img.html url='Screenshot from 2018-07-25 21-32-34.png' desc='Sublime Text 3 setup on Ubuntu' %}
-
-I use [Sublime Text](https://www.sublimetext.com/3) for pretty much everything writing related. I occasionally use vim when sshing into a server, but I still prefer a GUI-based text editor for daily usage. I use the following extensions with it:
-
-- Theme: Spacegray
-- Color Scheme: Mariana
-- Extensions:
-  - MarkdownEditing
-  - JavaScript Completions
-  - SideBarEnhancements
-  - ColorPicker
-  - Autoprefixer
-
-I use Firefox as my primary browser, with Chromium as my secondary/work browser. I like keeping my personal life on one with work on the other, since that allows me to mentally switch modes easier than if everything was in one profile.
-
-#### Media
-
-- mpv
-- Spotify (reluctantly)
-- RhythmBox
-- cmus
 
 ## Old Laptop
 

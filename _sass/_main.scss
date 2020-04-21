@@ -73,6 +73,9 @@ a:hover, a:active, a:focus {
   color: $red;
   border-bottom-style: solid;
 }
+a.img-link {
+  border: none;
+}
 
 p {
   line-height: 1.4;
