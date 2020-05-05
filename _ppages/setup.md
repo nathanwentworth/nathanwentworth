@@ -1,9 +1,9 @@
 ---
 title: Setup
-excerpt: Things I use on a daily basis to code/test/work/etc
+excerpt: Computer hardware/software I use
 ---
 
-Things I use on a daily basis to code/test/work/etc
+Computer hardware/software I use
 
 ## Desktop
 
@@ -56,27 +56,12 @@ Current setup is using XFCE4 with the a CDE theme:
 
 [PC Part Picker page](https://pcpartpicker.com/user/nathanwentworth/saved/gzfXLk)
 
-## Old Laptop
-
-This is my last laptop, which I traded to [Nick Splendorr](http://splendorr.com/) for his 13" MacBook Air.
-
-{% include img.html url='Screen Shot 2018-05-18 at 12.57.00 pm.png' desc='laptop stats print' %}
-
-- 15" Macbook Pro with Retina Display (Late 2013)
-- Intel i7 2.7Ghz Quad-Core
-- 16GB RAM
-- 250Gb SSD
-- NVidia 650M
-
-## Phone
+## Phone (iPhone 6S)
 
 <div class="img-block">
   {% include img.html url='2018-07-14 11.08.48.png' desc='phone screenshot as of july 2018' %}
   {% include img.html url='IMG_4107.png' desc='phone screenshot as of august 2018' %}
 </div>
-
-I have an iPhone 6S (white, 128gb) that I bought at launch and don't see myself getting rid of any time soon. The battery life isn't amazing, but it gets the job done (and still has a headphone jack!).
-
 
 ### Software
 
