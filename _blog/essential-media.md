@@ -7,7 +7,7 @@ Favorite music, comics, games, etc.
 
 <!-- convert x.jpg -resize 256x\> x.jpg -->
 
-For more frequently updated things that I like (maybe not as much as the things here), check out my [recommendations page](/posts/recommendations)! You might also be interested in [websites I like](/posts/sites-i-like).
+For more frequently updated things that I like (maybe not as much as the things here), check out my [recommendations page](/recommendations)! You might also be interested in [websites I like](/posts/sites-i-like).
 
 ## Music
 
