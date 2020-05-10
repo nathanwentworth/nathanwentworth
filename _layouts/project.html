@@ -26,7 +26,7 @@ layout: default
   {% endunless %}
 
   <h1 itemprop="title" class="bold page-title">{{ page.title }}</h1>
-  <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date:'%Y-%m-%d' }}</time>
+  <time datetime="{{ page.date | date:'%Y-%m-%d' }}">Updated: {{ page.date | date:'%Y-%m-%d' }}</time>
 
   {% unless page.hide_tags %}
   {% if page.tags and page.tags.size > 0 %}

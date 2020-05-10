@@ -23,6 +23,10 @@
 }
 .columns .page-title {
   margin-top: 2rem;
+
+  img {
+    vertical-align: bottom;
+  }
 }
 .columns .page-title:first-of-type {
   margin-top: 0;
@@ -36,10 +40,6 @@
   content: '→';
   font-size: 0.8em;
   margin-right: 0.75em;
-}
-
-ul.noarrow li::before {
-  display: none;
 }
 
 

@@ -4,23 +4,8 @@
 - name: 'mastodon'
   link: 'https://mastodon.social/@nathanwentworth'
   home: true
-- name: 'photos'
-  link: '/photos'
-  home: true
-  about: false
-- name: 'sites i like'
-  link: '/sites-i-like'
-  home: true
-  about: false
-- name: 'wishlist'
-  link: '/wishlist'
-  home: true
-  about: false
 - name: 'anime list'
   link: 'https://anilist.co/user/nathan/'
-  home: true
-- name: 'setup'
-  link: '/setup'
   home: true
 - name: 'bandcamp collection'
   link: 'https://bandcamp.com/nathanwentworth'

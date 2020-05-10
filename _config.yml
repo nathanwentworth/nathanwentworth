@@ -35,13 +35,12 @@ kaomoji: [
 
 links:
   'projects': '/projects'
-  'blog': '/posts'
-  'pages': '/pages'
+  'posts': '/posts'
 
 collections:
   projects:
     output: true
-  ppages:
+  blog:
     output: true
 
 defaults:
@@ -55,19 +54,18 @@ defaults:
       permalink: /:collection/:title/
   - scope:
       path: ""
-      type: ppages
+      type: blog
     values:
-      collection: ppages
+      collection: blog
       layout: project
       author: "Nathan Wentworth"
-      permalink: /:title/
+      permalink: /posts/:title/
   - scope:
       path: ""
       type: posts
     values:
       collection: posts
       layout: project
-      hide_aside: true
       author: "Nathan Wentworth"
       img_path: /assets/img/project/:title/
   - scope:

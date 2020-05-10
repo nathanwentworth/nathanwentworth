@@ -1,5 +1,5 @@
 ---
 layout: archive
 title: "Posts"
-collection: posts
+collection: blog
 ---

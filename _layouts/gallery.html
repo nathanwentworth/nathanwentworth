@@ -18,19 +18,23 @@ layout: default
       <img class="portrait" src="/assets/img/me/nathan-wentworth-2019-07-21-11.52.03-md.jpg">
     </div>
     <div class="column-item">
-      <h1 class="blue page-title"><a class="blue" href="/about">About Me</a> ✌️</h1>
+      <h1 class="blue page-title"><a class="blue" href="/posts/about">About Me</a> <img alt="" src="/assets/img/softbank-emoji-2004/house-building_1f3e0.gif"></h1>
       <div>{{ site.full_description | markdownify }}</div>
     </div>
   </section>
 
   <section class="columns">
     <div class="column-item">
-      <h1 class="page-title red"><a href="/projects/" class="red">Projects</a> 📂</h1>
+      <h1 class="page-title red"><a href="/projects/" class="red">Projects</a> <img alt="" src="/assets/img/softbank-emoji-2004/personal-computer_1f4bb.gif"></h1>
       <ul class="no-indent">
       {% assign projects = site.projects | reverse %}
       {% for entry in projects limit: 18 %}
+        {% capture nowunix %}{{ site.time | date: '%s' }}{% endcapture %}
+        {% capture posttime %}{{ entry.date | date: '%s' }}{% endcapture %}
+        {% assign postNum = posttime | minus: 0 %}
+        {% assign diff = nowunix | minus: postNum %}
         <li class="archive-entry">
-          <a href="{{ site.github.url }}{{ entry.url }}">{{ entry.title }}</a> <a class="date" href="/projects/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>
+          <a href="{{ entry.url }}">{{ entry.title }}</a> <a class="date" href="/projects/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>{% if diff < 604800 %}<span class="new">NEW!</span>{% endif %}
         </li>
       {% endfor %}
         <li class="archive-entry">
@@ -40,18 +44,23 @@ layout: default
       </ul>
     </div>
     <div class="column-item">
-      <h1 class="page-title red"><a href="/projects/" class="red">Posts</a> 📔</h1>
+      <h1 class="page-title red"><a href="/posts/" class="red">Posts</a> <img alt="" src="/assets/img/softbank-emoji-2004/memo_1f4dd.gif"></h1>
       <ul class="no-indent">
-      {% assign post = site.posts %}
+      {% assign post = site.blog | sort: 'date' | reverse %}
       {% for entry in post limit: 18 %}
+        {% capture nowunix %}{{ site.time | date: '%s' }}{% endcapture %}
+        {% capture posttime %}{{ entry.date | date: '%s' }}{% endcapture %}
+        {% assign postNum = posttime | minus: 0 %}
+        {% assign diff = nowunix | minus: postNum %}
+
         <li class="archive-entry">
-          <a href="{{ site.github.url }}{{ entry.url }}">{{ entry.title }}</a> <a class="date" href="/posts/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>
+          <a href="{{ entry.url }}">{{ entry.title }}</a> <a class="date" href="/posts/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>{% if diff < 604800 %}<span class="new">NEW!</span>{% endif %}
         </li>
       {% endfor %}
       </ul>
     </div>
     <div class="column-item">
-      <h1 class="orange page-title">More 🌿</h1>
+      <h1 class="orange page-title">More <img alt="" src="/assets/img/softbank-emoji-2004/mobile-phone_1f4f1.gif"></h1>
       {% include elsewhere.html page='home' %}
     </div>
 
@@ -59,11 +68,11 @@ layout: default
 
   <section class="columns left-big">
     <div class="column-item">
-      <h1 class="page-title purple"><a href="/recommendations/" class="purple">Things I Like</a> 💖</h1>
+      <h1 class="page-title purple"><a href="/recommendations/" class="purple">Things I Like</a> <img alt="" src="/assets/img/softbank-emoji-2004/heavy-black-heart_2764.gif"></h1>
       {% include recommendations.html limit=8 %}
     </div>
     <div class="column-item">
-      <h1 class="red page-title"><a class="red" href="https://last.fm/user/nwentworth">Top Music</a> 🎵</h1>
+      <h1 class="red page-title"><a class="red" href="https://last.fm/user/nwentworth">Top Music</a> <img alt="" src="/assets/img/softbank-emoji-2004/speaker-with-three-sound-waves_1f50a.gif"></h1>
       <p>My most played artists in the last seven days</p>
       {% include lastfm.html %}
     </div>
@@ -71,11 +80,11 @@ layout: default
 
   <section class="columns right-big">
     <div class="column-item">
-      <h1 class="orange page-title"><a class="orange" href="http://mastodon.social/@nathanwentworth">Recent toots</a> 📣</h1>
+      <h1 class="orange page-title"><a class="orange" href="http://mastodon.social/@nathanwentworth">Recent toots</a> <img alt="" src="/assets/img/softbank-emoji-2004/public-address-loudspeaker_1f4e2.gif"></h1>
       {% include mastodon.html %}
     </div>
     <div class="column-item">
-      <h1 class="purple page-title">Recent Bookmarks 🔖</h1>
+      <h1 class="purple page-title">Recent Bookmarks <img alt="" src="/assets/img/softbank-emoji-2004/open-book_1f4d6.gif"></h1>
       {% include pinboard.html %}
     </div>
   </section>
