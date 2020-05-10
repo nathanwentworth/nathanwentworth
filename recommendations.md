@@ -1,5 +1,6 @@
 ---
 title: Recommendations
+layout: project
 excerpt: "Things I like! Frequently updated."
 date: 2019-02-25
 ---
