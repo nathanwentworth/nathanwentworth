@@ -23,11 +23,13 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 <div class="img-block">
 {% include img.html url='fight-stick.png' alt='fight stick' desc="[Hori Fighting Stick Mini for PS4](https://stores.horiusa.com/fighting-stick-mini-4-for-playstation-4)" %}
+{% include img.html url='POP_500.jpg' alt='pop\'n music controller' desc="[DJDAO Pop'n Music Arcade Controller](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=249)" %}
 </div>
 
 - **[Dance mat DDR USB EX PRO – Dance mats L-TEK](https://maty-taneczne.pl/shop/dance-mat-ddr-usb-ex-pro/)**
   - expensive but super nice DDR pad that emulates the arcade experience
 - **[Hori Fighting Stick Mini for PS4](https://stores.horiusa.com/fighting-stick-mini-4-for-playstation-4)**
+- **[DJDAO Pop'n Music Arcade Controller](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=249)**
 - [Pocket C.H.I.P.](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-i-p-new)
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
 - [Audioengine A2+ (white)](https://audioengineusa.com/shop/poweredspeakers/a2-plus-desktop-speakers/)
