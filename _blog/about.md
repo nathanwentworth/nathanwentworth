@@ -15,7 +15,7 @@ Hi! I'm nathan wentworth, I make [video games](/projects/#t:game) and [websites]
 
 I'm interested in design, open source software, minimalism, fashion, and human-scale technology. I like [fun music](https://soundcloud.com/nathanwentworth/sets/fav), video games, and [taking photos](/posts/photos). Check out some [media](/posts/essential-media), [websites](/posts/sites-i-like), and [other things](/recommendations) that I like!
 
-I love playing Dance Dance Revolution (can clear expert 12s) and Beatmania IIDX (1st Dan [初段]), I plan on getting into pop'n music soon ;~)
+I love playing Dance Dance Revolution (3rd Dan [三段]) and Beatmania IIDX (1st Dan [初段]), I plan on getting into pop'n music soon ;~)
 
 Went to Fitchburg State University to study Game Design and graduated in 2017. Worked freelance for [FableVision Studios](http://www.fablevisionstudios.com/) before being hired full-time in November 2018.
 

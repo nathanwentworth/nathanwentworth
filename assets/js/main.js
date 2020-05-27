@@ -74,7 +74,7 @@
       let values = entry.dataset[prefix].split('|');
       let hide = true;
       for (let j = 0; j < values.length; j++) {
-        if (values[j].toLowerCase() === currentTag) {
+        if (values[j].toLowerCase().indexOf(currentTag) > -1) {
           hide = false;
           break;
         }
