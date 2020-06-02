@@ -267,6 +267,7 @@ table tr:nth-of-type(2n) {
 }
 .recommendation-date {
   margin-top: 0;
+  min-width: 10ch;
   font-family: var(--mono-font);
   margin-right: 1.25rem;
   font-weight: normal;
