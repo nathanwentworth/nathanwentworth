@@ -17,7 +17,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ## Things / Tech
 
 - **[Eve Spectrum QHD 144hz + Stand](https://evedevices.com/pages/order)**
-- **[SVSE5 sound voltex controller | GAMO2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=314)**
+- **[GAMO2 SVSE5 sound voltex controller](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=314)**
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
 - [Audioengine A2+ (white)](https://audioengineusa.com/shop/poweredspeakers/a2-plus-desktop-speakers/)
 - [TWEMCO AL-30-Alarm Clock](https://flipclockstore.com/Table_Clock/Twemco%20AL-30) - Orange
