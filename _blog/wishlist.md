@@ -1,43 +1,28 @@
 ---
 title: Wishlist
-date: 2020-03-07
+date: 2020-11-26
 ---
 A consistently-updated list of things that I want to buy, gift ideas, etc! Bold things are higher priority/desire.
 
 ## Gift Cards
 - **[Bandcamp](https://bandcamp.com/gift_cards)**
   - This is 100% my favorite place to get music these days, DRM-free downloads and streams, merch, supports artists, etc! Here's some specific albums I want: [Bandcamp wishlist](https://bandcamp.com/nathanwentworth/wishlist)
-- **[Playstation](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/)**
-  - I buy most of my games digitally (a lot of games I like are digital-only), and I play most of my games on my PS4
-- **[Nintendo eShop](https://www.nintendo.com/giftcards)**
-  - I bought a Switch last year and don't have a lot of games for it, mainly because Nintendo games never go on sale and stay full-price forever
+- **[Steam](https://store.steampowered.com/digitalgiftcards/)**
+  - I play most of my games on PC, and steam has what is essentially a monopoly on PC game sales.
 
 ## Clothes
-- [adidas POD-S3.2 ML Shoes - White](https://www.adidas.com/us/pod-s3.2-ml-shoes/EE6439.html) (size 11)
-- [Qwstion washed black backpack](https://www.qwstion.com/en/backpack-washed-black.html)
 - [Mokuyobi Gift Card](https://mokuyobi.com/products/gift-card)
-  - [Noodle Doodle Button Up Shirt – Mokuyobi](https://mokuyobi.com/collections/shirts/products/noodle-doodle-button-up-shirt) Medium
-- [SEGMENT ∙ Dealer Bag](https://segment.supply/dealer-bag)
+- [SEGMENT - Dealer Bag](https://segment.supply/dealer-bag)
 
 ## Things / Tech
 
-<div class="img-block">
-{% include img.html url='fight-stick.png' alt='fight stick' desc="[Hori Fighting Stick Mini for PS4](https://stores.horiusa.com/fighting-stick-mini-4-for-playstation-4)" %}
-{% include img.html url='POP_500.jpg' alt='pop\'n music controller' desc="[DJDAO Pop'n Music Arcade Controller](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=249)" %}
-</div>
-
-- **[Dance mat DDR USB EX PRO – Dance mats L-TEK](https://maty-taneczne.pl/shop/dance-mat-ddr-usb-ex-pro/)**
-  - expensive but super nice DDR pad that emulates the arcade experience
-- **[Hori Fighting Stick Mini for PS4](https://stores.horiusa.com/fighting-stick-mini-4-for-playstation-4)**
-- **[DJDAO Pop'n Music Arcade Controller](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=249)**
-- [Pocket C.H.I.P.](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-i-p-new)
+- **[Eve Spectrum QHD 144hz + Stand](https://evedevices.com/pages/order)**
+- **[SVSE5 sound voltex controller | GAMO2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=314)**
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
 - [Audioengine A2+ (white)](https://audioengineusa.com/shop/poweredspeakers/a2-plus-desktop-speakers/)
-- [Dell UltraSharp 27" (U2719DC)](https://www.dell.com/en-us/work/shop/dell-ultrasharp-27-usb-c-monitor-u2719dc/apd/210-arcz/monitors-monitor-accessories)
 - [TWEMCO AL-30-Alarm Clock](https://flipclockstore.com/Table_Clock/Twemco%20AL-30) - Orange
 - [TWEMCO QT-30 Flip Clock](https://flipclockstore.com/Table_Clock/TWEMCO%20QT-30) - Orange
 - [Mirror Mask by Chen Chen &amp; Kai Williams](https://www.areaware.com/products/mirror-mask?variant=15114418290723)
-- [Makoto Kikuchi 1/8th scale figure (Phat!)](https://www.goodsmile.info/en/product/4964/Makoto+Kikuchi.html)
 
 ## Media
 
@@ -45,18 +30,12 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - Spyro Reignited Trilogy (PS4)
 - **Silent Hill 3** (PS2)
   - get used on ebay
-- Wolfenstein II: The New Colossus (PS4)
+- Wolfenstein II: The New Colossus (PS4/PC)
 - **Mario Kart 8 Deluxe** (Switch)
 - **Captain Toad Treasure Tracker** (Switch)
-- Nintendo Joycons
-  - Neon Yellow
-  - Neon Green/Neon Pink
 
 ### Comics
 - [This Was Our Pact by Ryan Andrews](https://us.macmillan.com/books/9781626720534?utm_source=socialmedia&utm_medium=socialpost&utm_term=na-thiswasourpactsocial&utm_content=na-buy-buynow&utm_campaign=9781626720534)
-- **Anything from [Peow](http://peowstudio.com/)**, everything they publish is gorgeous
-  - **stages of rot**
-  - sim sim magica
 - [Bloom by Kevin Panetta](https://www.powells.com/book/bloom-9781626726413?partnerid=33241)
 - **[Gundam the Origin](http://www.vertical-inc.com/books/gundam.html)**
 - [Tekkon Kinkreet](https://www.viz.com/read/manga/product/tekkonkinkreet-black-white/7203)
@@ -65,8 +44,9 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Ayako](http://www.vertical-inc.com/books/ayako.html)
 - [Ran and the Gray World, Vol. 1](https://www.viz.com/read/manga/ran-and-the-gray-world-volume-1/product/5731)
 - [Nichijou Manga volume 1](https://www.rightstufanime.com/Nichijou-Manga-01)
-- [City Vol. 1](http://www.vertical-comics.com/books/city_01.php)
+- [City Vol. 2](http://www.vertical-comics.com/books/city_02.php)
 - [A Girl on the Shore](http://vertical-comics.com/books/shore.php)
+- [My Broken Mariko](https://www.rightstufanime.com/My-Broken-Mariko-Manga)
 - [Trashed](https://www.indiebound.org/book/9781419714542)
 - **[Goodnight Punpun Volume 2](https://www.viz.com/read/goodnight-punpun/section/28189/more/2)**
   - one of my favorite manga series ever! i own the entire thing in japanese, despite not being able to read it. i currently own volume 1 of this in english (7 volumes total)
@@ -95,6 +75,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
   {% include img.html url='nichijou.jpg' alt='nichijou' desc='[Nichijou](https://www.rightstufanime.com/Nichijou-Blu-ray-DVD)' %}
 </div>
 
+I have a [wishlist on rightstuf](www.rightstufanime.com/pl/MTg5NzU4) as well, one of the cheapest places to get anime/manga.
 
 - **[Ping Pong the Animation](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)**
   - easily one of the best anime shows ever made
@@ -125,7 +106,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [The Longing for Less: Living with Minimalism by Kyle Chayka](https://www.bloomsbury.com/us/the-longing-for-less-9781635572100/)
 - [The Best Interface is No Interface](http://www.nointerface.com/book/)
 - [Dangerdrop Artbooks](https://dangerdrop.booth.pm/)
-- [KEMONO KINETIC SKETCH（MOGMOGNET)](https://www.melonbooks.co.jp/detail/detail.php?product_id=548231)
 - [Sushio the Idol](https://www.indiebound.org/book/9784756250612)
 - [Parks – Standards Manual](https://standardsmanual.com/products/parks)
 
