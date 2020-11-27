@@ -110,6 +110,9 @@ I have a [wishlist on rightstuf](www.rightstufanime.com/pl/MTg5NzU4) as well, on
 - [Parks – Standards Manual](https://standardsmanual.com/products/parks)
 
 ### Prints
+
+I have a [to-buy list on inprnt](https://www.inprnt.com/collections/nathanwentworth/favorites/), i love all of these!
+
 - [Witches on Rocks by Woon Young](https://woonyoung.bigcartel.com/product/witches-on-the-mountain)
 - [Sylvain Tegroeg - Factory — VGA Gallery](https://www.videogameartgallery.com/exhibition/a6uq6xsy1pab9gjfcygcxofe63cyc4)
 
