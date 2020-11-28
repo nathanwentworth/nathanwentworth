@@ -16,6 +16,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ## Things / Tech
 
+- **["The Picnic" Throw blanket](https://natalikoromoto.dog/collections/shop-all/products/the-picnic-throw-blanket)**
 - **[Eve Spectrum QHD 144hz + Stand](https://evedevices.com/pages/order)**
 - **[GAMO2 SVSE5 sound voltex controller](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=314)**
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
