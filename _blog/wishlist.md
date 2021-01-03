@@ -41,7 +41,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - **[Gundam the Origin](http://www.vertical-inc.com/books/gundam.html)**
 - [Tekkon Kinkreet](https://www.viz.com/read/manga/product/tekkonkinkreet-black-white/7203)
 - [Sunny Vol. 2](https://www.viz.com/read/manga/product/sunny-vol-2/10622)
-- [Monogatari Shinobu Character Book](http://www.kinokuniya.com/us/index.php/fbs003?common_param=9784062187640)
 - [Ayako](http://www.vertical-inc.com/books/ayako.html)
 - [Ran and the Gray World, Vol. 1](https://www.viz.com/read/manga/ran-and-the-gray-world-volume-1/product/5731)
 - [Nichijou Manga volume 1](https://www.rightstufanime.com/Nichijou-Manga-01)
