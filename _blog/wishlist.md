@@ -16,7 +16,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ## Things / Tech
 
-- **["The Picnic" Throw blanket](https://natalikoromoto.dog/collections/shop-all/products/the-picnic-throw-blanket)**
 - **[Eve Spectrum QHD 144hz + Stand](https://evedevices.com/pages/order)**
 - **[GAMO2 SVSE5 sound voltex controller](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=314)**
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
@@ -79,7 +78,6 @@ I have a [wishlist on rightstuf](www.rightstufanime.com/pl/MTg5NzU4) as well, on
 
 - **[Ping Pong the Animation](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)**
   - easily one of the best anime shows ever made
-- [Nichijou BD/DVD](https://www.rightstufanime.com/Nichijou-Blu-ray-DVD)
 - [Mobile Suit Gundam 08th MS Team BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-08th-MS-Team-Blu-ray)
 - [Mobile Suit Gundam 0080 War In the Pocket BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-0080-War-In-the-Pocket-Blu-ray)
 - [Mob Psycho 100](https://www.rightstufanime.com/Mob-Psycho-100-Blu-ray-DVD)
