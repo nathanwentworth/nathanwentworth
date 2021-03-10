@@ -366,3 +366,11 @@
   desc: "yet another incredible track from clouds as part of their Arkiv series"
   type: music
   date: 2020-05-27
+- link: https://dannylharle.bandcamp.com/album/harlecore
+  name: "Harlecore by Danny L Harle"
+  type: music
+  date: 2021-03-07
+- link: https://itazuraneko.neocities.org/learn/guide.html
+  name: "itazuraneko guide to learning japanese"
+  type: web
+  date: 2021-03-07

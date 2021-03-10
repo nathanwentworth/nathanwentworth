@@ -18,8 +18,6 @@ I'm interested in design, open source software, minimalism, fashion, and human-s
 
 I love playing Dance Dance Revolution (3rd Dan [三段]) and Beatmania IIDX (2nd Dan [二段]), I plan on getting into pop'n music soon ;~)
 
-Went to Fitchburg State University to study Game Design and graduated in 2017. Worked freelance for [FableVision Studios](http://www.fablevisionstudios.com/) before being hired full-time in November 2018.
-
 Feel free to [email me](ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;) or talk to me on [twitter](https://twitter.com/nathanwentworth)! All posts/categories on this site can be followed with RSS: [posts](/posts-feed.xml), [projects](/projects-feed.xml), and [recommendations](/recommendations-feed.xml).
 
 ---
