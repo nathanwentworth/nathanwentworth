@@ -67,10 +67,10 @@ pre ::selection { background-color: #4E5A65; }
 
 body {
   background-color: var(--background-color);
+  /*background-image: url(/assets/img/other/graphy.png);*/
   color: var(--text-color);
   font-family: var(--main-font);
   margin: 0;
-  font-size: 110%;
 }
 
 a {
@@ -307,7 +307,8 @@ h1, h2, h3, h4, h5, .title {
   margin-top: 1.5em;
   margin-bottom: 0.75em;
 }
-h1 { font-size: 2.25rem; }
+h1 { font-size: 2rem; }
+h1 img { max-height: 1em; }
 time { color: var(--light-text); margin-top: 0.5em; }
 .page-title { margin-top: 1em; margin-bottom: 0.25em; }
 
@@ -327,7 +328,6 @@ hr {
 
 header {
   margin: 1.5rem 0;
-  // text-shadow: 0 0.05em 0.15em rgba(0, 0, 0, 0.4);
 }
 .title {
   font-size: 1.5rem;
@@ -351,6 +351,13 @@ header a:first-of-type {
 header.small {
   margin: 1.5rem 0;
 }
+
+/*.column-item {
+  padding: 1rem;
+  border: 4px ridge pink;
+  box-shadow: 4px 4px 0 orange;
+  background-color: var(--background-color);
+}*/
 
 .new {
   font-family: 'silkscreen', monospace;

@@ -7,7 +7,7 @@ layout: null
     <title>{{ site.title }} - posts</title>
     <description>{{ site.description }}</description>
     <link>{{ site.url }}</link>
-    {% for post in site.posts %}
+    {% for post in site.blog reversed %}
       {% unless post.draft %}
         <item>
           <title>{{ post.title | xml_escape }}</title>

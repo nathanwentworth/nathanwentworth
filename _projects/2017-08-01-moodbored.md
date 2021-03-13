@@ -9,6 +9,8 @@ links:
 ---
 Moodboard/inspiration collection app made in electron, pulls from a local folder and shows you a grid of images with subdirectory navigator. Tons of customizable options. [Download](https://github.com/nathanwentworth/moodbored/releases/latest) [Source](https://github.com/nathanwentworth/moodbored)
 
+Note! this current version is being deprecated, as i want to rebuild it in something that's not electron (probably PyQT? C++ QT would probably be better but i'd rather not learn that many new thing at once on a project!). This page will be updated later with that new version whenever it has the same features listed here!
+
 # Features
 
 - View folders of images on your computer
