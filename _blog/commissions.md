@@ -15,4 +15,7 @@ date: 2021-03-12
 {% include img.html url='julie-qpro-comm.png' desc='by [@burrsho](https://twitter.com/burrsho)' %}
 {% include img.html url='allie-qpro-commission-2021-04-20.jpg' desc='by [@whale_m0m](https://twitter.com/whale_m0m)' %}
 </div>
+<div class="img-block">
 {% include img.html url='commission-nekokaitai0-300287-1.jpg' desc='by [@nekokaitai0](https://twitter.com/nekokaitai0)' alt='a girl with red hair and yellow eyes wearing a black dress and a black hat with a jack o\'lantern face on it, holding a broomstick with mushrooms in the background' %}
+{% include img.html url='soyacomu-qpro-flat-small.png' desc='by [@soyacomu](https://twitter.com/soyacomu)' alt='a girl with pink hair and yellow eyes wearing an oversized black dress and a black hat with a jack o\'lantern face on it. she has a broomstick on her back held on by a string across her body.' %}
+</div>
