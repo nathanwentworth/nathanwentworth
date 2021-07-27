@@ -34,6 +34,26 @@ Current setup is Ubuntu 20.04 and XFCE4 with the a CDE theme:
 
 {% include img.html url='clean-desktop-with-neofetch.jpg' desc='desktop screenshot with wallpaper and terminal' %}
 
+- OS: Windows 10
+- CPU: AMD Ryzen 5 5600X
+- Motherboard: ASUS AM4 TUF GAMING X570-Plus ATX
+- RAM: Team Dark 16GB DDR4-2400
+- Storage:
+  - Samsung 960 EVO 250GB m.2 (Windows boot drive)
+  - Samsung 960 EVO 1TB m.2
+  - WD 500GB Blue SATAIII SSD (Ubuntu boot drive)
+  - Seagate 2TB HDD
+  - Seagate 2TB FireCuda SHDD
+- GPU: EVGA RTX 3060
+- Power Supply: EVGA 750W
+- Case: Fractal Design Define R5 (White)
+- Monitor: Dell U2415h (24", 1920x1200) x2
+- Keyboard: KBDfans DZ65 with Gateron browns and astrolokeys keycaps
+- Mouse: Logitech MX Vertical
+- Headphones: Sennheiser HD595
+
+~~ OLD ~~
+
 - OS: Ubuntu 18.04 LTS, Windows 10
 - CPU: Intel i5-7500 3.4Ghz Quad-Core
 - Motherboard: MSI Z270 SLI PLUS LGA1151
