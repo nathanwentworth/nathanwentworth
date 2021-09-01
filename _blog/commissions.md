@@ -19,3 +19,4 @@ date: 2021-03-12
 {% include img.html url='commission-nekokaitai0-300287-1.jpg' desc='by [@nekokaitai0](https://twitter.com/nekokaitai0)' alt='a girl with red hair and yellow eyes wearing a black dress and a black hat with a jack o\'lantern face on it, holding a broomstick with mushrooms in the background' %}
 {% include img.html url='soyacomu-qpro-flat-small.png' desc='by [@soyacomu](https://twitter.com/soyacomu)' alt='a girl with pink hair and yellow eyes wearing an oversized black dress and a black hat with a jack o\'lantern face on it. she has a broomstick on her back held on by a string across her body.' %}
 </div>
+{% include img.html url='415362-1.small.png' desc='by [@rururoru](https://twitter.com/rururoru)' alt='a girl with pink hair and yellow eyes wearing an oversized black dress and a black hat with a jack o\'lantern face on it. she is holding a baguette and eating a piece of it. there are stars behind her.' %}
