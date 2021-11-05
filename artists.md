@@ -1,0 +1,326 @@
+---
+title: Artists
+layout: project
+date: 2021-11-04
+---
+
+# PIXIV Artists
+
+For haley!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+I don't have a great vocabulary for art and technique and styles but I will try my best uwu
+
+If they don't have a description i just don't have a ton to say about them tbh!!!!
+
+## "Realistic"/Highly detailed/rendered
+
+- ざしきわらし
+  - mostly portraits of girls, strong colors, solid backgrounds, "realistic" esp in terms of faces
+  - [https://www.pixiv.net/en/users/703876](https://www.pixiv.net/en/users/703876)
+  - [https://twitter.com/WarashiZ](https://twitter.com/WarashiZ)
+- NaBaBa
+  - vibrant, neon colors, bloom/blown out lighting, detailed rendering, sometimes R-18ish
+  - [https://www.pixiv.net/en/users/60201](https://www.pixiv.net/en/users/60201)
+  - [https://twitter.com/NaBaBa](https://twitter.com/NaBaBa)
+- 非
+  - mostly portraits of boys, often dark and "grimy", very detailed rendering with heavy use of unnatural color in a realistic style
+  - [https://www.pixiv.net/en/users/1196755](https://www.pixiv.net/en/users/1196755)
+- 米山舞
+  - incredibly dense illustrations, dynamic posing, sharp linework. one of my all-time favs (i own like three of their artbooks)
+  - [https://www.pixiv.net/en/users/1554775](https://www.pixiv.net/en/users/1554775)
+  - [https://twitter.com/yoneyamai](https://twitter.com/yoneyamai)
+- yue
+  - really nice rendering, gorgeous backgrounds (sadly does nft stuff which is cringe)
+  - [https://www.pixiv.net/en/users/4618489](https://www.pixiv.net/en/users/4618489)
+  - [https://twitter.com/yueko__](https://twitter.com/yueko__)
+- HJL
+  - gorgeous backgrounds and usage of environment
+  - [https://www.pixiv.net/en/users/714577](https://www.pixiv.net/en/users/714577)
+  - [https://twitter.com/HJLgarlic](https://twitter.com/HJLgarlic)
+- 結布
+  - all (afaik) traditional art, really nice!! sadly they seem to not do much anymore (some nudity)
+  - [https://www.pixiv.net/en/users/2086551](https://www.pixiv.net/en/users/2086551)
+  - [https://twitter.com/yu_888\_](https://twitter.com/yu_888_)
+
+## Soft, everyday
+
+- いつか (itsuka)
+  - lovely illustrations, soft colors and lineart, watercolor-like landscapes and realistic fashion. subject matter is often couples. this artist has a ton of stuff on their twitter too! an all-time fav
+  - [https://www.pixiv.net/en/users/7457683](https://www.pixiv.net/en/users/7457683)
+  - [https://twitter.com/itukaki](https://twitter.com/itukaki)
+- みずす
+  - flat shading and nice linework, big fan of this style
+  - [https://www.pixiv.net/en/users/2759080](https://www.pixiv.net/en/users/2759080)
+  - [https://twitter.com/tatakinofu](https://twitter.com/tatakinofu)
+- 相模
+  - mostly love live, super super cute, all very soft and cute and i love
+  - [https://www.pixiv.net/en/users/2060881](https://www.pixiv.net/en/users/2060881)
+  - [https://twitter.com/aikodesyoi](https://twitter.com/aikodesyoi)
+- うすけ
+  - character designer for anime movies/short films hinata no aoshigure and penguin highway. cute bright and colorful!!!
+  - [https://www.pixiv.net/en/users/56487](https://www.pixiv.net/en/users/56487)
+  - [https://twitter.com/pochi1989](https://twitter.com/pochi1989)
+- 赤井さしみ
+  - pretty consistent subject matter of small catgirl maids, very cute!
+  - [https://www.pixiv.net/en/users/2288819](https://www.pixiv.net/en/users/2288819)
+  - [https://twitter.com/sas_akai](https://twitter.com/sas_akai)
+- スフキ
+  - mostly revue starlight recently, soft and sketchy with nice colors
+  - [https://www.pixiv.net/en/users/503138](https://www.pixiv.net/en/users/503138)
+  - [https://twitter.com/suhukit](https://twitter.com/suhukit)
+- 昼間
+  - rough and sketchy, but nice shapes and some really nice compositions
+  - [https://www.pixiv.net/en/users/24050847](https://www.pixiv.net/en/users/24050847)
+  - [https://twitter.com/22irum](https://twitter.com/22irum)
+- Lpip
+  - soft colors and shading, very distinct eyes
+  - [https://www.pixiv.net/en/users/6996493](https://www.pixiv.net/en/users/6996493)
+  - [https://twitter.com/lpmya/](https://twitter.com/lpmya/)
+- ふみこ
+  - really nice mix of textures and colors, very muted and desaturated, love this artist
+  - [https://www.pixiv.net/en/users/5739701](https://www.pixiv.net/en/users/5739701)
+  - [https://twitter.com/rubra_plumeria](https://twitter.com/rubra_plumeria)
+- 肋兵器
+  - recently lots of hololive, LOVE this style, lots of desaturated colors (reminds me of like, colored pencils?) super expressive and often deforms off model in great ways
+  - [https://www.pixiv.net/en/users/15063](https://www.pixiv.net/en/users/15063)
+  - [https://twitter.com/abara](https://twitter.com/abara)
+- HAI
+  - super super nice colors, usually each piece has one primary color with lots of variants. great linework. similar subjects throughout of a girl at home
+  - [https://www.pixiv.net/en/users/30319765](https://www.pixiv.net/en/users/30319765)
+  - [https://twitter.com/aorkgk](https://twitter.com/aorkgk)
+- こむぎこ2000
+  - super good animator (check out their animations!! they've made great music videos) love their style, nice expressions
+  - [https://www.pixiv.net/en/users/22134805](https://www.pixiv.net/en/users/22134805)
+  - [https://twitter.com/komugiko_2000](https://twitter.com/komugiko_2000)
+- 淵゛
+  - LOVE this style, really dense, feels very "autumn" to me, even the more summery stuff
+  - [https://www.pixiv.net/en/users/35406586](https://www.pixiv.net/en/users/35406586)
+  - [https://twitter.com/Qooo003](https://twitter.com/Qooo003)
+- seuga
+  - [https://www.pixiv.net/en/users/1415681](https://www.pixiv.net/en/users/1415681)
+  - [https://twitter.com/seuga1116](https://twitter.com/seuga1116)
+  
+
+## Cute
+
+- 上倉エク (Eku Uekura)
+  - SO CUTE lots of pastels and very "girly" designs with lots of big dresses and frills and god i love her work so much, a fav
+  - [https://www.pixiv.net/en/users/299299](https://www.pixiv.net/en/users/299299)
+  - [https://twitter.com/ekureea](https://twitter.com/ekureea)
+- ちょん＊🕊
+  - honestly kinda similar to above! different in distinct ways (especially in character proportion) but all CUTE
+  - [https://www.pixiv.net/en/users/15158551](https://www.pixiv.net/en/users/15158551)
+  - [https://twitter.com/xx_Chon_xx](https://twitter.com/xx_Chon_xx)
+- りばた
+  - lots of light pastels, floral themes
+  - [https://www.pixiv.net/en/users/1180903](https://www.pixiv.net/en/users/1180903)
+  - [https://twitter.com/riba_ta](https://twitter.com/riba_ta)
+- kise
+  - bright, vibrant colors
+  - [https://www.pixiv.net/en/users/1164904](https://www.pixiv.net/en/users/1164904)
+  - [https://twitter.com/keeki_oishii](https://twitter.com/keeki_oishii)
+- so品
+  - simple shading and strong linework, love their original character designs and idolmasters. more on twitter!
+  - [https://www.pixiv.net/en/users/83967](https://www.pixiv.net/en/users/83967)
+  - [https://twitter.com/sohin_3](https://twitter.com/sohin_3)
+- 裕
+  - really distinct style when drawing eyes and chins (face shape in general), love their original designs
+  - [https://www.pixiv.net/en/users/17810](https://www.pixiv.net/en/users/17810)
+  - [https://twitter.com/youcapriccio](https://twitter.com/youcapriccio)
+- おいなりせんせー
+  - LOTS of hololive, adore his style. very round faces and super expressive
+  - [https://www.pixiv.net/en/users/1155636](https://www.pixiv.net/en/users/1155636)
+  - [https://twitter.com/oinari_sensei](https://twitter.com/oinari_sensei)
+- うなみや
+  - really nice rendering and color usage, lots of lingerie (esp recently), all v cute!
+  - [https://www.pixiv.net/en/users/112956](https://www.pixiv.net/en/users/112956)
+  - [https://twitter.com/xxx06](https://twitter.com/xxx06)
+- フカヒレ (fukahire)
+  - character designer of hololive vtuber korone, incredibly cute style
+  - [https://www.pixiv.net/en/users/58338](https://www.pixiv.net/en/users/58338)
+  - [https://twitter.com/fuka_hire](https://twitter.com/fuka_hire)
+- 森倉円
+  - similar in style to fukahire
+  - [https://www.pixiv.net/en/users/177784](https://www.pixiv.net/en/users/177784)
+  - [https://twitter.com/morikuraen](https://twitter.com/morikuraen)
+- ふーみ
+  - [https://www.pixiv.net/en/users/10292](https://www.pixiv.net/en/users/10292)
+  - [https://twitter.com/fuumiisc](https://twitter.com/fuumiisc)
+- 徹夜
+  - [https://www.pixiv.net/en/users/3459964](https://www.pixiv.net/en/users/3459964)
+  - [https://twitter.com/wi_sti](https://twitter.com/wi_sti)
+- 純うーる
+  - [https://www.pixiv.net/en/users/1526178](https://www.pixiv.net/en/users/1526178)
+  - [https://twitter.com/Junwool](https://twitter.com/Junwool)
+- Fogriver
+  - [https://www.pixiv.net/en/users/5014452](https://www.pixiv.net/en/users/5014452)
+
+## Dark/edgy
+
+- _LM7_
+  - character designer for arknights (and GFL too i think?). great backgrounds
+  - [https://www.pixiv.net/en/users/420928](https://www.pixiv.net/en/users/420928)
+  - [https://twitter.com/__LM7__](https://twitter.com/__LM7__)
+- Paindude
+  - highly detailed backgrounds, very "post apocalyptic"
+  - [https://www.pixiv.net/en/users/2820772](https://www.pixiv.net/en/users/2820772)
+  - [https://twitter.com/paindude_wu](https://twitter.com/paindude_wu)
+- Lococo:p
+  - lots of arknights, LOOOOOVE their compositions and usage of light
+  - [https://www.pixiv.net/en/users/12342223](https://www.pixiv.net/en/users/12342223)
+  - [https://twitter.com/lococo31955424](https://twitter.com/lococo31955424)
+- Laxy
+  - a good amount of suisei hololive in here, adore their usage of light, so many of these feel like edited photographs, less in terms of realism and more in terms of uhhhhhh i dunno like look i guess lol i dunno
+  - [https://www.pixiv.net/en/users/11373368](https://www.pixiv.net/en/users/11373368)
+  - [https://twitter.com/laxyiii](https://twitter.com/laxyiii)
+- Katann
+  - more arknights lol. their recent stuff owns, great textures
+  - [https://www.pixiv.net/en/users/10262845](https://www.pixiv.net/en/users/10262845)
+  - [https://twitter.com/katannessless](https://twitter.com/katannessless)
+- このはな（木野花）ヒランコ
+  - SICK interpretations of existing designs, their depiction of koume (from the idolmaster) is like, tangential at best to her original design (aged up like 10 years lmao) but god it rules
+  - [https://www.pixiv.net/en/users/3371956](https://www.pixiv.net/en/users/3371956)
+  - [https://twitter.com/popopopopoopw](https://twitter.com/popopopopoopw)
+- neco
+  - super good character designer, almost all their stuff is original and it owns (i bought a figure that they made) very techwear
+  - [https://www.pixiv.net/en/users/777703](https://www.pixiv.net/en/users/777703)
+  - [https://twitter.com/neco_person](https://twitter.com/neco_person)
+- 7ife
+  - [https://www.pixiv.net/en/users/27797423](https://www.pixiv.net/en/users/27797423)
+  - [https://twitter.com/c7ife](https://twitter.com/c7ife)
+- くっか
+  - [https://www.pixiv.net/en/users/6148565](https://www.pixiv.net/en/users/6148565)
+  - [https://twitter.com/hamukukka](https://twitter.com/hamukukka)
+
+## Cute girls uwu
+
+- 织布机loom
+  - one of my fav miku artists, LOOOVE their stuff. more on twitter!
+  - [https://www.pixiv.net/en/users/13695413](https://www.pixiv.net/en/users/13695413)
+  - [https://twitter.com/Zhibujiloom](https://twitter.com/Zhibujiloom)
+- 椎名くろ
+  - [https://www.pixiv.net/en/users/5882183](https://www.pixiv.net/en/users/5882183)
+- 月野
+  - [https://www.pixiv.net/en/users/13013892](https://www.pixiv.net/en/users/13013892)
+- 猫村
+  - [https://www.pixiv.net/en/users/901447](https://www.pixiv.net/en/users/901447)
+- 山吹あん
+  - good casual fashion
+  - [https://www.pixiv.net/en/users/51098261](https://www.pixiv.net/en/users/51098261)
+- エリンギ味噌
+  - nice muted tones, soft shading
+  - [https://www.pixiv.net/en/users/17092672](https://www.pixiv.net/en/users/17092672)
+- Cotta
+  - lots of fate series, good shading
+  - [https://www.pixiv.net/en/users/4558267](https://www.pixiv.net/en/users/4558267)
+- ちょこ庵
+  - [https://www.pixiv.net/en/users/5955130](https://www.pixiv.net/en/users/5955130)
+- magako
+  - [https://www.pixiv.net/en/users/5304046](https://www.pixiv.net/en/users/5304046)
+- Guchico
+  - b-b-bb-b-bb-big b-bb-b-boo-
+  - [https://www.pixiv.net/en/users/209263](https://www.pixiv.net/en/users/209263)
+- むっしゅ
+  - [https://www.pixiv.net/en/users/1566167](https://www.pixiv.net/en/users/1566167)
+- LAM
+  - FAV, such a good artist, incredibly bold colors, love love love their stuff
+  - one of my all-time fav illustrations: [https://www.pixiv.net/en/artworks/61620952](https://www.pixiv.net/en/artworks/61620952)
+  - [https://www.pixiv.net/en/users/17429](https://www.pixiv.net/en/users/17429)
+- 有坂
+  - [https://www.pixiv.net/en/users/64561](https://www.pixiv.net/en/users/64561)
+- ekao
+  - love this style
+  - [https://www.pixiv.net/en/users/354252](https://www.pixiv.net/en/users/354252)
+- モー助
+  - love this artist!!!! entirely just cute girls, sometimes in nice fashion, in \~daily life situations~
+  - [https://www.pixiv.net/en/users/52400](https://www.pixiv.net/en/users/52400)
+- フライ (fly)
+  - super good character designer and artist, i own an artbook of theirs~
+  - [https://www.pixiv.net/en/users/1024922](https://www.pixiv.net/en/users/1024922)
+  - [https://twitter.com/flyco_](https://twitter.com/flyco_)
+- ASK
+  - all just so lovely :') very much a sense of elegance to a lot of their work. they designed that miku figure!!!!!!!
+  - [https://www.pixiv.net/en/users/1980643](https://www.pixiv.net/en/users/1980643)
+  - [https://twitter.com/askziye](https://twitter.com/askziye)
+- 陰 祭
+  - \*sweats*
+  - [https://www.pixiv.net/en/users/200066](https://www.pixiv.net/en/users/200066)
+  - [https://twitter.com/kage_matu_re](https://twitter.com/kage_matu_re)
+- teti
+  - [https://www.pixiv.net/en/users/58081](https://www.pixiv.net/en/users/58081)
+- Mika Pikazo
+  - iconic character designer and artist, bonkers color usage, all max saturation
+  - [https://www.pixiv.net/en/users/1039353](https://www.pixiv.net/en/users/1039353)
+  - [https://twitter.com/MikaPikaZo](https://twitter.com/MikaPikaZo)
+
+## Other
+
+- 凡竜
+  - mostly liz and the blue bird/sound euphonium/yuru camp, good sneakers and casual fashion
+  - [https://www.pixiv.net/en/users/11419921](https://www.pixiv.net/en/users/11419921)
+  - [https://twitter.com/kyouryu99bonryu](https://twitter.com/kyouryu99bonryu)
+- 海島千本
+  - LOVE this artist GODDD it's all so good. a fav for sure. lovely colors and detailing
+  - [https://www.pixiv.net/en/users/18362](https://www.pixiv.net/en/users/18362)
+  - [https://twitter.com/Kaisen_Tobiuo](https://twitter.com/Kaisen_Tobiuo)
+- tarou2
+  - character designer and illustrator, often focusing on sneakers and fashion (sometimes lewd)
+  - [https://www.pixiv.net/en/users/1410598](https://www.pixiv.net/en/users/1410598)
+  - [https://twitter.com/tarou2](https://twitter.com/tarou2)
+- 夕凪
+  - really nice city landscapes
+  - [https://www.pixiv.net/en/users/27383311](https://www.pixiv.net/en/users/27383311)
+  - [https://twitter.com/unagi189](https://twitter.com/unagi189)
+- 西尾ナノラ(NNTV)
+  - character designer, nice forms and variety in styles
+  - [https://www.pixiv.net/en/users/262791](https://www.pixiv.net/en/users/262791)
+  - [https://twitter.com/nanora02](https://twitter.com/nanora02)
+- LIP
+  - really really really nice
+  - [https://www.pixiv.net/en/users/724622](https://www.pixiv.net/en/users/724622)
+  - [https://twitter.com/batteryli](https://twitter.com/batteryli)
+- ういち
+  - [https://www.pixiv.net/en/users/15765760](https://www.pixiv.net/en/users/15765760)
+  - [https://twitter.com/kumori_ufo](https://twitter.com/kumori_ufo)
+- 焦茶
+  - incredible artist with a super distinct style, bold outlines where each "layer" of color gets its own outline
+  - [https://www.pixiv.net/en/users/12845810](https://www.pixiv.net/en/users/12845810)
+  - [https://twitter.com/BARD713](https://twitter.com/BARD713)
+- DR(使ってません) (daisuke richard)
+  - love their style so much!!!!!!!!!! flat colors, really dense indoor spaces/rooms
+  - [https://www.pixiv.net/en/users/17301535](https://www.pixiv.net/en/users/17301535)
+- あいこ
+  - [https://www.pixiv.net/en/users/19413311](https://www.pixiv.net/en/users/19413311)
+- Rella
+  - love the mood in a lot of their stuff, hard to describe!
+  - [https://www.pixiv.net/en/users/163536](https://www.pixiv.net/en/users/163536)
+  - [https://twitter.com/rellakinoko](https://twitter.com/rellakinoko)
+- loundraw
+  - similar description to above tbh!!!!
+  - [https://www.pixiv.net/en/users/772547](https://www.pixiv.net/en/users/772547)
+  - [https://twitter.com/loundraw](https://twitter.com/loundraw)
+- りたお
+  - [https://www.pixiv.net/en/users/49640022](https://www.pixiv.net/en/users/49640022)
+  - [https://twitter.com/ritao_kamo](https://twitter.com/ritao_kamo)
+- あすぱら
+  - [https://www.pixiv.net/en/users/14320305](https://www.pixiv.net/en/users/14320305)
+- ttosom
+  - [https://www.pixiv.net/en/users/6203904](https://www.pixiv.net/en/users/6203904)
+- りく
+  - some very cute mikus!!!!
+  - [https://www.pixiv.net/en/users/4337570](https://www.pixiv.net/en/users/4337570)
+- XilmO@夕末
+  - nice outline-less painterly style
+  - [https://www.pixiv.net/en/users/19389056](https://www.pixiv.net/en/users/19389056)
+- lemontea
+  - [https://www.pixiv.net/en/users/1894328](https://www.pixiv.net/en/users/1894328)
+- わみず
+  - [https://www.pixiv.net/en/users/4268983](https://www.pixiv.net/en/users/4268983)
+- たいそす
+  - pretty inactive these days, but i love their past stuff
+  - [https://www.pixiv.net/en/users/2876335](https://www.pixiv.net/en/users/2876335)
+- 科学
+  - [https://www.pixiv.net/en/users/6054803](https://www.pixiv.net/en/users/6054803)
+- 黒イ森/初画集発売中
+  - their style is so good, feels very analogue/traditional
+  - [https://www.pixiv.net/en/users/15787254](https://www.pixiv.net/en/users/15787254)
