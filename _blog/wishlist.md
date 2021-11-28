@@ -22,7 +22,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ### Video Games
 - Spyro Reignited Trilogy (PS4)
-- [**13 Sentinels: Aegis Rim**](https://atlus.com/13sentinels/lang/en/#buy) (PS4)
 
 ### Comics
 - [**My Broken Mariko**](https://www.rightstufanime.com/My-Broken-Mariko-Manga)
@@ -63,7 +62,6 @@ I have a [wishlist on rightstuf](www.rightstufanime.com/pl/MTg5NzU4) as well, on
 
 - [**Ping Pong the Animation**](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)
   - easily one of the best anime shows ever made
-- [Neon Genesis Evangelion 3.33 You Can (Not) Redo](https://www.rightstufanime.com/Evangelion-Neon-Genesis-3-33-You-Can-Not-Redo-Blu-ray-Hyb)
 - [Kizumonogatari Part 1](https://www.rightstufanime.com/Kizumonogatari-Part-1-Tekketsu-Blu-ray)
 - [Kaiba](https://www.rightstufanime.com/Kaiba-Blu-Ray-DVD)
 - [Mobile Suit Gundam 08th MS Team BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-08th-MS-Team-Blu-ray)
