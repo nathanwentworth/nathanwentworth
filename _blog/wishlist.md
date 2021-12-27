@@ -15,8 +15,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [**GAMO2 SVSE5 sound voltex controller**](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=314)
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
 - [Audioengine A2+ (white)](https://audioengineusa.com/shop/poweredspeakers/a2-plus-desktop-speakers/)
-- [TWEMCO AL-30-Alarm Clock](https://flipclockstore.com/Table_Clock/Twemco%20AL-30) - Orange
-- [TWEMCO QT-30 Flip Clock](https://flipclockstore.com/Table_Clock/TWEMCO%20QT-30) - Orange
 
 ## Media
 
@@ -73,7 +71,6 @@ I have a [wishlist on rightstuf](www.rightstufanime.com/pl/MTg5NzU4) as well, on
 
 ### Books
 
-- The Wind Up Bird Chronicle by Haruki Murakami
 - Snow Crash by Neal Stephenson
 - **Neuromancer** by William Gibson
 - **The Left Hand of Darkness** by Ursula K. Le Guin
@@ -85,7 +82,6 @@ I have a [wishlist on rightstuf](www.rightstufanime.com/pl/MTg5NzU4) as well, on
 {% include img.html url='three-body-problem.jpg' alt='three body problem' desc='[The Three-Body Problem](https://us.macmillan.com/books/9780765382030)' %}
 </div>
 
-- [**The Three-Body Problem**](https://us.macmillan.com/books/9780765382030) by Cixin Liu
 - [How to Do Nothing by Jenny Odell](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612197494/)
 - [Autonomous by Annalee Newitz](https://us.macmillan.com/books/9780765392077)
 - [The Best Interface is No Interface](http://www.nointerface.com/book/)
