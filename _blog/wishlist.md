@@ -79,7 +79,6 @@ I have a [wishlist on rightstuf](www.rightstufanime.com/pl/MTg5NzU4) as well, on
 
 <div class="img-block">
 {% include img.html url='dustydeck-2.jpg' alt='dusty deck' desc='[Dangerdrop Artbooks](https://dangerdrop.booth.pm/)' %}
-{% include img.html url='three-body-problem.jpg' alt='three body problem' desc='[The Three-Body Problem](https://us.macmillan.com/books/9780765382030)' %}
 </div>
 
 - [How to Do Nothing by Jenny Odell](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612197494/)
