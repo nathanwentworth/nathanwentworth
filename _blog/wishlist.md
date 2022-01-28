@@ -56,7 +56,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
   {% include img.html url='ping-pong-poster.jpg' alt='ping pong' desc='[Ping Pong the Animation](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)' %}
 </div>
 
-I have a [wishlist on rightstuf](www.rightstufanime.com/pl/MTg5NzU4) as well, one of the cheapest places to get anime/manga.
+I have a [wishlist on rightstuf](https://www.rightstufanime.com/pl/MTg5NzU4) as well, one of the cheapest places to get anime/manga.
 
 - [**Ping Pong the Animation**](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)
   - easily one of the best anime shows ever made
