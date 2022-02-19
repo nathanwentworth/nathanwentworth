@@ -15,6 +15,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [**GAMO2 SVSE5 sound voltex controller**](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=314)
 - [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
 - [Audioengine A2+ (white)](https://audioengineusa.com/shop/poweredspeakers/a2-plus-desktop-speakers/)
+- [SBB Wallet from Rose Anvil (tan)](https://roseanvil.com/products/sbb-wallet?variant=32168723841113)
 
 ## Media
 
@@ -52,14 +53,8 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ### Blu-rays/DVDs
 
-<div class="img-block">
-  {% include img.html url='ping-pong-poster.jpg' alt='ping pong' desc='[Ping Pong the Animation](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)' %}
-</div>
-
 I have a [wishlist on rightstuf](https://www.rightstufanime.com/pl/MTg5NzU4) as well, one of the cheapest places to get anime/manga.
 
-- [**Ping Pong the Animation**](https://www.funimation.com/shop/home-video/ping-pong-the-animation-complete-series-11/)
-  - easily one of the best anime shows ever made
 - [Kizumonogatari Part 1](https://www.rightstufanime.com/Kizumonogatari-Part-1-Tekketsu-Blu-ray)
 - [Kaiba](https://www.rightstufanime.com/Kaiba-Blu-Ray-DVD)
 - [Mobile Suit Gundam 08th MS Team BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-08th-MS-Team-Blu-ray)
