@@ -11,7 +11,7 @@
   link: 'https://bandcamp.com/nathanwentworth'
   home: true
 - name: 'last.fm'
-  link: 'http://www.last.fm/user/nwentworth'
+  link: 'http://www.last.fm/user/nxc_'
   home: true
 - name: 'pinboard'
   link: 'https://pinboard.in/u:nathanwentworth'
@@ -35,9 +35,6 @@
   home: false
 - name: 'letterboxd'
   link: 'https://letterboxd.com/nathanwentworth/'
-  home: false
-- name: 'playstation'
-  link: 'https://my.playstation.com/profile/nthnw'
   home: false
 - name: 'xbox - nathanwentworth'
   home: false

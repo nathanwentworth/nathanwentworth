@@ -23,14 +23,12 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - Spyro Reignited Trilogy (PS4)
 
 ### Comics
-- [**My Broken Mariko**](https://www.rightstufanime.com/My-Broken-Mariko-Manga)
 - [An Invitation from a Crab](https://www.rightstufanime.com/An-Invitation-from-a-Crab-Manga)
-- [Downfall](https://www.rightstufanime.com/Downfall-Manga)
+- [Thieves](https://www.penguinrandomhouse.com/books/720131/thieves-by-lucie-bryon/)
 - [This Was Our Pact by Ryan Andrews](https://us.macmillan.com/books/9781626720534?utm_source=socialmedia&utm_medium=socialpost&utm_term=na-thiswasourpactsocial&utm_content=na-buy-buynow&utm_campaign=9781626720534)
 - [Bloom by Kevin Panetta](https://www.powells.com/book/bloom-9781626726413?partnerid=33241)
 - [Gundam the Origin](http://www.vertical-inc.com/books/gundam.html)
 - [Tekkon Kinkreet](https://www.viz.com/read/manga/product/tekkonkinkreet-black-white/7203)
-- [Sunny Vol. 2](https://www.viz.com/read/manga/product/sunny-vol-2/10622)
 - [Ayako](http://www.vertical-inc.com/books/ayako.html)
 - [Ran and the Gray World, Vol. 1](https://www.viz.com/read/manga/ran-and-the-gray-world-volume-1/product/5731)
 - [Nichijou Manga volume 1](https://www.rightstufanime.com/Nichijou-Manga-01)
@@ -43,9 +41,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
   {% include img.html url='punpun-2.jpg' alt='punpun' desc="[Goodnight Punpun Volume 2](https://www.viz.com/read/goodnight-punpun/section/28189/more/2)" %}
 </div>
 
-- [The Girl From the Other Side: Siúil, A Rún Vol. 1](http://www.sevenseasentertainment.com/series/the-girl-from-the-other-side-siuil-a-run/)
 - [The Marquis: Inferno](https://www.darkhorse.com/Books/15-859/The-Marquis-Inferno-TPB)
-- [On a Sunbeam by Tillie Walden](https://us.macmillan.com/books/9781250225986)
 - [Biomega, Vol. 1](https://www.viz.com/read/manga/biomega-volume-1/product/2255)
 
 #### Japanese
@@ -55,6 +51,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 I have a [wishlist on rightstuf](https://www.rightstufanime.com/pl/MTg5NzU4) as well, one of the cheapest places to get anime/manga.
 
+- [**Wonder Egg Priority**](https://www.rightstufanime.com/Wonder-Egg-Priority-Blu-ray-DVD)
 - [Kizumonogatari Part 1](https://www.rightstufanime.com/Kizumonogatari-Part-1-Tekketsu-Blu-ray)
 - [Kaiba](https://www.rightstufanime.com/Kaiba-Blu-Ray-DVD)
 - [Mobile Suit Gundam 08th MS Team BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-08th-MS-Team-Blu-ray)
