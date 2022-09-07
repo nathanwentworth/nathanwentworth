@@ -79,6 +79,7 @@ I have a [wishlist on rightstuf](https://www.rightstufanime.com/pl/MTg5NzU4) as 
 - [Dangerdrop Artbooks](https://dangerdrop.booth.pm/)
 - [Sushio the Idol](https://www.indiebound.org/book/9784756250612)
 - [Parks – Standards Manual](https://standardsmanual.com/products/parks)
+- [Clubbed: a visual history of UK club culture](https://www.f37foundry.com/goods/clubbed)
 
 ### Board/Physical Games
 - [Burgle Bros.](https://fowers-games.myshopify.com/collections/frontpage/products/burgle-bros)
