@@ -1,6 +1,6 @@
 ---
 title: Wishlist
-date: 2020-11-26
+date: 2022-11-12
 ---
 A consistently-updated list of things that I want to buy, gift ideas, etc! Bold things are higher priority/desire.
 
@@ -10,12 +10,12 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - **[Steam](https://store.steampowered.com/digitalgiftcards/)**
   - I play most of my games on PC, and steam has what is essentially a monopoly on PC game sales.
 
-## Things / Tech
+## Things
 
-- [**GAMO2 SVSE5 sound voltex controller**](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=314)
-- [Areaware Stacking Planter](https://www.areaware.com/products/stacking-planter-bundle?variant=6832970563619)
+- [**GAMO2 FAUCETWO sound voltex controller**](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=361)
 - [Audioengine A2+ (white)](https://audioengineusa.com/shop/poweredspeakers/a2-plus-desktop-speakers/)
 - [SBB Wallet from Rose Anvil (tan)](https://roseanvil.com/products/sbb-wallet?variant=32168723841113)
+- Loose leaf teas! I often get some from [Mem Tea](https://www.memteaimports.com/), and i'm always looking to try new ones
 
 ## Media
 
@@ -23,8 +23,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - Spyro Reignited Trilogy (PS4)
 
 ### Comics
-- [An Invitation from a Crab](https://www.rightstufanime.com/An-Invitation-from-a-Crab-Manga)
-- [Thieves](https://www.penguinrandomhouse.com/books/720131/thieves-by-lucie-bryon/)
 - [This Was Our Pact by Ryan Andrews](https://us.macmillan.com/books/9781626720534?utm_source=socialmedia&utm_medium=socialpost&utm_term=na-thiswasourpactsocial&utm_content=na-buy-buynow&utm_campaign=9781626720534)
 - [Bloom by Kevin Panetta](https://www.powells.com/book/bloom-9781626726413?partnerid=33241)
 - [Gundam the Origin](http://www.vertical-inc.com/books/gundam.html)
@@ -34,18 +32,8 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Nichijou Manga volume 1](https://www.rightstufanime.com/Nichijou-Manga-01)
 - [City Vol. 3](http://www.vertical-comics.com/books/city_03.php)
 - [Trashed](https://www.indiebound.org/book/9781419714542)
-- [Goodnight Punpun Volume 2](https://www.viz.com/read/goodnight-punpun/section/28189/more/2)
-  - one of my favorite manga series ever! i own the entire thing in japanese, despite not being able to read it. i currently own volume 1 of this in english (7 volumes total)
-
-<div class="img-block">
-  {% include img.html url='punpun-2.jpg' alt='punpun' desc="[Goodnight Punpun Volume 2](https://www.viz.com/read/goodnight-punpun/section/28189/more/2)" %}
-</div>
-
 - [The Marquis: Inferno](https://www.darkhorse.com/Books/15-859/The-Marquis-Inferno-TPB)
 - [Biomega, Vol. 1](https://www.viz.com/read/manga/biomega-volume-1/product/2255)
-
-#### Japanese
-- [Nichijou 4](http://www.cdjapan.co.jp/product/NEOBK-533106)
 
 ### Blu-rays/DVDs
 
@@ -68,16 +56,9 @@ I have a [wishlist on rightstuf](https://www.rightstufanime.com/pl/MTg5NzU4) as 
 - **The Left Hand of Darkness** by Ursula K. Le Guin
 - [The Box Man by Kobo Abe](https://www.penguinrandomhouse.com/books/197/the-box-man-by-kobo-abe/9780375726514)
 - [The Vanished Birds by Simon Jimenez](https://www.penguinrandomhouse.com/books/609386/the-vanished-birds-by-simon-jimenez/9780593128985/)
-
-<div class="img-block">
-{% include img.html url='dustydeck-2.jpg' alt='dusty deck' desc='[Dangerdrop Artbooks](https://dangerdrop.booth.pm/)' %}
-</div>
-
 - [How to Do Nothing by Jenny Odell](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612197494/)
 - [Autonomous by Annalee Newitz](https://us.macmillan.com/books/9780765392077)
 - [The Best Interface is No Interface](http://www.nointerface.com/book/)
-- [Dangerdrop Artbooks](https://dangerdrop.booth.pm/)
-- [Sushio the Idol](https://www.indiebound.org/book/9784756250612)
 - [Parks – Standards Manual](https://standardsmanual.com/products/parks)
 - [Clubbed: a visual history of UK club culture](https://www.f37foundry.com/goods/clubbed)
 
