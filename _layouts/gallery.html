@@ -28,7 +28,7 @@ layout: default
       <h1 class="page-title red"><a href="/projects/" class="red">Projects</a> <img alt="" src="/assets/img/softbank-emoji-2004/personal-computer_1f4bb.gif"></h1>
       <ul class="no-indent">
       {% assign projects = site.projects | reverse %}
-      {% for entry in projects limit: 18 %}
+      {% for entry in projects limit: 9 %}
         {% capture nowunix %}{{ site.time | date: '%s' }}{% endcapture %}
         {% capture posttime %}{{ entry.date | date: '%s' }}{% endcapture %}
         {% assign postNum = posttime | minus: 0 %}
@@ -47,7 +47,7 @@ layout: default
       <h1 class="page-title red"><a href="/posts/" class="red">Posts</a> <img alt="" src="/assets/img/softbank-emoji-2004/memo_1f4dd.gif"></h1>
       <ul class="no-indent">
       {% assign post = site.blog | sort: 'date' | reverse %}
-      {% for entry in post limit: 18 %}
+      {% for entry in post limit: 9 %}
         {% capture nowunix %}{{ site.time | date: '%s' }}{% endcapture %}
         {% capture posttime %}{{ entry.date | date: '%s' }}{% endcapture %}
         {% assign postNum = posttime | minus: 0 %}
@@ -57,6 +57,9 @@ layout: default
           <a href="{{ entry.url }}">{{ entry.title }}</a> <a class="date" href="/posts/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>{% if diff < 604800 %}<span class="new">NEW!</span>{% endif %}
         </li>
       {% endfor %}
+        <li class="archive-entry">
+          <a href="/posts">view more →</a>
+        </li>
       </ul>
     </div>
     <div class="column-item">

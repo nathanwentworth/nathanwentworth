@@ -4,6 +4,9 @@
 - name: 'mastodon'
   link: 'https://mastodon.social/@nathanwentworth'
   home: true
+- name: 'instagram (i do not post)'
+  link: 'https://www.instagram.com/nightcorefan420/'
+  home: true
 - name: 'anime list'
   link: 'https://anilist.co/user/nathan/'
   home: true
@@ -15,7 +18,7 @@
   home: true
 - name: 'pinboard'
   link: 'https://pinboard.in/u:nathanwentworth'
-  home: true
+  home: false
 - name: 'tumblr'
   link: 'https://nathanwentworth.tumblr.com/'
   home: true
@@ -36,7 +39,7 @@
 - name: 'letterboxd'
   link: 'https://letterboxd.com/nathanwentworth/'
   home: false
-- name: 'xbox - nathanwentworth'
+- name: 'xbox - hatsune miku#694'
   home: false
 - name: 'switch - SW-2169-2062-0824'
   home: false
