@@ -21,9 +21,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ## Media
 
-### Video Games
-- Spyro Reignited Trilogy (PS4)
-
 ### Comics
 - [This Was Our Pact by Ryan Andrews](https://us.macmillan.com/books/9781626720534?utm_source=socialmedia&utm_medium=socialpost&utm_term=na-thiswasourpactsocial&utm_content=na-buy-buynow&utm_campaign=9781626720534)
 - [Bloom by Kevin Panetta](https://www.powells.com/book/bloom-9781626726413?partnerid=33241)
@@ -41,9 +38,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 I have a [wishlist on rightstuf](https://www.rightstufanime.com/pl/MTg5NzU4) as well, one of the cheapest places to get anime/manga.
 
-- [**Wonder Egg Priority**](https://www.rightstufanime.com/Wonder-Egg-Priority-Blu-ray-DVD)
 - [Kizumonogatari Part 1](https://www.rightstufanime.com/Kizumonogatari-Part-1-Tekketsu-Blu-ray)
-- [Kaiba](https://www.rightstufanime.com/Kaiba-Blu-Ray-DVD)
 - [Mobile Suit Gundam 08th MS Team BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-08th-MS-Team-Blu-ray)
 - [Mobile Suit Gundam 0080 War In the Pocket BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-0080-War-In-the-Pocket-Blu-ray)
 - [Eureka Seven](https://www.rightstufanime.com/Eureka-Seven-Complete-Series-Essentials-Blu-ray)
@@ -53,6 +48,8 @@ I have a [wishlist on rightstuf](https://www.rightstufanime.com/pl/MTg5NzU4) as 
 
 ### Books
 
+- [Clubbed: a visual history of UK club culture](https://www.f37foundry.com/goods/clubbed)
+- [Parks – Standards Manual](https://standardsmanual.com/products/parks)
 - Snow Crash by Neal Stephenson
 - **Neuromancer** by William Gibson
 - **The Left Hand of Darkness** by Ursula K. Le Guin
@@ -61,12 +58,13 @@ I have a [wishlist on rightstuf](https://www.rightstufanime.com/pl/MTg5NzU4) as 
 - [How to Do Nothing by Jenny Odell](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612197494/)
 - [Autonomous by Annalee Newitz](https://us.macmillan.com/books/9780765392077)
 - [The Best Interface is No Interface](http://www.nointerface.com/book/)
-- [Parks – Standards Manual](https://standardsmanual.com/products/parks)
-- [Clubbed: a visual history of UK club culture](https://www.f37foundry.com/goods/clubbed)
 
 ### Board/Physical Games
 - [Burgle Bros.](https://fowers-games.myshopify.com/collections/frontpage/products/burgle-bros)
 - [Betrayal at House on the Hill](https://avalonhill.wizards.com/avalon-hill-betrayal-house-hill)
+
+### Video Games
+- Spyro Reignited Trilogy (PS4)
 
 ### Prints
 
