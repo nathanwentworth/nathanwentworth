@@ -18,6 +18,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
   - the [Corvo EKG](https://fellowproducts.com/products/corvo-ekg) is my favorite i've found, though also kinda expensive for what it is!
   - i especially like their white one, but that's only gooseneck which isn't ideal for tea since the water comes out too slowly
 - Loose leaf teas! I often get some from [Mem Tea](https://www.memteaimports.com/), and i'm always looking to try new ones
+  - [ippodo tea](https://ippodotea.com/)
 
 ## Media
 
