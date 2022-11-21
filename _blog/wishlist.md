@@ -14,7 +14,9 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 - [**GAMO2 FAUCETWO sound voltex controller**](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=361)
 - [Audioengine A2+ (white)](https://audioengineusa.com/shop/poweredspeakers/a2-plus-desktop-speakers/)
-- [SBB Wallet from Rose Anvil (tan)](https://roseanvil.com/products/sbb-wallet?variant=32168723841113)
+- Electric kettle with temperature control
+  - the [Corvo EKG](https://fellowproducts.com/products/corvo-ekg) is my favorite i've found, though also kinda expensive for what it is!
+  - i especially like their white one, but that's only gooseneck which isn't ideal for tea since the water comes out too slowly
 - Loose leaf teas! I often get some from [Mem Tea](https://www.memteaimports.com/), and i'm always looking to try new ones
 
 ## Media
