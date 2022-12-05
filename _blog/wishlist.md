@@ -55,7 +55,6 @@ I have a [wishlist on rightstuf](https://www.rightstufanime.com/pl/MTg5NzU4) as 
 - **Neuromancer** by William Gibson
 - **The Left Hand of Darkness** by Ursula K. Le Guin
 - [The Box Man by Kobo Abe](https://www.penguinrandomhouse.com/books/197/the-box-man-by-kobo-abe/9780375726514)
-- [The Vanished Birds by Simon Jimenez](https://www.penguinrandomhouse.com/books/609386/the-vanished-birds-by-simon-jimenez/9780593128985/)
 - [How to Do Nothing by Jenny Odell](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612197494/)
 - [Autonomous by Annalee Newitz](https://us.macmillan.com/books/9780765392077)
 - [The Best Interface is No Interface](http://www.nointerface.com/book/)
