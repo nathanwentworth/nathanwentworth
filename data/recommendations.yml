@@ -408,3 +408,19 @@
   name: "想像上のスピード by Kabanagu"
   type: music
   date: 2022-11-28
+- link: https://www.whatshappening.online/timeline
+  name: "what's happening online"
+  desc: "an archive of twitter trending topics by brian feldman, an unintentional memorial to twitter and the trending curators"
+  type: web
+  date: 2022-12-07
+- link: https://www.penguinrandomhouse.com/books/647357/the-spear-cuts-through-water-by-simon-jimenez/
+  name: "The Spear Cuts Through Water"
+  desc: "a wonderful piece of fantasy, enthralling throughout, has rekindled my desire to read novels. thank you [caleb zane huett](https://twitter.com/CZaneH/status/1574508255895748608) for the recommendation!"
+  type: book
+  best: true
+  date: 2022-12-15
+- link: https://tinysubversions.com/twitter-archive/make-your-own/
+  name: "Darius Kazemi's twitter self archive search"
+  desc: "nice little tool to help search through an exported twitter archive, great for when leaving twitter"
+  type: web
+  date: 2022-12-18
