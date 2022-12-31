@@ -18,7 +18,7 @@ date: 2022-11-22
 
 <div class="img-block">
 {% include img.html url='415362-1.small.png' desc='by [@rururoru](https://twitter.com/rururoru)' alt='a girl with pink hair and yellow eyes wearing an oversized black dress and a black hat with a jack o\'lantern face on it. she is holding a baguette and eating a piece of it. there are stars behind her.' %}
-{% include img.html url='_fyuu-1147354-1-small.jpg' desc='by [ふゆう](https://skeb.jp/@_fyuu)' alt='A girl with long pink hair, yellow eyes, a black dress, and a black witch hat with a jack-o-lantern face on it. She is holding a loaf of bread in one hand that has a yellow bird resting on it. In her lap is a basket of glass bottles and vegetables. Behind her is a blurry forest, with a branch of orange fruit in focus. Below her is a open book with an hourglass.' %}
+{% include img.html url='fyuu-1147354-1-small.jpg' desc='by [ふゆう](https://skeb.jp/@_fyuu)' alt='A girl with long pink hair, yellow eyes, a black dress, and a black witch hat with a jack-o-lantern face on it. She is holding a loaf of bread in one hand that has a yellow bird resting on it. In her lap is a basket of glass bottles and vegetables. Behind her is a blurry forest, with a branch of orange fruit in focus. Below her is a open book with an hourglass.' %}
 </div>
 
 <div class="img-block">
