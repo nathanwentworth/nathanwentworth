@@ -14,7 +14,11 @@
       {% endif %}
       <tr>
         {% for cell in row %}
+        {% if cell[0] == "url" %}
+        <td><a href="{{ cell[1] }}">link</a></td>
+        {% else %}
         <td>{{ cell[1] }}</td>
+        {% endif %}
         {% endfor %}
       </tr>
     {% endfor %}

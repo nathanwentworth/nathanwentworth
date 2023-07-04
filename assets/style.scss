@@ -7,23 +7,133 @@
   --text-color: #222;
   --light-text: #3B3C3E;
 
+  --highlight: #f1f211;
+
   --purple: #6528DD;
   --red: #f55;
   --blue: #B5C0FF;
   --dark-blue: #4460FF;
   --pink: #FF83C5;
 
+  --w-wide: 1200px;
+  --w-mid: 960px;
+  --w-slim: 40rem;
+
+  --border-radius: 8px;
+
+  /* red */
+  --color-01: tomato !important;
+  /* blue */
+  --color-02: royalblue !important;
+  /* purple */
+  --color-03: darkorchid !important;
+  /* orange */
+  --color-04: darkorange !important;
+  /* green */
+  --color-05: olivedrab !important;
+
+
   --main-font: 'IBM Plex Sans', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", 'Helvetica Neue', Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --mono-font: 'SF Mono', 'monaco', 'menlo', 'Consolas', monospace;
+}
 
+.pink {
+  --background-color: #fcb;
+  --transparent-bg: rgba(255, 255, 255, 0.2);
+  --text-color: #222;
+  --light-text: #3B3C3E;
+  --link-hover: #f55;
+
+  --purple: #6528DD;
+  --red: #f55;
+  --blue: #B5C0FF;
+  --dark-blue: #4460FF;
+  --pink: #FF83C5;
+
+  /* red */
+  --color-01: tomato !important;
+  /* blue */
+  --color-02: royalblue !important;
+  /* purple */
+  --color-03: darkorchid !important;
+  /* orange */
+  --color-04: darkorange !important;
+  /* green */
+  --color-05: olivedrab !important;
 
 }
 
-$w-wide: 1200px;
-$w-mid: 960px;
-$w-slim: 40rem;
+/* light white with red/orange accent */
+.paper {
+  --transparent-bg: #D5D2CA;
+  --background-color: #E5E2DA;
+  --text-color: #222;
+  --light-text: #3B3C3E;
+  --link-hover: #934010;
+  --accent: #934010;
+  --accent-dark: #80360E;
+  --border-color: #ccc;
 
-$link-hover: #f55;
+  /* red */
+  --color-01: tomato !important;
+  /* blue */
+  --color-02: royalblue !important;
+  /* purple */
+  --color-03: darkorchid !important;
+  /* orange */
+  --color-04: darkorange !important;
+  /* green */
+  --color-05: olivedrab !important;
+}
+
+/* dark green with orange accent */
+.forest {
+  --transparent-bg: #3f5137;
+  --background-color: #586245;
+  --text-color: #eeebe8;
+  --light-text: #C8C4C2;
+  --link-hover: #eeb28f;
+  --accent: #934010;
+  --accent-dark: #80360E;
+  --border-color: #ccc;
+
+  --highlight: darkorange;
+
+  /* red */
+  --color-01: #C49561 !important;
+  /* blue */
+  --color-02: #B68354 !important;
+  /* purple */
+  --color-03: #AD9D86 !important;
+  /* orange */
+  --color-04: darkorange !important;
+  /* green */
+  --color-05: olivedrab !important;
+}
+
+.midnight {
+  --transparent-bg: #282931;
+  --background-color: #202224;
+  --text-color: #fff;
+  --light-text: #eee;
+  --link-hover: #dad;
+
+  --highlight: darkorange;
+
+}
+
+.tumblr {
+  --transparent-bg: #1A2735;
+  --background-color: #36465D;
+  --text-color: #BFBFB9;
+  --light-text: #BFBFBF;
+  --link-hover: #BFBFB9;
+
+  --highlight: #0078D7;
+
+}
+
+
 $light-text: #3B3C3E;
 
 /* # light/default colors */
@@ -46,8 +156,6 @@ $blue: #B5C0FF;
 $dark-blue: #4460FF;
 $pink: #FF83C5;
 
-
-$border-radius: 8px;
 
 @import "main";
 @import "home";

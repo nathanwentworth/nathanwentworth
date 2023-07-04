@@ -12,10 +12,10 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ## Things
 
-- [**GAMO2 FAUCETWO sound voltex controller**](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=361)
 - [Audioengine A2+ (white)](https://audioengineusa.com/shop/poweredspeakers/a2-plus-desktop-speakers/)
 - Loose leaf teas! I often get some from [Mem Tea](https://www.memteaimports.com/), and i'm always looking to try new ones
   - [ippodo tea](https://ippodotea.com/)
+- [Whale knife](https://www.nativeandco.com/home-and-lifestyle/whale-knife-rorqual-whale)
 
 ## Media
 
