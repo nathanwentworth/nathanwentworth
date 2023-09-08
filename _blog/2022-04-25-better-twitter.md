@@ -1,9 +1,9 @@
 ---
 title: "How to Have a Better Experience on Twitter"
-date: 2022-04-25
+date: 2023-09-08
 ---
 
-Everyone's favorite birdsite 
+Everyone's favorite birdsite. Some of this is meaningless now, but keeping it around for archival purposes. I would love to just be like "ohh go to mastodon!" "make a blog!" etc, and while i DO think those are things people should do, I fully understand that not everyone has moved to other platforms or will ever, so having ways to access it being more pleasant are essential imo~
 
 ## Step One: Quick and Easy Solutions to Bigger Problems
 
@@ -26,13 +26,17 @@ This will clean up most algorithmic things on the site, only showing you who you
 
 Additionally, while I don't use it anymore, [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) can be nice to add. It hides metrics such as like and follow counts, further reducing the desire of "number go up" or adding additional value to a tweet based on the numbers.
 
+Another one I love, [Old Twitter](https://github.com/dimdenGD/OldTwitter) will revert the twitter UI to being how it was in 2015. Truly a better era.
+
 ### Tweetdeck + BetterTweetDeck
 
 I personally use tweetdeck most of the time for twitter, since I have two accounts and it makes managing them both at the same time much easier. Not only that, but by default it doesn't have ads or algorithmic timelines. However, it's nice to get some additional improvements!
 
+It's pretty complicated to get Tweetdeck working in 2023, and it might not even be possible in the future, but for now [dimdenGD made a firefox extension](https://github.com/dimdenGD/OldTweetDeck) that will allow you to access it again
+
 [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck/) adds lots of extra features and tweaks that make for a generally better experience. The preserving media aspect ratio is my favorite, since I follow a lot of artists (no bad crops!).
 
-### Third-party apps
+### Third-party apps (as of 2023, can be ignored as none of these work)
 
 On my phone, I use and highly recommend [Tweetbot](https://tapbots.com/tweetbot/). While twitter themselves severely reduce features available through their API, and therefore limit what is available on third-party apps, most day-to-day features are available on Tweetbot. No ads, chronological timeline, great themes, and many other features make it one of the best twitter experiences out there.
 
@@ -72,7 +76,7 @@ If, for example, you want to keep up with news posts, don't put them in your mai
 
 This one is highly specialized to me, but I'm mentioning it as an example of how I use and enjoy twitter. I have two accounts, my main that I use to follow people generally, and a second one that I only use to follow artists that I like. This second account is set up as a column in tweetdeck that only shows tweets with images and I've disabled retweets on a lot of accounts that I follow. This turns this column into a feed of nice art from artists I like (and artists they like, with retweets). And then since I use a second account, the likes on that account are just my favorites of my favorites, and create a nice feed to scroll through! Also that way, instead of the context collapse of twitter where you have art next to takes next to news, things are separated out and I can more easily choose what to look at. It's honestly great! It turns twitter into what I often use Tumblr for, a nice feed of good art.
 
-In addition, I have a search column in tweetdeck using the query `"melonbooks.co.jp" OR "booth.pm" OR "alice-books.com" OR "base.shop" OR "inprnt.com" list:[list id] include:nativeretweets`. This will show me any new links from artists I follow for new art books or prints on common art stores. Super helpful since many artists don't use things like mailing lists and the tweets can get lost in the feed. You can't normally search the following list of a user, so I use the service [vicariously.io](https://vicariously.io/) which will auto-generate lists based on the following list of a user. 
+This no longer works, even in old tweetdeck, sadly. ~~In addition, I have a search column in tweetdeck using the query `"melonbooks.co.jp" OR "booth.pm" OR "alice-books.com" OR "base.shop" OR "inprnt.com" list:[list id] include:nativeretweets`. This will show me any new links from artists I follow for new art books or prints on common art stores. Super helpful since many artists don't use things like mailing lists and the tweets can get lost in the feed. You can't normally search the following list of a user, so I use the service [vicariously.io](https://vicariously.io/) which will auto-generate lists based on the following list of a user.~~
 
 ### Mute, Block, Soft-block
 
