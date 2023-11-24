@@ -7,19 +7,35 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ## Gift Cards
 - **[Bandcamp](https://bandcamp.com/gift_cards)**
   - This is 100% my favorite place to get music these days, DRM-free downloads and streams, merch, supports artists, etc! Here's some specific albums I want: [Bandcamp wishlist](https://bandcamp.com/nathanwentworth/wishlist)
-- **[Steam](https://store.steampowered.com/digitalgiftcards/)**
-  - I play most of my games on PC, and steam has what is essentially a monopoly on PC game sales.
 
 ## Things
 
-- [Audioengine A2+ (white)](https://audioengineusa.com/shop/poweredspeakers/a2-plus-desktop-speakers/)
-- Loose leaf teas! I often get some from [Mem Tea](https://www.memteaimports.com/), and i'm always looking to try new ones
+- Loose leaf teas!
+  - [Mem Tea](https://www.memteaimports.com/)
   - [ippodo tea](https://ippodotea.com/)
-- [Whale knife](https://www.nativeandco.com/home-and-lifestyle/whale-knife-rorqual-whale)
+- [Mono Ellipse Teapot](https://mono.de/en/Mono-Ellipse-teapot/33300)
+- [MOONDROP DISCDREAM Portable CD Player](https://shenzhenaudio.com/products/moondrop-discdream-portable-cd-player)
+- [Audioengine A2 (white)](https://audioengine.com/shop/wirelessspeakers/a2-wireless-computer-speakers/)
+- [Japanese Dishcloth – mogutable](https://mogutable.com/collections/linens/products/japanese-dishcloth?variant=44289587904749)
+- [Sealson H1｜2-Way Crossbody Bag (black)](https://sealson.co/products/h1-2-way-crossbody-bag-black?variant=42851214655688)
+- [ROTOTO Indigo Cotton Roll Up Beanie (black)](https://www.haku-clothing.com/en_US/indigo-cotton-roll-up-beanie/14241.html?dwvar_14241_color=BlackDenim&quantity=1)
+- [Buck Mason Draped Twill One Pocket Shirt, Natural, Medium](https://www.buckmason.com/products/natural-draped-twill-one-pocket-shirt?variant=31979307466835)
+- [Anonymousism socks](https://anonymousism.com/collections/20aw-collection/products/light-weight-slub-crew-1)
+- [Rototo socks](https://www.haku-clothing.com/en_US/men%27s/brands/r1334-loose-pile-crew-socks/010879-0-01.html)
+  - [linen/cotton short socks](https://www.haku-clothing.com/en_US/men%27s/brands/r1462-short-linen-cotton-ribbed-socks/010581-0-01.html?dwvar_010581-0-01_color=Grayge&quantity=1)
 
-## Media
+## Comics
 
-### Comics
+For learning japanese!
+
+- **Sousou no Frieren, vol. 1** - [CD Japan](https://www.cdjapan.co.jp/product/NEOBK-2859436) / [Kinokuniya](https://united-states.kinokuniya.com/bw/9784098501809)
+- **Shimeji Simulation, vol. 1** - [CD Japan](https://www.cdjapan.co.jp/product/NEOBK-2450597) / [Kinokuniya](https://united-states.kinokuniya.com/bw/9784040642918)
+- **Skip and Loafer, vol. 1** - [CD Japan](https://www.cdjapan.co.jp/product/NEOBK-2665096) / [Kinokuniya](https://united-states.kinokuniya.com/bw/9784065142097)
+
+
+English:
+
+- [Tekkonkinkreet: Black &amp; White 30th Anniversary Edition a book by Taiyo Matsumoto](https://bookshop.org/p/books/tekkonkinkreet-black-white-30th-anniversary-edition-taiyo-matsumoto/19805909)
 - [This Was Our Pact by Ryan Andrews](https://us.macmillan.com/books/9781626720534?utm_source=socialmedia&utm_medium=socialpost&utm_term=na-thiswasourpactsocial&utm_content=na-buy-buynow&utm_campaign=9781626720534)
 - [Bloom by Kevin Panetta](https://www.powells.com/book/bloom-9781626726413?partnerid=33241)
 - [Gundam the Origin](http://www.vertical-inc.com/books/gundam.html)
@@ -32,40 +48,43 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [The Marquis: Inferno](https://www.darkhorse.com/Books/15-859/The-Marquis-Inferno-TPB)
 - [Biomega, Vol. 1](https://www.viz.com/read/manga/biomega-volume-1/product/2255)
 
-### Blu-rays/DVDs
+## Books
 
-I have a [wishlist on rightstuf](https://www.rightstufanime.com/pl/MTg5NzU4) as well, one of the cheapest places to get anime/manga.
-
-- [Kizumonogatari Part 1](https://www.rightstufanime.com/Kizumonogatari-Part-1-Tekketsu-Blu-ray)
-- [Mobile Suit Gundam 08th MS Team BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-08th-MS-Team-Blu-ray)
-- [Mobile Suit Gundam 0080 War In the Pocket BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-0080-War-In-the-Pocket-Blu-ray)
-- [Eureka Seven](https://www.rightstufanime.com/Eureka-Seven-Complete-Series-Essentials-Blu-ray)
-- [Gunbuster 2/Diebuster](https://www.rightstufanime.com/Gunbuster-2-Diebuster-DVD-Complete-Series-S)
-- [Mob Psycho 100](https://www.rightstufanime.com/Mob-Psycho-100-Blu-ray-DVD)
-- [Promare Blu-ray/DVD](https://www.rightstufanime.com/Promare-Blu-ray-DVD)
-
-### Books
-
+- [Jazz Up Your Japanese with Onomatopoeia](https://archive.kodansha.us/book/jazz-up-your-japanese-with-onomatopoeia/)
+- [Illustration Making & Visual Book: Itsuka Illustration Works Itsu no Hi ka](https://www.cdjapan.co.jp/product/NEOBK-2804922)
+- [Asupara Art Book: A collection of illustrations that capture moments 2015-2023](https://www.cdjapan.co.jp/product/NEOBK-2833016)
 - [Clubbed: a visual history of UK club culture](https://www.f37foundry.com/goods/clubbed)
 - [Parks – Standards Manual](https://standardsmanual.com/products/parks)
 - Snow Crash by Neal Stephenson
-- **Neuromancer** by William Gibson
-- **The Left Hand of Darkness** by Ursula K. Le Guin
+- Neuromancer by William Gibson
+- The Left Hand of Darkness by Ursula K. Le Guin
 - [The Box Man by Kobo Abe](https://www.penguinrandomhouse.com/books/197/the-box-man-by-kobo-abe/9780375726514)
 - [How to Do Nothing by Jenny Odell](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612197494/)
 - [Autonomous by Annalee Newitz](https://us.macmillan.com/books/9780765392077)
-- [The Best Interface is No Interface](http://www.nointerface.com/book/)
+- [The Best Interface is No Interface](http://www.nointerface.com/)
 
-### Board/Physical Games
-- [Burgle Bros.](https://fowers-games.myshopify.com/collections/frontpage/products/burgle-bros)
-- [Betrayal at House on the Hill](https://avalonhill.wizards.com/avalon-hill-betrayal-house-hill)
+## Prints
 
-### Video Games
-- Spyro Reignited Trilogy (PS4)
-
-### Prints
+- [A Frog in the Fall - Wind](https://www.gallerynucleus.com/detail/37234/)
+- [A Frog in the Fall - Hike](https://www.gallerynucleus.com/detail/37233/)
+- [Witches on Rocks by Woon Young](https://woonyoung.bigcartel.com/product/witches-on-the-mountain)
 
 I have a [to-buy list on inprnt](https://www.inprnt.com/collections/nathanwentworth/favorites/), i love all of these!
 
-- [Witches on Rocks by Woon Young](https://woonyoung.bigcartel.com/product/witches-on-the-mountain)
+## Video Games
+
+- Armored Core VI (PS4)
+- Final Fantasy XII: The Zodiac Age (PS4)
+- Sekiro: Shadows Die Twice (PS4)
+- Spyro Reignited Trilogy (PS4)
+
+## Blu-rays/DVDs
+
+- [Kizumonogatari](https://www.animecornerstore.com/kizumonogatari.html)
+- [Mobile Suit Gundam 08th MS Team BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-08th-MS-Team-Blu-ray)
+- [Mobile Suit Gundam 0080 War In the Pocket BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-0080-War-In-the-Pocket-Blu-ray)
+- [Eureka Seven](https://www.animecornerstore.com/eureka7.html)
+- [Gunbuster](https://www.animecornerstore.com/gubovase.html)
+- [Mob Psycho 100 (season 1)](https://www.animecornerstore.com/mobpsycho100.html)
+- [Promare Blu-ray/DVD](https://www.animecornerstore.com/promare.html)
 
