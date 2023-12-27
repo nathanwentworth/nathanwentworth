@@ -15,10 +15,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
   - [ippodo tea](https://ippodotea.com/)
 - [Mono Ellipse Teapot](https://mono.de/en/Mono-Ellipse-teapot/33300)
 - [MOONDROP DISCDREAM Portable CD Player](https://shenzhenaudio.com/products/moondrop-discdream-portable-cd-player)
-- [Audioengine A2 (white)](https://audioengine.com/shop/wirelessspeakers/a2-wireless-computer-speakers/)
 - [Japanese Dishcloth – mogutable](https://mogutable.com/collections/linens/products/japanese-dishcloth?variant=44289587904749)
-- [Sealson H1｜2-Way Crossbody Bag (black)](https://sealson.co/products/h1-2-way-crossbody-bag-black?variant=42851214655688)
-- [ROTOTO Indigo Cotton Roll Up Beanie (black)](https://www.haku-clothing.com/en_US/indigo-cotton-roll-up-beanie/14241.html?dwvar_14241_color=BlackDenim&quantity=1)
 - [Buck Mason Draped Twill One Pocket Shirt, Natural, Medium](https://www.buckmason.com/products/natural-draped-twill-one-pocket-shirt?variant=31979307466835)
 - [Anonymousism socks](https://anonymousism.com/collections/20aw-collection/products/light-weight-slub-crew-1)
 - [Rototo socks](https://www.haku-clothing.com/en_US/men%27s/brands/r1334-loose-pile-crew-socks/010879-0-01.html)
@@ -58,7 +55,6 @@ English:
 - Snow Crash by Neal Stephenson
 - Neuromancer by William Gibson
 - The Left Hand of Darkness by Ursula K. Le Guin
-- [The Box Man by Kobo Abe](https://www.penguinrandomhouse.com/books/197/the-box-man-by-kobo-abe/9780375726514)
 - [How to Do Nothing by Jenny Odell](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612197494/)
 - [Autonomous by Annalee Newitz](https://us.macmillan.com/books/9780765392077)
 - [The Best Interface is No Interface](http://www.nointerface.com/)
