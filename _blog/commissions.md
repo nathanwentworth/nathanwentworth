@@ -26,6 +26,8 @@ date: 2022-11-22
 {% include img.html url='inking_g_commission-2022-07-12.jpg' desc='by [@inking_g](https://twitter.com/inking_g)' alt='a girl with blue hair and black eyes wearing an oversized black dress and a black hat with a jack o\'lantern face on it. she is flying through the night sky on a broom with dark clouds and a bat behind her, around her arm is a bag with bread in it' %}
 </div>
 
+{% include img.html url='1818251-1.output_small.png' desc='by [@05xxko](https://skeb.jp/@05xxko/works/2)' alt='a girl with long red hair and straight, choppy bangs wearing a black dress with a red-lined baggy sleeves and a witch hat with a jack-o-lantern face on it. she\'s holding a basket in her right arm and holding up a wine glass towards the viewer in her left hand' %}
+
 ## Final Fantasy XIV
 
 {% include img.html url='julie-ffxiv-comm.png' desc='Final Fantasy 14 character + [Brock Hampton](https://twitter.com/radvillain/) by [@burrsho](https://twitter.com/burrsho)' alt='two people sitting on the ground, one woman with purple hair and horns on the side of her head, one large man with green skin and a red beanie' %}
