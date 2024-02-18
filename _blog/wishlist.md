@@ -48,6 +48,7 @@ English:
 ## Books
 
 - [Jazz Up Your Japanese with Onomatopoeia](https://archive.kodansha.us/book/jazz-up-your-japanese-with-onomatopoeia/)
+- [Ametora: How Japan Saved American Style](https://www.hachettebookgroup.com/titles/w-david-marx/ametora/9781541604339/)
 - [Illustration Making & Visual Book: Itsuka Illustration Works Itsu no Hi ka](https://www.cdjapan.co.jp/product/NEOBK-2804922)
 - [Asupara Art Book: A collection of illustrations that capture moments 2015-2023](https://www.cdjapan.co.jp/product/NEOBK-2833016)
 - [Clubbed: a visual history of UK club culture](https://www.f37foundry.com/goods/clubbed)
