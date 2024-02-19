@@ -165,9 +165,17 @@ main.w-wide { max-width: var(--w-wide); }
   justify-content: space-between;
 }
 
+video {
+  display: block;
+  margin: auto;
+  margin-bottom: 0.5rem;
+  max-width: 100%;
+  border-radius: 3px;
+}
+
 figure {
   width: 100%;
-  margin: 0;
+  margin: auto;
   /*margin-bottom: 2rem;*/
   margin-bottom: 0.5rem;
   overflow: auto;
@@ -190,6 +198,10 @@ figcaption,
   figure + figure {
     margin-left: 0.5rem;
   }
+}
+
+.wide {
+  max-width: 100%;
 }
 
 code {
@@ -314,12 +326,13 @@ blockquote *:first-child {
 
 h1, h2, h3, h4, h5, .title {
   font-family: 'Rubik', sans-serif;
+  margin: auto;
   margin-top: 1.5em;
   margin-bottom: 0.75em;
 }
 h1 { font-size: 2rem; }
 h1 img { max-height: 1em; }
-time { color: var(--light-text); margin-top: 0.5em; }
+time { color: var(--light-text); display: block; margin: auto; margin-top: 0.5em; }
 .page-title { margin-top: 1em; margin-bottom: 0.25em; }
 
 ul, ol { padding-left: 1.5rem; }

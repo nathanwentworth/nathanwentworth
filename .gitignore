@@ -10,6 +10,8 @@ package.json
 sftp-config.json
 .jekyll-cache
 
+assets/**/orig/
+
 cameraroll/
 # deck-dungeon/
 # draw/

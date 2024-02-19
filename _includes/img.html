@@ -7,7 +7,7 @@
 {% assign split_url = include.url | split: '' %}
 {% assign first_char_url = split_url[0] %}
 
-<figure>
+<figure class="{{ include.class }}">
   <a class="img-link" href="{% if first_char_url != '/' %}{{ base }}{{ page.url }}{% endif %}{% if include.lg %}{{include.lg}}{% else %}{{include.url}}{% endif %}"><img
     src="{% if first_char_url != '/' %}{{ base }}{{ page.url }}{% endif %}{{ include.url }}"
     alt="{% if include.alt %}{{ include.alt }}{% else %}{{ include.desc | strip_html }}{% endif %}"

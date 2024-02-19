@@ -14,6 +14,18 @@
     }
   }
 
+  p, h1, h2, h3, h4, h5, time {
+    max-width: var(--w-slim);
+  }
+
+  figure {
+    max-width: var(--w-slim);
+
+    &.wide {
+      max-width: var(--w-wide);
+    }
+  }
+
   img {
     display: block;
     border-radius: 3px;
