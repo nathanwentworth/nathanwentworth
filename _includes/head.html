@@ -13,7 +13,7 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{ site.title }}{% if page.title %} — {{ page.title }}{% endif %}">
   {% if page.image %}
-  <meta property="og:image" content="https://nathanwentworth.co/assets/img{% if page.collection == 'ppages' %}/ppages{% endif %}{{ page.url }}{{ page.image }}">
+  <meta property="og:image" content="https://nathanwentworth.co/assets/img{% if page.collection == 'ppages' %}/ppages{% elsif page.collection == 'posts' %}/posts{% endif %}{{ page.url }}{{ page.image }}">
   {% endif %}
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
@@ -28,7 +28,7 @@
   <meta name="twitter:title" content="{{ site.title }}{% if page.title %} — {{ page.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
   {% if page.image %}
-  <meta name="twitter:image" content="https://nathanwentworth.co/assets/img{% if page.collection == 'ppages' %}/ppages{% endif %}{{ page.url }}{{ page.image }}">
+  <meta name="twitter:image" content="https://nathanwentworth.co/assets/img{% if page.collection == 'ppages' %}/ppages{% elsif page.collection == 'posts' %}/posts{% endif %}{{ page.url }}{{ page.image }}">
   {% endif %}
   <meta name="twitter:dnt" content="on">
 
