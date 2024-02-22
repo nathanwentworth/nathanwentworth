@@ -34,7 +34,7 @@ layout: default
           {% endunless %}
         </div>
         {% if entry.excerpt and entry.hide_excerpt != true %}
-        <blockquote class="project-description">{{ entry.excerpt | remove: '<p>' | remove: '</p>' | remove: '<img>'  }}</blockquote>
+        <blockquote class="project-description">{{ entry.excerpt | strip_html | truncatewords: 50  }}</blockquote>
         {% endif %}
       </li>
       {% endfor %}

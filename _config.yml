@@ -5,11 +5,11 @@ title: "nathan wentworth ✨"
 email: me@nathanwentworth.co
 description: "programmer and rhythm game fan"
 full_description: |
-  hello! I'm nathan wentworth, I make [video games](/projects/#t:game) and [websites](/projects/#t:web). I like using vanilla/ES6 [JavaScript](/projects/#t:javascript), [Unity C#](/projects/#t:unity), and [Python](/projects/#t:python). Recently I've been into making CLI tools and server-side web apps.
+  hello~! welcome to my ~website~
 
-  I'm interested in open source software and creative programming. I like [fun music](https://soundcloud.com/nathanwentworth/sets/fav), video games, and [taking photos](/posts/photos).
+  I like [programming](/projects/), [fun music](https://soundcloud.com/nathanwentworth/sets/fav), video games, animation, [movies](https://letterboxd.com/nathanwentworth/), and [taking photos](https://www.flickr.com/photos/nathanwentworth/)! I love picking up new hobbies every few months, maybe I'll post about some of them in my [blog](/posts/)?? I love sharing things I'm into, which you can find in my [recommendations](/recommendations/) section!
 
-  Feel free to [email me](ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;) or talk to me on [twitter](https://twitter.com/nathanwentworth)/[mastodon](https://mastodon.social/@nathanwentworth)! Follow updates on this site with RSS: [posts](/posts-feed.xml), [projects](/projects-feed.xml), and [recommendations](/recommendations-feed.xml).
+  Feel free to [email me](ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;) or talk to me on [twitter](https://twitter.com/nathanwentworth)/[mastodon](https://mastodon.social/@nathanwentworth)! Follow updates on this site with RSS: [posts](/posts-feed.xml) & [recommendations](/recommendations-feed.xml).
 
 site_info: This website is hosted on a [Digital Ocean](https://m.do.co/c/24af6a0d4c4a) droplet running Ubuntu 16 and nginx. [Let's Encrypt](https://letsencrypt.org/) is providing the SSL Cert, and my CMS/site generator is [Jekyll](http://jekyllrb.com/). Feel free to check out this site's source code on [Github](https://github.com/nathanwentworth/nathanwentworth).
 baseurl: ""
