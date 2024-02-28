@@ -17,17 +17,8 @@ layout: default
 {% include header-small.html %}
 
 <article id="main-content" class="project outer-container">
-  {% unless page.hide_image %}
-  {% if page.image_lg %}
-    <img class="main-image" src="{{ base }}{{ page.url }}{{ page.image_lg }}">
-  {% elsif page.image %}
-    <img class="main-image" src="{{ base }}{{ page.url }}{{ page.image }}">
-  {% endif %}
-  {% endunless %}
-
   <h1 itemprop="title" class="bold page-title">{{ page.title }}</h1>
   <time datetime="{{ page.date | date:'%Y-%m-%d' }}">Updated: {{ page.date | date:'%Y-%m-%d' }}</time>
-
   {% unless page.hide_tags %}
   {% if page.tags and page.tags.size > 0 %}
   <div class="info-section tags">
@@ -47,6 +38,15 @@ layout: default
   </div>
   {% endif %}
   {% endunless %}
+
+  {% unless page.hide_image %}
+  {% if page.image_lg %}
+    <img class="main-image" src="{{ base }}{{ page.url }}{{ page.image_lg }}">
+  {% elsif page.image %}
+    <img class="main-image" src="{{ base }}{{ page.url }}{{ page.image }}">
+  {% endif %}
+  {% endunless %}
+
 
   {{ content }}
 </article>

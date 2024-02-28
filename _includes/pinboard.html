@@ -1,8 +1,8 @@
 <div class="pinboard">
   <ul class="no-indent">
     {% for bookmark in site.data.pinboard | limit: 5 %}
-    <li><a class="pinboard-title" href="{{ bookmark.u }}">{{ bookmark.d }}</a>{% if bookmark.n %}<p>{{ bookmark.n }}</p>{% endif %}</li>
+    <li><a class="pinboard-title" href="{{ bookmark.u }}">{{ bookmark.d }}</a>{% if bookmark.n %}<p>{{ bookmark.n }}</p>{% endif %}<date>{{ bookmark.dt | date: "%a, %b %d, %Y" }}</date></li>
     {% endfor %}
-    <li><a href="https://pinboard.in/u:nathanwentworth">view more on pinboard</a></li>
+    <li><a href="https://pinboard.in/u:nathanwentworth">view more on pinboard →</a></li>
   </ul>
 </div>

@@ -65,8 +65,12 @@
 pre ::-moz-selection { background-color: #4E5A65; }
 pre ::selection { background-color: #4E5A65; }
 
-body {
+html {
   background-color: var(--background-color);
+  background-image: url('/assets/img/other/Sprite-0001-multi-2.png');
+}
+
+body {
   /*background-image: url(/assets/img/other/graphy.png);*/
   color: var(--text-color);
   font-family: var(--main-font);
@@ -83,7 +87,7 @@ a:hover, a:active, a:focus {
   border-bottom-style: solid;
 }
 a.img-link {
-  border: none;
+  border: none !important;
 }
 
 p {
@@ -95,6 +99,11 @@ p:empty, time:empty {
 }
 
 img { max-width: 100%; image-orientation: from-image; }
+img.emoji {
+  height: 1em;
+  display: inline !important;
+  vertical-align: bottom;
+}
 
 .center { text-align: center; }
 
@@ -201,7 +210,15 @@ figcaption,
 }
 
 .wide {
-  max-width: 100%;
+  width: 80vw;
+  position: relative;
+  left: calc(-40vw + 50%);
+  max-height: initial;
+
+  padding: 8px;
+  border-radius: 4px;
+  background-color: aliceblue;
+  margin-bottom: 8px;
 }
 
 code {
@@ -276,6 +293,52 @@ th {
   border-bottom-style: none;
 }
 
+.column-item,
+article {
+  border: 2px solid lightblue;
+  border-radius: 4px;
+  background-color: aliceblue;
+  box-shadow: 4px 4px 0 0 lightsteelblue;
+}
+.page-title {
+  background-color: lightblue;
+  background-image: url('/assets/img/other/corner-lines.png');
+  background-position: top right;
+  background-repeat: no-repeat;
+  padding: 8px;
+  margin: 0 !important;
+  border-bottom: 2px dotted aliceblue;
+  font-size: 1.5rem;
+}
+.column-item .page-title a {
+  border-bottom: none;
+}
+.column-item > *:not(h1) {
+  margin: 0;
+  padding: 8px;
+}
+article > * {
+  padding: 0 8px;
+}
+.column-item li {
+  padding: 4px 0;
+  margin: 0;
+}
+.column-item li:nth-child(2n) {
+  background-color: rgba(255, 255, 255, 0.4);
+}
+.recommendation-outer:nth-child(2n) {
+  background-color: rgba(255, 255, 255, 0.4);
+}
+.anilist li:nth-child(2n) {
+  background-color: initial;
+}
+
+#theme-picker {
+  display: none;
+}
+
+
 
 .recommendations {
   margin-top: 1.35em;
@@ -294,7 +357,7 @@ th {
   margin-right: 1.25rem;
   margin-left: 0;
   font-weight: normal;
-  font-size: 1rem;
+  font-size: 0.8em;
   color: var(--light-text);
 }
 .recommendation-body {
@@ -338,7 +401,7 @@ time { color: var(--light-text); display: block; margin: auto; margin-top: 0.5em
 
 ul, ol { padding-left: 1.5rem; }
 li { margin: 6px 0; }
-ul.no-indent, ol.no-indent { padding-left: 0; }
+/*ul.no-indent, ol.no-indent { padding-left: 0; }*/
 ul.inline, ol.inline { display: flex; }
 ul.inline li, ol.inline li { display: inline-block; margin: 0; margin-right: 6px; }
 
@@ -392,6 +455,15 @@ header.small {
   }
 }
 
+/* ## Last.fm  */
+.column-item .last-fm {
+  max-width: 90%;
+  margin: auto;
+}
+.last-fm .no-list {
+  list-style: none;
+}
+
 /* ## Mastodon */
 
 .mastodon li {
@@ -424,8 +496,10 @@ header.small {
   font-size: 0.85rem;
 }
 .anilist ul {
+  width: 100%;
   display: flex;
-  justify-content: flex-start;
+  padding-left: 0;
+  justify-content: center;
   align-items: flex-start;
   flex-wrap: wrap;
 }
@@ -438,18 +512,27 @@ header.small {
 }
 .anilist .anime {
   width: 92px;
-  margin-right: 1em;
+}
+.anilist .anime + .anime {
+  margin-left: 1em;
 }
 
 /* ## Pinboard */
 
 .pinboard p {
   white-space: pre-line;
-  margin-left: 1.4em;
+  padding-left: 1.4em;
+  border-left: 4px solid #555;
 }
 
 .pinboard .pinboard-title {
-  font-size: 1.125em;
+  font-weight: bold;
+  font-size: 1.35em;
+}
+.pinboard date {
+  font-size: .8em;
+  display: block;
+  margin-top: 1em;
 }
 
 .ellipsis::after {
@@ -469,7 +552,7 @@ footer ul {
   padding: 0;
 }
 
-.webring {
+footer img {
   max-height: 1.1rem;
   display: inline-block;
   vertical-align: middle;
@@ -498,7 +581,6 @@ footer ul {
   .column-item + .column-item {
     margin-top: 2rem;
   }
-
 
   ul.inline {
     flex-direction: column;
