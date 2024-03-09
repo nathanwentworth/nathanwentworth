@@ -6,6 +6,8 @@ date: 2020-05-05
 
 Computer hardware/software I use
 
+Sadly I'm basically full-time Windows for home desktop usage and a M2 Pro Macbook Pro for work usage!!!! One day I will get back into the Linux on the Desktop lifestyle............
+
 ## Desktop
 
 Current setup is Ubuntu 20.04 and XFCE4 with the a CDE theme:

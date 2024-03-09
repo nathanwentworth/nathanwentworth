@@ -1,32 +1,53 @@
 .archive-title {
-    padding: 1rem;
-    background-color: $bg-dark;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
-    margin: 0;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+  padding: 1rem;
+  background-color: $bg-dark;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 
-    h1 {
-      margin: 0;
-    }
+  h1 {
+    margin: 0;
+  }
 }
 
 .project-description {
-  margin: 0;
-  padding: 1rem;
-  background: var(--transparent-bg);
-  border-radius: var(--border-radius);
-  margin-top: 1rem;
+/*  background: var(--transparent-bg);*/
+
   border: 0;
   line-height: 1.4;
+  border-left: 4px solid steelblue;
+  border-radius: 0;
+  margin: 8px;
+  padding: 1rem;
+  background: #fcfcff;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+
 }
 
 
 .archive {
+  border: 2px solid lightblue;
+  border-radius: 4px;
+  background-color: aliceblue;
+  box-shadow: 4px 4px 0 0 lightsteelblue;
+
   padding-bottom: 2rem;
   /*box-shadow: -10px 10px 0 0 #ffc;*/
+
+  .info {
+    background-color: lightblue;
+    background-image: url('/assets/img/other/corner-lines.png');
+    background-position: top right;
+    background-repeat: no-repeat;
+    padding: 8px;
+    margin: 0 !important;
+    border-bottom: 2px dotted aliceblue;
+    font-size: 1.5rem;
+  }
 
   & > ul {
     padding: 1rem 0;
@@ -46,6 +67,7 @@
     align-items: center;
     justify-content: space-between;
     overflow: hidden;
+    margin: 8px;
 
     * {
       margin: 0;

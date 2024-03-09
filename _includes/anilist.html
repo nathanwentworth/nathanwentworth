@@ -1,6 +1,7 @@
 <div class="anilist">
   <ul class="no-indent no-arrow">
-    {% for anime in site.data.anilist.data.MediaListCollection.statusLists.current %}
+    {% assign anilist = site.data.anilist.data.MediaListCollection.lists[0].entries | sort: 'updatedAt' | reverse %}
+    {% for anime in anilist | limit: 3 %}
     <li class="anime">
       <img alt="{{ anime.media.title.romaji }}" src="{{ anime.media.coverImage.medium }}" style="background-color: {{ anime.media.coverImage.color }};">
       <p>{{ anime.media.title.romaji }}</p>

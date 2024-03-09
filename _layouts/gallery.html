@@ -13,19 +13,20 @@ layout: default
 
 {% include header.html %}
 
-  <section class="columns right-big">
+  <section class="columns right-bigger">
     <div class="column-item">
-      <img class="portrait" src="/assets/img/me/me-bw-2022-cropped.jpg">
+      <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/strawberry_1f353.gif"></h1>
+      <a class="portrait" href="/posts/commissions/"><img class="portrait" src="/assets/img/posts/commissions/415362-1.mini.jpg"></a>
     </div>
     <div class="column-item">
-      <h1 class="color-02 page-title"><a class="color-02" href="/posts/about">About Me</a> <img alt="" src="/assets/img/softbank-emoji-2004/house-building_1f3e0.gif"></h1>
+      <h1 class="color-02 page-title"><img alt="" src="/assets/img/softbank-emoji-2004/house-building_1f3e0.gif"> <a class="color-02" href="/posts/about">About Me</a></h1>
       <div>{{ site.full_description | markdownify }}</div>
     </div>
   </section>
 
   <section class="columns">
     <div class="column-item">
-      <h1 class="page-title color-01"><a href="/projects/" class="color-01">Projects</a> <img alt="" src="/assets/img/softbank-emoji-2004/personal-computer_1f4bb.gif"></h1>
+      <h1 class="page-title color-01"><img alt="" src="/assets/img/softbank-emoji-2004/personal-computer_1f4bb.gif"> <a href="/projects/" class="color-01">Projects</a></h1>
       <ul class="no-indent">
       {% assign projects = site.projects | reverse %}
       {% for entry in projects limit: 9 %}
@@ -44,7 +45,7 @@ layout: default
       </ul>
     </div>
     <div class="column-item">
-      <h1 class="page-title color-01"><a href="/posts/" class="color-01">Posts</a> <img alt="" src="/assets/img/softbank-emoji-2004/memo_1f4dd.gif"></h1>
+      <h1 class="page-title color-01"><img alt="" src="/assets/img/softbank-emoji-2004/memo_1f4dd.gif"> <a href="/posts/" class="color-01">Posts</a></h1>
       <ul class="no-indent">
       {% assign post = site.blog | sort: 'date' | reverse %}
       {% for entry in post limit: 9 %}
@@ -63,7 +64,7 @@ layout: default
       </ul>
     </div>
     <div class="column-item">
-      <h1 class="color-04 page-title">More <img alt="" src="/assets/img/softbank-emoji-2004/mobile-phone_1f4f1.gif"></h1>
+      <h1 class="color-04 page-title"><img alt="" src="/assets/img/softbank-emoji-2004/mobile-phone_1f4f1.gif"> More</h1>
       {% include elsewhere.html page='home' %}
     </div>
 
@@ -71,23 +72,46 @@ layout: default
 
   <section class="columns left-big">
     <div class="column-item">
-      <h1 class="page-title color-03"><a href="/recommendations/" class="color-03">Things I Like</a> <img alt="" src="/assets/img/softbank-emoji-2004/heavy-black-heart_2764.gif"></h1>
+      <h1 class="page-title color-03"><img alt="" src="/assets/img/softbank-emoji-2004/heavy-black-heart_2764.gif"> <a href="/recommendations/" class="color-03">Things I Like</a></h1>
       {% include recommendations.html limit=8 %}
     </div>
     <div class="column-item">
-      <h1 class="color-01 page-title"><a class="color-01" href="https://last.fm/user/nwentworth">Top Music</a> <img alt="" src="/assets/img/softbank-emoji-2004/speaker-with-three-sound-waves_1f50a.gif"></h1>
+      <h1 class="color-01 page-title"><img alt="" src="/assets/img/softbank-emoji-2004/radio_1f4fb.gif"> <a class="color-01" href="https://last.fm/user/nwentworth">Top Music</a></h1>
       <p>My most played artists in the last seven days</p>
       {% include lastfm.html %}
     </div>
   </section>
 
+  <section class="columns">
+    <div class="column-item">
+      <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/cherry-blossom_1f338.gif"> Recent Anime</h1>
+      {% include anilist.html %}
+    </div>
+    <div class="column-item">
+      <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/sunflower_1f33b.gif"></h1>
+      <div><img class="portrait" src="/assets/img/posts/japan-2023/2023-10-24 14.39.43-mini.jpeg"></div>
+    </div>
+    <div class="column-item">
+      <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/four-leaf-clover_1f340.gif"> Sites I like!</h1>
+      <ul>
+        <li><a href="https://ethanthibault.com/blog/">Ethan Thibault</a></li>
+        <li><img class="emoji" src="/assets/img/posts/sites-i-like/allie.png"> <a href="https://garden.alliecaton.com">Allie's Digital Garden</a></li>
+        <li><img class="emoji" src="/assets/img/posts/sites-i-like/xxiivv.png"> <a href="https://wiki.xxiivv.com/">Devine Lu Linvega</a></li>
+        <li><img class="emoji" src="/assets/img/posts/sites-i-like/heckscaper.ico"> <a href="https://heckscaper.com">Emma Essex</a></li>
+        <li><img class="emoji" src="/assets/img/posts/sites-i-like/cinni-icon.png"> <a href="https://cinni.net/">♡ cinni's dream home ♡</a></li>
+        <li><img class="emoji" src="/assets/img/posts/sites-i-like/laikaworldFavi.png"> <a href="https://laikalaika.neocities.org/">laikaworld</a></li>
+        <li><a href="/posts/sites-i-like">More →</a></li>
+      </ul>
+    </div>
+  </section>
+
   <section class="columns right-big">
     <div class="column-item">
-      <h1 class="color-04 page-title"><a class="color-04" href="http://mastodon.social/@nathanwentworth">Recent posts</a> <img alt="" src="/assets/img/softbank-emoji-2004/public-address-loudspeaker_1f4e2.gif"></h1>
+      <h1 class="color-04 page-title"><img alt="" src="/assets/img/softbank-emoji-2004/public-address-loudspeaker_1f4e2.gif"> <a class="color-04" href="http://mastodon.social/@nathanwentworth">Timeline</a></h1>
       {% include mastodon.html %}
     </div>
     <div class="column-item">
-      <h1 class="color-03 page-title">Recent Bookmarks <img alt="" src="/assets/img/softbank-emoji-2004/open-book_1f4d6.gif"></h1>
+      <h1 class="color-03 page-title"><img alt="" src="/assets/img/softbank-emoji-2004/open-book_1f4d6.gif"> Recent Bookmarks</h1>
       {% include pinboard.html %}
     </div>
   </section>

@@ -1,3 +1,6 @@
+- name: 'email'
+  link: 'ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;'
+  home: true
 - name: 'twitter'
   link: 'https://twitter.com/nathanwentworth'
   home: true
@@ -7,24 +10,18 @@
 - name: 'bluesky'
   link: 'https://bsky.app/profile/nathanw.bsky.social'
   home: true
+- name: 'tumblr'
+  link: 'https://nathanwentworth.tumblr.com/'
+  home: true
 - name: 'instagram (i do not post)'
   link: 'https://www.instagram.com/nightcorefan420/'
   home: false
-- name: 'anime list'
-  link: 'https://anilist.co/user/nathan/'
-  home: true
-- name: 'bandcamp collection'
-  link: 'https://bandcamp.com/nathanwentworth'
-  home: true
 - name: 'last.fm'
   link: 'http://www.last.fm/user/nxc_'
   home: true
 - name: 'pinboard'
   link: 'https://pinboard.in/u:nathanwentworth'
   home: false
-- name: 'tumblr'
-  link: 'https://nathanwentworth.tumblr.com/'
-  home: true
 - name: 'github'
   link: 'https://github.com/nathanwentworth'
   home: false
@@ -33,15 +30,18 @@
   home: true
 - name: 'discord: nthnw'
   home: false
-- name: 'email'
-  link: 'ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;'
-  home: false
 - name: 'soundcloud'
   link: 'https://soundcloud.com/nathanwentworth'
   home: false
+- name: 'anime list'
+  link: 'https://anilist.co/user/nathan/'
+  home: true
 - name: 'letterboxd'
   link: 'https://letterboxd.com/nathanwentworth/'
-  home: false
+  home: true
+- name: 'bandcamp collection'
+  link: 'https://bandcamp.com/nathanwentworth'
+  home: true
 - name: 'xbox - hatsune miku#694'
   home: false
 - name: 'steam'

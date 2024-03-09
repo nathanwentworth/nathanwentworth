@@ -11,15 +11,21 @@
 .columns.right-big {
   grid-template-columns: 1fr 2fr;
 }
+.columns.right-bigger {
+  grid-template-columns: 1fr 4fr;
+}
 
 .columns {
   margin-bottom: 2rem;
   margin-top: 2rem;
 }
-.columns .portrait {
-  width: 85%;
-  margin-top: 4.25rem;
+.columns a.portrait {
+  border: none;
+  display: block;
+}
+.columns img.portrait {
   border-radius: 3px;
+  padding: 0;
 }
 .columns .page-title {
   margin-top: 2rem;
@@ -40,6 +46,10 @@
   content: '→';
   font-size: 0.8em;
   margin-right: 0.75em;
+}
+
+.recommendation-date {
+  display: none;
 }
 
 

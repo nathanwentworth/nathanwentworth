@@ -1,6 +1,10 @@
+{% capture nowunix %}{{ site.time | date: '%s' }}{% endcapture %}
+
+
 <div class="mastodon">
   <ul class="no-indent no-arrow">
-    {% for toot in site.data.mastodon.orderedItems | limit: 5 %}
+    {% assign posts = site.data.mastodon.orderedItems | where: 'object.inReplyTo', null %}
+    {% for toot in posts | limit: 10 %}
     <li class="toot">{{ toot.object.content }}
       {% if toot.object.attachment %}
       <div class="images">
@@ -13,8 +17,11 @@
         {% endfor %}
       </div>
       {% endif %}
-      <a class="smaller" href="{{ toot.object.id }}">(view)</a></li>
+      {% capture posttime %}{{ toot.object.published | date: '%s' }}{% endcapture %}
+      {% assign postNum = posttime | minus: 0 %}
+      {% assign diff = nowunix | minus: postNum %}
+      <a class="smaller" href="{{ toot.object.id }}">{{ diff | divided_by: 86400 | round }}d</a></li>
     {% endfor %}
-    <li><a href="https://mastodon.social/@nathanwentworth">view more on mastodon</a></li>
+    <li><a href="https://mastodon.social/@nathanwentworth">view more on mastodon →</a></li>
   </ul>
 </div>

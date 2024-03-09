@@ -1,8 +1,8 @@
 <div class="last-fm">
-  <ul class="no-indent">
-    {% for artist in site.data.lastfm.topartists.artist | limit: 8 %}
+  <ol>
+    {% for artist in site.data.lastfm.topartists.artist | limit: 10 %}
     <li><a href="{{ artist.url }}">{{ artist.name }}</a></li>
     {% endfor %}
-    <li><a href="https://last.fm/user/nxc_">view more on last.fm</a></li>
-  </ul>
+    <li class="no-list"><a href="https://last.fm/user/nxc_">view more on last.fm →</a></li>
+  </ol>
 </div>

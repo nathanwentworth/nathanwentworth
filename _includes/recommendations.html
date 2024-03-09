@@ -18,12 +18,12 @@
       </div>
       {% endif %}
       <div class="recommendation-outer">
-      <h3 id="y{{currentdate}}" class="recommendation-date"><span class="year">{{ currentyear }}</span><span class="month-day">{{ currentmd }}</span></h3>
+      <date id="y{{currentdate}}" class="recommendation-date"><span class="year">{{ currentyear }}</span><span class="month-day">{{ currentmd }}</span></date>
       {% assign date = currentdate %}
       <ul class="recommendation-main">
     {% endif %}
     <li class="recommendation-body">
-      <div class="tag tag--{{ recommendation.type }}">{{ recommendation.type }}</div><div class="recommendation-text">{% if recommendation.best %}&#11088; {% endif %}<a href="{{ recommendation.link }}">{% if recommendation.name %}{{ recommendation.name }}{% else %}{{ recommendation.link }}{% endif %}</a>{% if recommendation.desc %}<div>{{ recommendation.desc | markdownify | remove: '<p>' | remove: '</p>' }}</div>{%endif%}</div>
+      <div class="tag tag--{{ recommendation.type }}">{{ recommendation.type }}</div><div class="recommendation-text">{% if recommendation.best %}<img class="emoji" src="/assets/img/softbank-emoji-2004/glowing-star_1f31f.gif"> {% endif %}<a href="{{ recommendation.link }}">{% if recommendation.name %}{{ recommendation.name }}{% else %}{{ recommendation.link }}{% endif %}</a>{% if recommendation.desc %}<div>{{ recommendation.desc | markdownify | remove: '<p>' | remove: '</p>' }}</div>{%endif%}</div>
     </li>
   {% endfor %}
   </ul>
