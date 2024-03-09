@@ -12,11 +12,11 @@ date: 2020-11-26
   {% include img.html url='picrew-me.png' desc='[via にこっと！おんなのこメーカー｜Picrew](https://picrew.me/image_maker/207297/)' %}
 </div>
 
-Hi! I'm nathan wentworth, I make [video games](/projects/#t:game) and [websites](/projects/#t:web). I like using vanilla/ES6 [JavaScript](/projects/#t:javascript), [Unity C#](/projects/#t:unity), and [Python](/projects/#t:python). Recently I've been into making CLI tools and server-side web apps. I think websites should be lightweight, tracking-free, and accessible. I'm a strong supporter of anything that encourages people to make their own websites, like [tilde.town](http://tilde.town/), [neocities](https://neocities.org/), and [github pages](https://pages.github.com/).
+Hi! I'm nathan wentworth, I make [video games](/projects/#t:game) and [websites](/projects/#t:web). I like using vanilla [javascript](/projects/#t:javascript), [Unity C#](/projects/#t:unity), and [python](/projects/#t:python). Recently I've been into making CLI tools and server-side web apps. I think websites should be lightweight, tracking-free, and accessible! I'm a strong supporter of anything that encourages people to make their own websites, like [tilde.town](http://tilde.town/), [neocities](https://neocities.org/), and [github pages](https://pages.github.com/).
 
 I'm interested in design, open source software, minimalism, fashion, and human-scale technology. I like [fun music](https://soundcloud.com/nathanwentworth/sets/fav), video games, and [taking photos](/posts/photos). Check out some [media](/posts/essential-media), [websites](/posts/sites-i-like), and [other things](/recommendations) that I like!
 
-I love playing Dance Dance Revolution (3rd Dan [三段]) and Beatmania IIDX (2nd Dan [二段]), I plan on getting into pop'n music soon ;~)
+I love playing Dance Dance Revolution (3rd Dan [三段]) and Beatmania IIDX (4th Dan [四段]), I also play a little Pop'n and SDVX!
 
 Feel free to [email me](ma&#105;lto&#58;me&#64;na%74h%&#54;1&#110;&#37;77en%74w&#111;rt&#104;&#46;c&#111;) or talk to me on [twitter](https://twitter.com/nathanwentworth)! All posts/categories on this site can be followed with RSS: [posts](/posts-feed.xml), [projects](/projects-feed.xml), and [recommendations](/recommendations-feed.xml).
 

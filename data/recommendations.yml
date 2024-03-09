@@ -438,3 +438,13 @@
   name: "rururoru"
   type: art
   date: 2024-02-20
+- link: https://www.youtube.com/watch?v=uhs8jxSKbl4
+  name: "My Mu - Episode 1"
+  desc: "beautiful little collection of short animations, such a cute art style!! :')"
+  type: video
+  date: 2024-03-09
+  best: true
+- link: https://www.youtube.com/watch?v=Mc8bL7banL8
+  name: "あいたいあの子に、あわせてあげる。 by アメリカ民謡研究会"
+  type: music
+  date: 2024-03-09
