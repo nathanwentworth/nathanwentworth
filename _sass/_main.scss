@@ -104,6 +104,9 @@ img.emoji {
   display: inline !important;
   vertical-align: bottom;
 }
+p img.emoji {
+  vertical-align: text-top;
+}
 
 .center { text-align: center; }
 

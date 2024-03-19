@@ -7,6 +7,8 @@ image: Boku no Natsuyasumi 2 - Umi no Bouken-hen_SCPS-15026_20240115143636.jpg
 
 Over the last ~2 months I've been playing Boku no Natsuyasumi 2 via the [Hilltop english fan-translation](https://www.patreon.com/posts/boku-no-2-patch-92070798) and I finally finished today! I picked this for our work game club game this time, I'm excited to hear everyone's thoughts~ I enjoyed so, so much of this game, and I really hope more of them get english translations (or I get enough japanese knowledge to play them) as this has been extremely my kind of thing.
 
+This game is the perfect thing to play right as spring is starting, it really made me want that warm weather to come back so I can have my own Natsuyasumi <img class="emoji" src="/assets/img/softbank-emoji-2004/shaved-ice_1f367.gif">
+
 ----------------------
 
 Some thing I really love about the game!!!
