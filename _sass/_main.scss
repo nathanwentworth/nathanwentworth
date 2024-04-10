@@ -469,10 +469,14 @@ header.small {
 
 /* ## Mastodon */
 
+.mastodon ul {
+  padding-left: 0;
+}
 .mastodon li {
-  background-color: var(--transparent-bg);
+  background-color: white;
   padding: 0.5em;
   border-radius: 0.5em;
+  margin-bottom: 0.5em;
 }
 .mastodon .invisible {
   display: none;
@@ -485,12 +489,20 @@ header.small {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+.mastodon .images a {
+  text-decoration: none;
+  border-bottom: none;
+  height: 100px;
+  flex-shrink: 0;
 }
 .mastodon img {
-  max-height: 100px;
+  height: 100px;
   border-radius: 0.2em;
 }
-.mastodon img + img {
+.mastodon .images a + a {
   margin-left: 0.25em;
 }
 

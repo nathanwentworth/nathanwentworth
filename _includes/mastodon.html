@@ -3,20 +3,21 @@
 
 <div class="mastodon">
   <ul class="no-indent no-arrow">
-    {% assign posts = site.data.mastodon.orderedItems | where: 'object.inReplyTo', null %}
+    {% assign posts = site.data.mastodon.orderedItems | where: 'object.inReplyTo', null | where: 'type', "Create" %}
     {% for toot in posts | limit: 10 %}
-    <li class="toot">{{ toot.object.content }}
+    <li class="toot">
       {% if toot.object.attachment %}
       <div class="images">
         {% for image in toot.object.attachment %}
         {% if image.mediaType contains "image" %}
-        <a href="{{ image.url }}" title="photo">📷</a>
-        {% elsif image.mediaType contains "video" %}
-        <a href="{{ image.url }}" title="video">📹</a>
+        <a href="{{ image.url }}"><img src="{{ image.url }}" alt="{{ image.name }}" loading="lazy"></a>
         {% endif %}
         {% endfor %}
       </div>
       {% endif %}
+
+      {{ toot.object.content }}
+
       {% capture posttime %}{{ toot.object.published | date: '%s' }}{% endcapture %}
       {% assign postNum = posttime | minus: 0 %}
       {% assign diff = nowunix | minus: postNum %}
