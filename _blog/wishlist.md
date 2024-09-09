@@ -25,10 +25,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 For learning japanese!
 
-- **Sousou no Frieren, vol. 1** - [CD Japan](https://www.cdjapan.co.jp/product/NEOBK-2859436) / [Kinokuniya](https://united-states.kinokuniya.com/bw/9784098501809)
 - **Shimeji Simulation, vol. 1** - [CD Japan](https://www.cdjapan.co.jp/product/NEOBK-2450597) / [Kinokuniya](https://united-states.kinokuniya.com/bw/9784040642918)
-- **Skip and Loafer, vol. 1** - [CD Japan](https://www.cdjapan.co.jp/product/NEOBK-2665096) / [Kinokuniya](https://united-states.kinokuniya.com/bw/9784065142097)
-
 
 English:
 
@@ -53,6 +50,7 @@ English:
 - [Asupara Art Book: A collection of illustrations that capture moments 2015-2023](https://www.cdjapan.co.jp/product/NEOBK-2833016)
 - [Clubbed: a visual history of UK club culture](https://www.f37foundry.com/goods/clubbed)
 - [Parks – Standards Manual](https://standardsmanual.com/products/parks)
+- [Apartamento Tokyo Style, Kyoichi Tsuzuki](https://shop-vestige.com/products/tokyo-style-kyoichi-tsuzuki)
 - Snow Crash by Neal Stephenson
 - Neuromancer by William Gibson
 - The Left Hand of Darkness by Ursula K. Le Guin
