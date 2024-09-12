@@ -20,6 +20,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Anonymousism socks](https://anonymousism.com/collections/20aw-collection/products/light-weight-slub-crew-1)
 - [Rototo socks](https://www.haku-clothing.com/en_US/men%27s/brands/r1334-loose-pile-crew-socks/010879-0-01.html)
   - [linen/cotton short socks](https://www.haku-clothing.com/en_US/men%27s/brands/r1462-short-linen-cotton-ribbed-socks/010581-0-01.html?dwvar_010581-0-01_color=Grayge&quantity=1)
+- [Nishiguchi Kutsushita socks](https://www.bostongeneralstore.com/collections/nishiguchi-kutsushita)
 
 ## Comics
 
