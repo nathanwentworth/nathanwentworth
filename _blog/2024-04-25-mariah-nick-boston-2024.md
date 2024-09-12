@@ -43,4 +43,4 @@ I reallllllllly wanted to check out Ogawa Coffee, so we went back to the same ar
 
 For the final day, I went with Nick and Mariah to Johnny Boy's in Union Square. I had heard about it a few months ago and added it to my list, but just never found the opportunity to go and thought this would be the best time. I'm so glad I finally did because it was GOOD. I've gone back multiple times since and I can't recommend it enough 🫡
 
-The same group is [going to Montreal](/summer-2024/) together next week so hopefully it won't take me a month to post that one haha (edit: it took much more than a month)
+The same group is [going to Montreal](/posts/summer-2024/) together next week so hopefully it won't take me a month to post that one haha (edit: it took much more than a month)
