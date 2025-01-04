@@ -1,6 +1,6 @@
 ---
 title: Wishlist
-date: 2024-11-25
+date: 2024-12-31
 ---
 A consistently-updated list of things that I want to buy, gift ideas, etc! Bold things are higher priority/desire.
 
@@ -16,15 +16,12 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
   - [Mem Tea](https://www.memteaimports.com/)
   - [ippodo tea](https://ippodotea.com/)
 - [Red Kyusu (Side Handle Teapot) - 12 oz](https://memteaimports.com/products/red-kyusu-side-handle-teapot-12-oz)
-- [Mono Ellipse Teapot](https://mono.de/en/Mono-Ellipse-teapot/33300)
 - [Japanese Dishcloth – mogutable](https://mogutable.com/collections/linens/products/japanese-dishcloth?variant=44289587904749)
 - [Alpaca Woven Scarf | Industry of All Nations](https://industryofallnations.com/collections/accessories/products/alpaca-woven-scarf?variant=41265832886427)
 - [Buck Mason Draped Twill One Pocket Shirt, Natural, Medium](https://www.buckmason.com/products/natural-draped-twill-one-pocket-shirt?variant=31979307466835)
 - [Beams Plus BD Oxford Shirt, Large](https://www.ssense.com/en-us/men/product/beams-plus/blue-bd-oxford-shirt/16291141)
 - [Rototo socks (medium)](https://haku-clothing.com/products/010879-0-01?_pos=6&_sid=9594c2e0a&_ss=r)
 - [Nishiguchi Kutsushita socks (large)](https://www.bostongeneralstore.com/collections/nishiguchi-kutsushita)
-- [NK Dream key switches](https://novelkeys.com/collections/switches/products/nk-cream-series?variant=42671702311079) (x2, ie 72 of them)
-- [ioe Camera Strap (Medium, english tan)](https://cleversupply.co/products/ioe-short-strap?variant=44424670642430)
 
 ## Books
 
@@ -41,8 +38,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - [Clubbed: a visual history of UK club culture](https://www.f37foundry.com/goods/clubbed)
 - [Parks – Standards Manual](https://standardsmanual.com/products/parks)
 - [Apartamento Tokyo Style, Kyoichi Tsuzuki](https://shop-vestige.com/products/tokyo-style-kyoichi-tsuzuki)
-- [How to Do Nothing by Jenny Odell](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612197494/)
-- [The Best Interface is No Interface](http://www.nointerface.com/)
 
 ## Comics
 
