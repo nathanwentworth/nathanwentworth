@@ -28,11 +28,14 @@ section.photos {
     transition: color 0.2s;
   }
   .photo {
-    display: inline-block;
-    max-height: 80px;
+    display: block;
+    height: 500px;
+    width: auto;
+    /*width: 100%;*/
     margin-right: 1rem;
     margin-bottom: 1rem;
     cursor: zoom-in;
+    border-radius: 3px;
   }
 }
 

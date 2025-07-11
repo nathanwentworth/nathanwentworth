@@ -13,15 +13,17 @@ layout: clean
       {% assign date = currentdate %}
       <div class="photo-inner">
     {% endif %}
-    {% unless photo.basename contains "-xs" %}
-      <img class="photo lazyload" src="{{ photo.path | replace: '.jpg', '-xs.jpg' }}" alt="{{ photo.basename }}" data-id="{{ photo.basename }}" data-lg-src="{{ photo.path }}" onclick="lightbox.setImg('{{ photo.path }}')">
+    {% unless photo.path contains "/sm/" %}
+      <picture>
+        <img loading="lazy" height="500" width="auto" class="photo lazyload" src="{{ photo.path | replace: photo.name, '' }}sm/{{ photo.name }}" alt="{{ photo.basename }}" data-id="{{ photo.basename }}" data-lg-src="{{ photo.path }}" onclick="lightbox.setImg('{{ photo.path }}')">
+      </picture>
     {% endunless %}
   {% if forloop.last %}</div></div>{% endif %}
   {% endfor %}
 </section>
 
 <style type="text/css">
-  body { background-color: #333; }
+  html, body { background-color: #eee; background-image: none; }
 </style>
 
 {% include lightbox.html %}

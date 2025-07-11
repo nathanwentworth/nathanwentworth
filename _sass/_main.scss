@@ -492,6 +492,9 @@ header.small {
   overflow-x: scroll;
   overflow-y: hidden;
 }
+.mastodon .images:not(:has(*)) {
+  display: none;
+}
 .mastodon .images a {
   text-decoration: none;
   border-bottom: none;

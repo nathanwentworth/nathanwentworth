@@ -26,6 +26,11 @@ layout: default
 
   <section class="columns">
     <div class="column-item">
+      {% assign photo = site.static_files | where: "photo", true | sort: 'basename' | reverse | first %}
+      <h1 class="page-title color-01"><img alt="" src="/assets/img/softbank-emoji-2004/wind-chime_1f390.gif"> <a href="/photos/" class="color-01">Photos</a></h1>
+      <div style="height: 276px;"><img style="height: 100%;" class="portrait" src="{{ photo.path }}"></div>
+    </div>
+<!--     <div class="column-item">
       <h1 class="page-title color-01"><img alt="" src="/assets/img/softbank-emoji-2004/personal-computer_1f4bb.gif"> <a href="/projects/" class="color-01">Projects</a></h1>
       <ul class="no-indent">
       {% assign projects = site.projects | reverse %}
@@ -43,7 +48,7 @@ layout: default
         </li>
 
       </ul>
-    </div>
+    </div> -->
     <div class="column-item">
       <h1 class="page-title color-01"><img alt="" src="/assets/img/softbank-emoji-2004/memo_1f4dd.gif"> <a href="/posts/" class="color-01">Posts</a></h1>
       <ul class="no-indent">
@@ -96,6 +101,7 @@ layout: default
       <ul>
         <li><a href="https://wickedlyethan.com">Ethan Thibault</a></li>
         <li><img class="emoji" src="/assets/img/posts/sites-i-like/allie.png"> <a href="https://garden.alliecaton.com">Allie's Digital Garden</a></li>
+        <li><a href="https://sean666.bearblog.dev">Sean</a></li>
         <li><img class="emoji" src="/assets/img/posts/sites-i-like/xxiivv.png"> <a href="https://wiki.xxiivv.com/">Devine Lu Linvega</a></li>
         <li><img class="emoji" src="/assets/img/posts/sites-i-like/heckscaper.ico"> <a href="https://heckscaper.com">Emma Essex</a></li>
         <li><img class="emoji" src="/assets/img/posts/sites-i-like/cinni-icon.png"> <a href="https://cinni.net/">♡ cinni's dream home ♡</a></li>

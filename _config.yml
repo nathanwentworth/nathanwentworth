@@ -67,11 +67,7 @@ defaults:
       author: "Nathan Wentworth"
       img_path: /assets/img/project/:title/
   - scope:
-      path: "assets/img/photos"
-    values:
-      photo: true
-  - scope:
-      path: "assets/img/photos-sm"
+      path: "assets/img/photos/"
     values:
       photo: true
 
