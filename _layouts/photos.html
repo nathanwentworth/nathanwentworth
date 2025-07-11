@@ -3,7 +3,7 @@ layout: clean
 ---
 
 <section class="photos">
-  {% assign photo_files = site.static_files | where: "photo", true | sort: 'basename' | reverse %}
+  {% assign photo_files = site.static_files | where: "photo", true | sort: "basename" | reverse %}
   {% for photo in photo_files %}
     {% assign currentdate = photo.basename | split: '-' | first %}
     {% if currentdate != date %}
