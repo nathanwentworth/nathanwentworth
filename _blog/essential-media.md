@@ -51,7 +51,7 @@ For more frequently updated things that I like (maybe not as much as the things 
 
 - Oyasumi Punpun
 - Solanin
-- Asterios Polyp
+- A frog in the fall (and later on)
 
 ## Games
 
