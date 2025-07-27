@@ -312,6 +312,7 @@ article {
   margin: 0 !important;
   border-bottom: 2px dotted aliceblue;
   font-size: 1.5rem;
+  width: 100%;
 }
 .column-item .page-title a {
   border-bottom: none;
@@ -399,7 +400,7 @@ h1, h2, h3, h4, h5, .title {
 }
 h1 { font-size: 2rem; }
 h1 img { max-height: 1em; }
-time { color: var(--light-text); display: block; margin: auto; margin-top: 0.5em; }
+time { color: var(--light-text); display: block; margin: auto; margin-top: 1.5em; }
 .page-title { margin-top: 1em; margin-bottom: 0.25em; }
 
 ul, ol { padding-left: 1.5rem; }

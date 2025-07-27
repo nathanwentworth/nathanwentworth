@@ -19,11 +19,25 @@
   }
 
   figure {
-    max-width: var(--w-slim);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: auto;
+    max-width: 100%;
 
     &.wide {
       max-width: var(--w-wide);
     }
+  }
+
+  p + figure,
+  p + .img-block {
+    margin-top: 2rem;
+  }
+
+  .page-title {
+    max-width: 100%;
   }
 
   img {

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mogrify -resize 2048x2048\> -path ./sm *.jpeg
+mogrify -resize 1200x1200\> -path ../small *.jpeg
