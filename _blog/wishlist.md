@@ -26,13 +26,11 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ## Books
 
 - Masks by Fumiko Enchi
-- Annihilation by Jeff Vandermeer
 - Snow Crash by Neal Stephenson
 - The Left Hand of Darkness by Ursula K. Le Guin
 - Pattern Recognition by William Gibson
-- Neuromancer by William Gibson
 
-- [Ametora: How Japan Saved American Style](https://www.hachettebookgroup.com/titles/w-david-marx/ametora/9781541604339/)
+- [The Outdoor Archive](https://bookshop.org/p/books/the-outdoor-archive-the-ultimate-collection-of-adventure-sporting-graphics-illustrations-and-gear-chase-anderson/82a22ab4a0a62ce9?ean=9780500025994&next=t)
 - [Illustration Making & Visual Book: Itsuka Illustration Works Itsu no Hi ka](https://www.cdjapan.co.jp/product/NEOBK-2804922)
 - [Asupara Art Book: A collection of illustrations that capture moments 2015-2023](https://www.cdjapan.co.jp/product/NEOBK-2833016)
 - [Clubbed: a visual history of UK club culture](https://www.f37foundry.com/goods/clubbed)

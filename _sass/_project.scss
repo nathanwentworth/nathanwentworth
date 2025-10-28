@@ -14,8 +14,12 @@
     }
   }
 
-  p, h1, h2, h3, h4, h5, time {
+  p, h1, h2, h3, h4, h5, time, ul, ol {
     max-width: var(--w-slim);
+  }
+
+  ul {
+    margin: 1.35em auto;
   }
 
   figure {
