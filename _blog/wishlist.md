@@ -1,6 +1,6 @@
 ---
 title: Wishlist
-date: 2024-12-31
+date: 2025-10-29
 ---
 A consistently-updated list of things that I want to buy, gift ideas, etc! Bold things are higher priority/desire.
 
