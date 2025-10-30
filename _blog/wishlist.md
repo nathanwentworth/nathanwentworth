@@ -11,17 +11,26 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 ## Things/Clothing
 
-- Loose leaf teas!
+- Loose leaf teas
   - [Broken Cup Teahouse](https://brokencupteahouse.square.site) <- my favorite!!! really good oolongs
   - [Mem Tea](https://www.memteaimports.com/)
-  - [ippodo tea](https://ippodotea.com/)
-- [Red Kyusu (Side Handle Teapot) - 12 oz](https://memteaimports.com/products/red-kyusu-side-handle-teapot-12-oz)
-- [Japanese Dishcloth – mogutable](https://mogutable.com/collections/linens/products/japanese-dishcloth?variant=44289587904749)
-- [Alpaca Woven Scarf | Industry of All Nations](https://industryofallnations.com/collections/accessories/products/alpaca-woven-scarf?variant=41265832886427)
-- [Buck Mason Draped Twill One Pocket Shirt, Natural, Medium](https://www.buckmason.com/products/natural-draped-twill-one-pocket-shirt?variant=31979307466835)
-- [Beams Plus BD Oxford Shirt, Large](https://www.ssense.com/en-us/men/product/beams-plus/blue-bd-oxford-shirt/16291141)
-- [Rototo socks (medium)](https://haku-clothing.com/products/010879-0-01?_pos=6&_sid=9594c2e0a&_ss=r)
-- [Nishiguchi Kutsushita socks (large)](https://www.bostongeneralstore.com/collections/nishiguchi-kutsushita)
+  - [Jade Leaf oolong/black teas](https://thejadeleaf.com/collections/oolong-tea)
+- clothing
+  - [Alpaca Woven Scarf | Industry of All Nations](https://industryofallnations.com/collections/accessories/products/alpaca-woven-scarf?variant=41265832886427)
+  - [Buck Mason Draped Twill One Pocket Shirt, Natural, Medium](https://www.buckmason.com/products/natural-draped-twill-one-pocket-shirt?variant=31979307466835)
+  - [Nishiguchi Kutsushita socks (large)](https://www.bostongeneralstore.com/collections/nishiguchi-kutsushita)
+- games/tech
+  - [Retrotink 2X Pro](https://www.retrotink.com/shop/retrotink-2x-pro)
+  - [Analogue Pocket](https://store.analogue.co/products/analogue-pocket-white)
+- camera
+  - [Fotagogo Metal Waist-Level Viewfinder 35MM/Black](https://www.fotagogo.com/products/wlvm?variant=44138153181360)
+  - [KODAK EKTAR H35N (Green)](https://www.kodak.retopro.co/products/kodak-ektar-h35n-half-frame-film-camera?variant=50799158198436)
+- bike stuff
+  - [multi - crankbrothers M Series Multi Tool](https://www.rivbike.com/products/tool-multi-crankbrothers-m-series-multi-tool-20?variant=41582037729391)
+  - [Mike Miniplumper](https://www.rivbike.com/products/mike-miniplumper)
+  - [Fujiya Adjustable Wrench](https://www.rivbike.com/products/crescent-wrench)
+- other
+  - [Penco Drafting Writer Ballpoint Pen - 0.5mm (Silver)](https://yosekastationery.com/products/penco-drafting-writer-ballpoint-pen-0-5mm?variant=42040032395477)
 
 ## Books
 
@@ -68,6 +77,7 @@ I have a [to-buy list on inprnt](https://www.inprnt.com/collections/nathanwentwo
 
 ## Blu-rays/DVDs
 
+- [Criterion: The World of Wong Kar Wai](https://www.criterion.com/boxsets/4117-world-of-wong-kar-wai)
 - [Kizumonogatari](https://www.animecornerstore.com/kizumonogatari.html)
 - [Mobile Suit Gundam 08th MS Team BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-08th-MS-Team-Blu-ray)
 - [Mobile Suit Gundam 0080 War In the Pocket BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-0080-War-In-the-Pocket-Blu-ray)
