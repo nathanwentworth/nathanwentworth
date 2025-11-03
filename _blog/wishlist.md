@@ -22,6 +22,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 - games/tech
   - [Retrotink 2X Pro](https://www.retrotink.com/shop/retrotink-2x-pro)
   - [Analogue Pocket](https://store.analogue.co/products/analogue-pocket-white)
+  - [xteink x4 (frost white)](https://www.xteink.com/products/xteink-x4?variant=46914764177649)
 - camera
   - [Fotagogo Metal Waist-Level Viewfinder 35MM/Black](https://www.fotagogo.com/products/wlvm?variant=44138153181360)
   - [KODAK EKTAR H35N (Green)](https://www.kodak.retopro.co/products/kodak-ektar-h35n-half-frame-film-camera?variant=50799158198436)
