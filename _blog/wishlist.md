@@ -20,9 +20,11 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
   - [Buck Mason Draped Twill One Pocket Shirt, Natural, Medium](https://www.buckmason.com/products/natural-draped-twill-one-pocket-shirt?variant=31979307466835)
   - [Nishiguchi Kutsushita socks (large)](https://www.bostongeneralstore.com/collections/nishiguchi-kutsushita)
 - games/tech
-  - [Retrotink 2X Pro](https://www.retrotink.com/shop/retrotink-2x-pro)
-  - [Analogue Pocket](https://store.analogue.co/products/analogue-pocket-white)
+  - [ZD O+ Excellence Wireless Controller (White)](https://zd-gaming.com/products/zd-o-excellence-wireless-controller?variant=44546488008757)
+  - [8BitDo Ultimate 2 Bluetooth Controller (White)](https://shop.8bitdo.com/products/8bitdo-ultimate-2-bluetooth-controller?variant=45366526116017)
+  - [Analogue Pocket (white)](https://store.analogue.co/products/analogue-pocket-white)
   - [xteink x4 (frost white)](https://www.xteink.com/products/xteink-x4?variant=46914764177649)
+  - [Boox Palma 2 (white)](https://shop.boox.com/products/palma2)
 - camera
   - [Fotagogo Metal Waist-Level Viewfinder 35MM/Black](https://www.fotagogo.com/products/wlvm?variant=44138153181360)
   - [KODAK EKTAR H35N (Green)](https://www.kodak.retopro.co/products/kodak-ektar-h35n-half-frame-film-camera?variant=50799158198436)
