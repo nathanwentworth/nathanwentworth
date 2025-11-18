@@ -16,7 +16,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
   - [Mem Tea](https://www.memteaimports.com/)
   - [Jade Leaf oolong/black teas](https://thejadeleaf.com/collections/oolong-tea)
 - clothing
-  - [Alpaca Woven Scarf | Industry of All Nations](https://industryofallnations.com/collections/accessories/products/alpaca-woven-scarf?variant=41265832886427)
+  - [Alpaca Woven Scarf - Industry of All Nations](https://industryofallnations.com/collections/accessories/products/alpaca-woven-scarf?variant=41265832886427)
   - [Buck Mason Draped Twill One Pocket Shirt, Natural, Medium](https://www.buckmason.com/products/natural-draped-twill-one-pocket-shirt?variant=31979307466835)
   - [Nishiguchi Kutsushita socks (large)](https://www.bostongeneralstore.com/collections/nishiguchi-kutsushita)
 - games/tech
