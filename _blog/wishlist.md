@@ -2,7 +2,8 @@
 title: Wishlist
 date: 2025-10-29
 ---
-A consistently-updated list of things that I want to buy, gift ideas, etc! Bold things are higher priority/desire.
+
+A consistently-updated list of things that I want to buy, gift ideas, etc! **Bold** things are at the top of my list
 
 ## Gift Cards
 - **[Bandcamp](https://bandcamp.com/gift_cards)**
@@ -12,25 +13,26 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 ## Things/Clothing
 
 - Loose leaf teas
-  - [Broken Cup Teahouse](https://brokencupteahouse.square.site) <- my favorite!!! really good oolongs
+  - [**Broken Cup Teahouse**](https://brokencupteahouse.square.site) <- my favorite!!! really good oolongs
+  - [Jade Leaf oolong/black teas](https://thejadeleaf.com/collections/oolong-tea) <- second favorite! really love the formosan wild and red jade 18
   - [Mem Tea](https://www.memteaimports.com/)
-  - [Jade Leaf oolong/black teas](https://thejadeleaf.com/collections/oolong-tea)
 - clothing
-  - [Alpaca Woven Scarf - Industry of All Nations](https://industryofallnations.com/collections/accessories/products/alpaca-woven-scarf?variant=41265832886427)
-  - [Buck Mason Draped Twill One Pocket Shirt, Natural, Medium](https://www.buckmason.com/products/natural-draped-twill-one-pocket-shirt?variant=31979307466835)
+  - [Alpaca Woven Scarf - Industry of All Nations](https://industryofallnations.com/collections/accessories/products/alpaca-woven-scarf?variant=41265832755355)
+  - [Brut Best Sweat, heather grey (M)](https://brut-clothing.com/products/the-best-sweat-heather-grey?variant=49299627082060)
+  - Genevive Sweeney sweaters (M)
+    - [Brown](https://genevievesweeney.com/products/lunan-brushed-wool-sweater-brown?variant=51025760256339)
+    - [Off-white](https://genevievesweeney.com/products/lunan-brushed-wool-sweater-putty-melange?variant=51025731715411)
+    - [Green](https://genevievesweeney.com/products/ellon-lambswool-sweater-green-marl?variant=51025262248275)
+  - [Dehen 1920 Heavy Duty Tee (M or L, any color)](https://dehen1920.com/products/heavy-duty-tee-natural)
   - [Nishiguchi Kutsushita socks (large)](https://www.bostongeneralstore.com/collections/nishiguchi-kutsushita)
-- games/tech
+- tech/camera
+  - [**KODAK Snapic A1 35mm Film Camera (Ivory white)**](https://www.kodak.retopro.co/products/kodak-snapic-a1-35mm-film-camera?variant=51162678296740)
   - [ZD O+ Excellence Wireless Controller (White)](https://zd-gaming.com/products/zd-o-excellence-wireless-controller?variant=44546488008757)
     - w/ [Symmetrical Faceplate - Clear](https://zd-gaming.com/products/zd-o-excellence-faceplate?variant=47157370454190)
   - [8BitDo Ultimate 2 Bluetooth Controller (White)](https://shop.8bitdo.com/products/8bitdo-ultimate-2-bluetooth-controller?variant=45366526116017)
-  - [Analogue Pocket (white)](https://store.analogue.co/products/analogue-pocket-white)
-  - [Boox Palma 2 (white)](https://shop.boox.com/products/palma2)
-  - [xteink x4 (frost white)](https://www.xteink.com/products/xteink-x4?variant=46914764177649)
-- camera
   - [Fotagogo Metal Waist-Level Viewfinder 35MM/Black](https://www.fotagogo.com/products/wlvm?variant=44138153181360)
-  - [KODAK EKTAR H35N (Green)](https://www.kodak.retopro.co/products/kodak-ektar-h35n-half-frame-film-camera?variant=50799158198436)
 - bike stuff
-  - [multi - crankbrothers M Series Multi Tool](https://www.rivbike.com/products/tool-multi-crankbrothers-m-series-multi-tool-20?variant=41582037729391)
+  - [Crankbrothers M Series Multi Tool](https://www.rivbike.com/products/tool-multi-crankbrothers-m-series-multi-tool-20?variant=41582037729391)
   - [Mike Miniplumper](https://www.rivbike.com/products/mike-miniplumper)
   - [Fujiya Adjustable Wrench](https://www.rivbike.com/products/crescent-wrench)
 - other
@@ -54,16 +56,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! Bold 
 
 - [Look Back](https://www.viz.com/manga-books/manga/look-back/product/7195)
 - [Tekkonkinkreet: Black &amp; White 30th Anniversary Edition by Taiyo Matsumoto](https://bookshop.org/p/books/tekkonkinkreet-black-white-30th-anniversary-edition-taiyo-matsumoto/19805909)
-- [This Was Our Pact by Ryan Andrews](https://us.macmillan.com/books/9781626720534?utm_source=socialmedia&utm_medium=socialpost&utm_term=na-thiswasourpactsocial&utm_content=na-buy-buynow&utm_campaign=9781626720534)
 - [Gundam the Origin](http://www.vertical-inc.com/books/gundam.html)
-- [Tekkon Kinkreet](https://www.viz.com/read/manga/product/tekkonkinkreet-black-white/7203)
-- [Ayako](http://www.vertical-inc.com/books/ayako.html)
-- [Ran and the Gray World, Vol. 1](https://www.viz.com/read/manga/ran-and-the-gray-world-volume-1/product/5731)
-- [Nichijou Manga volume 1](https://www.rightstufanime.com/Nichijou-Manga-01)
-- [City Vol. 3](http://www.vertical-comics.com/books/city_03.php)
-- [Trashed](https://www.indiebound.org/book/9781419714542)
-- [The Marquis: Inferno](https://www.darkhorse.com/Books/15-859/The-Marquis-Inferno-TPB)
-- [Biomega, Vol. 1](https://www.viz.com/read/manga/biomega-volume-1/product/2255)
 
 ## Prints
 
@@ -83,10 +76,6 @@ I have a [to-buy list on inprnt](https://www.inprnt.com/collections/nathanwentwo
 
 - [Criterion: The World of Wong Kar Wai](https://www.criterion.com/boxsets/4117-world-of-wong-kar-wai)
 - [Kizumonogatari](https://www.animecornerstore.com/kizumonogatari.html)
-- [Mobile Suit Gundam 08th MS Team BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-08th-MS-Team-Blu-ray)
-- [Mobile Suit Gundam 0080 War In the Pocket BD](https://www.rightstufanime.com/Mobile-Suit-Gundam-0080-War-In-the-Pocket-Blu-ray)
 - [Eureka Seven](https://www.animecornerstore.com/eureka7.html)
 - [Gunbuster](https://www.animecornerstore.com/gubovase.html)
-- [Mob Psycho 100 (season 1)](https://www.animecornerstore.com/mobpsycho100.html)
-- [Promare Blu-ray/DVD](https://www.animecornerstore.com/promare.html)
 
