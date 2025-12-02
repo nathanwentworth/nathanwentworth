@@ -1,6 +1,6 @@
 ---
 title: Wishlist
-date: 2025-10-29
+date: 2025-11-28
 ---
 
 A consistently-updated list of things that I want to buy, gift ideas, etc! **Bold** things are at the top of my list
@@ -40,6 +40,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! **Bol
 
 ## Books
 
+- [Butcher's Crossing by John Williams](https://www.nyrb.com/products/butchers-crossing)
 - Masks by Fumiko Enchi
 - Snow Crash by Neal Stephenson
 - The Left Hand of Darkness by Ursula K. Le Guin
