@@ -1090,6 +1090,20 @@ ul.no-arrow li::before {
 
   .page-title {
     max-width: 100%;
+
+    * {
+      max-width: var(--w-slim);
+    }
+
+    h1 {
+      margin: auto;
+    }
+
+    time {
+      font-size: 1rem;
+      margin: auto;
+      margin-top: 1em;
+    }
   }
 
   img {
