@@ -1,11 +1,21 @@
 ---
-Title: Essential Media
+title: Essential Media
 date: 2020-03-30
 ---
 
+<style>
+  .img-block {
+    align-items: flex-start;
+  }
+  .project figure {
+    flex-basis: 33%;
+    margin-top: 0;
+  }
+</style>
+
 Favorite music, comics, games, etc.
 
-<!-- convert x.jpg -resize 256x\> x.jpg -->
+<!-- magick x.jpg -resize 256x\> x.jpg -->
 
 For more frequently updated things that I like (maybe not as much as the things here), check out my [recommendations page](/recommendations)! You might also be interested in [websites I like](/posts/sites-i-like).
 
@@ -14,19 +24,19 @@ For more frequently updated things that I like (maybe not as much as the things 
 ### Albums
 
 <div class="img-block">
-  {% include img.html url='hurtbreak.jpg' alt='hurtbreak wonderland' desc='[Hurtbreak Wonderland](https://virginbabylonrecords.bandcamp.com/album/hurtbreak-wonderland) - World\'s End Girlfriend' %}
-  {% include img.html url='rival-dealer.jpg' alt='rival dealer' desc='[Rival Dealer](https://burial.bandcamp.com/album/burial-rival-dealer-hdb080) - Burial' %}
-  {% include img.html url='ysbhh.jpg' alt='you should be at home here' desc='[You Should Be at Home Here](https://carissaswierd.bandcamp.com/album/you-should-be-at-home-here) - Carissa\'s Wierd' %}
+  {% include img.html url='nurture.jpg' alt='nurture' desc='Porter Robinson - [Nurture](https://en.wikipedia.org/wiki/Nurture_(album))' %}
+  {% include img.html url='rival-dealer.jpg' alt='rival dealer' desc='Burial - [Rival Dealer](https://burial.bandcamp.com/album/burial-rival-dealer-hdb080)' %}
+  {% include img.html url='ysbhh.jpg' alt='you should be at home here' desc='Carissa\'s Wierd - [You Should Be at Home Here](https://carissaswierd.bandcamp.com/album/you-should-be-at-home-here)' %}
 </div>
 <div class="img-block">
-  {% include img.html url='ttng.jpg' alt='this town needs guns' desc='[This Town Needs Guns](https://thistownneedsguns.bandcamp.com/album/this-town-needs-guns) - This Town Needs Guns' %}
-  {% include img.html url='american-football.jpg' alt='american football' desc='[American Football](https://americanfootball.bandcamp.com/album/american-football) - American Football' %}
-  {% include img.html url='capsule-silence.png' alt='capsule silence' desc='[Capsule Silence XXIV](https://anamanaguchi.wetransfer.com/downloads/a697e95f98bf5f859dc5a78f394ad6f720160406171459/34b540) - Anamanaguchi' %}
+  {% include img.html url='maidsan.jpg' alt='maid san and witch' desc='gaburyu - [メイドサントウィッチ](https://ototoy.jp/_/default/p/2213377)' %}
+  {% include img.html url='american-football.jpg' alt='american football' desc='American Football - [American Football](https://americanfootball.bandcamp.com/album/american-football)' %}
+  {% include img.html url='capsule-silence.png' alt='capsule silence' desc='Anamanaguchi - [Capsule Silence XXIV](https://anamanaguchi.wetransfer.com/downloads/a697e95f98bf5f859dc5a78f394ad6f720160406171459/34b540)' %}
 </div>
 <div class="img-block">
-  {% include img.html url='romaplasm.jpg' alt='romaplasm' desc='[Romaplasm](http://www.anticon.com/item/romaplasm) - Baths' %}
-  {% include img.html url='gec.jpg' alt='1000 gecs' desc='[1000 gecs](https://100gecs.bandcamp.com/album/1000-gecs) - 100 gecs' %}
-  {% include img.html url='gybe.jpg' alt='lift your skinny fists like antennas to heaven' desc='[Lift Your Skinny Fists Like Antennas To Heaven](https://godspeedyoublackemperor.bandcamp.com/album/lift-your-skinny-fists-like-antennas-to-heaven) - Godspeed You! Black Emperor' %}
+  {% include img.html url='romaplasm.jpg' alt='romaplasm' desc='Baths - [Romaplasm](http://www.anticon.com/item/romaplasm)' %}
+  {% include img.html url='gec.jpg' alt='1000 gecs' desc='100 gecs - [1000 gecs](https://100gecs.bandcamp.com/album/1000-gecs)' %}
+  {% include img.html url='gybe.jpg' alt='lift your skinny fists like antennas to heaven' desc='Godspeed You! Black Emperor - [Lift Your Skinny Fists Like Antennas To Heaven](https://godspeedyoublackemperor.bandcamp.com/album/lift-your-skinny-fists-like-antennas-to-heaven)' %}
 </div>
 
 ### Songs
