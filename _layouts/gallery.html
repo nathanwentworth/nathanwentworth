@@ -60,7 +60,7 @@ layout: default
         {% assign diff = nowunix | minus: postNum %}
 
         <li class="archive-entry">
-          <a href="{{ entry.url }}">{{ entry.title }}</a> <a class="date" href="/posts/#y:{{ entry.date | date:'%Y' }}">{{ entry.date | date:'%Y' }}</a>{% if diff < 604800 %}<span class="new">NEW!</span>{% endif %}
+          <a href="{{ entry.url }}">{{ entry.title }}</a> {% if diff < 604800 %}<span class="new">NEW!</span>{% endif %}
         </li>
       {% endfor %}
         <li class="archive-entry">
