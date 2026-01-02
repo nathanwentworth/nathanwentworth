@@ -13,33 +13,37 @@ layout: default
     <div class="info">
       <div class="info-section info-upper">
         <h1>{{ page.title }}</h1>
-        <form class="filter-form" onsubmit="return false">
+<!--         <form class="filter-form" onsubmit="return false">
           <input id="filter-input" type="text" class="filter-input" name="filter-input" placeholder="tag, year, or title"><input id="submit" type="submit" class="filter-submit" name="filter-submit" value="filter">
-        </form>
+        </form> -->
       </div>
     </div>
+    {% assign year = entry.date | date: '%Y' %}
     {% unless page.collection == 'ppages' %}
       {% assign posts = site[page.collection] | sort: 'date' %}
     {% else %}
       {% assign posts = site[page.collection] | sort: 'title' | reverse %}
     {% endunless %}
-    <ul id="main-content" class="no-indent">
 
-      {% for entry in posts reversed %}
-      <li class="entry" data-t="{{ entry.tags | join: '|' }}{% if entry.tags.size > 0 %}|{% endif %}{{ entry.title | downcase }}" data-y="{{ entry.date | date: '%Y' }}" data-c="{{ entry.type }}">
-        <div class="title-container">
-          <h3><a class="title" href="{{ site.github.url }}{{ entry.url }}">{{ entry.title }}</a></h3>
-          {% unless page.collection == 'ppages' %}
-          <a href="#y:{{entry.date | date: '%Y'}}" class="tag">{{entry.date | date: '%Y'}}</a>
-          {% endunless %}
-        </div>
-        {% if entry.excerpt and entry.hide_excerpt != true %}
-        <blockquote class="project-description">{{ entry.excerpt | strip_html | truncatewords: 50  }}</blockquote>
-        {% endif %}
-      </li>
-      {% endfor %}
-
-    </ul>
+    {% for entry in posts reversed %}
+      {% assign currentdate = entry.date | date: "%Y" %}
+      {% if currentdate != date %}
+        {% unless forloop.first %}</ul>{% endunless %}
+        <h2 id="y{{entry.date | date: "%Y"}}">{{ currentdate }}</h2>
+        <ul>
+        {% assign date = currentdate %}
+      {% endif %}
+        <li class="entry" data-t="{{ entry.tags | join: '|' }}{% if entry.tags.size > 0 %}|{% endif %}{{ entry.title | downcase }}" data-y="{{ entry.date | date: '%Y' }}" data-c="{{ entry.type }}">
+          <div class="title-container">
+            <h3><a class="title" href="{{ site.github.url }}{{ entry.url }}">{{ entry.title }}</a></h3>
+            <time datetime="{{entry.date | date: "%Y-%m-%d"}}">{{entry.date | date: "%Y-%m-%d"}}</time>
+          </div>
+          {% if entry.excerpt and entry.hide_excerpt != true %}
+          <blockquote class="project-description">{{ entry.excerpt | strip_html | truncatewords: 50  }}</blockquote>
+          {% endif %}
+        </li>
+      {% if forloop.last %}</ul>{% endif %}
+    {% endfor %}
 
     <div id="nothing-found" class="nothing-found hidden"></div>
     <button id="clear-filter" class="clear-filter">Clear filter</button>
