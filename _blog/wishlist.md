@@ -75,6 +75,8 @@ I have a [to-buy list on inprnt](https://www.inprnt.com/collections/nathanwentwo
 
 ## Blu-rays/DVDs
 
+- [A Brighter Summer Day (1991) | The Criterion Collection](https://www.criterion.com/films/28596-a-brighter-summer-day)
+- [Yi Yi (2000) | The Criterion Collection](https://www.criterion.com/films/781-yi-yi)
 - [Criterion: The World of Wong Kar Wai](https://www.criterion.com/boxsets/4117-world-of-wong-kar-wai)
 - [Kizumonogatari](https://www.animecornerstore.com/kizumonogatari.html)
 - [Eureka Seven](https://www.animecornerstore.com/eureka7.html)

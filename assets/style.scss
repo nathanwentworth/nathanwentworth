@@ -365,7 +365,12 @@ video {
   margin: auto;
   margin-bottom: 0.5rem;
   max-width: 100%;
+  min-width: 0;
+  flex-basis: 100%;
   border-radius: 3px;
+}
+.img-block video + video {
+  margin-left: 0.5rem;
 }
 
 figure {
@@ -637,10 +642,13 @@ header.small {
 
 .new {
   font-family: 'silkscreen', monospace;
+  font-weight: bold;
   font-size: 14px;
   margin-left: 0.5em;
   color: var(--color-01);
   animation: 1s new-anim infinite linear;
+  position: absolute;
+  transform: translate(-3px, 2px) rotate(10deg);
 }
 @keyframes new-anim {
   0% {
