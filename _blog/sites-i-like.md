@@ -24,6 +24,7 @@ Inspired by the [XXIIVV webring](https://webring.xxiivv.com/) (which I'm part of
 - [♡ cinni's dream home ♡](https://cinni.net/)
 - [努力 未来 BEAUTIFUL STAR](https://goo.neocities.org/)
 - [Low Tech Webring Directory](https://emreed.net/LowTech_Directory.html)
+- [★ ぶいぶい〜](https://happyfridayda.com/)
 
 ## Portfolios
 
