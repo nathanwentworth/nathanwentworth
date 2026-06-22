@@ -576,9 +576,12 @@ article iframe {
 
 
 blockquote {
-  border-left: 4px solid rgba(128, 128, 128, 0.5);
-  margin-left: 0;
-  padding-left: 1rem;
+  font-family: Georgia, serif;
+  max-width: var(--w-slim);
+  margin: auto;
+  padding-left: 2rem;
+  border-left: 4px solid rgba(128, 128, 128, 0.25);
+  border-radius: 4px;
 }
 
 blockquote *:first-child {
