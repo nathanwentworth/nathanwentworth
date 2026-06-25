@@ -1089,6 +1089,7 @@ ul.no-arrow li::before {
   p, h1, h2, h3, h4, h5, time, ul, ol {
     max-width: var(--w-slim);
   }
+  .w-slim { max-width: var(--w-slim); }
 
   > ul,
   > ol {

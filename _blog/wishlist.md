@@ -26,10 +26,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! **Bol
   - [Dehen 1920 Heavy Duty Tee (M or L, any color)](https://dehen1920.com/products/heavy-duty-tee-natural)
   - [Nishiguchi Kutsushita socks (large)](https://www.bostongeneralstore.com/collections/nishiguchi-kutsushita)
 - tech/camera
-  - [**KODAK Snapic A1 35mm Film Camera (Ivory white)**](https://www.kodak.retopro.co/products/kodak-snapic-a1-35mm-film-camera?variant=51162678296740)
-  - [ZD O+ Excellence Wireless Controller (White)](https://zd-gaming.com/products/zd-o-excellence-wireless-controller?variant=44546488008757)
-    - w/ [Symmetrical Faceplate - Clear](https://zd-gaming.com/products/zd-o-excellence-faceplate?variant=47157370454190)
-  - [8BitDo Ultimate 2 Bluetooth Controller (White)](https://shop.8bitdo.com/products/8bitdo-ultimate-2-bluetooth-controller?variant=45366526116017)
   - [Fotagogo Metal Waist-Level Viewfinder 35MM/Black](https://www.fotagogo.com/products/wlvm?variant=44138153181360)
 - bike stuff
   - [Crankbrothers M Series Multi Tool](https://www.rivbike.com/products/tool-multi-crankbrothers-m-series-multi-tool-20?variant=41582037729391)
@@ -40,7 +36,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! **Bol
 
 ## Books
 
-- [Butcher's Crossing by John Williams](https://www.nyrb.com/products/butchers-crossing)
 - Masks by Fumiko Enchi
 - Snow Crash by Neal Stephenson
 - The Left Hand of Darkness by Ursula K. Le Guin
@@ -66,19 +61,10 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! **Bol
 
 I have a [to-buy list on inprnt](https://www.inprnt.com/collections/nathanwentworth/favorites/), i love all of these!
 
-## Video Games
-
-- Armored Core VI (PS4)
-- Final Fantasy XII: The Zodiac Age (PS4)
-- Sekiro: Shadows Die Twice (PS4)
-- Spyro Reignited Trilogy (PS4)
-
 ## Blu-rays/DVDs
 
-- [A Brighter Summer Day (1991) | The Criterion Collection](https://www.criterion.com/films/28596-a-brighter-summer-day)
-- [Yi Yi (2000) | The Criterion Collection](https://www.criterion.com/films/781-yi-yi)
+- [A Brighter Summer Day (1991)](https://www.criterion.com/films/28596-a-brighter-summer-day)
 - [Criterion: The World of Wong Kar Wai](https://www.criterion.com/boxsets/4117-world-of-wong-kar-wai)
 - [Kizumonogatari](https://www.animecornerstore.com/kizumonogatari.html)
 - [Eureka Seven](https://www.animecornerstore.com/eureka7.html)
 - [Gunbuster](https://www.animecornerstore.com/gubovase.html)
-
