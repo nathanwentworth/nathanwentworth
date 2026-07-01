@@ -18,7 +18,7 @@ let charR = document.getElementById('char-r');
 
 let assetsLoaded = 0;
 
-let baseUrl = '/assets/images/';
+let baseUrl = 'assets/images/';
 
 let loadComplete = false;
 let allChars = Object.keys(characters);
