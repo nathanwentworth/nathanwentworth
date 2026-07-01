@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ちいかわ</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      background-color: aliceblue;
+    }
+    #controls, #canvas {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      height: 575px;
+      width: 500px;
+      transform: translate(-50%, -50%);
+    }
+    #canvas {
+      box-shadow: 0 0 0 4px darkgrey;
+      border-radius: 16px;
+    }
+    #controls {
+      z-index: 1;
+    }
+    .hidden {
+      display: none;
+    }
+    #controls > * {
+      position: absolute;
+    }
+  </style>
+</head>
+<body>
+  <div class="hidden" id="controls">
+    <button id="char-l" style="left: 150px; top: 500px;">←</button>
+    <button id="char-r" style="right: 140px; top: 500px;">→</button>
+    <div style="left: 400px;">
+      <div>
+        <button class="slot" data-slot="face" data-dir="-1">←</button>
+        face
+        <button class="slot" data-slot="face" data-dir="1">→</button>
+      </div>
+      <div>
+        <button class="slot" data-slot="shirt" data-dir="-1">←</button>
+        shirt
+        <button class="slot" data-slot="shirt" data-dir="1">→</button>
+      </div>
+      <div>
+        <button class="slot" data-slot="pants" data-dir="-1">←</button>
+        pant
+        <button class="slot" data-slot="pants" data-dir="1">→</button>
+      </div>
+      <div>
+        <button class="slot" data-slot="accessory" data-dir="-1">←</button>
+        acc
+        <button class="slot" data-slot="accessory" data-dir="1">→</button>
+      </div>
+      <button id="dl">save</button>
+    </div>
+  </div>
+  <canvas id="canvas"></canvas>
+
+  <script src="/data.js" type="module"></script>
+  <script src="/main.js" type="module"></script>
+</body>
+</html>
