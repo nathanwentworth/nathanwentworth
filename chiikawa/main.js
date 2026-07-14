@@ -121,6 +121,7 @@ function getImg(name) {
       return assets[i];
     }
   }
+  console.error('could not find', name);
 }
 
 function download() {
