@@ -30,6 +30,32 @@
     #controls > * {
       position: absolute;
     }
+
+    #start {
+      position: absolute;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      top: 50%;
+      z-index: 2;
+      margin-top: 230px;
+    }
+    #loading-bar {
+      height: 24px;
+      width: 300px;
+      background-color: white;
+      border-radius: 8px;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      margin-top: 230px;
+      z-index: 1;
+      transform: translate(-50%, -50%);
+    }
+    #loading-bar div {
+      height: 100%;
+      background-color: green;
+      border-radius: 8px;
+    }
   </style>
 </head>
 <body>
@@ -60,6 +86,8 @@
       <button id="dl">save</button>
     </div>
   </div>
+  <button id="start">Start</button>
+  <div id="loading-bar" class="hidden"><div style="width: 0"></div></div>
   <canvas id="canvas"></canvas>
 
   <script src="data.js" type="module"></script>

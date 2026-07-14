@@ -16,6 +16,11 @@ let controls = document.getElementById('controls');
 let charL = document.getElementById('char-l');
 let charR = document.getElementById('char-r');
 
+let startBtn = document.getElementById('start');
+let loadingBar = document.getElementById('loading-bar');
+let loadingFill = document.querySelector('#loading-bar div');
+startBtn.addEventListener('click', load);
+
 let assetsLoaded = 0;
 
 let baseUrl = 'assets/images/';
@@ -36,18 +41,35 @@ canvas.width = 2000;
 canvas.height = 2300;
 
 
-for (let i = 0; i < assets.length; i++) {
-  const image = new Image(); // Using optional size for image
-  image.onload = loaded; // Draw when image has loaded
-  image.src = baseUrl + assets[i].url;
-  console.log('loading', baseUrl + assets[i].url);
-  assets[i].img = image;
+function loadSingle(url, callback) {
+  const image = new Image();
+  image.onload = () => { callback(image); };
+  image.src = url;
+  console.log('loading', url);
 }
+
+loadSingle(baseUrl + 'Start.PNG', (image) => {
+  ctx.drawImage(image, 0, 0);
+});
+
+function load() {
+  startBtn.classList.add('hidden');
+  loadingBar.classList.remove('hidden');
+  for (let i = 0; i < assets.length; i++) {
+    const image = new Image(); // Using optional size for image
+    image.onload = loaded; // Draw when image has loaded
+    image.src = baseUrl + assets[i].url;
+    console.log('loading', baseUrl + assets[i].url);
+    assets[i].img = image;
+  }
+}
+
 
 
 function loaded() {
   console.log('loaded', this);
   assetsLoaded++;
+  loadingFill.style.width = ((assetsLoaded / assets.length) * 100) + '%';
   if (assetsLoaded >= assets.length) {
     loadComplete = true;
     start();
@@ -56,6 +78,7 @@ function loaded() {
 
 function start() {
   controls.classList.remove('hidden');
+  loadingBar.classList.add('hidden');
 
   let slots = document.querySelectorAll('.slot');
   for (let i = 0; i < slots.length; i++) {
