@@ -7,7 +7,7 @@
 
 *****************************************************/
 
-import { assets, characters } from "./data.js";
+import { assets, raw_outfits, characters } from "./data.js";
 
 const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
@@ -29,16 +29,84 @@ let loadComplete = false;
 let allChars = Object.keys(characters);
 let currentCharacter = 0;
 let currentSlot = {
-  face: 1,
-  shirt: 1,
-  pants: 1,
-  accessory: 1
+  face: 0,
+  shirt: 0,
+  pants: 0,
+  accessory: 0
 };
+let currentBg = 0;
+let allBgs = assets.filter(x => x.file.indexOf('Backgrounds') > -1);
 
 console.log(assets);
 
 canvas.width = 2000;
 canvas.height = 2300;
+
+let outfits = {
+  chiikawa: {
+    accessory: [''],
+    face: [],
+    pants: [''],
+    shirt: [''],
+  },
+  furuhonya: {
+    accessory: [''],
+    face: [],
+    pants: [''],
+    shirt: [''],
+  },
+  hachiware: {
+    accessory: [''],
+    face: [],
+    pants: [''],
+    shirt: [''],
+  },
+  kurimanju: {
+    accessory: [''],
+    face: [],
+    pants: [''],
+    shirt: [''],
+  },
+  momonga: {
+    accessory: [''],
+    face: [],
+    pants: [''],
+    shirt: [''],
+  },
+  rakko: {
+    accessory: [''],
+    face: [],
+    pants: [''],
+    shirt: [''],
+  },
+  shisa: {
+    accessory: [''],
+    face: [],
+    pants: [''],
+    shirt: [''],
+  },
+  usagi: {
+    accessory: [''],
+    face: [],
+    pants: [''],
+    shirt: [''],
+  },
+};
+for (let i = 0; i < raw_outfits.length; i++) {
+  let item = raw_outfits[i];
+  // get the second matching instance which will be after "clothes"
+  // this is one of the most insane lines of code i've ever written
+  let slot = [...item.file.matchAll(/\/[a-zA-Z]+/g)].flat()[1].toLowerCase().substring(1);
+  if (item.chiikawa) { outfits.chiikawa[slot].push(item.file) }
+  if (item.furuhonya) { outfits.furuhonya[slot].push(item.file) }
+  if (item.hachiware) { outfits.hachiware[slot].push(item.file) }
+  if (item.kurimanju) { outfits.kurimanju[slot].push(item.file) }
+  if (item.momonga) { outfits.momonga[slot].push(item.file) }
+  if (item.rakko) { outfits.rakko[slot].push(item.file) }
+  if (item.shisa) { outfits.shisa[slot].push(item.file) }
+  if (item.usagi) { outfits.usagi[slot].push(item.file) }
+}
+console.log('outfits', outfits);
 
 
 function loadSingle(url, callback) {
@@ -55,11 +123,18 @@ loadSingle(baseUrl + 'Start.PNG', (image) => {
 function load() {
   startBtn.classList.add('hidden');
   loadingBar.classList.remove('hidden');
+  for (let i = 0; i < raw_outfits.length; i++) {
+    const image = new Image(); // Using optional size for image
+    image.onload = loaded; // Draw when image has loaded
+    image.src = baseUrl + raw_outfits[i].file;
+    // console.log('loading', baseUrl + raw_outfits[i].file);
+    raw_outfits[i].img = image;
+  }
   for (let i = 0; i < assets.length; i++) {
     const image = new Image(); // Using optional size for image
     image.onload = loaded; // Draw when image has loaded
-    image.src = baseUrl + assets[i].url;
-    console.log('loading', baseUrl + assets[i].url);
+    image.src = baseUrl + assets[i].file;
+    // console.log('loading', baseUrl + assets[i].file);
     assets[i].img = image;
   }
 }
@@ -67,10 +142,10 @@ function load() {
 
 
 function loaded() {
-  console.log('loaded', this);
+  // console.log('loaded', this);
   assetsLoaded++;
-  loadingFill.style.width = ((assetsLoaded / assets.length) * 100) + '%';
-  if (assetsLoaded >= assets.length) {
+  loadingFill.style.width = ((assetsLoaded / raw_outfits.length) * 100) + '%';
+  if (assetsLoaded >= raw_outfits.length + assets.length) {
     loadComplete = true;
     start();
   }
@@ -106,22 +181,34 @@ function changeCharacter(dir) {
 }
 
 function changeSlot(slot, dir) {
-  currentSlot[slot] = loopInt(currentSlot[slot] + dir, characters[allChars[currentCharacter]][slot], 1);
+  if (slot == 'bg') {
+    currentBg = loopInt(currentBg + dir, allBgs.length - 1, 0);
+    drawCharacter(allChars[currentCharacter]);
+    return;
+  }
+  let char = allChars[currentCharacter].toLowerCase();
+  currentSlot[slot] = loopInt(currentSlot[slot] + dir, outfits[char][slot].length - 1, 0);
+  console.log('drawing', outfits[char][slot][currentSlot[slot]]);
   drawCharacter(allChars[currentCharacter]);
 }
 
 function drawCharacter(name) {
-  ctx.clearRect(0, 0, canvas.width, canvas.height);
-  ctx.drawImage(getImg('Paper').img, 0, 0);
+  drawBg();
   let base = characters[name].base;
   for (let i = 0; i < base.length; i++) {
     draw(name + '/' + base[i]);
   }
-  draw(name + '/Clothes/Face' + currentSlot.face);
-  draw(name + '/Clothes/Pants' + currentSlot.pants);
-  draw(name + '/Clothes/Shirt' + currentSlot.shirt);
-  draw(name + '/Clothes/Accessory' + currentSlot.accessory);
+  draw(outfits[name.toLowerCase()].face[currentSlot.face]);
+  draw(outfits[name.toLowerCase()].pants[currentSlot.pants]);
+  draw(outfits[name.toLowerCase()].shirt[currentSlot.shirt]);
+  draw(outfits[name.toLowerCase()].accessory[currentSlot.accessory]);
   draw('Names/' + name);
+}
+
+function drawBg() {
+  let bg = allBgs[currentBg];
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  ctx.drawImage(bg.img, 0, 0);
 }
 
 function drawLayers() {
@@ -133,15 +220,25 @@ function drawLayers() {
 
 
 function draw(name) {
-  ctx.drawImage(getImg(name).img, 0, 0);
+  name = name.replace('.PNG', '');
+  let img = getImg(name);
+  if (!img) { return; }
+  ctx.drawImage(img.img, 0, 0);
 }
 
 
 function getImg(name) {
+  if (name.length < 1) { return; }
   for (let i = 0; i < assets.length; i++) {
-    let path = assets[i].url.substring(0, assets[i].url.lastIndexOf('.'));
+    let path = assets[i].file.substring(0, assets[i].file.lastIndexOf('.'));
     if (name == path) {
       return assets[i];
+    }
+  }
+  for (let i = 0; i < raw_outfits.length; i++) {
+    let path = raw_outfits[i].file.substring(0, raw_outfits[i].file.lastIndexOf('.'));
+    if (name == path) {
+      return raw_outfits[i];
     }
   }
   console.error('could not find', name);
@@ -171,7 +268,6 @@ function getRandomInt(min, max) {
 }
 
 function loopInt(val, max, min = 0) {
-  console.log('looping to', val, max);
   if (val < min) {
     val = max;
   } else if (val > max) {
