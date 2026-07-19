@@ -1862,9 +1862,9 @@ let assets = [
   { file: 'Backgrounds/Layer 23.PNG' },
   { file: 'Backgrounds/Layer 24.PNG' },
   { file: 'Backgrounds/Paper.PNG' },
-  { file: 'Backgrounds/Paper2.PNG' },
-  { file: 'Backgrounds/Paper3.PNG' },
-  { file: 'Backgrounds/Paper4.PNG' },
+  { file: 'Backgrounds/Paper2.png' },
+  { file: 'Backgrounds/Paper3.png' },
+  { file: 'Backgrounds/Paper4.png' },
   { file: 'Backgrounds/BG-black.png' },
   { file: 'Backgrounds/BG-blue.png' },
   { file: 'Backgrounds/BG-orange.png' },
@@ -1876,6 +1876,7 @@ let assets = [
   { file: 'Overlays/Overlay3.png' },
   { file: 'Overlays/Overlay4.png' },
 ]
+
 
 let characters = {
   Chiikawa: {
