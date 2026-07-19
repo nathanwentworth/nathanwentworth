@@ -35,7 +35,9 @@ let currentSlot = {
   accessory: 0
 };
 let currentBg = 0;
+let currentOverlay = 0;
 let allBgs = assets.filter(x => x.file.indexOf('Backgrounds') > -1);
+let allOverlays = [''].concat(assets.filter(x => x.file.indexOf('Overlays') > -1));
 
 console.log(assets);
 
@@ -43,54 +45,14 @@ canvas.width = 2000;
 canvas.height = 2300;
 
 let outfits = {
-  chiikawa: {
-    accessory: [''],
-    face: [],
-    pants: [''],
-    shirt: [''],
-  },
-  furuhonya: {
-    accessory: [''],
-    face: [],
-    pants: [''],
-    shirt: [''],
-  },
-  hachiware: {
-    accessory: [''],
-    face: [],
-    pants: [''],
-    shirt: [''],
-  },
-  kurimanju: {
-    accessory: [''],
-    face: [],
-    pants: [''],
-    shirt: [''],
-  },
-  momonga: {
-    accessory: [''],
-    face: [],
-    pants: [''],
-    shirt: [''],
-  },
-  rakko: {
-    accessory: [''],
-    face: [],
-    pants: [''],
-    shirt: [''],
-  },
-  shisa: {
-    accessory: [''],
-    face: [],
-    pants: [''],
-    shirt: [''],
-  },
-  usagi: {
-    accessory: [''],
-    face: [],
-    pants: [''],
-    shirt: [''],
-  },
+  chiikawa: { accessory: [], face: [], pants: [], shirt: [], },
+  furuhonya: { accessory: [], face: [], pants: [], shirt: [], },
+  hachiware: { accessory: [], face: [], pants: [], shirt: [], },
+  kurimanju: { accessory: [], face: [], pants: [], shirt: [], },
+  momonga: { accessory: [], face: [], pants: [], shirt: [], },
+  rakko: { accessory: [], face: [], pants: [], shirt: [], },
+  shisa: { accessory: [], face: [], pants: [], shirt: [], },
+  usagi: { accessory: [], face: [], pants: [], shirt: [], },
 };
 for (let i = 0; i < raw_outfits.length; i++) {
   let item = raw_outfits[i];
@@ -106,6 +68,23 @@ for (let i = 0; i < raw_outfits.length; i++) {
   if (item.shisa) { outfits.shisa[slot].push(item.file) }
   if (item.usagi) { outfits.usagi[slot].push(item.file) }
 }
+let outfitKeys = Object.keys(outfits);
+for (let i = 0; i < outfitKeys.length; i++) {
+  let key = outfitKeys[i];
+  let char = outfitKeys[key];
+
+  let slotKeys = Object.keys(outfits[key]);
+  for (let j = 0; j < slotKeys.length; j++) {
+    let orig = outfits[key][slotKeys[j]];
+    let newArr = [];
+    if (slotKeys[j] != 'face') {
+      newArr = [''];
+    }
+    outfits[key][slotKeys[j]] = newArr.concat(...orig.filter(x => x.toLowerCase().indexOf(key) > -1), ...orig.filter(x => x.toLowerCase().indexOf(key) == -1));
+  }
+}
+
+
 console.log('outfits', outfits);
 
 
@@ -144,7 +123,7 @@ function load() {
 function loaded() {
   // console.log('loaded', this);
   assetsLoaded++;
-  loadingFill.style.width = ((assetsLoaded / raw_outfits.length) * 100) + '%';
+  loadingFill.style.width = ((assetsLoaded / (raw_outfits.length + assets.length)) * 100) + '%';
   if (assetsLoaded >= raw_outfits.length + assets.length) {
     loadComplete = true;
     start();
@@ -176,6 +155,10 @@ function start() {
 }
 
 function changeCharacter(dir) {
+  currentSlot.face = 0;
+  currentSlot.shirt = 0;
+  currentSlot.pants = 0;
+  currentSlot.accessory = 0;
   currentCharacter = loopInt(currentCharacter + dir, allChars.length - 1);
   drawCharacter(allChars[currentCharacter]);
 }
@@ -183,6 +166,11 @@ function changeCharacter(dir) {
 function changeSlot(slot, dir) {
   if (slot == 'bg') {
     currentBg = loopInt(currentBg + dir, allBgs.length - 1, 0);
+    drawCharacter(allChars[currentCharacter]);
+    return;
+  }
+  if (slot == 'overlay') {
+    currentOverlay = loopInt(currentOverlay + dir, allOverlays.length - 1, 0);
     drawCharacter(allChars[currentCharacter]);
     return;
   }
@@ -194,6 +182,7 @@ function changeSlot(slot, dir) {
 
 function drawCharacter(name) {
   drawBg();
+  drawOverlay();
   let base = characters[name].base;
   for (let i = 0; i < base.length; i++) {
     draw(name + '/' + base[i]);
@@ -202,6 +191,8 @@ function drawCharacter(name) {
   draw(outfits[name.toLowerCase()].pants[currentSlot.pants]);
   draw(outfits[name.toLowerCase()].shirt[currentSlot.shirt]);
   draw(outfits[name.toLowerCase()].accessory[currentSlot.accessory]);
+
+
   draw('Names/' + name);
 }
 
@@ -209,6 +200,11 @@ function drawBg() {
   let bg = allBgs[currentBg];
   ctx.clearRect(0, 0, canvas.width, canvas.height);
   ctx.drawImage(bg.img, 0, 0);
+}
+function drawOverlay() {
+  let overlay = allOverlays[currentOverlay];
+  if (!overlay) { return; }
+  ctx.drawImage(overlay.img, 0, 0);
 }
 
 function drawLayers() {

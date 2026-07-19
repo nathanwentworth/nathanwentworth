@@ -1,9 +1,7 @@
 let raw_outfits = [
         {
             "file": "Chiikawa/Clothes/Accessory1.PNG",
-            "chiikawa": true,
-            "kurimanju": true,
-            "momonga": true
+            "chiikawa": true
         },
         {
             "file": "Chiikawa/Clothes/Accessory10.PNG",
@@ -17,15 +15,14 @@ let raw_outfits = [
         },
         {
             "file": "Chiikawa/Clothes/Accessory2.PNG",
-            "chiikawa": true,
-            "momonga": true
+            "chiikawa": true
         },
         {
             "file": "Chiikawa/Clothes/Accessory3.PNG",
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "momonga": true,
+            "rakko": true,
             "shisa": true,
             "usagi": true
         },
@@ -42,21 +39,18 @@ let raw_outfits = [
         },
         {
             "file": "Chiikawa/Clothes/Accessory5.PNG",
-            "chiikawa": true,
-            "momonga": true
+            "chiikawa": true
         },
         {
             "file": "Chiikawa/Clothes/Accessory6.PNG",
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "momonga": true,
             "rakko": true
         },
         {
             "file": "Chiikawa/Clothes/Accessory7.PNG",
-            "chiikawa": true,
-            "momonga": true
+            "chiikawa": true
         },
         {
             "file": "Chiikawa/Clothes/Accessory8.PNG",
@@ -69,8 +63,7 @@ let raw_outfits = [
         },
         {
             "file": "Chiikawa/Clothes/Accessory9.PNG",
-            "chiikawa": true,
-            "momonga": true
+            "chiikawa": true
         },
         {
             "file": "Chiikawa/Clothes/Face1.PNG",
@@ -94,9 +87,7 @@ let raw_outfits = [
         },
         {
             "file": "Chiikawa/Clothes/Pants1.PNG",
-            "chiikawa": true,
-            "momonga": true,
-            "rakko": true
+            "chiikawa": true
         },
         {
             "file": "Chiikawa/Clothes/Pants10.PNG",
@@ -104,16 +95,13 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
             "file": "Chiikawa/Clothes/Pants2.PNG",
             "chiikawa": true,
             "furuhonya": true,
-            "hachiware": true,
-            "momonga": true,
-            "rakko": true
+            "hachiware": true
         },
         {
             "file": "Chiikawa/Clothes/Pants3.PNG",
@@ -121,20 +109,16 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
             "file": "Chiikawa/Clothes/Pants4.PNG",
-            "chiikawa": true,
-            "momonga": true,
-            "rakko": true
+            "chiikawa": true
         },
         {
             "file": "Chiikawa/Clothes/Pants5.PNG",
             "chiikawa": true,
-            "momonga": true,
-            "rakko": true
+            "momonga": true
         },
         {
             "file": "Chiikawa/Clothes/Pants6.PNG",
@@ -142,7 +126,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
@@ -150,58 +133,46 @@ let raw_outfits = [
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "momonga": true,
-            "rakko": true
+            "momonga": true
         },
         {
             "file": "Chiikawa/Clothes/Pants8.PNG",
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "momonga": true,
-            "rakko": true
+            "momonga": true
         },
         {
             "file": "Chiikawa/Clothes/Pants9.PNG",
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
             "file": "Chiikawa/Clothes/Shirt1.PNG",
             "chiikawa": true,
-            "hachiware": true,
-            "momonga": true,
-            "rakko": true
+            "hachiware": true
         },
         {
             "file": "Chiikawa/Clothes/Shirt10.PNG",
             "chiikawa": true,
             "hachiware": true,
-            "momonga": true,
-            "rakko": true
+            "momonga": true
         },
         {
             "file": "Chiikawa/Clothes/Shirt2.PNG",
-            "chiikawa": true,
-            "momonga": true,
-            "rakko": true
+            "chiikawa": true
         },
         {
             "file": "Chiikawa/Clothes/Shirt3.PNG",
             "chiikawa": true,
             "hachiware": true,
-            "momonga": true,
-            "rakko": true
+            "momonga": true
         },
         {
             "file": "Chiikawa/Clothes/Shirt4.PNG",
-            "chiikawa": true,
-            "momonga": true,
-            "rakko": true
+            "chiikawa": true
         },
         {
             "file": "Chiikawa/Clothes/Shirt5.PNG",
@@ -216,61 +187,54 @@ let raw_outfits = [
             "chiikawa": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "usagi": true
         },
         {
             "file": "Chiikawa/Clothes/Shirt7.PNG",
             "chiikawa": true,
             "hachiware": true,
-            "momonga": true,
-            "rakko": true
+            "momonga": true
         },
         {
             "file": "Chiikawa/Clothes/Shirt8.PNG",
             "chiikawa": true,
-            "momonga": true,
             "rakko": true
         },
         {
             "file": "Chiikawa/Clothes/Shirt9.PNG",
             "chiikawa": true,
-            "hachiware": true,
-            "momonga": true,
-            "rakko": true
+            "hachiware": true
         },
         {
             "file": "Furuhonya/Clothes/Accessory1.PNG",
-            "furuhonya": true,
-            "momonga": true
+            "furuhonya": true
         },
         {
             "file": "Furuhonya/Clothes/Accessory10.PNG",
             "furuhonya": true,
-            "momonga": true
+            "momonga": true,
+            "rakko": true
         },
         {
             "file": "Furuhonya/Clothes/Accessory2.PNG",
             "furuhonya": true,
             "momonga": true,
+            "rakko": true,
             "shisa": true,
             "usagi": true
         },
         {
             "file": "Furuhonya/Clothes/Accessory3.PNG",
-            "furuhonya": true,
-            "momonga": true
+            "furuhonya": true
         },
         {
             "file": "Furuhonya/Clothes/Accessory4.PNG",
-            "furuhonya": true,
-            "momonga": true
+            "furuhonya": true
         },
         {
             "file": "Furuhonya/Clothes/Accessory5.PNG",
             "chiikawa": true,
-            "furuhonya": true,
-            "momonga": true
+            "furuhonya": true
         },
         {
             "file": "Furuhonya/Clothes/Accessory6.PNG",
@@ -278,7 +242,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
@@ -289,7 +252,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true
         },
@@ -297,7 +259,6 @@ let raw_outfits = [
             "file": "Furuhonya/Clothes/Accessory8.PNG",
             "furuhonya": true,
             "hachiware": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true
         },
@@ -307,7 +268,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
@@ -338,7 +298,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
@@ -349,7 +308,6 @@ let raw_outfits = [
             "hachiware": true,
             "kurimanju": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
@@ -358,8 +316,6 @@ let raw_outfits = [
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
@@ -369,7 +325,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
@@ -379,7 +334,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
@@ -389,16 +343,12 @@ let raw_outfits = [
             "hachiware": true,
             "kurimanju": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
         {
             "file": "Furuhonya/Clothes/Pants6.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "momonga": true,
-            "rakko": true
+            "furuhonya": true
         },
         {
             "file": "Furuhonya/Clothes/Pants7.PNG",
@@ -406,7 +356,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
@@ -416,7 +365,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
@@ -435,72 +383,52 @@ let raw_outfits = [
             "file": "Furuhonya/Clothes/Shirt1.PNG",
             "furuhonya": true,
             "hachiware": true,
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
             "file": "Furuhonya/Clothes/Shirt10.PNG",
             "furuhonya": true,
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
             "file": "Furuhonya/Clothes/Shirt2.PNG",
-            "furuhonya": true,
-            "momonga": true,
-            "rakko": true
+            "furuhonya": true
         },
         {
             "file": "Furuhonya/Clothes/Shirt3.PNG",
-            "furuhonya": true,
-            "momonga": true,
-            "rakko": true
+            "furuhonya": true
         },
         {
             "file": "Furuhonya/Clothes/Shirt4.PNG",
             "furuhonya": true,
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
             "file": "Furuhonya/Clothes/Shirt5.PNG",
             "furuhonya": true,
-            "momonga": true,
-            "rakko": true
+            "momonga": true
         },
         {
             "file": "Furuhonya/Clothes/Shirt6.PNG",
-            "furuhonya": true,
-            "momonga": true,
-            "rakko": true
+            "furuhonya": true
         },
         {
             "file": "Furuhonya/Clothes/Shirt7.PNG",
-            "furuhonya": true,
-            "momonga": true,
-            "rakko": true
+            "furuhonya": true
         },
         {
             "file": "Furuhonya/Clothes/Shirt8.PNG",
-            "furuhonya": true,
-            "momonga": true,
-            "rakko": true
+            "furuhonya": true
         },
         {
             "file": "Furuhonya/Clothes/Shirt9.PNG",
-            "furuhonya": true,
-            "momonga": true,
-            "rakko": true
+            "furuhonya": true
         },
         {
             "file": "Hachiware/Clothes/Accessory1.PNG",
             "chiikawa": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "shisa": true,
             "usagi": true
         },
@@ -511,13 +439,11 @@ let raw_outfits = [
         },
         {
             "file": "Hachiware/Clothes/Accessory2.PNG",
-            "hachiware": true,
-            "momonga": true
+            "hachiware": true
         },
         {
             "file": "Hachiware/Clothes/Accessory3.PNG",
-            "hachiware": true,
-            "momonga": true
+            "hachiware": true
         },
         {
             "file": "Hachiware/Clothes/Accessory4.PNG",
@@ -525,8 +451,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
@@ -542,13 +466,11 @@ let raw_outfits = [
         },
         {
             "file": "Hachiware/Clothes/Accessory6.PNG",
-            "hachiware": true,
-            "momonga": true
+            "hachiware": true
         },
         {
             "file": "Hachiware/Clothes/Accessory7.PNG",
-            "hachiware": true,
-            "momonga": true
+            "hachiware": true
         },
         {
             "file": "Hachiware/Clothes/Accessory8.PNG",
@@ -556,8 +478,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
@@ -566,8 +486,6 @@ let raw_outfits = [
             "chiikawa": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
@@ -595,7 +513,6 @@ let raw_outfits = [
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
@@ -607,15 +524,12 @@ let raw_outfits = [
             "hachiware": true,
             "kurimanju": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
         {
             "file": "Hachiware/Clothes/Pants2.PNG",
-            "hachiware": true,
-            "momonga": true,
-            "rakko": true
+            "hachiware": true
         },
         {
             "file": "Hachiware/Clothes/Pants3.PNG",
@@ -623,7 +537,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
@@ -649,9 +562,7 @@ let raw_outfits = [
         },
         {
             "file": "Hachiware/Clothes/Pants6.PNG",
-            "hachiware": true,
-            "momonga": true,
-            "rakko": true
+            "hachiware": true
         },
         {
             "file": "Hachiware/Clothes/Pants7.PNG",
@@ -660,7 +571,6 @@ let raw_outfits = [
             "hachiware": true,
             "kurimanju": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
@@ -670,7 +580,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
@@ -679,7 +588,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
@@ -687,8 +595,6 @@ let raw_outfits = [
             "chiikawa": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
@@ -697,14 +603,11 @@ let raw_outfits = [
             "chiikawa": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
             "file": "Hachiware/Clothes/Shirt2.PNG",
-            "hachiware": true,
-            "momonga": true,
-            "rakko": true
+            "hachiware": true
         },
         {
             "file": "Hachiware/Clothes/Shirt3.PNG",
@@ -719,15 +622,12 @@ let raw_outfits = [
             "chiikawa": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "usagi": true
         },
         {
             "file": "Hachiware/Clothes/Shirt5.PNG",
-            "hachiware": true,
-            "momonga": true,
-            "rakko": true
+            "hachiware": true
         },
         {
             "file": "Hachiware/Clothes/Shirt6.PNG",
@@ -759,14 +659,12 @@ let raw_outfits = [
             "chiikawa": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "usagi": true
         },
         {
             "file": "Kurimanju/Clothes/Accessory1.PNG",
-            "kurimanju": true,
-            "momonga": true
+            "kurimanju": true
         },
         {
             "file": "Kurimanju/Clothes/Accessory2.PNG",
@@ -775,8 +673,7 @@ let raw_outfits = [
         },
         {
             "file": "Kurimanju/Clothes/Accessory3.PNG",
-            "kurimanju": true,
-            "momonga": true
+            "kurimanju": true
         },
         {
             "file": "Kurimanju/Clothes/Accessory4.PNG",
@@ -784,7 +681,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true
         },
@@ -822,14 +718,7 @@ let raw_outfits = [
         },
         {
             "file": "Kurimanju/Clothes/Accessory10.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "kurimanju": true
         },
         {
             "file": "Kurimanju/Clothes/Face1.PNG",
@@ -857,29 +746,23 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
         },
         {
             "file": "Kurimanju/Clothes/Pants10.PNG",
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true
+            "kurimanju": true
         },
         {
             "file": "Kurimanju/Clothes/Pants2.PNG",
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "usagi": true
         },
         {
             "file": "Kurimanju/Clothes/Pants3.PNG",
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true
+            "kurimanju": true
         },
         {
             "file": "Kurimanju/Clothes/Pants4.PNG",
@@ -897,7 +780,6 @@ let raw_outfits = [
             "chiikawa": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
@@ -916,7 +798,6 @@ let raw_outfits = [
         {
             "file": "Kurimanju/Clothes/Pants7.PNG",
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "usagi": true
         },
@@ -926,7 +807,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
@@ -946,41 +826,32 @@ let raw_outfits = [
             "file": "Kurimanju/Clothes/Shirt1.PNG",
             "chiikawa": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "usagi": true
         },
         {
             "file": "Kurimanju/Clothes/Shirt10.PNG",
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "usagi": true
         },
         {
             "file": "Kurimanju/Clothes/Shirt2.PNG",
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true
+            "kurimanju": true
         },
         {
             "file": "Kurimanju/Clothes/Shirt3.PNG",
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true
+            "kurimanju": true
         },
         {
             "file": "Kurimanju/Clothes/Shirt4.PNG",
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true
+            "kurimanju": true
         },
         {
             "file": "Kurimanju/Clothes/Shirt5.PNG",
             "chiikawa": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "usagi": true
         },
@@ -996,13 +867,11 @@ let raw_outfits = [
         {
             "file": "Kurimanju/Clothes/Shirt7.PNG",
             "kurimanju": true,
-            "momonga": true,
             "rakko": true
         },
         {
             "file": "Kurimanju/Clothes/Shirt8.PNG",
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "usagi": true
         },
@@ -1017,14 +886,7 @@ let raw_outfits = [
         },
         {
             "file": "Momonga/Clothes/Accessory1.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Accessory10.PNG",
@@ -1034,30 +896,19 @@ let raw_outfits = [
             "kurimanju": true,
             "momonga": true,
             "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "shisa": true
         },
         {
             "file": "Momonga/Clothes/Accessory2.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Accessory3.PNG",
-            "chiikawa": true,
             "furuhonya": true,
-            "hachiware": true,
             "kurimanju": true,
             "momonga": true,
             "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "shisa": true
         },
         {
             "file": "Momonga/Clothes/Accessory4.PNG",
@@ -1074,16 +925,12 @@ let raw_outfits = [
             "file": "Momonga/Clothes/Accessory5.PNG",
             "chiikawa": true,
             "furuhonya": true,
-            "hachiware": true,
             "kurimanju": true,
             "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "shisa": true
         },
         {
             "file": "Momonga/Clothes/Accessory6.PNG",
-            "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
@@ -1094,14 +941,7 @@ let raw_outfits = [
         },
         {
             "file": "Momonga/Clothes/Accessory7.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Accessory8.PNG",
@@ -1122,117 +962,56 @@ let raw_outfits = [
             "kurimanju": true,
             "momonga": true,
             "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "shisa": true
         },
         {
             "file": "Momonga/Clothes/Face1.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Face2.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Face3.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Face4.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Face5.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Pants1.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Pants10.PNG",
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
             "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "shisa": true
         },
         {
             "file": "Momonga/Clothes/Pants2.PNG",
             "chiikawa": true,
-            "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Pants3.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Pants4.PNG",
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
             "momonga": true,
-            "rakko": true,
-            "shisa": true,
             "usagi": true
         },
         {
@@ -1240,115 +1019,68 @@ let raw_outfits = [
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Pants6.PNG",
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Pants7.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Pants8.PNG",
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Pants9.PNG",
             "chiikawa": true,
-            "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Shirt1.PNG",
             "chiikawa": true,
-            "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
             "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "shisa": true
         },
         {
             "file": "Momonga/Clothes/Shirt10.PNG",
             "chiikawa": true,
-            "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
         {
             "file": "Momonga/Clothes/Shirt2.PNG",
             "chiikawa": true,
-            "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
         {
             "file": "Momonga/Clothes/Shirt3.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Shirt4.PNG",
             "chiikawa": true,
             "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Shirt5.PNG",
             "chiikawa": true,
-            "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
             "momonga": true,
@@ -1361,20 +1093,15 @@ let raw_outfits = [
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
         {
             "file": "Momonga/Clothes/Shirt7.PNG",
             "chiikawa": true,
-            "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
@@ -1383,33 +1110,19 @@ let raw_outfits = [
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "momonga": true
         },
         {
             "file": "Momonga/Clothes/Shirt9.PNG",
             "chiikawa": true,
-            "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
         {
             "file": "Rakko/Clothes/Accessory1.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "rakko": true
         },
         {
             "file": "Rakko/Clothes/Accessory2.PNG",
@@ -1424,31 +1137,16 @@ let raw_outfits = [
         },
         {
             "file": "Rakko/Clothes/Accessory3.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "rakko": true
         },
         {
             "file": "Rakko/Clothes/Accessory4.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "rakko": true
         },
         {
             "file": "Rakko/Clothes/Accessory5.PNG",
             "chiikawa": true,
             "furuhonya": true,
-            "hachiware": true,
             "kurimanju": true,
             "momonga": true,
             "rakko": true,
@@ -1459,45 +1157,30 @@ let raw_outfits = [
             "file": "Rakko/Clothes/Accessory6.PNG",
             "chiikawa": true,
             "furuhonya": true,
-            "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "shisa": true
         },
         {
             "file": "Rakko/Clothes/Accessory7.PNG",
-            "chiikawa": true,
             "furuhonya": true,
-            "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "shisa": true
         },
         {
             "file": "Rakko/Clothes/Accessory8.PNG",
             "chiikawa": true,
             "furuhonya": true,
-            "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "shisa": true
         },
         {
             "file": "Rakko/Clothes/Accessory9.PNG",
-            "chiikawa": true,
             "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
             "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "shisa": true
         },
         {
             "file": "Rakko/Clothes/Face1.PNG",
@@ -1535,22 +1218,12 @@ let raw_outfits = [
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
             "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "shisa": true
         },
         {
             "file": "Rakko/Clothes/Pants2.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "rakko": true
         },
         {
             "file": "Rakko/Clothes/Pants3.PNG",
@@ -1569,7 +1242,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
@@ -1579,7 +1251,6 @@ let raw_outfits = [
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
             "momonga": true,
             "rakko": true,
             "shisa": true,
@@ -1598,79 +1269,46 @@ let raw_outfits = [
         },
         {
             "file": "Rakko/Clothes/Pants7.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
         },
         {
             "file": "Rakko/Clothes/Pants8.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "rakko": true
         },
         {
             "file": "Rakko/Clothes/Pants9.PNG",
             "chiikawa": true,
             "furuhonya": true,
-            "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
-            "shisa": true,
             "usagi": true
         },
         {
             "file": "Rakko/Clothes/Shirt1.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
             "momonga": true,
             "rakko": true,
-            "shisa": true,
             "usagi": true
         },
         {
             "file": "Rakko/Clothes/Shirt10.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "rakko": true
         },
         {
             "file": "Rakko/Clothes/Shirt2.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
             "momonga": true,
             "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "shisa": true
         },
         {
             "file": "Rakko/Clothes/Shirt3.PNG",
             "chiikawa": true,
-            "furuhonya": true,
             "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
             "rakko": true,
-            "shisa": true,
             "usagi": true
         },
         {
@@ -1686,14 +1324,7 @@ let raw_outfits = [
         },
         {
             "file": "Rakko/Clothes/Shirt5.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "rakko": true
         },
         {
             "file": "Rakko/Clothes/Shirt6.PNG",
@@ -1708,40 +1339,18 @@ let raw_outfits = [
         },
         {
             "file": "Rakko/Clothes/Shirt7.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "rakko": true
         },
         {
             "file": "Rakko/Clothes/Shirt8.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "rakko": true
         },
         {
             "file": "Rakko/Clothes/Shirt9.PNG",
-            "chiikawa": true,
-            "furuhonya": true,
-            "hachiware": true,
-            "kurimanju": true,
-            "momonga": true,
-            "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "rakko": true
         },
         {
             "file": "Shisa/Clothes/Accessory1.PNG",
-            "momonga": true,
             "shisa": true
         },
         {
@@ -1750,7 +1359,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
@@ -1777,7 +1385,6 @@ let raw_outfits = [
         },
         {
             "file": "Shisa/Clothes/Accessory4.PNG",
-            "momonga": true,
             "shisa": true
         },
         {
@@ -1803,7 +1410,6 @@ let raw_outfits = [
         },
         {
             "file": "Shisa/Clothes/Accessory7.PNG",
-            "momonga": true,
             "shisa": true
         },
         {
@@ -1812,7 +1418,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
@@ -1820,7 +1425,6 @@ let raw_outfits = [
         {
             "file": "Shisa/Clothes/Accessory9.PNG",
             "furuhonya": true,
-            "momonga": true,
             "shisa": true
         },
         {
@@ -1851,13 +1455,11 @@ let raw_outfits = [
             "kurimanju": true,
             "momonga": true,
             "rakko": true,
-            "shisa": true,
-            "usagi": true
+            "shisa": true
         },
         {
             "file": "Shisa/Clothes/Pants10.PNG",
             "hachiware": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true
         },
@@ -1874,7 +1476,6 @@ let raw_outfits = [
         },
         {
             "file": "Shisa/Clothes/Pants3.PNG",
-            "momonga": true,
             "rakko": true,
             "shisa": true
         },
@@ -1884,7 +1485,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true,
             "usagi": true
         },
@@ -1892,14 +1492,10 @@ let raw_outfits = [
             "file": "Shisa/Clothes/Pants5.PNG",
             "chiikawa": true,
             "hachiware": true,
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
             "file": "Shisa/Clothes/Pants6.PNG",
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
@@ -1915,8 +1511,6 @@ let raw_outfits = [
         },
         {
             "file": "Shisa/Clothes/Pants8.PNG",
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
@@ -1924,7 +1518,6 @@ let raw_outfits = [
             "chiikawa": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true
         },
@@ -1934,13 +1527,10 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
             "file": "Shisa/Clothes/Shirt10.PNG",
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
@@ -1959,8 +1549,6 @@ let raw_outfits = [
         {
             "file": "Shisa/Clothes/Shirt4.PNG",
             "furuhonya": true,
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
@@ -1979,22 +1567,16 @@ let raw_outfits = [
         },
         {
             "file": "Shisa/Clothes/Shirt7.PNG",
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
             "file": "Shisa/Clothes/Shirt8.PNG",
             "chiikawa": true,
             "hachiware": true,
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
             "file": "Shisa/Clothes/Shirt9.PNG",
-            "momonga": true,
-            "rakko": true,
             "shisa": true
         },
         {
@@ -2003,7 +1585,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
@@ -2012,20 +1593,16 @@ let raw_outfits = [
             "file": "Usagi/Clothes/Accessory10.PNG",
             "chiikawa": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
         },
         {
             "file": "Usagi/Clothes/Accessory2.PNG",
-            "momonga": true,
-            "shisa": true,
             "usagi": true
         },
         {
             "file": "Usagi/Clothes/Accessory3.PNG",
-            "momonga": true,
             "usagi": true
         },
         {
@@ -2038,7 +1615,6 @@ let raw_outfits = [
         },
         {
             "file": "Usagi/Clothes/Accessory5.PNG",
-            "momonga": true,
             "usagi": true
         },
         {
@@ -2054,13 +1630,11 @@ let raw_outfits = [
             "file": "Usagi/Clothes/Accessory7.PNG",
             "chiikawa": true,
             "furuhonya": true,
-            "momonga": true,
             "rakko": true,
             "usagi": true
         },
         {
             "file": "Usagi/Clothes/Accessory8.PNG",
-            "momonga": true,
             "usagi": true
         },
         {
@@ -2096,7 +1670,6 @@ let raw_outfits = [
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
@@ -2114,8 +1687,6 @@ let raw_outfits = [
         },
         {
             "file": "Usagi/Clothes/Pants2.PNG",
-            "momonga": true,
-            "rakko": true,
             "usagi": true
         },
         {
@@ -2134,8 +1705,6 @@ let raw_outfits = [
             "chiikawa": true,
             "furuhonya": true,
             "hachiware": true,
-            "momonga": true,
-            "rakko": true,
             "usagi": true
         },
         {
@@ -2144,7 +1713,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
@@ -2166,15 +1734,12 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
         },
         {
             "file": "Usagi/Clothes/Pants8.PNG",
-            "momonga": true,
-            "rakko": true,
             "usagi": true
         },
         {
@@ -2183,7 +1748,6 @@ let raw_outfits = [
             "furuhonya": true,
             "hachiware": true,
             "kurimanju": true,
-            "momonga": true,
             "rakko": true,
             "shisa": true,
             "usagi": true
@@ -2196,16 +1760,10 @@ let raw_outfits = [
             "usagi": true
         },
         {
-            "file": "Usagi/Clothes/Shirt10.PNG",
-            "chiikawa": true,
-            "momonga": true,
-            "rakko": true,
-            "usagi": true
+            "file": "Usagi/Clothes/Shirt10.PNG"
         },
         {
             "file": "Usagi/Clothes/Shirt2.PNG",
-            "momonga": true,
-            "rakko": true,
             "usagi": true
         },
         {
@@ -2223,14 +1781,12 @@ let raw_outfits = [
             "chiikawa": true,
             "hachiware": true,
             "momonga": true,
-            "rakko": true,
             "usagi": true
         },
         {
             "file": "Usagi/Clothes/Shirt5.PNG",
             "chiikawa": true,
             "hachiware": true,
-            "momonga": true,
             "rakko": true,
             "usagi": true
         },
@@ -2252,13 +1808,10 @@ let raw_outfits = [
         },
         {
             "file": "Usagi/Clothes/Shirt8.PNG",
-            "momonga": true,
-            "rakko": true,
             "usagi": true
         },
         {
             "file": "Usagi/Clothes/Shirt9.PNG",
-            "momonga": true,
             "rakko": true,
             "usagi": true
         }
@@ -2303,13 +1856,25 @@ let assets = [
   { file: 'Usagi/Layer 6.PNG' },
   { file: 'Usagi/Layer 7.PNG' },
   { file: 'Usagi/Layer 8.PNG' },
+  { file: 'Backgrounds/Background3.png' },
+  { file: 'Backgrounds/Background4.png' },
   { file: 'Backgrounds/Layer 21.PNG' },
   { file: 'Backgrounds/Layer 23.PNG' },
   { file: 'Backgrounds/Layer 24.PNG' },
-  { file: 'Backgrounds/Layer 25.PNG' },
-  { file: 'Backgrounds/Layer 26.PNG' },
-  { file: 'Backgrounds/Layer 27.PNG' },
   { file: 'Backgrounds/Paper.PNG' },
+  { file: 'Backgrounds/Paper2.PNG' },
+  { file: 'Backgrounds/Paper3.PNG' },
+  { file: 'Backgrounds/Paper4.PNG' },
+  { file: 'Backgrounds/BG-black.png' },
+  { file: 'Backgrounds/BG-blue.png' },
+  { file: 'Backgrounds/BG-orange.png' },
+  { file: 'Backgrounds/BG-pink.png' },
+  { file: 'Backgrounds/BG-white.png' },
+  { file: 'Overlays/Overlay5.png' },
+  { file: 'Overlays/Overlay1.png' },
+  { file: 'Overlays/Overlay2.png' },
+  { file: 'Overlays/Overlay3.png' },
+  { file: 'Overlays/Overlay4.png' },
 ]
 
 let characters = {

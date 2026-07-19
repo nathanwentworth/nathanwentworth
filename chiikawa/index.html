@@ -6,6 +6,7 @@
   <title>ちいかわ</title>
   <style>
     * { box-sizing: border-box; }
+    img { max-width: 100% }
     body {
       background-color: aliceblue;
     }
@@ -20,6 +21,7 @@
     #canvas {
       box-shadow: 0 0 0 4px darkgrey;
       border-radius: 16px;
+      background-image: url('assets/images/UI/transparent-fake.png');
     }
     #controls {
       z-index: 1;
@@ -30,6 +32,37 @@
     #controls > * {
       position: absolute;
     }
+    .slots {
+      right: 6px;
+      top: 6px;
+    }
+    .slots img {
+      max-width: 65px;
+    }
+    .slots > div {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .slots button {
+      height: 50px;
+      color: transparent;
+      background-color: transparent;
+      border: none;
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+    #dl {
+      background-color: transparent;
+      border: none;
+      left: 8px;
+      top: 8px;
+      width: 100px;
+    }
+    #dl .hover { display: none; }
+    #dl:hover img { display: none; }
+    #dl:hover .hover { display: block; }
 
     #start {
       position: absolute;
@@ -63,40 +96,73 @@
       background-color: green;
       border-radius: 4px;
     }
+    #char-l {
+      top: 480px;
+      left: 90px;
+      color: transparent;
+      background-color: transparent;
+      border: none;
+      background-image: url('assets/images/UI/arrow-left.png');
+      height: 50px;
+      width: 50px;
+      background-size: 100%;
+    }
+    #char-r {
+      top: 480px;
+      right: 100px;
+      color: transparent;
+      background-color: transparent;
+      border: none;
+      background-image: url('assets/images/UI/arrow-right.png');
+      height: 50px;
+      width: 50px;
+      background-size: 100%;
+    }
+    .left {
+      background-image: url('assets/images/UI/arrow-left.png');
+    }
+    .right {
+      background-image: url('assets/images/UI/arrow-right.png');
+    }
   </style>
 </head>
 <body>
   <div class="hidden" id="controls">
-    <button id="char-l" style="left: 150px; top: 500px;">←</button>
-    <button id="char-r" style="right: 140px; top: 500px;">→</button>
-    <div style="left: 400px;">
+    <button id="char-l">←</button>
+    <button id="char-r">→</button>
+    <div class="slots">
       <div>
-        <button class="slot" data-slot="face" data-dir="-1">←</button>
-        face
-        <button class="slot" data-slot="face" data-dir="1">→</button>
+        <button class="slot left" data-slot="face" data-dir="-1">←</button>
+        <img src="/assets/images/UI/face.png">
+        <button class="slot right" data-slot="face" data-dir="1">→</button>
       </div>
       <div>
-        <button class="slot" data-slot="shirt" data-dir="-1">←</button>
-        shirt
-        <button class="slot" data-slot="shirt" data-dir="1">→</button>
+        <button class="slot left" data-slot="shirt" data-dir="-1">←</button>
+        <img src="/assets/images/UI/shirt.png">
+        <button class="slot right" data-slot="shirt" data-dir="1">→</button>
       </div>
       <div>
-        <button class="slot" data-slot="pants" data-dir="-1">←</button>
-        pant
-        <button class="slot" data-slot="pants" data-dir="1">→</button>
+        <button class="slot left" data-slot="pants" data-dir="-1">←</button>
+        <img src="/assets/images/UI/pants.png">
+        <button class="slot right" data-slot="pants" data-dir="1">→</button>
       </div>
       <div>
-        <button class="slot" data-slot="accessory" data-dir="-1">←</button>
-        acc
-        <button class="slot" data-slot="accessory" data-dir="1">→</button>
+        <button class="slot left" data-slot="accessory" data-dir="-1">←</button>
+        <img src="/assets/images/UI/accessory.png">
+        <button class="slot right" data-slot="accessory" data-dir="1">→</button>
       </div>
       <div>
-        <button class="slot" data-slot="bg" data-dir="-1">←</button>
-        bg
-        <button class="slot" data-slot="bg" data-dir="1">→</button>
+        <button class="slot left" data-slot="bg" data-dir="-1">←</button>
+        <img src="/assets/images/UI/bg.png">
+        <button class="slot right" data-slot="bg" data-dir="1">→</button>
       </div>
-      <button id="dl">save</button>
+      <div>
+        <button class="slot left" data-slot="overlay" data-dir="-1">←</button>
+        <img src="/assets/images/UI/overlay.png">
+        <button class="slot right" data-slot="overlay" data-dir="1">→</button>
+      </div>
     </div>
+    <button id="dl"><img src="/assets/images/UI/camera-no-flash.png"><img class="hover" src="/assets/images/UI/camera.png"></button>
   </div>
   <button id="start">Start</button>
   <div id="loading-bar" class="hidden"><div style="width: 0"></div></div>
