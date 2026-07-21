@@ -180,7 +180,7 @@ function changeSlot(slot, dir) {
   drawCharacter(allChars[currentCharacter]);
 }
 
-function drawCharacter(name) {
+function drawCharacter(name, showName = true) {
   drawBg();
   drawOverlay();
   let base = characters[name].base;
@@ -192,8 +192,9 @@ function drawCharacter(name) {
   draw(outfits[name.toLowerCase()].shirt[currentSlot.shirt]);
   draw(outfits[name.toLowerCase()].accessory[currentSlot.accessory]);
 
-
-  draw('Names/' + name);
+  if (showName) {
+    draw('Names/' + name);
+  }
 }
 
 function drawBg() {
@@ -241,6 +242,9 @@ function getImg(name) {
 }
 
 function download() {
+  console.log('current overlay', allOverlays[currentOverlay]);
+  let isPolaroid = allOverlays[currentOverlay].file == 'Overlays/overlay-border-01.png'
+  drawCharacter(allChars[currentCharacter], isPolaroid)
   // Get the canvas
   var canvas = document.getElementById("canvas");
   // Convert the canvas to data
@@ -253,6 +257,8 @@ function download() {
   aDownloadLink.href = image;
   // Get the code to click the download link
   aDownloadLink.click();
+
+  drawCharacter(allChars[currentCharacter])
 }
 
 
