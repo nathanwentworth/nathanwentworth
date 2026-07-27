@@ -5,9 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>ちいかわ</title>
   <style>
+
+body::after{
+   position:absolute; width:0; height:0; overflow:hidden; z-index:-1; // hide images
+   content:url(assets/images/UI/camera.png);   // load images
+}
+
     * { box-sizing: border-box; }
     img { max-width: 100% }
     body {
+      font-family: sans-serif;
       background-color: aliceblue;
     }
     #controls, #canvas {
@@ -124,6 +131,15 @@
     .right {
       background-image: url('assets/images/UI/arrow-right.png');
     }
+    #credits {
+      position: absolute;
+      color: #444;
+      margin: 0;
+      padding: 0;
+      left: 4px;
+      bottom: 4px;
+      font-size: 14px;
+    }
   </style>
 </head>
 <body>
@@ -167,6 +183,8 @@
   <button id="start">Start</button>
   <div id="loading-bar" class="hidden"><div style="width: 0"></div></div>
   <canvas id="canvas"></canvas>
+
+  <p id="credits">by michelle ding and <a href="https://nathanwentworth.co/">nathan wentworth</a>, chiikawa is property of <a href="https://x.com/ngntrtr">©nagano</a></p>
 
   <script src="data.js" type="module"></script>
   <script src="main.js" type="module"></script>
