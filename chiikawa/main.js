@@ -247,16 +247,40 @@ function download() {
   drawCharacter(allChars[currentCharacter], isPolaroid)
   // Get the canvas
   var canvas = document.getElementById("canvas");
-  // Convert the canvas to data
-  var image = canvas.toDataURL();
-  // Create a link
-  var aDownloadLink = document.createElement('a');
-  // Add the name of the file to the link
-  aDownloadLink.download = allChars[currentCharacter] + '.png';
-  // Attach the data to the link
-  aDownloadLink.href = image;
-  // Get the code to click the download link
-  aDownloadLink.click();
+
+  if (navigator.canShare) {
+    console.log('sharing');
+    canvas.toBlob((blob) => {
+      const file = new File([blob], allChars[currentCharacter] + '.png', { type: "image/png" });
+      const filesArray = [
+        new File(
+          [file],
+          allChars[currentCharacter] + '.png',
+          {
+            type: file.type,
+            lastModified: new Date().getTime()
+          }
+        )
+      ];
+      const shareData = {
+        files: filesArray,
+      };
+      navigator.share(shareData);
+    })
+  } else {
+    console.log('saving');
+    // Convert the canvas to data
+    var image = canvas.toDataURL();
+    // Create a link
+    var aDownloadLink = document.createElement('a');
+    // Add the name of the file to the link
+    aDownloadLink.download = allChars[currentCharacter] + '.png';
+    // Attach the data to the link
+    aDownloadLink.href = image;
+    // Get the code to click the download link
+    aDownloadLink.click();
+  }
+
 
   drawCharacter(allChars[currentCharacter])
 }
