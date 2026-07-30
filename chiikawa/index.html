@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0">
   <title>ちいかわ</title>
   <style>
 
@@ -21,8 +21,11 @@ body::after{
       position: absolute;
       top: 50%;
       left: 50%;
-      height: 575px;
-      width: 500px;
+      height: auto;
+      max-height: 90%;
+      width: auto;
+      max-width: 90%;
+      aspect-ratio: 0.86956522;
       transform: translate(-50%, -50%);
     }
     #canvas {
@@ -42,9 +45,10 @@ body::after{
     .slots {
       right: 6px;
       top: 6px;
+      width: 23%;
     }
     .slots img {
-      max-width: 65px;
+      max-width: 60%;
     }
     .slots > div {
       display: flex;
@@ -53,6 +57,7 @@ body::after{
     }
     .slots button {
       height: 50px;
+      width: 50px;
       color: transparent;
       background-color: transparent;
       border: none;
@@ -65,7 +70,7 @@ body::after{
       border: none;
       left: 8px;
       top: 8px;
-      width: 100px;
+      width: 20%;
     }
     #dl .hover { display: none; }
     #dl:hover img { display: none; }
@@ -75,7 +80,7 @@ body::after{
       position: absolute;
       left: 50%;
       transform: translate(-50%, -50%);
-      top: 50%;
+      bottom: 8%;
       z-index: 2;
       margin-top: 230px;
       border: 3px solid green;
@@ -93,7 +98,7 @@ body::after{
       border-radius: 8px;
       position: absolute;
       left: 50%;
-      top: 50%;
+      bottom: 8%;
       margin-top: 230px;
       z-index: 1;
       transform: translate(-50%, -50%);
@@ -103,27 +108,23 @@ body::after{
       background-color: green;
       border-radius: 4px;
     }
-    #char-l {
-      top: 480px;
-      left: 90px;
+    #char-l, #char-r {
+      bottom: 5%;
       color: transparent;
       background-color: transparent;
       border: none;
-      background-image: url('assets/images/UI/arrow-left.png');
-      height: 50px;
-      width: 50px;
+      height: 12%;
+      width: 12%;
       background-size: 100%;
+      background-repeat: no-repeat;
+    }
+    #char-l {
+      left: 15%;
+      background-image: url('assets/images/UI/arrow-left.png');
     }
     #char-r {
-      top: 480px;
-      right: 100px;
-      color: transparent;
-      background-color: transparent;
-      border: none;
+      right: 15%;
       background-image: url('assets/images/UI/arrow-right.png');
-      height: 50px;
-      width: 50px;
-      background-size: 100%;
     }
     .left {
       background-image: url('assets/images/UI/arrow-left.png');
@@ -132,7 +133,7 @@ body::after{
       background-image: url('assets/images/UI/arrow-right.png');
     }
     #credits {
-      position: absolute;
+      position: fixed;
       color: #444;
       margin: 0;
       padding: 0;
@@ -140,10 +141,25 @@ body::after{
       bottom: 4px;
       font-size: 14px;
     }
+
+    /* If the viewport is very wide but not very tall */
+    @media (aspect-ratio > 0.86961583) {
+      #controls {
+        height: 2300px;
+      }
+    }
+
+    /* If the viewport is very tall but not very wide */
+    @media (aspect-ratio < 0.86961583) {
+      #controls {
+        width: 2000px;
+      }
+    }
+
   </style>
 </head>
 <body>
-  <div class="hidden" id="controls">
+  <div class="hidden" id="controls" height="2300" width="2000">
     <button id="char-l">←</button>
     <button id="char-r">→</button>
     <div class="slots">
