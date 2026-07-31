@@ -248,7 +248,7 @@ function download() {
   // Get the canvas
   var canvas = document.getElementById("canvas");
 
-  if (navigator.canShare) {
+  if (false && navigator.canShare) {
     console.log('sharing');
     canvas.toBlob((blob) => {
       const file = new File([blob], allChars[currentCharacter] + '.png', { type: "image/png" });
