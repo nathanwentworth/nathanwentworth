@@ -2,6 +2,7 @@
 title: "Chiikawa Dress-up Game"
 date: 2026-08-01
 width: 'wide'
+excerpt: 'A chiikawa character creator by me and coworker michelle!'
 ---
 
 # [Play the game here!](/chiikawa/)

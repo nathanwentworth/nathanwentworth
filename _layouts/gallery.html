@@ -9,11 +9,11 @@ layout: default
   {% assign posts = site.projects | where_exp: "item", "item.archive == nil" | reverse %}
 {% endif %}
 
-<main>
+<main class="gallery">
 
 {% include header.html %}
 
-  <section class="columns right-bigger">
+  <section class="columns first-row">
     <div class="column-item">
       <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/strawberry_1f353.gif"></h1>
       <a class="portrait" href="/posts/commissions/"><img class="portrait" src="/assets/img/posts/commissions/415362-1.mini.jpg"></a>
@@ -22,14 +22,13 @@ layout: default
       <h1 class="color-02 page-title"><img alt="" src="/assets/img/softbank-emoji-2004/house-building_1f3e0.gif"> <a class="color-02" href="/posts/about">About Me</a></h1>
       <div>{{ site.full_description | markdownify }}</div>
     </div>
+    <div class="column-item">
+      <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/sunflower_1f33b.gif"></h1>
+      <div><img class="portrait" src="/assets/img/posts/japan-2023/2023-10-24 14.39.43-mini.jpeg"></div>
+    </div>
   </section>
 
-  <section class="columns">
-    <div class="column-item">
-      {% assign photo = site.static_files | where: "photo", true | sort: 'basename' | reverse | first %}
-      <h1 class="page-title color-01"><img alt="" src="/assets/img/softbank-emoji-2004/wind-chime_1f390.gif"> <a href="/photos/" class="color-01">Photos</a></h1>
-      <div style="height: 276px;"><img style="height: 100%;" class="portrait" src="{{ photo.path }}"></div>
-    </div>
+  <section class="columns left-big">
 <!--     <div class="column-item">
       <h1 class="page-title color-01"><img alt="" src="/assets/img/softbank-emoji-2004/personal-computer_1f4bb.gif"> <a href="/projects/" class="color-01">Projects</a></h1>
       <ul class="no-indent">
@@ -60,7 +59,7 @@ layout: default
         {% assign diff = nowunix | minus: postNum %}
 
         <li class="archive-entry">
-          <a href="{{ entry.url }}">{{ entry.title }}</a> {% if diff < 604800 %}<span class="new">NEW!</span>{% endif %}
+          <a href="{{ entry.url }}">{{ entry.title }}</a> {% if diff < 604800 %}<span class="new">NEW!</span>{% endif %} <span class="desc">{{ entry.excerpt | strip_html }}</span>
         </li>
       {% endfor %}
         <li class="archive-entry">
@@ -69,32 +68,24 @@ layout: default
       </ul>
     </div>
     <div class="column-item">
-      <h1 class="color-04 page-title"><img alt="" src="/assets/img/softbank-emoji-2004/mobile-phone_1f4f1.gif"> More</h1>
-      {% include elsewhere.html page='home' %}
-    </div>
-
-  </section>
-
-  <section class="columns left-big">
-    <div class="column-item">
-      <h1 class="page-title color-03"><img alt="" src="/assets/img/softbank-emoji-2004/heavy-black-heart_2764.gif"> <a href="/recommendations/" class="color-03">Things I Like</a></h1>
-      {% include recommendations.html limit=8 %}
-    </div>
-    <div class="column-item">
-      <h1 class="color-01 page-title"><img alt="" src="/assets/img/softbank-emoji-2004/radio_1f4fb.gif"> <a class="color-01" href="https://last.fm/user/nwentworth">Top Music</a></h1>
-      <p>My most played artists in the last seven days</p>
-      {% include lastfm.html %}
+      {% assign photo = site.static_files | where: "photo", true | sort: 'basename' | reverse | first %}
+      <h1 class="page-title color-01"><img alt="" src="/assets/img/softbank-emoji-2004/wind-chime_1f390.gif"> <a href="/photos/" class="color-01">Photos</a></h1>
+      <div style="height: 276px;"><img style="height: 100%;" class="portrait" src="{{ photo.path | replace: photo.name, '' }}sm/{{ photo.name }}"></div>
     </div>
   </section>
 
   <section class="columns">
+<!--     <div class="column-item">
+      <h1 class="page-title color-03"><img alt="" src="/assets/img/softbank-emoji-2004/heavy-black-heart_2764.gif"> <a href="/recommendations/" class="color-03">Things I Like</a></h1>
+      {% include recommendations.html limit=8 %}
+    </div> -->
+    <div class="column-item">
+      <h1 class="color-01 page-title"><img alt="" src="/assets/img/softbank-emoji-2004/radio_1f4fb.gif"> <a class="color-01" href="https://last.fm/user/nwentworth">Top Music</a></h1>
+      {% include lastfm.html %}
+    </div>
     <div class="column-item">
       <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/cherry-blossom_1f338.gif"> Recent Anime</h1>
       {% include anilist.html %}
-    </div>
-    <div class="column-item">
-      <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/sunflower_1f33b.gif"></h1>
-      <div><img class="portrait" src="/assets/img/posts/japan-2023/2023-10-24 14.39.43-mini.jpeg"></div>
     </div>
     <div class="column-item">
       <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/four-leaf-clover_1f340.gif"> Sites I like!</h1>
@@ -110,17 +101,11 @@ layout: default
         <li><a href="/posts/sites-i-like">More →</a></li>
       </ul>
     </div>
-  </section>
+    <div class="column-item">
+      <h1 class="color-04 page-title"><img alt="" src="/assets/img/softbank-emoji-2004/mobile-phone_1f4f1.gif"> More</h1>
+      {% include elsewhere.html page='home' %}
+    </div>
 
-  <section class="columns right-big">
-    <div class="column-item">
-      <h1 class="color-04 page-title"><img alt="" src="/assets/img/softbank-emoji-2004/public-address-loudspeaker_1f4e2.gif"> <a class="color-04" href="http://mastodon.social/@nathanwentworth">Timeline</a></h1>
-      {% include mastodon.html %}
-    </div>
-    <div class="column-item">
-      <h1 class="color-03 page-title"><img alt="" src="/assets/img/softbank-emoji-2004/open-book_1f4d6.gif"> Recent Bookmarks</h1>
-      {% include pinboard.html %}
-    </div>
   </section>
 
 {% include footer.html %}

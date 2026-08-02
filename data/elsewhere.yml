@@ -3,19 +3,19 @@
   home: true
 - name: 'twitter'
   link: 'https://twitter.com/nathanwentworth'
-  home: true
+  home: false
 - name: 'mastodon'
   link: 'https://mastodon.social/@nathanwentworth'
-  home: true
+  home: false
 - name: 'bluesky'
   link: 'https://bsky.app/profile/nathanw.bsky.social'
   home: true
 - name: 'tumblr'
   link: 'https://nathanwentworth.tumblr.com/'
   home: true
-- name: 'instagram (i do not post)'
+- name: 'instagram'
   link: 'https://www.instagram.com/nightcorefan420/'
-  home: false
+  home: true
 - name: 'last.fm'
   link: 'http://www.last.fm/user/nxc_'
   home: true

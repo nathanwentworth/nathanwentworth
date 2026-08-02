@@ -663,12 +663,11 @@ header.small {
 }
 
 /* ## Last.fm  */
-.column-item .last-fm {
-  max-width: 90%;
-  margin: auto;
-}
 .last-fm .no-list {
   list-style: none;
+}
+.last-fm ol {
+  margin-top: 0;
 }
 
 /* ## Mastodon */
@@ -733,7 +732,7 @@ header.small {
   border-radius: 0.2em;
 }
 .anilist .anime {
-  width: 92px;
+  width: 100px;
 }
 .anilist .anime + .anime {
   margin-left: 1em;
@@ -781,6 +780,9 @@ footer img {
 }
 
 @media only screen and (max-width: 549px) {
+  .gallery {
+    max-width: calc(100% - 3.5rem);
+  }
   main .columns {
     grid-template-columns: 1fr !important;
   }
@@ -983,11 +985,13 @@ ul.no-arrow li::before {
 }
 
 
-
+.gallery {
+  width: var(--w-wide);
+}
 .columns {
   margin: auto;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   grid-gap: 16px;
 }
 .columns.left-big {
@@ -996,8 +1000,8 @@ ul.no-arrow li::before {
 .columns.right-big {
   grid-template-columns: 1fr 2fr;
 }
-.columns.right-bigger {
-  grid-template-columns: 1fr 4fr;
+.columns.first-row {
+  grid-template-columns: 270px auto 400px;
 }
 
 .columns {
@@ -1049,6 +1053,13 @@ ul.no-arrow li::before {
   font-size: 0.85em;
   text-decoration: none;
   border-bottom: none;
+}
+.archive-entry .desc {
+  padding-left: 1rem;
+  color: grey;
+}
+.archive-entry .new + .desc {
+  padding-left: 3rem;
 }
 
 .hidden {
