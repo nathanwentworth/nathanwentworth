@@ -995,7 +995,7 @@ ul.no-arrow li::before {
   grid-gap: 16px;
 }
 .columns.left-big {
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: auto 400px;
 }
 .columns.right-big {
   grid-template-columns: 1fr 2fr;

@@ -24,7 +24,7 @@ layout: default
     </div>
     <div class="column-item">
       <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/sunflower_1f33b.gif"></h1>
-      <div><img class="portrait" src="/assets/img/posts/japan-2023/2023-10-24 14.39.43-mini.jpeg"></div>
+      <div><img class="portrait" src="/assets/img/photos/sm/2023-10-24-14h39m43.jpeg"></div>
     </div>
   </section>
 
@@ -70,7 +70,7 @@ layout: default
     <div class="column-item">
       {% assign photo = site.static_files | where: "photo", true | sort: 'basename' | reverse | first %}
       <h1 class="page-title color-01"><img alt="" src="/assets/img/softbank-emoji-2004/wind-chime_1f390.gif"> <a href="/photos/" class="color-01">Photos</a></h1>
-      <div style="height: 276px;"><img style="height: 100%;" class="portrait" src="{% if photo.path contains "/sm/" %}{{ photo.path }}{% else %}{{ photo.path | replace: photo.name, '' }}sm/{{ photo.name }}{% endif %}"></div>
+      <div><img style="height: 100%;" class="portrait" src="{% if photo.path contains "/sm/" %}{{ photo.path }}{% else %}{{ photo.path | replace: photo.name, '' }}sm/{{ photo.name }}{% endif %}"></div>
     </div>
   </section>
 
