@@ -34,8 +34,8 @@ kaomoji: [
 ]
 
 links:
-  'projects': '/projects'
   'posts': '/posts'
+  'photos': '/photos'
 
 collections:
   projects:
