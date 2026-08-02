@@ -70,7 +70,7 @@ layout: default
     <div class="column-item">
       {% assign photo = site.static_files | where: "photo", true | sort: 'basename' | reverse | first %}
       <h1 class="page-title color-01"><img alt="" src="/assets/img/softbank-emoji-2004/wind-chime_1f390.gif"> <a href="/photos/" class="color-01">Photos</a></h1>
-      <div style="height: 276px;"><img style="height: 100%;" class="portrait" src="{% if photo.path contains '/sm/' %}{{ photo.path | replace: photo.name, '' }}sm/{{ photo.name }}{% else %}{{ photo.path }}{% endif %}"></div>
+      <div style="height: 276px;"><img style="height: 100%;" class="portrait" src="{% if photo.path contains "/sm/" %}{{ photo.path | replace: photo.name, '' }}sm/{{ photo.name }}{% else %}{{ photo.path }}{% endif %}"></div>
     </div>
   </section>
 
