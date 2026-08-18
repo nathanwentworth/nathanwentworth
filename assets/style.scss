@@ -602,7 +602,7 @@ time { color: var(--light-text); display: block; margin: auto; margin-top: 1.5em
 .page-title { margin-top: 1em; margin-bottom: 0.25em; }
 
 ul, ol { padding-left: 1.5rem; }
-li { margin: 6px 0; }
+li { margin: 0.5rem 0; line-height: 1.4; }
 /*ul.no-indent, ol.no-indent { padding-left: 0; }*/
 ul.inline, ol.inline { display: flex; }
 ul.inline li, ol.inline li { display: inline-block; margin: 0; margin-right: 6px; }
