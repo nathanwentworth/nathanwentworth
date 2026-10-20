@@ -38,7 +38,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! **Bol
 
 - Masks by Fumiko Enchi
 - Snow Crash by Neal Stephenson
-- The Left Hand of Darkness by Ursula K. Le Guin
 - Pattern Recognition by William Gibson
 
 - [The Outdoor Archive](https://bookshop.org/p/books/the-outdoor-archive-the-ultimate-collection-of-adventure-sporting-graphics-illustrations-and-gear-chase-anderson/82a22ab4a0a62ce9?ean=9780500025994&next=t)
@@ -63,6 +62,7 @@ I have a [to-buy list on inprnt](https://www.inprnt.com/collections/nathanwentwo
 
 ## Blu-rays/DVDs
 
+- [Ping Pong Blu-ray](https://mvdshop.com/products/ping-pong-blu-ray)
 - [A Brighter Summer Day (1991)](https://www.criterion.com/films/28596-a-brighter-summer-day)
 - [Criterion: The World of Wong Kar Wai](https://www.criterion.com/boxsets/4117-world-of-wong-kar-wai)
 - [Kizumonogatari](https://www.animecornerstore.com/kizumonogatari.html)
