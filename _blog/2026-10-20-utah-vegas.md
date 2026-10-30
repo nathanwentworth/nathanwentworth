@@ -1,6 +1,6 @@
 ---
 title: "Utah/Vegas"
-date: 2026-10-10
+date: 2026-10-30
 width: 'wide'
 excerpt: 'Arches, Canyonlands, Zion, Vegas'
 ---
