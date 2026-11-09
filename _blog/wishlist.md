@@ -12,10 +12,11 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! **Bol
 
 ## Books
 
-- The Door by Magda Szabó
+- [The Door by Magda Szabó](https://www.nyrb.com/products/the-door)
+- [Hard Rain Falling by Don Carpenter](https://www.nyrb.com/products/hard-rain-falling)
+- [Last Words from Montmarte by Qiu Miaojin](https://www.nyrb.com/products/last-words-from-montmartre)
+- [The Houseguest by Amparo Dávila](https://www.ndbooks.com/book/the-houseguest/)
 - Havoc by Tom Kristensen
-- Hard Rain Falling by Don Carpenter
-- Last Words from Montmarte by Qiu Miaojin
 - Snow Crash by Neal Stephenson
 - Pattern Recognition by William Gibson
 - Masks by Fumiko Enchi
@@ -38,7 +39,7 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! **Bol
   - [**Broken Cup Teahouse**](https://brokencupteahouse.square.site) <- my favorite!!! really good oolongs
   - [Jade Leaf oolong/black teas](https://thejadeleaf.com/collections/oolong-tea) <- second favorite! really love the formosan wild and red jade 18
   - [Mem Tea](https://www.memteaimports.com/)
-  - [coffee, but **la cabra's gift sets** are great](https://us.lacabra.com/collections/bundles-gifts)
+  - [**la cabra's coffee gift sets** are great](https://us.lacabra.com/collections/bundles-gifts)
 - clothing
   - Genevive Sweeney sweaters (M)
     - [Brown](https://genevievesweeney.com/products/lunan-brushed-wool-sweater-brown?variant=51025760256339)
@@ -46,14 +47,14 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! **Bol
   - [Dehen 1920 Heavy Duty Tee (M or L, any color)](https://dehen1920.com/products/heavy-duty-tee-natural)
   - [Nishiguchi Kutsushita socks (large)](https://www.bostongeneralstore.com/collections/nishiguchi-kutsushita)
 - tech/camera
+  - [Amber 4x6" Instant Photo Printer](https://www.liene-life.com/products/amber-m110-instant-bluetooth-photo-printer?variant=44780616351944)
+    - i take a ton of photos and it'd be fun to print them out!!
   - [Fotagogo Metal Waist-Level Viewfinder 35MM/Black](https://www.fotagogo.com/products/wlvm?variant=44138153181360)
   - [Brass hotshoe cover](https://cleversupply.co/products/brass-soft-shutter-buttons?variant=67916873138430)
-  - [Pat Mat (Large)](https://fifthseasoncanvas.com/products/pat-mat-tulip-olive?variant=53311460966718)
 - bike stuff
   - [Crankbrothers M Series Multi Tool](https://www.rivbike.com/products/tool-multi-crankbrothers-m-series-multi-tool-20?variant=41582037729391)
   - [Fujiya Adjustable Wrench](https://www.rivbike.com/products/crescent-wrench)
-- other
-  - [Penco Drafting Writer Ballpoint Pen - 0.5mm (Silver)](https://yosekastationery.com/products/penco-drafting-writer-ballpoint-pen-0-5mm?variant=42040032395477)
+  - [Pat Mat (Large)](https://fifthseasoncanvas.com/products/pat-mat-tulip-olive?variant=53311460966718)
 
 ## Prints
 
