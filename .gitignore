@@ -9,6 +9,7 @@ node_modules
 package.json
 sftp-config.json
 .jekyll-cache
+deploy.sh
 
 assets/**/orig/
 
@@ -16,6 +17,6 @@ cameraroll/
 # deck-dungeon/
 # draw/
 
-data/lastfm.json
+# data/lastfm.json
 data/mastodon.json
 data/pinboard.json
