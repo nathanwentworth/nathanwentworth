@@ -70,7 +70,7 @@ layout: default
     <div class="column-item">
       {% assign photo = site.static_files | where: "photo", true | sort: 'basename' | reverse | first %}
       <h1 class="page-title color-01"><img alt="" src="/assets/img/softbank-emoji-2004/wind-chime_1f390.gif"> <a href="/photos/" class="color-01">Photos</a></h1>
-      <div><img style="height: 100%;" class="portrait" src="{% if photo.path contains "/sm/" %}{{ photo.path }}{% else %}{{ photo.path | replace: photo.name, '' }}sm/{{ photo.name }}{% endif %}"></div>
+      <div><a href="/photos/" class="img-link"><img style="height: 100%;" class="portrait" src="{% if photo.path contains "/sm/" %}{{ photo.path }}{% else %}{{ photo.path | replace: photo.name, '' }}sm/{{ photo.name }}{% endif %}"></a></div>
     </div>
   </section>
 
@@ -85,21 +85,24 @@ layout: default
     </div>
 
     <div class="column-item">
-      <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/cherry-blossom_1f338.gif"> Recent Anime</h1>
-      {% include anilist.html %}
+      <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/cherry-blossom_1f338.gif"> Currently Reading</h1>
+      <figure>
+        <img src="/assets/img/home/currently-reading.jpeg">
+        <figcaption>Paradises Lost by Ursula K Le Guin</figcaption>
+      </figure>
     </div>
 
     <div class="column-item">
-      <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/four-leaf-clover_1f340.gif"> Sites I like!</h1>
+      <h1 class="page-title"><img alt="" src="/assets/img/softbank-emoji-2004/four-leaf-clover_1f340.gif"> Sites I Like</h1>
       <ul>
-        <li><a href="https://wickedlyethan.com">Ethan Thibault</a></li>
         <li><a href="https://mariah.bearblog.dev/blog/">mariah</a></li>
-        <li><img class="emoji" src="/assets/img/posts/sites-i-like/allie.png"> <a href="https://www.its-spelled-allie.com/">Allie's Digital Garden</a></li>
         <li><a href="https://sean666.bearblog.dev">Sean</a></li>
+        <li><img class="emoji" src="/assets/img/posts/sites-i-like/allie.png"> <a href="https://www.its-spelled-allie.com/">Allie's Digital Garden</a></li>
+        <li><img class="emoji" src="/assets/img/posts/sites-i-like/anhvn.png"> <a href="https://anhvn.com/">anhvn</a></li>
+        <li><img class="emoji" src="/assets/img/posts/sites-i-like/ryan.png"> <a href="https://www.ryanhemsworth.com/">Ryan Hemsworth</a></li>
+        <li><img class="emoji" src="/assets/img/posts/sites-i-like/happyfridayda.png"> <a href="https://happyfridayda.com/">ぶいぶい〜</a></li>
         <li><img class="emoji" src="/assets/img/posts/sites-i-like/xxiivv.png"> <a href="https://wiki.xxiivv.com/">Devine Lu Linvega</a></li>
         <li><img class="emoji" src="/assets/img/posts/sites-i-like/heckscaper.ico"> <a href="https://heckscaper.com">Emma Essex</a></li>
-        <li><img class="emoji" src="/assets/img/posts/sites-i-like/cinni-icon.png"> <a href="https://cinni.net/">♡ cinni's dream home ♡</a></li>
-        <li><img class="emoji" src="/assets/img/posts/sites-i-like/laikaworldFavi.png"> <a href="https://laikalaika.neocities.org/">laikaworld</a></li>
         <li><a href="/posts/sites-i-like">More →</a></li>
       </ul>
     </div>

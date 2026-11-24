@@ -1023,7 +1023,8 @@ ul.no-arrow li::before {
     vertical-align: bottom;
   }
 }
-.columns .page-title:first-of-type {
+.columns .page-title:first-of-type,
+.columns p:first-of-type {
   margin-top: 0;
 }
 .columns ul {
