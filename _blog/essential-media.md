@@ -57,11 +57,15 @@ For more frequently updated things that I like (maybe not as much as the things 
 - [100 gecs @ Mine Gala](https://soundcloud.com/ilovefragglerock/100-gecs-mine-gala-set)
 - [LuckyMe Rave At The Poetry Club (ft. Cloudo, Mayhem, Rustie & Jackmaster)](https://soundcloud.com/platform/luckyme-rave-at-the-poetry-club-ft-cloudo-mayhem-rustie-jackmaster)
 
-## Comics
+## Books/Comics
 
-- Oyasumi Punpun
-- Solanin
-- A frog in the fall (and later on)
+- Stoner by John Williams
+- Woman Running in the Mountains by Yuko Tsushima
+- The Spear Cuts Through Water by Simon Jimenez
+- The Secret History by Donna Tartt
+- Oyasumi Punpun by Inio Asano
+- Solanin by Inio Asano
+- A Frog in the Fall (and Later On) by Linnea Sterte
 
 ## Games
 

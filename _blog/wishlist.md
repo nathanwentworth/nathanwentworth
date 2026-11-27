@@ -1,6 +1,6 @@
 ---
 title: Wishlist
-date: 2025-11-28
+date: 2026-11-25
 ---
 
 A consistently-updated list of things that I want to buy, gift ideas, etc! **Bold** things are at the top of my list
@@ -12,10 +12,11 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! **Bol
 
 ## Books
 
-- [The Door by Magda Szabó](https://www.nyrb.com/products/the-door)
-- [Hard Rain Falling by Don Carpenter](https://www.nyrb.com/products/hard-rain-falling)
-- [Last Words from Montmarte by Qiu Miaojin](https://www.nyrb.com/products/last-words-from-montmartre)
-- [The Houseguest by Amparo Dávila](https://www.ndbooks.com/book/the-houseguest/)
+- [**The Door by Magda Szabó**](https://www.nyrb.com/products/the-door)
+- [**Hard Rain Falling by Don Carpenter**](https://www.nyrb.com/products/hard-rain-falling)
+- [**Last Words from Montmarte by Qiu Miaojin**](https://www.nyrb.com/products/last-words-from-montmartre)
+- [**The Houseguest by Amparo Dávila**](https://www.ndbooks.com/book/the-houseguest/)
+- [**Drive Your Plow Over the Bones of the Dead by Olga Tokarczuk**](https://www.penguinrandomhouse.com/books/603656/drive-your-plow-over-the-bones-of-the-dead-by-olga-tokarczuk-translated-by-antonia-lloyd-jones/)
 - Havoc by Tom Kristensen
 - Snow Crash by Neal Stephenson
 - Pattern Recognition by William Gibson
@@ -29,8 +30,6 @@ A consistently-updated list of things that I want to buy, gift ideas, etc! **Bol
 - [Gundam the Origin](http://www.vertical-inc.com/books/gundam.html)
 
 - [The Outdoor Archive](https://bookshop.org/p/books/the-outdoor-archive-the-ultimate-collection-of-adventure-sporting-graphics-illustrations-and-gear-chase-anderson/82a22ab4a0a62ce9?ean=9780500025994&next=t)
-- [Illustration Making & Visual Book: Itsuka Illustration Works Itsu no Hi ka](https://www.cdjapan.co.jp/product/NEOBK-2804922)
-- [Asupara Art Book: A collection of illustrations that capture moments 2015-2023](https://www.cdjapan.co.jp/product/NEOBK-2833016)
 - [Parks – Standards Manual](https://standardsmanual.com/products/parks)
 
 ## Things/Clothing
